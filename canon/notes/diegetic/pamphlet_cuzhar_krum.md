@@ -1,8 +1,23 @@
+---
 fact_box:
-  relates_to: pre-Ord
-  era: 1500 - 1000 B.O.
-  claims: explains the legacy of the civilization of Cuzhar Krum, that existed on the archipelagos between Ord and Sar
-  reliability: "high"
+  title: "The Ancient, the Submerged, the Misrepresented: Cuzhar Krum"
+  doc_type: pamphlet
+  author_in_universe: "Coi-Hi University Press"
+  date_ao: -975
+  era: ERA-010
+  relates_to: [LOC:KRM-001, REG:BRI-001, COS:HEX-001, GEO:WAT-001]
+  audience: public
+  reliability: medium
+  source_tier: secondary
+  claims:
+    - "Krum relied on tin shipments from Ord uplands to sustain bronze trade."
+    - "Volcanic ash years and storm decades precipitated abandonment."
+    - "Crab-shell inscriptions served elite/ceremonial record-keeping."
+  canonical_links:
+    - eras/00_preord_krum.md
+    - systems/cosmos/index.md
+---
+
 
 "The ancient, the submerged, the misrepresented: history of Cuzhar Krum
 Introduction: before the Oboe’s songs

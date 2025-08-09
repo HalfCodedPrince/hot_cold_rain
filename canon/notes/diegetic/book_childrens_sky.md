@@ -1,8 +1,23 @@
+---
 fact_box:
-  relates_to: basic astronomical constants
-  era: 
+  title: "Our Place in the Song: A Child’s Guide to the Sky Above"
+  doc_type: schoolbook
+  author_in_universe: "Nira Ro (text), Ado Co-Tira (illustrations)"
+  date_ao: 1792
+  era: ERA-1700
+  relates_to: [COS:OBE-001, COS:HEX-001, COS:KAR-001, COS:BEA-001, COS:ZE-001, COS:BEL-001, GEO:SYS-001, GEO:WAT-001]
+  audience: children
+  reliability: medium
+  source_tier: secondary
   claims:
-  reliability: "high"  # low | medium | high
+    - "Hex can appear green when aerosols scatter moonlight."
+    - "Karodot has a faint ring and many moons."
+    - "Point’s seasons are driven by axial tilt; rains are abrupt."
+  canonical_links:
+    - systems/cosmos/index.md
+    - systems/planetology/point.md
+---
+
 
 #"Our Place in the Song: A Child’s Guide to the Sky Above
 by Nira Ro, with illustrations by Ado Co-Tira
