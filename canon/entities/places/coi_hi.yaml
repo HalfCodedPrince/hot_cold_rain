@@ -1,0 +1,11 @@
+{
+  "id": "LOC:COI-001",
+  "name": "Coi-Hi",
+  "type": "port_city",
+  "continent": "Ord",
+  "climate": "humid_subtropical",
+  "era_notes": {
+    "ERA-1700": "Pop ~600k; cable/funicular hub; tourist decay vibe"
+  },
+  "status": "Stable"
+}

@@ -1,0 +1,12 @@
+ao,code,title,where,who,summary,impact,refs,status
+0513,EVT-0513-WAR,Wurran War begins,LOC:WUR-001,PERS:PHI-002; FAC:COC-001,Trade rivalry escalates into open conflict.,↑ Ord naval mobilization,eras/01_ord_sar_foundation.md#chronology,Stable
+0518,EVT-0518-BOM,Battle of Mistakes,LOC:ORD-001,PERS:BOD-010; PERS:PUM-003,Both sides blunder; crab charge backfires; Ord holds field.,↑ Ord resilience; ↓ Wurran morale,eras/01_ord_sar_foundation.md#chronology,Stable
+0541,EVT-0541-BOW,Burning of Wurran,LOC:WUR-001,FAC:COC-001,Night river crossing; wharves and granaries torched.,Trade patterns shift to Ord,eras/01_ord_sar_foundation.md#chronology,WIP
+0701,EVT-0701-UNION,Ord–Sar formal union,LOC:ORD-001,PERS:ZAM-001,Alliance + subjugation crystallize imperial identity.,Unified liturgy + tariffs,eras/01_ord_sar_foundation.md#chronology,Planned
+0802,EVT-0802-CAN,Canal standard decree,,FAC:COC-001,Locks/gauge standardized across principal routes.,↓ transit times; ↑ toll yield,eras/02_golden_cadence.md#chronology,Planned
+0843,EVT-0843-LAW,Circuit-judges charter,,FAC:COC-001,Roving courts unify commercial law across ports and rivers.,↑ legal uniformity,eras/02_golden_cadence.md#chronology,Planned
+0880,EVT-0880-UNI,Tau-Hi Academy refounded,LOC:TAU-001,,Sar intellectual revival anchors elite education.,↑ Sar prestige,eras/02_golden_cadence.md#chronology,Planned
+0912,EVT-0912-DRG,Harbor dredging program,,,Capital investment raises safe tonnage limits in key ports.,↑ trade capacity,eras/02_golden_cadence.md#chronology,Planned
+0935,EVT-0935-FAM,Klr famine; grain notes,LOC:KLR-000,FAC:COC-001,State-backed grain receipts stabilize prices; relief convoys.,↑ trust in paper; ↓ unrest,eras/02_golden_cadence.md#chronology,Planned
+0972,EVT-0972-INS,Marine insurance edict,,,Imperial insurers & bonded warehouses formalized.,↓ risk; ↑ investment,eras/02_golden_cadence.md#chronology,Planned
+1011,EVT-1011-PILOT,Official pilot-books,,,Printed sailing directions standardized for the Old Song.,↑ safety; codified knowledge,eras/02_golden_cadence.md#chronology,Planned
