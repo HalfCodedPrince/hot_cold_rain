@@ -5,6 +5,7 @@ This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s org
 ---
 
 ## Folder map (what goes where)
+```
 canon/
 ├─ 00_master_index.md # Top-level links into the canon
 ├─ 01_glossary.md # Terms readers/players will see
@@ -65,7 +66,7 @@ canon/
 │
 └─ art_refs/
 └─ map_spec.md # Export variants & helper layers for maps
-
+```
 
 ---
 
@@ -102,10 +103,10 @@ fact_box:
   contradictions: []
   canonical_links:
     - systems/cosmos/index.md
-
+```
 ---
 
-Workflow in 60 seconds
+## Workflow in 60 seconds
 
     Add beats to timeline/point_timeline.csv (AO can be negative).
 
@@ -119,7 +120,7 @@ Workflow in 60 seconds
 
 ---
 
-Quick pointers
+## Quick pointers
 
     Cosmos index: systems/cosmos/index.md (fast way to grab IDs for bodies).
 
