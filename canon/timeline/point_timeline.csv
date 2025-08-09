@@ -1,4 +1,9 @@
 ao,code,title,where,who,summary,impact,refs,status
+-980,EVT-0980BO-GIL,Guild seals standardized,REG:BRI-001,,Standardized seal glyphs and impress tools unify Krum trade contracts,↑ contract trust,eras/00_preord_krum.md#chronology,Planned
+-930,EVT-0930BO-ZIG,Ish-Atu expansion (LOC:KRM-001),LOC:KRM-001,,Major building phase expands the primary ziggurat and quay,↑ ritual prestige,eras/00_preord_krum.md#chronology,Planned
+-890,EVT-0890BO-TIN,Tin convoys peak,REG:BRI-001,,Peak tin throughput from Ord uplands fuels bronze circulation,↑ bronze circulation,eras/00_preord_krum.md#chronology,Planned
+-845,EVT-0845BO-ASH,Ash years disrupt routes,REG:BRI-001,,Eruptions + storm decades scatter shipping and raise famine risk,↓ trade; famine risk,eras/00_preord_krum.md#chronology,Planned
+-820,EVT-0820BO-ABN,Archipelago abandonment accelerates,REG:BRI-001;LOC:KRM-001,,Ports and ritual centers vacated; diaspora + legends,diapora & legends,eras/00_preord_krum.md#chronology,Planned
 0513,EVT-0513-WAR,Wurran War begins,LOC:WUR-001,PERS:PHI-002; FAC:COC-001,Trade rivalry escalates into open conflict.,↑ Ord naval mobilization,eras/01_ord_sar_foundation.md#chronology,Stable
 0518,EVT-0518-BOM,Battle of Mistakes,LOC:ORD-001,PERS:BOD-010; PERS:PUM-003,Both sides blunder; crab charge backfires; Ord holds field.,↑ Ord resilience; ↓ Wurran morale,eras/01_ord_sar_foundation.md#chronology,Stable
 0541,EVT-0541-BOW,Burning of Wurran,LOC:WUR-001,FAC:COC-001,Night river crossing; wharves and granaries torched.,Trade patterns shift to Ord,eras/01_ord_sar_foundation.md#chronology,WIP

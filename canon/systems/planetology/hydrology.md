@@ -11,7 +11,7 @@ ID: GEO:WAT-001
 - Management: gutters with traps; laundry/roof routines; temple advisories in ERA-700 calendars.
 
 ## Tides
-- Semi-diurnal; Hex amplifies in certain alignments (“King Tides”).
+- Semi-diurnal; **Hex** amplifies in certain alignments (“King Tides”).
 
 ## Cross-refs
 - COS:HEX-001 (green moon appearances).
