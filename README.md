@@ -1,4 +1,4 @@
-# Hot Cold Rain — Canon Workspace
+# Hot Cold Rain
 
 This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s organized so in-universe artifacts (“diegetic”) can live alongside out-of-universe canon (systems, eras, timeline). Currently WIP.
 
