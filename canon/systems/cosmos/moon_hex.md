@@ -1,18 +1,16 @@
 # Hex (Point’s Moon)
 ID: COS:HEX-001
-_Alias: previously referenced as “Ex” in early drafts._
+_Alias: “Ex” in early drafts (deprecated)._
 
 ## Physical
-- Large relative diameter; tidal influence significant but not extreme.
-- Albedo variations cause bright phases; green-tinge visual episodes.
+- Large apparent size; semi-diurnal tides amplified at certain alignments (“King Tides”).
+- Albedo patching yields dramatic brightness swings.
 
-## Why “green” nights happen
-- Scattering through atmospheric aerosols (pollen, photic spores, dust) shifts perceived spectrum toward green under certain humidity and angle conditions.
-- Not constant, often seasonal; stronger after “green rain” intervals.
+## Green nights
+- Caused by scattering through atmospheric aerosols (pollen/spores/dust) under humid conditions.
+- Correlates with “green rain” intervals (see GEO:WAT-001).
 
 ## Cultural
-- Tide/season omens in temple almanacs.
-- “Queen’s Halo”: common ring halo reported; correlates with approaching rains.
+- Tide omens; “Queen’s Halo” (ring) as rain sign; morning hymns synced to Hexset before Oboe-rise.
 
-## Cross-refs
-- Hydrology & aerosols: GEO:WAT-001.
+Cross-refs: GEO:WAT-001 (hydrology), COS:SYS-001 (overview).
