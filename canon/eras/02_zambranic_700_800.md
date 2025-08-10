@@ -25,3 +25,10 @@ Zambran’s late reign and two brief successors mark the first imperial zenith: 
 
 ## Beats (see timeline CSV)
 - Zambran accession; Kllrian pact; Sewer v1 failure / v3 success; signal code; Tau-Hi submission; Widiwidi landfall; two short reigns; Marr; convoy insurance panic.
+- **673 AO** — Zambran elected High Master amidst Kaheet raids; establishes fortified camp-city.
+- **674–679 AO** — **Kaheet Settlement** by tribute, arbitration, and trade; frontier stabilized.
+- **701 AO** — **Ord–Sar** formal union proclaimed after sieges, blockades, and factional alignments in Sar cities.
+- **c. 705 AO** — **Old Bold Rhythm** first printed recension distributed to port-temples and courts.
+- **c. 722 AO** — **Civic adoption** of the Rhythm calendar & rites empire-wide (ports first, inland by decree).
+- **726 AO** — Zambran abdicates/dies; succession of Eshoron Ir (update succession list accordingly).
+
