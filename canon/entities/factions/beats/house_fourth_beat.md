@@ -1,0 +1,13 @@
+---
+id: FAC:BEAT-004
+name: House of the Fourth Beat
+type: temple house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Missions & harbors; liaison to the Council of Captains and port magistracies.
+tags: [religion, ports, diplomacy]
+status: Stable
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  council: canon/entities/factions/council_of_captains.md
+---

@@ -20,7 +20,9 @@
 ---
 
 ## Synod of Beats (Hierarchy & Governance)
-
+**Houses (IDs):** First `FAC:BEAT-001` · Second `FAC:BEAT-002` · Third `FAC:BEAT-003` · Fourth `FAC:BEAT-004` · Fifth `FAC:BEAT-005` · Sixth `FAC:BEAT-006`  
+**Synod:** `FAC:SYN-001` (umbrella council)
+**Printers’ guild:** `FAC:COMP-001`
 The Rhythm’s higher governance crystallized into a **six-house synod** (mirroring the sextal civic cadence):
 
 1. **House of the First Beat** — doctrine & cosmology; defines orthodoxy, handles heresy cases.

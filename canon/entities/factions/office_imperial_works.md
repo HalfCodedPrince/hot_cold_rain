@@ -1,0 +1,14 @@
+---
+id: FAC:ARC-001
+name: Office of Imperial Works
+type: public works board
+chartered_ao: 756
+seat: Ord City (Slipway Quarter)
+mandate: Manage palaces, slipways, beacon towers, cisterns; commission architectural works.
+tags: [infrastructure, architecture, finance]
+status: Draft
+links:
+  infra: canon/systems/infrastructure/public_works.md
+---
+## Notes
+Captured by court favorites under Marr; prestige projects jump the queue; maintenance budgets raided; “imperfect” works condemned and burned in 771 AO.

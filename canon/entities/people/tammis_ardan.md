@@ -1,5 +1,5 @@
 # Tammis Ardan (High Master)
-ID: PER:TAM-001
+ID: PERS:TAM-001
 
 ## Reign
 741–746 AO
