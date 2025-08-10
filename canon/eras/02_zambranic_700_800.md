@@ -30,5 +30,4 @@ Zambran’s late reign and two brief successors mark the first imperial zenith: 
 - **701 AO** — **Ord–Sar** formal union proclaimed after sieges, blockades, and factional alignments in Sar cities.
 - **c. 705 AO** — **Old Bold Rhythm** first printed recension distributed to port-temples and courts.
 - **c. 722 AO** — **Civic adoption** of the Rhythm calendar & rites empire-wide (ports first, inland by decree).
-- **726 AO** — Zambran abdicates/dies; succession of Eshoron Ir (update succession list accordingly).
-
+- **726 AO** — Zambran dies; succession of Eshoron Ir (update succession list accordingly).

@@ -2,6 +2,11 @@
 ID: ECON:CUR-001
 Status: WIP
 
+## Historical coinage notes (Ord–Sar era)
+- **Ord liri** (bronze/silver) appear late ERA‑300, initially weight‑honest; images: sun-disc obverse, High Master or city seal reverse.
+- Debasement cycles intensify under **Marr “the Skin Grass”** (late ERA‑700): reduced silver fraction; fiduciary tokens spread; price edicts fail.
+- Parallel **warrants** continue (grain/port) and temper coin shocks in major ports.
+
 ## Currency
 - **Lira (₤)** — standard unit across Longara and most Ord-aligned polities.
 - Subunits: **1 lira = 36 soldi = 216 deni** (base‑6 legacy from Cuzhar Krum accounting).

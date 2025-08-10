@@ -4,8 +4,8 @@
   "type": "submerged_ritual_complex",
   "region": "REG:BRI-001",
   "era_notes": {
-    "ERA-010": "Peak ritual activity; crab-shell archives; tin-trade nexus",
-    "ERA-030": "Abandonment and partial submergence"
+    "ERA-000": "Peak ritual activity; crab-shell archives; tin-trade nexus",
+    "ERA-000": "Abandonment and partial submergence"
   },
   "status": "WIP"
 }

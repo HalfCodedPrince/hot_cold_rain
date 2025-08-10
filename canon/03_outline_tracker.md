@@ -3,7 +3,7 @@
 ## Era status
 | ID      | Name                 | Span (AO)   | Status | Notes |
 |---------|----------------------|-------------|--------|-------|
-| ERA-100 | Early Ord–Sar        | 300–700     | WIP    | Wurran War, Zambran reforms |
+| ERA-300 | Early Ord–Sar        | 300–700     | WIP    | Wurran War, Zambran reforms |
 | ERA-700 | Golden Cadence       | 800–1050    | WIP    | Pax Ordica; infra, finance, liturgy |
 | ERA-1200| Two Crowns Period    | 1200–1350   | TBD    | Split; northern hybridization |
 | ERA-1450| Weaver-King & GP     | 1450–1500   | TBD    | Standardization; Diet |
