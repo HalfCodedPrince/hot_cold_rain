@@ -4,14 +4,30 @@ ao,code,title,where,who,summary,impact,refs,status
 -890,EVT-0890BO-TIN,Tin convoys peak,REG:BRI-001,,Peak tin throughput from Ord uplands fuels bronze circulation,↑ bronze circulation,eras/00_preord_krum.md#chronology,Planned
 -845,EVT-0845BO-ASH,Ash years disrupt routes,REG:BRI-001,,Eruptions + storm decades scatter shipping and raise famine risk,↓ trade; famine risk,eras/00_preord_krum.md#chronology,Planned
 -820,EVT-0820BO-ABN,Archipelago abandonment accelerates,REG:BRI-001;LOC:KRM-001,,Ports and ritual centers vacated; diaspora + legends,diapora & legends,eras/00_preord_krum.md#chronology,Planned
-0513,EVT-0513-WAR,Wurran War begins,LOC:WUR-001,PERS:PHI-002; FAC:COC-001,Trade rivalry escalates into open conflict.,↑ Ord naval mobilization,eras/01_ord_sar_foundation.md#chronology,Stable
-0518,EVT-0518-BOM,Battle of Mistakes,LOC:ORD-001,PERS:BOD-010; PERS:PUM-003,Both sides blunder; crab charge backfires; Ord holds field.,↑ Ord resilience; ↓ Wurran morale,eras/01_ord_sar_foundation.md#chronology,Stable
+513,EVT-0513-WAR,Wurran War begins,LOC:WUR-001,PERS:PHI-002; FAC:COC-001,Trade rivalry escalates into open conflict.,↑ Ord naval mobilization,eras/01_ord_sar_foundation.md#chronology,Stable
+518,EVT-0518-BOM,Battle of Mistakes,LOC:ORD-001,PERS:BOD-010; PERS:PUM-003,Both sides blunder; crab charge backfires; Ord holds field.,↑ Ord resilience; ↓ Wurran morale,eras/01_ord_sar_foundation.md#chronology,Stable
 0541,EVT-0541-BOW,Burning of Wurran,LOC:WUR-001,FAC:COC-001,Night river crossing; wharves and granaries torched.,Trade patterns shift to Ord,eras/01_ord_sar_foundation.md#chronology,WIP
-0701,EVT-0701-UNION,Ord–Sar formal union,LOC:ORD-001,PERS:ZAM-001,Alliance + subjugation crystallize imperial identity.,Unified liturgy + tariffs,eras/01_ord_sar_foundation.md#chronology,Planned
-0802,EVT-0802-CAN,Canal standard decree,,FAC:COC-001,Locks/gauge standardized across principal routes.,↓ transit times; ↑ toll yield,eras/02_golden_cadence.md#chronology,Planned
-0843,EVT-0843-LAW,Circuit-judges charter,,FAC:COC-001,Roving courts unify commercial law across ports and rivers.,↑ legal uniformity,eras/02_golden_cadence.md#chronology,Planned
-0880,EVT-0880-UNI,Tau-Hi Academy refounded,LOC:TAU-001,,Sar intellectual revival anchors elite education.,↑ Sar prestige,eras/02_golden_cadence.md#chronology,Planned
-0912,EVT-0912-DRG,Harbor dredging program,,,Capital investment raises safe tonnage limits in key ports.,↑ trade capacity,eras/02_golden_cadence.md#chronology,Planned
-0935,EVT-0935-FAM,Klr famine; grain notes,LOC:KLR-000,FAC:COC-001,State-backed grain receipts stabilize prices; relief convoys.,↑ trust in paper; ↓ unrest,eras/02_golden_cadence.md#chronology,Planned
-0972,EVT-0972-INS,Marine insurance edict,,,Imperial insurers & bonded warehouses formalized.,↓ risk; ↑ investment,eras/02_golden_cadence.md#chronology,Planned
+651,EVT-0651-ZAM,Accession of Zambran as High Master,REG:ORD-BAY,,Council declares maritime emergency; expeditions centralized,Standardized expansion,eras/04_zambranic_700_800.md,Planned
+656,EVT-0656-KLR,Pact with Kllrian priest-kings,REG:KLR-ARC,,Grain & oars in exchange for ritual autonomy,Stable paddy supply,eras/03_early_ord_300_700.md,Planned
+662,EVT-0662-SEW1,Ord Sewer v1 failure,REG:ORD-BAY,LOC:ORD-001,Backflow disaster in typhoon; crony contractor,Public works scandal,systems/planetology/hydrology.md,Planned
+667,EVT-0667-SEW3,Sar engineers complete Sewer v3,REG:ORD-BAY,LOC:ORD-001,Backflow gates & storm overflow basins commissioned,Urban health boost,systems/health/public_health.md,Planned
+671,EVT-0671-STD,Standard hull & signal code adopted,REG:BRI-001,,Oar banks, fenders, horn/whistle charts,Shorter convoy times,systems/transport/ships_galleys.md,Planned
+678,EVT-0678-SAR,Submission of Tau-Hi via blockade,REG:SAR-NORTH,LOC:TAU-HI,Famine pressure breaks stalemate; tributary status,Legal-cultural integration,eras/03_early_ord_300_700.md,Planned
+685,EVT-0685-WID,Half-mythic Widiwidi landfall,REG:WID-LEE,,Pilot-book fragment & shell token,Exploration legend,systems/cosmos/index.md,Planned
+701,EVT-0701-UNION,Ord–Sar formal union,LOC:ORD-001,PERS:ZAM-001,Alliance + subjugation crystallize imperial identity.,Unified liturgy + tariffs,eras/01_ord_sar_foundation.md#chronology,Planned
+735,EVT-0735-ZAM-D,Death of Zambran; state funeral,REG:ORD-BAY,LOC:ORD-001,Oboe rites; succession council convenes,Continuity under strain,eras/04_zambranic_700_800.md,Planned
+735,EVT-0735-ESH,Accession of Eshoron Ir,REG:ORD-BAY,,Push for trained oarsmen; levy quotas by port tonnage,Half-passed reforms,eras/04_zambranic_700_800.md,Planned
+741,EVT-0741-ESH-D,Death of Eshoron Ir (fever),REG:SAR-NORTH,,Dies during inspection tour,Reform momentum stalls,eras/04_zambranic_700_800.md,Planned
+741,EVT-0741-TAM,Accession of Tammis Ardan,REG:ORD-BAY,,Moves to formalize paid marines; central arsenal,Elite backlash,eras/04_zambranic_700_800.md,Planned
+746,EVT-0746-TAM-D,Assassination of Tammis Ardan,REG:ORD-BAY,,Palace guard plot with Council ties,Succession shock,eras/04_zambranic_700_800.md,Planned
+746,EVT-0746-MAR,Accession of Marr “the Skin Grass”,REG:ORD-BAY,,Coinage debasement cycles begin; garrisons paid late,Fiscal erosion,eras/04_zambranic_700_800.md,Planned
+762,EVT-0762-RCR,Reed-Camp Rising in iron marshes,REG:ORD-MARSH,,Storm-cover revolt from penal ore camp,Ore output dips; harsher controls,notes/diegetic/report_reed_camp_rising.md,Planned
+790,EVT-0790-INS,Convoy insurance panic,REG:BRI-001,,Storm-season losses overexpose lenders,Credit squeeze; convoy shrinkage,systems/economy/currency_finance.md,Planned
+792,EVT-0792-MAR-D,Death of Marr; regency crisis,REG:ORD-BAY,,Temple & Council appoint regents,Transition to Golden Era,eras/05_golden_800_900.md,Planned
+802,EVT-0802-CAN,Canal standard decree,,FAC:COC-001,Locks/gauge standardized across principal routes.,↓ transit times; ↑ toll yield,eras/02_golden_cadence.md#chronology,Planned
+843,EVT-0843-LAW,Circuit-judges charter,,FAC:COC-001,Roving courts unify commercial law across ports and rivers.,↑ legal uniformity,eras/02_golden_cadence.md#chronology,Planned
+880,EVT-0880-UNI,Tau-Hi Academy refounded,LOC:TAU-001,,Sar intellectual revival anchors elite education.,↑ Sar prestige,eras/02_golden_cadence.md#chronology,Planned
+912,EVT-0912-DRG,Harbor dredging program,,,Capital investment raises safe tonnage limits in key ports.,↑ trade capacity,eras/02_golden_cadence.md#chronology,Planned
+935,EVT-0935-FAM,Klr famine; grain notes,LOC:KLR-000,FAC:COC-001,State-backed grain receipts stabilize prices; relief convoys.,↑ trust in paper; ↓ unrest,eras/02_golden_cadence.md#chronology,Planned
+972,EVT-0972-INS,Marine insurance edict,,,Imperial insurers & bonded warehouses formalized.,↓ risk; ↑ investment,eras/02_golden_cadence.md#chronology,Planned
 1011,EVT-1011-PILOT,Official pilot-books,,,Printed sailing directions standardized for the Old Song.,↑ safety; codified knowledge,eras/02_golden_cadence.md#chronology,Planned

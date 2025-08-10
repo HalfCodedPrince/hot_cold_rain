@@ -1,12 +1,5 @@
-{
-  "id": "LOC:ORD-001",
-  "name": "Ord City",
-  "type": "capital_port",
-  "continent": "Ord",
-  "climate": "humid_subtropical",
-  "era_notes": {
-    "ERA-100": "Expanding docks; council hall; militia barracks",
-    "ERA-1700": "750k peak then decline; tram legacy; green-rain management"
-  },
-  "status": "WIP"
-}
+id: LOC:ORD-001
+name: Ord City
+type: city
+region: REG:ORD-BAY
+summary: Capital of Ord; seat of the Council of Captains and the High Master.
