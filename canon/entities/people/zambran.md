@@ -8,29 +8,28 @@ thesis: Patron–standardizer of the Rhythm; unifier by press, purse, and policy
 first_appearance: ERA-700
 status: Stable
 contradictions:
-  - Tradition credits authorship of the Old Bold Rhythm; temple minutes/ledgers show Sar-trained circle as principal redactors.
+  - Tradition credits authorship of the Old Bold Rhythm; temple minutes/ledgers indicate a Sar-trained editorial circle as principal redactors.
 aliases: [Zambran, High Master Zambran]
 links:
   era: canon/eras/02_zambranic_700_800.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 
-### Authorship & Patronage (Disputed)
+## Summary
+Zambran is the consolidation-era High Master who redirected imperial energy from frontier crisis management to durable civic integration. He did not “write” the Rhythm, but he made it law: bankrolling presses, forcing circulation to harbors and courts, and anchoring the calendar in daily life.
 
-Tradition credits **Zambran** with “writing” the Old Bold Rhythm. Court ledgers and temple minutes show a different picture: 
-**Eshoron Ir** convened the editorial circle; **Nasha of Tau-Hi**, **Kelim Ar**, and **Teyu the Grey** compiled and redacted; **Zambran** bankrolled presses, forced distribution to harbors, and ordered the calendar’s civic adoption.
+## Regnal Beats
+- **673 AO** — Elected High Master during the Kaheet raids; establishes a fortified **camp-city** on the marches.  
+- **674–679 AO** — **Kaheet Settlement** by tribute, arbitration, and hostage trade; frontier stabilized.  
+- **701 AO** — **Ord–Sar** union formalized after sieges, blockades, and Sar city-faction alignments.  
+- **c. 705 AO** — First printed **Old Bold Rhythm** (temple leafs + harbor packets) circulates empire-wide.  
+- **c. 722 AO** — **Civic adoption** of the Rhythm calendar & rites (ports first; inland by decree).  
+- **726 AO** — Abdication/death; succession of **Eshoron Ir**.
 
-### Key Regnal Beats (adjusted)
+## Authorship & Patronage (Disputed)
+Court ledgers and temple minutes show **Eshoron Ir** convened the editorial circle; **Nasha of Tau-Hi**, **Kelim Ar**, and **Teyu the Grey** compiled and redacted. **Zambran** funded presses, compelled distribution, and mandated civic adoption.
 
-- **673 AO** — Elected High Master during the Kaheet raids. Establishes a fortified “camp-city.”  
-- **674–679 AO** — The Kaheet Settlement: tribute, hostages, trade posts; raids cease.  
-- **701 AO** — **Ord–Sar** formalized (alliance/subjugation after decades of sieges, blockades, and city-faction politicking).  
-- **c. 705 AO** — First printed **Old Bold Rhythm** in circulation (temple leafs + harbor packets).  
-- **c. 722 AO** — Civic adoption of the **Rhythm calendar & rites** across imperial ports.  
-- **726 AO** — Abdication/Death (choose one in the era file).
-
-### Iconography & Anecdota
-
-- **The Unibrow of Unity**: official busts and coins render Zambran with a continuous brow, a visual pun on “unity” and “one line.” Satirical works later exaggerate it.  
-- **“Zambran’s Salad”**: a goat-cheese and greens dish reputedly served in the Kaheet camp-city; tavern lore insists it is inauthentic and overpriced.  
-- **Never Held an Axe**: contemporaries agree he was a poor singer and never swung a boarding axe in anger (or otherwise); his captains did.
+## Iconography & Anecdota
+- **Unibrow of Unity**: official busts/coins render a continuous brow as a visual pun on unity; satirists exaggerate it.
+- **“Zambran’s Salad”**: goat-cheese greens, allegedly from the camp-city kitchens; tavern lore insists it’s inauthentic and overpriced.
+- **Never held a boarding axe**: contemporaries agree he was a poor singer and never swung an axe; his captains did.
