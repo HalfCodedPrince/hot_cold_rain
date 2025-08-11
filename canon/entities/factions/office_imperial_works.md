@@ -9,6 +9,7 @@ tags: [infrastructure, architecture, finance]
 status: Draft
 links:
   infra: canon/systems/infrastructure/public_works.md
+  governance: canon/systems/governance/empty_seat.md
 ---
 ## Notes
 Captured by court favorites under Marr; prestige projects jump the queue; maintenance budgets raided; “imperfect” works condemned and burned in 771 AO.

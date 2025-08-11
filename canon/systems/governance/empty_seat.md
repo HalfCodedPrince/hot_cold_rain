@@ -1,3 +1,15 @@
+---
+id: GOV:EMPTY-SEAT
+name: The Empty Seat — Interregnal Governance
+status: Stable
+links:
+  council: canon/entities/factions/council_of_captains.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  keeper: canon/entities/factions/keeper_of_the_oboe_seal.md
+  symbols: canon/systems/governance/symbols_of_office.md
+---
+
+
 # The Empty Seat — Interregnal Governance in Ord–Sar
 
 ## Problem

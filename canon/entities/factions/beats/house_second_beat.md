@@ -9,4 +9,6 @@ tags: [religion, music, text]
 status: Stable
 links:
   religion: canon/systems/religions/good_old_rhythm.md
+  tech: canon/systems/tech/writing_and_printing.md
+  guild: canon/entities/factions/guild_of_compositories.md
 ---

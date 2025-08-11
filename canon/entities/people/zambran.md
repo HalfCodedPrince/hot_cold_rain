@@ -33,3 +33,4 @@ Court ledgers and temple minutes show **Eshoron Ir** convened the editorial circ
 - **Unibrow of Unity**: official busts/coins render a continuous brow as a visual pun on unity; satirists exaggerate it.
 - **“Zambran’s Salad”**: goat-cheese greens, allegedly from the camp-city kitchens; tavern lore insists it’s inauthentic and overpriced.
 - **Never held a boarding axe**: contemporaries agree he was a poor singer and never swung an axe; his captains did.
+- **The Oar-Bench Throne**: sworn upon the thwart; otherwise kept empty in sessions.

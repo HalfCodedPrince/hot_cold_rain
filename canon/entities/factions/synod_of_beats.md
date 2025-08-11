@@ -10,6 +10,7 @@ tags: [religion, governance, law, music]
 status: Stable
 links:
   religion: canon/systems/religions/good_old_rhythm.md
+  governance: canon/systems/governance/empty_seat.md
   houses:
     - FAC:BEAT-001
     - FAC:BEAT-002

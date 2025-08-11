@@ -10,7 +10,7 @@ status: Draft
 links:
   religion: canon/systems/religions/good_old_rhythm.md
   guild: canon/entities/factions/guild_of_compositories.md
-  house_sixth: canon/entities/factions/beats/house_sixth_beat.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
 ---
 ## Notes
 Born under Marr; nominally co-signed by **Beat Six**, practically run by palace appointees. Its seals drift into commercial use (extortion, “expedite” fees).

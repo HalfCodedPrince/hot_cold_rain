@@ -9,5 +9,5 @@ tags: [finance, metrology, food_supply]
 status: Stable
 links:
   metrology: canon/systems/metrology/index.md
-  infra: canon/systems/infrastructure/public_works.md
+  governance: canon/systems/governance/empty_seat.md
 ---
