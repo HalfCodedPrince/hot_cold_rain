@@ -1,6 +1,12 @@
 ---
 id: PERS:PUL-001
 name: Nerise Zambrani
+naming:
+  style: house_gentilic
+  components:
+    given: Nerise
+    house: Zambran
+  ledger_name: Nerise Zambrani
 lifespan: 760–830 AO
 role: Matron of an Old Captain house; co-restorer
 tags: [finance, law, diplomacy, religion]

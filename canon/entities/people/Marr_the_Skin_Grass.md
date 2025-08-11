@@ -1,6 +1,13 @@
 ---
 id: PERS:MAR-001
 name: Marr “the Skin-Grass”
+naming:
+  style: patronymic
+  components:
+    given: Marr
+    parent: Marr
+  epithets: ["the Skin-Grass"]
+  ledger_name: Marr ben Marr
 lifespan: 703–783 AO
 role: High Master (interlude)
 tags: [politics, censorship, architecture]

@@ -1,6 +1,12 @@
 ---
 id: PERS:SEV-REP-001
 name: Arsu of Seven Fingers
+naming:
+  style: toponymic
+  components:
+    given: Arsu
+    place: Seven Fingers
+  ledger_name: Arsu of Seven Fingers
 lifespan: ?–800 AO
 role: Captain-Representative turned breakaway ruler
 tags: [rebellion, ports]

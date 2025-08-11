@@ -1,6 +1,12 @@
 ---
 id: PERS:MRK-001
 name: Marak Kllrian
+naming:
+  style: demonym
+  components:
+     given: Marak
+     people: Kllrian
+  ledger_name: Marak Kllrian
 lifespan: 770–821 AO
 role: Admiral; elected High Master (restorer)
 tags: [navy, war, logistics]

@@ -10,7 +10,7 @@ links:
 ---
 
 ## Overview
-By 790 AO, Ord–Sar holds little beyond the Salt River and Ord Bay. Prices spike, crews desert, and council members knife one another. **Nerise Zambrani** (cash, cousins, choirs) and **Marak Kllrian** (the last real fleet) strike a bargain in public ritual: vow, pact, and the **Oar-Bench Oath**. Rivals are maneuvered into fighting each other; the Seven Fingers fleet is broken in rain and shoal; and the republic’s forms—**election, seals, drums**—are used as theater for compliance.
+By 790 AO, Ord–Sar holds little beyond the Salt River and Ord Bay. Prices spike, crews desert, and councils knife one another. **Nerise Zambrani** (cash, cousins, choirs) and **Marak Kllrian** (the last real fleet) strike a bargain in public ritual: vow, pact, and the **Oar-Bench Oath**. Rivals are maneuvered into fighting each other; the Seven Fingers fleet is broken in rain and shoal; and the republic’s forms—**election, seals, drums**—are used as theater for compliance.
 
 ## Phases
 - **790–796 AO: The Pull-Out.** Council election under emergency; Harbor Watches (Ord Bay) chartered; Beacon Chain started; Insurance Steps bill drafted; censorate fenced by Beat Six warrants.

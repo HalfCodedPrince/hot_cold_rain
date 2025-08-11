@@ -1,6 +1,12 @@
 ---
 id: PERS:ESH-001
 name: Eshoron Ir
+naming:
+  style: house_gentilic
+  components:
+    given: Eshoron
+    house: Ir
+  ledger_name: Eshoron Ir
 lifespan: ??–?? AO
 role: High Master (successor); convenor of the first canon
 tags: [religion, administration, law]

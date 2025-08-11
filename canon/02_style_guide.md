@@ -30,9 +30,14 @@ Rules:
 - `refs` must be existing paths.
 - `status` is `Stable`, `Draft`, or `Contested`.
 
-## Capitalization & Names
+## Names & Onomastics
 - Keep reader load low: use evocative trade names (“Seven Fingers”) with one-line native/gloss in place files.
 - Avoid Latinized plurals unless diegetic.
+- Use the **ledger-name** (house-i, demonym, toponymic, or patronymic) on first mention, then the given name.
+- House gentilics take **-i** (e.g., Zambrani) to signal belonging/adoption; demonyms take **-an/-ian** (e.g., Kllrian).
+- Epithets belong in quotes the first time: Marr “the Skin-Grass”.
+- In YAML, include a `naming:` block for future tooling and consistency.
+
 
 ## Cross-File Linking
 - In each entity/system page, keep a `links:` block with stable relative paths.
