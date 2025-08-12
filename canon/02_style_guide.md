@@ -1,44 +1,41 @@
-# Style Guide (v0.11)
+# Style Guide (v0.12)
 
-## Dates & Codes (AO / BO)
-- Use **AO** (After the founding of Ord City) for common dating.
-- **Pre-Ord** dates are negative AO (e.g., -975 AO) and may be labeled **BO** in prose for clarity (“975 BO”).
-- Event codes for BO dates: `EVT-####BO-TAG` (e.g., `EVT-0930BO-ZIG`), while the `ao` field in the timeline remains a negative integer for sortability.
-- Use **Beat** language when relevant: “Long Beat” (six years), “Short Beat” (rite cadence).
-
-- **Caps**: Oboe (star); Ex (moon); Old Song; Good Old Rhythm.
-- **Spelling**: Ordian, Wurranian, Klr’ian, Cuzhar Krum.
-- **Ranges**: en-dash (700–800 AO).
-- **Numbers**: one–nine spelled; 10+ numerals.
+## Dates & Codes
+- Dates use **AO** (After the founding of Ord City). Pre-Ord may show **BO** in prose, but timeline uses negative AO.
+- Event codes: `EVT-####[-TAG]` (e.g., `EVT-0746-TAM-D`); era codes: `ERA-##` (06–14 reserved for post-Cadence).
+- “Beat” time: Long Beat = six years; Short Beat = rite cadence.
 
 ## IDs & Filenames
-- Use IDs in text and data: `PERS:*`, `LOC:*`, `FAC:*`, `EVT-*`, `ERA-*`.
-- Filenames: lowercase `snake_case.md`. Prefer Markdown with YAML front matter.
-- Legacy `.yaml` entity files are being migrated to `.md`. Keep schemas consistent during transition.
+- IDs: `PERS:*`, `LOC:*`, `REG:*`, `FAC:*`, `BIO:*` (biota), `CO:*` (co-type), `SYS:*` (system doc), `ERA-*`, `EVT-*`.
+- Filenames: **lowercase snake_case.md**. Overlays use suffix: `<basename>.<era_code>_<handle>.md` (e.g., `law_admin.09_green_skies.md`).
+- Keep one canonical “base” doc per topic (timeless); period changes live in overlays colocated with the base.
 
-## Tone by Document Type
-- **History/System pages:** academically cool, concrete; let harm/brutality show via ledgers, rates, statutes (esp. for labor/slavery).
-- **Diegetic leafs:** in-world voice; keep to one page; include a plausible seal/signature line.
-- **Entity pages:** short thesis line + links; avoid purple prose.
+## Folder Layout (shallow, stable)
+- `canon/entities/{people,places,regions,factions,biota,co_types}/`
+- `canon/systems/{governance,law,tech,economy,planetology,climate,transport,security,culture,religions,health,infrastructure,language}/`
+- `canon/eras/` (long-form overviews)
+- `canon/timeline/point_timeline.csv` (or `.txt` mirror with the same columns)
+- `canon/notes/{diegetic,rolls,snapshots,scratchpad}/`
+- `canon/art_refs/`
 
-## Timeline CSV
-Header must be:  
-`ao,code,title,where,who,summary,impact,refs,status`
+## Front Matter Schemas (YAML)
 
-Rules:
-- `where`/`who` prefer IDs (`LOC:*`, `PERS:*`, `FAC:*`).
-- `refs` must be existing paths.
-- `status` is `Stable`, `Draft`, or `Contested`.
+### Entity (people/place/region/faction/biota/co-type)
+```yaml
+---
+id: PERS:ZAM-001         # or LOC:/REG:/FAC:/BIO:/CO:
+name: Thedos Zambrani
+status: Stable           # Stable | Draft | Contested | Stub
+aliases: [Thedos of Ord] # optional
+links:
+  # stable relative paths (avoid deep-linking into Drafts)
+  home: canon/entities/places/ord_city.md
+  related: canon/entities/factions/synod_of_beats.md
+tags: [ord, leadership, reform]
+---
+```
+## Content Structure (recommended headings)
 
-## Names & Onomastics
-- Keep reader load low: use evocative trade names (“Seven Fingers”) with one-line native/gloss in place files.
-- Avoid Latinized plurals unless diegetic.
-- Use the **ledger-name** (house-i, demonym, toponymic, or patronymic) on first mention, then the given name.
-- House gentilics take **-i** (e.g., Zambrani) to signal belonging/adoption; demonyms take **-an/-ian** (e.g., Kllrian).
-- Epithets belong in quotes the first time: Marr “the Skin-Grass”.
-- In YAML, include a `naming:` block for future tooling and consistency.
+Base System/Entity: Thesis · Overview · Institutions/Actors · Practices/Law · Economics/Logistics · Risks/Failure Modes · Cross-refs.
 
-
-## Cross-File Linking
-- In each entity/system page, keep a `links:` block with stable relative paths.
-- Don’t deep-link to drafts from Stable pages (link the parent folder instead).
+Overlay: “What changes from base” · Effects · Hooks · Cross-refs. Keep overlays focused; no repetition of base aside from a short thesis.
