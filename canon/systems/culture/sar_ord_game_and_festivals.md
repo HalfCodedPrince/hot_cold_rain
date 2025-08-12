@@ -1,4 +1,14 @@
-# Games, Sports & Festivals of the Bright Sea
+---
+id: SYS:CULT-GAMES
+name: Games, Sports & Festivals of the Bright Sea
+status: Draft
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  beat_second: canon/entities/factions/beats/house_second_beat.md
+  beat_sixth: canon/entities/factions/beats/house_sixth_beat.md
+tags: [festivals, sport, calendar]
+---
+
 
 ## Hexennial Games (The Long Beat)
 **Cadence:** every 6 years (sextal “Long Beat”) • **Founded:** c. 732 AO • **Host:** rotates among major ports  

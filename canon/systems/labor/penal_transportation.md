@@ -1,4 +1,14 @@
-# Penal Transportation & Camp Regimes
+---
+id: SYS:LAB-PENAL
+name: Penal Transportation & Camp Regimes
+status: Draft
+links:
+  reed_camp: canon/entities/places/reed_camp_district.yaml
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  censors: canon/entities/factions/censors_bench.md
+tags: [penal, camps, labor]
+---
+
 
 ## Transportation
 Courts commute sentences to **transport** (6–12 years) for colonial or state works. Contracts held by magistracy; sold-on labor is forbidden in law, common in practice.

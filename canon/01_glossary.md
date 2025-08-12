@@ -9,7 +9,6 @@
 
 **Empty Seat** — see `systems/governance/empty_seat.md`; interregnal practice retaining the elected High Master fiction.
 
-
 **Three Seals** — Council (fleets), Beat Six (courts/discipline), Grain Chancery (finance); two-of-three required for cross-sphere acts.
 
 **Keeper of the Oboe Seal (FAC:KOS-001)** — Custodian of the High Master’s matrix/ledger-keys under joint lock; certifies absence, cannot proclaim successors.

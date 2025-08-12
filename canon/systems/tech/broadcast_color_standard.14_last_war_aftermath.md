@@ -1,32 +1,33 @@
 ---
-id: SYS-TECH-TV-14
-name: Broadcast & Color Standard — Last War Aftermath Overlay
+id: TECH:BCAST-001
+name: Broadcast Color Standard — ERA-14 “Cadence Color”
 status: Draft
+overlay: true
+era_tags: [14]
 links:
-  censors: canon/entities/factions/censors_bench.md
-  law: canon/systems/governance/law_admin.md
-  modern: canon/systems/transport/modern_index.md
+  printing: canon/systems/tech/writing_and_printing.md
+  law_admin: canon/systems/governance/law_admin.md
 ---
 
-## Standard OBR-625/50-P (Empire-wide)
-- **Picture geometry.** 625 lines, interlaced; 50 fields/sec; 25 frames/sec.
-- **Video modulation.** VSB-AM for video; FM for audio on a standard offset subcarrier.
-- **Baseband signal.** Composite **Y** (luminance) + sync; **PAL-like** color with U/V phase alternation line-by-line.
-- **Color subcarrier.** ~4.43 MHz; line-start **color burst** for phase reference.
-- **Channel plan.** VHF + UHF allocations; guard bands sized for coastal ducting and bloom-season noise.
+# Broadcast Color Standard — ERA-14 “Cadence Color”
 
-## Studio & transmission notes
-- **Sync/Genlock.** One house black-burst reference per station; vectorscope + waveform monitor required.
-- **Encoding.** RGB → YUV → PAL-like encoder; maintain 75% bars and a color test card for alignment.
-- **Links.** Coax, microwave relays, or buried runs; hill-site relays for bays/valleys.
-- **QC.** Hourly hue/sat checks; weekly full alignment; seasonal **bloom advisories** (filter/seal maintenance).
+## What changes from base
+Post-war authorities adopt **one goodwill project**: a color TV spec backward-compatible with black-and-white sets. Budget graft, supply shortages, and one doomed “peace-probe” leave only **a few years of color fervor** — but the images are iconic.
 
-## Receiver realities (why pictures look “radioshack”)
-- **Power instability.** Expect brownouts; recommend set-top stabilizers and battery inverters.
-- **Hybrid sets.** Tube RF front-ends + transistor IF stages common; repair via module swaps/flyback replacements.
-- **Antenna discipline.** Urban rabbit ears + UHF loops; rural community masts feeding splitters.
-- **Color drift.** Weather, connectors, and room heat cause chroma noise and tint shifts; service cards circulated via guild.
+### Technical spine (plain-language)
+- **Compatibility first:** Color is added as a **sub-carrier** riding the old monochrome signal; B/W sets ignore it, color sets decode it.  
+- **Hue stability in bad weather:** A short **reference burst** on each line lets coastal sets correct hue drift after rain-fade/multipath.  
+- **No exotic tubes required:** Early color receivers use **add-on decoder boxes** (guild repairable) and triad-mask CRTs; inland workshops can re-gun B/W tubes or fit **field-sequential wheels** for stopgap color.  
+- **Audio unchanged;** captions standardized by Compositories (port schedules, advisories).
 
-## Governance & licensing
-- **Spectrum & content.** The **Censors’ Bench** licenses channels and enforces decency/safety codes via fines and license points.
-- **Interoperability.** OBR-625/50-P is mandatory for civil stations; military may transcode for secure nets.
+### Effects
+- **Civic morale:** live color coverage of harbor rites and choir festivals becomes the “new hope” of ERA-14.  
+- **Economic trace:** temple & port boards print **color test cards**; **licensing** for color transmitters becomes a small municipal revenue stream.  
+- **Fragility:** rain-fade ghosts and ash-year scatter produce **greenish fringes**; color broadcasts are the first to be throttled during fuel squeezes.
+
+### Hooks
+- A cathedral-green broadcast becomes a relic everyone remembers; rumors swirl that a final tape from the lost probe once aired in color — for minutes.
+
+### Cross-refs
+- tech/writing_and_printing.md (compository captions) 
+- governance/law_admin.md (licensing notices)

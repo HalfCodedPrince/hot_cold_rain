@@ -21,6 +21,6 @@ Status: WIP
 - Wayfinding: hex‑grid house codes; quay markers by tide step numbers.
 
 ### Cross‑refs
-- systems/security/piracy_navies.md (convoying)
+- canon/systems/security/modern_piracy_navies.md (convoying)
 - systems/tech/clothing_and_textiles.md (crew PPE)
 - systems/planetology/hydrology.md (tides/green rain)

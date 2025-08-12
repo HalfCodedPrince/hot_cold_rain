@@ -1,22 +1,28 @@
-# Public Health (Green Rains & Warm Seas)
-ID: HEALTH:PUB-001
-Status: WIP
+---
+id: HEALTH:PUB-001
+name: Public Health (Green Rains & Warm Seas)
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  transport_index: canon/systems/transport/modern_index.md
+---
+
+## Thesis
+Seasonal **green rains**, warm coasts, and flood cycles define the burden of disease; infrastructure plus simple protocols keep cities livable.
 
 ## Risks
-- Waterborne: cholera‑like, leptospirosis; vector: dengue‑like fevers; fungal lungs after floods.
-- Pollen/aerosol surges: irritant, episodic toxic blooms (historic spit grass).
+- Waterborne: cholera-like, leptospirosis; vector fevers (dengue-like); post-flood fungal lungs.  
+- Pollen/aerosol surges; episodic toxic blooms (historic spit grass).
 
 ## Infrastructure
-- **Slow‑sand + chlorination** plants; elevated cisterns; blue‑tag potable taps.
-- **Storm clinics** at tram/cable hubs; temple infirmaries for mass care.
+- **Slow-sand + chlorination** plants; elevated cisterns; blue-tag potable taps.  
+- **Storm clinics** at tram/cable hubs; temple infirmaries for mass care. 
 
 ## Protocols
-- Green‑Rain Advisories (Levels 1–3): masks/veils, roof‑wash, boil notices.
-- Vaccine schedules posted in parish song spaces; mobile cold boxes on ferries.
+- Green-Rain advisories (Lv. 1–3): masks/veils, roof-wash, boil notices; vaccine schedules posted in parish song spaces. 
 
 ## Rehabilitation
-- Post‑war prosthetics workshops (shell‑laminate sockets, cane exosplints); trauma counseling via temple/municipal clinics.
-
-### Cross‑refs
-- systems/planetology/hydrology.md
-- systems/transport/index.md (clinic nodes)
+- Post-war prosthetics (shell-laminate, cane exosplints); trauma clinics. 
+## Cross-refs
+- systems/planetology/hydrology.md  
+- systems/transport/modern_index.md

@@ -1,4 +1,13 @@
-# Coercion & Status in Ord–Sar
+---
+id: SYS:LAB-STATUS
+name: Coercion & Status in Ord–Sar
+status: Draft
+links:
+  slavery: canon/systems/labor/slavery_in_ord_sar.md
+  penal: canon/systems/labor/penal_transportation.md
+  law: canon/systems/governance/law_admin.md
+tags: [labor, law, status]
+---
 
 **Scope:** legal statuses and labor regimes from c. 300–1000 AO, with notes to colonial practice later.
 

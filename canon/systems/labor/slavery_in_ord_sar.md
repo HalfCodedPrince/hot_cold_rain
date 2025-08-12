@@ -1,4 +1,14 @@
-# Slavery in Ord–Sar (c. 300–900 AO)
+---
+id: SYS:LAB-SLAVERY
+name: Slavery in Ord–Sar (c. 300–900 AO)
+status: Draft
+links:
+  status: canon/systems/labor/coercion_and_status.md
+  penal: canon/systems/labor/penal_transportation.md
+  religion: canon/systems/religions/good_old_rhythm.md
+tags: [labor, law, slavery]
+---
+
 
 ## Scale & Concentration
 Lower than peak Rome; logistics, climate, and disease check large inland plantations. Slavery clusters in **households**, **skilled shops**, **shore estates**, and **state sites** (quarries, ore camps).

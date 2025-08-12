@@ -1,21 +1,37 @@
+---
+id: TECH:PRINT-001
+name: Writing & Printing in the Humid Maritime Tropics
+status: Draft
+links:
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  compositories: canon/entities/factions/guild_of_compositories.md
+  law_admin: canon/systems/governance/law_admin.md
+---
+
 # Writing & Printing in the Humid Maritime Tropics
 
+## Thesis
+Humidity selects **bast, palm, and oil-cloth**; the temple’s **printed canon** and the guild **compositories** make literate ports. 
+
 ## Substrates
-- **Bast paper (bark-paper):** from mulberry/fig/breadfruit bast; beaten, floated, and sun-cured; sized with fish-glue or starch; the main book paper.
-- **Palm leaf:** for durable liturgical leafs and pilot-books; incised then ink-rubbed; cord-bound with lacquered boards.
-- **Cloth leaf (“sailsheets”):** coarse, for broadsides and wall-posters; printed, then oil-waxed against rain.
-- **Oiled barkcloth:** ritual placards; survives spray and green rain; heavy and costly.
+- **Bast paper** (mulberry/fig/breadfruit) sized with fish-glue/starch for books.  
+- **Palm leaf** for liturgical/pilot leafs (incise + ink rub); **cloth leaf** for broadsides; **oiled barkcloth** for ritual placards. 
 
-## Ink & Plates
-- **Carbon inks** (lampblack + fish-glue/starch), optionally with seaweed mucilage for flow.
-- **Iron-gall variants** used for annotations, but avoided near salt air (corrosion).
-- **Wood-press blocks** for text & simple staff-lines; **copperplates** for charts and fine music; **movable type** exists in larger compositories for fixed civic forms.
+## Ink & plates
+- **Carbon inks**; **iron-gall** for notes (kept away from salt air).  
+- **Wood blocks** for text & staff; **copperplates** for charts & fine music; **movable type** in large houses for civic forms. 
 
-## Book Forms
-- **Cord-bound leaf-books** (palm/bast) for temple/port use.
-- **Case-bound codices** (bast paper) for secular works; lacquered edges in port editions.
-- **Rolls** uncommon (mildew).
+## Book forms
+- **Cord-bound leaf-books** (palm/bast) in temples and ports; **case-bound codices** for secular works; rolls rare. 
 
-## Literacy & Numeracy
-- Coastal urban literacy is **wide but shallow**: many can sound out broadsides, read pilot-marks, and handle **sextal** counting for tariffs, measures, and tides.  
-- **Choir literacy** (notes, hand-sign, meter) is specialized; sailors learn **marks & numbers** more than long prose.
+## Literacy & numeracy
+- Coastal literacy is **wide but shallow** (broadsides, pilot marks, base-6 reckoning); choir literacy specialized. 
+
+## Institutions / actors
+- **Good Old Rhythm**: First printed recension ca. 705 AO; synod houses (esp. **Beat Two/Three**) standardize text, meter, and festival timing. 
+- **Compository Houses** (guild): type/plates for civic forms, pilot-books, hymn leafs; license temple recensions and print secular works. 
+## Practices
+- Port editions with **lacquered edges**; **pilot-books** updated by convoy cycles; temple **lots/seals** on canonical text blocks (law sees them as standards). 
+
+## Cross-refs
+- religions/good_old_rhythm.md · governance/law_admin.md · entities/factions/guild_of_compositories.md
