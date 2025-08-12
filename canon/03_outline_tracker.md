@@ -1,4 +1,4 @@
-# Outline Tracker
+# Outline Tracker (0.12)
 
 ## Big Arcs (status)
 - **00 Pre-Ord (Krum)** — draft in place. ✔ `canon/eras/00_preord_krum.md`

@@ -1,33 +1,34 @@
-# ERA-700 — Zambranic Ascendancy (700–800 AO)
-ID: ERA:700
+---
+id: ERA-02
+name: Zambranic Reforms (c. 700–800 AO)
+status: Draft
+span: "700–800 AO"
+thesis: "Zambran’s circle fixes doctrine and law in print; Ord–Sar unifies by blockade, siege, and deal-making; imperial offices harden."
+signature_events: []
+institutions:
+  - canon/entities/people/neris_zambrani.md
+  - canon/systems/religions/good_old_rhythm.md
+  - canon/entities/factions/guild_of_compositories.md
+  - canon/entities/factions/council_of_captains.md
+---
 
 ## Thesis
-Zambran’s late reign and two brief successors mark the first imperial zenith: standardized fleets, tributary web, exploration runs. Old Song is unusually steady this century. The era ends under Marr—fiscal panic and stalled reform.
+Printed catechisms and codes, convoy/harbor standards, and managed tributaries transform alliances into durable imperial governance.
 
-## Map Anchors
-- REG:ORD-BAY (core), REG:KLR-ARC (granary), REG:SAR-NORTH (tributaries), REG:ORD-WEST (coerced peninsulas), REG:WID-LEE (rumored landfall).
-
-## Institutions
+## Overview
+- Scripture/edict printing; editorial circles; licensing.
+- Ord–Sar Union mechanics (blockade, arbitration, hostage practices).
+- Office formation: Debt, Grain, Bench; seal rituals.
 - High Master holds perpetual “maritime emergency.” Council still controls credit/hulls.
 - Sar cities keep law/culture; Kllrian priest-kings rule locally if grain + rites + garrison.
-
-## Tech Base
-- Reed-keel galleys; lateen auxiliaries; horn/whistle codes; lamp shutters.
-- Sewer v3 in Ord; iron fittings tinned; arsenals issue standardized kits.
-
-## Military Posture
-- Units built from ship crews; captains → ship-masters → elected fleet masters (5y, paired). 
+- Units built from ship crews; captains → ship-masters → elected fleet masters (5y, paired).
 - Planned but stalled reform: paid marines, levy quotas by port tonnage, centralized arsenal.
 
-## Culture
-- Sar elite culture dominant in courts; dawn oboe rites public.
-- Better port living standards; inland uneven.
+## Key transitions → Era-03
+- Succession vulnerabilities; concentration of censorial tools.
+- Factions around the high seat.
 
-## Beats (see timeline CSV)
-- Zambran accession; Kllrian pact; Sewer v1 failure / v3 success; signal code; Tau-Hi submission; Widiwidi landfall; two short reigns; Marr; convoy insurance panic.
-- **673 AO** — Zambran elected High Master amidst Kaheet raids; establishes fortified camp-city.
-- **674–679 AO** — **Kaheet Settlement** by tribute, arbitration, and trade; frontier stabilized.
-- **701 AO** — **Ord–Sar** formal union proclaimed after sieges, blockades, and factional alignments in Sar cities.
-- **c. 705 AO** — **Old Bold Rhythm** first printed recension distributed to port-temples and courts.
-- **c. 722 AO** — **Civic adoption** of the Rhythm calendar & rites empire-wide (ports first, inland by decree).
-- **726 AO** — Zambran dies; succession of Eshoron Ir (update succession list accordingly).
+## Cross-refs
+- `canon/systems/tech/writing_and_printing.md`
+- `canon/systems/economy/currency_finance.md`
+- `canon/systems/governance/symbols_of_office.md`

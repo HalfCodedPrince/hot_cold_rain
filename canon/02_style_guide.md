@@ -18,8 +18,13 @@
 - `canon/notes/{diegetic,rolls,snapshots,scratchpad}/`
 - `canon/art_refs/`
 
-## Front Matter Schemas (YAML)
+## CSV formatting
+- No commas in summary or impact (use semicolons).`
+- Avoid quotes in any field unless you must (and if you do, make sure the line still has exactly 9 comma-separated fields).`
+- refs is a `|`-separated list of real files (anchors allowed, but the file must exist without the anchor).`
+- Always start refs with `canon/….`
 
+## Front Matter Schemas (YAML)
 ### Entity (people/place/region/faction/biota/co-type)
 ```yaml
 ---
@@ -35,7 +40,5 @@ tags: [ord, leadership, reform]
 ---
 ```
 ## Content Structure (recommended headings)
-
-Base System/Entity: Thesis · Overview · Institutions/Actors · Practices/Law · Economics/Logistics · Risks/Failure Modes · Cross-refs.
-
-Overlay: “What changes from base” · Effects · Hooks · Cross-refs. Keep overlays focused; no repetition of base aside from a short thesis.
+- Base System/Entity: `Thesis` · `Overview` · `Institutions/Actors` · `Practices/Law` · `Economics/Logistics` · `Risks/Failure Modes` · `Cross-refs`.
+- Overlay: “What changes from base” · `Effects` · `Hooks` · `Cross-refs`. Keep overlays focused; no repetition of base aside from a short thesis.

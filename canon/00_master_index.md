@@ -1,4 +1,4 @@
-# Master Index
+# Master Index (0.12)
 
 ## Top-Level
 - **Glossary:** `canon/01_glossary.md`

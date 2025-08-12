@@ -3,6 +3,8 @@
 This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s organized so in-universe artifacts (“diegetic”) can live alongside out-of-universe canon (systems, eras, timeline). Currently WIP.
 
 ---
+Current baseline: v0.12
+timeline.csv is canon; timeline.txt is mirror
 
 ## Folder map (what goes where)
 ```

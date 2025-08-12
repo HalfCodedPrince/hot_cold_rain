@@ -1,4 +1,4 @@
-# Glossary (living)
+# Glossary (0.12)
 - **AO** — After the founding of Ord City.
 - **Old Song** — Major current between Ord and Sar.
 - **Good Old Rhythm** — Codified sun-worship liturgy (Old Bold Rhythm).

@@ -1,9 +1,11 @@
 ---
-id: ERA-010
-span: -1000 – -800 AO
-status: WIP
-thesis: "Cuzhar Krum’s maritime thalassocracy: tin-linked trade, shell archives, ritual seaways; collapse via eruptions and trade shock."
-map_ref: ../art_refs/era010_bright_sea.png
+id: ERA-00
+name: Pre-Ord — Cuzhar Krum and the Ash Years
+status: Draft
+span: "pre–300 AO"
+thesis: "Thalassocratic Bright Sea cultures (Cuzhar Krum) rise on trade and navigation; volcanic/ climatic shocks drive collapse and diaspora before Ord’s ascent."
+signature_events: []
+institutions: []
 ---
 
 ## Overview (student paragraph)
@@ -15,16 +17,16 @@ Among the isles of the Bright Sea, Cuzhar Krum knit a trade network whose lifeli
 - **Tech**: Bronze elite kit; robust timber shipbuilding; stone quays.
 - **Politics**: City league; priest-captains arbitrate trade quarrels.
 
-## Chronology (beats)
-| AO      | Code              | What happened                         | Impact                 |
-|---------|-------------------|---------------------------------------|------------------------|
-| -980    | EVT-0980BO-GIL    | Guild seals standardized              | ↑ contract trust       |
-| -930    | EVT-0930BO-ZIG    | Ish-Atu expansion (LOC:KRM-001)       | ↑ ritual prestige      |
-| -890    | EVT-0890BO-TIN    | Tin convoys peak                      | ↑ bronze circulation   |
-| -845    | EVT-0845BO-ASH    | Ash years; routes disrupted           | ↓ trade; famine risk   |
-| -820    | EVT-0820BO-ABN    | Archipelago abandonment accelerates   | diaspora & legends     |
+## Overview (bullet points; keep concrete)
+- Geography of the Bright Sea archipelagos; reef channels; seasonal winds.
+- Krum’s exchange goods; temple schools; early ledgers and pilot lore.
+- Environmental cascade and abandonment patterns; “Ash Years”.
 
-## Open questions
-- Exact source of Ord tin (vein vs placer)?
-- Degree of literacy outside the priest-captain elite?
-- Preservation yield of shell-script under submergence?
+## Key transitions → next era
+- Pilotage and charts preserved in coastal sanctuaries.
+- Survivors anchor proto-Ord settlements.
+
+## Cross-refs (fill as available)
+- `canon/notes/diegetic/pamphlet_cuzhar_krum.md`
+- `canon/systems/planetology/hydrology.md`
+- `canon/systems/transport/navigation_currents.md`
