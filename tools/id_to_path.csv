@@ -14,6 +14,7 @@ FAC:BEAT-002,canon/entities/factions/beats/house_second_beat.md
 FAC:BEAT-006,canon/entities/factions/beats/house_sixth_beat.md
 FAC:BEAT-003,canon/entities/factions/beats/house_third_beat.md
 FAC:CEN-001,canon/entities/factions/censors_bench.md
+FAC:CIN-001,canon/entities/factions/convoy_insurance_office.md
 FAC:COC-001,canon/entities/factions/council_of_captains.md
 FAC:DBW-001,canon/entities/factions/dredge_and_bar_works.md
 FAC:CHA-001,canon/entities/factions/grain_chancery.md
@@ -86,6 +87,7 @@ COS:HEX-001,canon/systems/cosmos/moon_hex.md
 COS:OBE-001,canon/systems/cosmos/oboe.md
 COS:SYS-001,canon/systems/cosmos/overview.md
 COS:ZE-001,canon/systems/cosmos/ze.md
+SYS:CULT-GAMES,canon/systems/culture/games_and_festivals.md
 SYS:ECON-CUR,canon/systems/economy/currency_finance.md
 GEO:CADENCE-EXPANSION,canon/systems/geography/expansion_routes_cadence.md
 GOV:EMPTY-SEAT,canon/systems/governance/empty_seat.md

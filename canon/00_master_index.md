@@ -25,11 +25,23 @@ status: Stable
 ## Systems
 - **Governance & Law:** `canon/systems/governance/empty_seat.md`, `canon/systems/law/marriage_and_vows.md`
 - **Labor & Economy:** `canon/systems/labor/penal_transportation.md`, `canon/systems/economy/currency_finance.md`
-- **Transport:** `canon/systems/transport/modern_index.md`, `canon/systems/transport/ships_galleys.md`, `canon/systems/transport/navigation_currents.md`
+- **Transport:** `canon/systems/transport/ships_galleys.md`, `canon/systems/transport/navigation_currents.md`
 - **Security:** `canon/systems/security/modern_piracy_navies.md`
-- **Tech:** `canon/systems/tech/clothing_and_textiles.md`, `canon/systems/tech/writing_and_printing.md`, `canon/systems/tech/arms_armor.md`
+- **Tech:** `canon/systems/tech/clothing_and_textiles.md`, `canon/systems/tech/writing_and_printing.md`, `canon/systems/tech/arms_armor.md`, `canon/systems/tech/rain_gear_umbrellas.md`
 - **Cosmos & Planetology:** `canon/systems/cosmos/index.md`, `canon/systems/planetology/point.md`, `canon/systems/planetology/hydrology.md`
 - **Culture:** `canon/systems/culture/games_and_festivals.md`, `canon/systems/governance/symbols_of_office.md`
+- **Anthropology:** `canon/systems/anthropology/human_origins_migrations.md`, `canon/systems/anthropology/widiwidi_peopling.md`, `canon/systems/anthropology/human_phenotypes.md`
+
+- **Infrastructure (modern):** `canon/systems/infrastructure/water_and_sewer.md`, `canon/systems/infrastructure/waste_management.md`, `canon/systems/infrastructure/coastal_storms_resilience.md`
+- **Economy (modern):** `canon/systems/economy/global_supply_links.md`, `canon/systems/economy/food_logistics_modern.md`
+- **Urbanism (modern):** `canon/systems/urbanism/building_heights_density.md`, `canon/systems/urbanism/architecture_coastal_patterns.md`
+- **Health (modern):** `canon/systems/health/healthcare_landscape_modern.md`
+- **Welfare (modern):** `canon/systems/welfare/pensions_mutual_aid.md`
+- **Industry (modern):** `canon/systems/industry/locations_layout.md`
+- **Energy (modern):** `canon/systems/energy/power_grid_modern.md`
+- **Transport (modern):** `canon/systems/transport/road_surfaces.md`, `canon/systems/transport/resilient_transit_flood_cities.md`, `canon/systems/transport/urban_vehicles_logistics.md`, `canon/systems/transport/modern_index.md`, 
+
+
 
 ## Timeline
 - CSV: `canon/timeline/point_timeline.csv`  

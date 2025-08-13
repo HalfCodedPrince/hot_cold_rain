@@ -174,6 +174,17 @@ links:
   guild: canon/entities/factions/guild_of_compositories.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
 
+## canon/entities/factions/convoy_insurance_office.md
+id: FAC:CIN-001
+name: Convoy Insurance Office
+type: treasury_board
+status: Draft
+links:
+  debt_office: canon/entities/factions/public_debt_office.md
+  currency: canon/systems/economy/currency_finance.md
+  piracy: canon/systems/security/modern_piracy_navies.md
+tags: [insurance, tariffs, convoys]
+
 ## canon/entities/factions/council_of_captains.md
 id: FAC:COC-001
 name: Council of Captains
@@ -1087,6 +1098,16 @@ links:
   overview: canon/systems/cosmos/overview.md
   belts: canon/systems/cosmos/belts.md
 tags: [outer, dwarf, eccentric]
+
+## canon/systems/culture/games_and_festivals.md
+id: SYS:CULT-GAMES
+name: Games, Sports & Festivals of the Bright Sea
+status: Draft
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  beat_second: canon/entities/factions/beats/house_second_beat.md
+  beat_sixth: canon/entities/factions/beats/house_sixth_beat.md
+tags: [festivals, sport, calendar]
 
 ## canon/systems/economy/currency_finance.md
 id: SYS:ECON-CUR
