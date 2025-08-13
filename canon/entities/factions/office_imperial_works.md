@@ -1,5 +1,5 @@
 ---
-id: FAC:ARC-001
+id: FAC:IMW-001
 name: Office of Imperial Works
 type: public works board
 chartered_ao: 756

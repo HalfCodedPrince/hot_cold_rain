@@ -1,3 +1,9 @@
+---
+id: NOTE:CHANGELOG
+name: Project Changelog
+status: Draft
+---
+
 # Changelog
 
 ## 2025-08-09
@@ -15,3 +21,7 @@
 - Modern timeline scaffold is added in some places
 - Glossary is updated
 
+## 2025-08-13
+- Finished the header standartization across the entire project
+- Fixed a few continuity errors
+- There's now a script int /tools that check timeline.csv for missing links

@@ -8,6 +8,6 @@ mandate: Issue/redeem grain notes; set port tariffs and measures; audit flood gr
 tags: [finance, metrology, food_supply]
 status: Stable
 links:
-  metrology: canon/systems/metrology/index.md
+  metrology: canon/systems/metrology_calendar.md
   governance: canon/systems/governance/empty_seat.md
 ---

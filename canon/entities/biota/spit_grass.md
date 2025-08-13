@@ -1,6 +1,14 @@
-# Flora: Spit Grass (Ord Bay endemic)
-ID: BIO:FL-GRASS-001
-Status: WIP
+---
+id: BIO:FL-GRASS-001
+name: Spit Grass (Ord Bay endemic)
+type: flora
+status: Draft
+tags: [pollen, ritual, hazard]
+links:
+  health: canon/systems/health/public_health.md
+  hydrology: canon/systems/planetology/hydrology.md
+  religion: canon/systems/religions/good_old_rhythm.md
+---
 
 ## Habitat
 Brackish marsh edges; rare vicennial mass flowering.

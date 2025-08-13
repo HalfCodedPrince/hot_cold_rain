@@ -1,4 +1,12 @@
 ---
+id: DOC:RCR-0762
+name: Incident Report — Reed-Camp Rising (EVT-0762-RCR)
+status: Draft
+tags: [diegetic, report, penal, revolt]
+links:
+  place: canon/entities/places/reed_camp_district.md
+  labor: canon/systems/labor/penal_transportation.md
+  era: canon/eras/04_marrite_747_783.md
 fact_box:
   title: "Incident Report: Reed-Camp Rising (EVT-0762-RCR)"
   doc_type: report
@@ -15,5 +23,5 @@ fact_box:
     - "Three ringleaders unaccounted; suspected passage via reed punts at third tide bell."
 ---
 
-**Summary:**  
+**Summary**  
 On Hexday, Song 7, eve tide, prisoners at **Reed-Camp #3** loosened ankle-chains per flood protocol, cut levee ropes, and used the surge to overwhelm gate pickets. A percussion signal was heard from the mangrove line (unidentified). Twenty-six escaped; nine recaptured at dawn. Three ringleaders (names redacted) presumed fled toward the south reed villages.

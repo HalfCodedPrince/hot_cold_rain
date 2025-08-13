@@ -1,11 +1,22 @@
 ---
+id: DOC:KRUM-PAMPHLET-1783
+name: The Ancient, the Submerged, the Misrepresented — Cuzhar Krum
+status: Draft
+date_ao: 1783
+provenance: Coi-Hi University Press
+tags: [diegetic, pamphlet, krum]
+links:
+  bright_sea: canon/entities/regions/bright_sea.md
+  primary_site: canon/entities/places/krum_primary_site.md
+  oboe: canon/systems/cosmos/oboe.md
+  era_preord: canon/eras/00_preord_krum.md
 fact_box:
   title: "The Ancient, the Submerged, the Misrepresented: Cuzhar Krum"
   doc_type: pamphlet
   author_in_universe: "Coi-Hi University Press"
   date_ao: -975
   era: ERA-010
-  relates_to: [LOC:KRM-001, REG:BRI-001, COS:HEX-001, GEO:WAT-001]
+  relates_to: [LOC:KRM-001, REG:BRI-001]
   audience: public
   reliability: medium
   source_tier: secondary
@@ -14,8 +25,8 @@ fact_box:
     - "Volcanic ash years and storm decades precipitated abandonment."
     - "Crab-shell inscriptions served elite/ceremonial record-keeping."
   canonical_links:
-    - eras/00_preord_krum.md
-    - systems/cosmos/index.md
+    - canon/eras/00_preord_krum.md
+    - canon/systems/cosmos/index.md
 ---
 
 

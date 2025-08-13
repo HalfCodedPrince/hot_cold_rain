@@ -5,4 +5,8 @@ status: Stable
 date_ao: 1796
 provenance: Oboe-House press office
 seal: Keeper of the Oboe Seal
+tags: [diegetic, circular, peace_program]
+links:
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  overview: canon/overview.md
 ---

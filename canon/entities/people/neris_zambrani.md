@@ -17,7 +17,7 @@ links:
   era: canon/eras/05_pax_ordica_790_860.md
   council: canon/entities/factions/council_of_captains.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
-  keeper: canon/entities/factions/keeper_of_the_oboe_seal.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
   law: canon/systems/law/marriage_and_vows.md
 ---
 

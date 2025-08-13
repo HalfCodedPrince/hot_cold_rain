@@ -1,13 +1,14 @@
 ---
 id: FAC:BEAT-006
 name: House of the Sixth Beat
-type: temple house
+type: temple_house
 parent: FAC:SYN-001
 founded_ao: c. 720
 mandate: Discipline & courts; internal discipline; arbitration; docketing with civic courts.
 tags: [religion, law, discipline]
 status: Stable
 links:
+  synod: canon/entities/factions/synod_of_beats.md
   religion: canon/systems/religions/good_old_rhythm.md
   governance: canon/systems/governance/empty_seat.md
   censorate: canon/entities/factions/censors_bench.md

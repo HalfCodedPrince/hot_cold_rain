@@ -1,3 +1,11 @@
+---
+id: NOTE:THEMES-001
+name: World Themes (Shana Mutatorem)
+status: Draft
+links:
+  overview: canon/overview.md
+---
+
 The World themes:
 Melancholy, malaise and mutability. 
 

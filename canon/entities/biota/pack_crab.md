@@ -1,9 +1,16 @@
-# Fauna: Pack Crab (domesticated lineage)
-ID: BIO:FA-CRAB-001
-Status: WIP
+---
+id: BIO:FA-CRAB-001
+name: Pack Crab (domesticated lineage)
+type: fauna
+status: Draft
+tags: [domesticated, haulage, shell]
+links:
+  arms: canon/systems/tech/arms_armor.md
+  ships: canon/systems/transport/ships_galleys.md
+---
 
 ## Use
-Quay haulage, reef foraging; shell provides laminate for shields and fittings.
+Quay haulage; reef foraging; shell provides laminate for shields and fittings.
 
 ## Behavior
 Food-motivated; percussion-sensitive (spooks with drums/horns).

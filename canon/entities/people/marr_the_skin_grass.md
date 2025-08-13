@@ -36,7 +36,7 @@ Nephew-favorite of **Zambran**, Marr rose on intrigue and emergency. Early compe
 Three competing etymologies circulate:
 1) **Taxman’s Quip:** “He skins even grass”—extracts petty fees and fines from nothing.  
 2) **Green Rot:** stores ruined under his watch (green rain), “the skin of grass over grain.”  
-3) **Pamphleteers’ Pun:** a choir joke about the smell, reportedly due to a decease, i.e. literally "smells like old skin-grass". 
+3) **Pamphleteers’ Pun:** a choir joke about the smell, reportedly due to a disease, i.e. literally "smells like old skin-grass". 
 
 ## Anecdota & Rumor
 - **Sea-lion councillor:** apocryphal—pamphlets claim Marr seated a trained sea-lion at Council.  

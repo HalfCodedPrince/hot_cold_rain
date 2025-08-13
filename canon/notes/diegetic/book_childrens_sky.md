@@ -1,4 +1,19 @@
 ---
+id: DOC:KIDS-SKY-1792
+name: Our Place in the Song: A Child’s Guide to the Sky Above
+status: Draft
+date_ao: 1792
+provenance: Coi-Hi Youth Press (5th Ed.)
+tags: [diegetic, schoolbook, sky, astronomy]
+links:
+  oboe: canon/systems/cosmos/oboe.md
+  hex: canon/systems/cosmos/moon_hex.md
+  bean: canon/systems/cosmos/bean.md
+  karodot: canon/systems/cosmos/karodot.md
+  ze: canon/systems/cosmos/ze.md
+  belts: canon/systems/cosmos/belts.md
+  planet: canon/systems/planetology/point.md
+  hydrology: canon/systems/planetology/hydrology.md
 fact_box:
   title: "Our Place in the Song: A Child’s Guide to the Sky Above"
   doc_type: schoolbook
@@ -14,8 +29,8 @@ fact_box:
     - "Karodot has a faint ring and many moons."
     - "Point’s seasons are driven by axial tilt; rains are abrupt."
   canonical_links:
-    - systems/cosmos/index.md
-    - systems/planetology/point.md
+    - canon/systems/cosmos/index.md
+    - canon/systems/planetology/point.md
 ---
 
 

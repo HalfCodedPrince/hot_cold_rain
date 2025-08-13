@@ -1,15 +1,21 @@
-# Co-type: Bat (Ord–Sar)
-ID: CTP:BAT-001
-Status: WIP
+---
+id: CTP:BAT-001
+name: Co-type — Bat (Ord–Sar)
+status: Draft
+tags: [co_type, bat]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+---
 
 ## Morphology
-Winged forelimbs with elongated digits; partial echolocation usable in urban noise (8–20 kHz). Compact body mass; strong pectoral girdle.
+Winged forelimbs; partial echolocation usable in urban noise (8–20 kHz).
 
 ## Health
-Otitis risk in humid seasons; shoulder overuse; need rest cycles (day-sleep in heat). Temple clinics fit lighter harnesses and capes with finger slits.
+Otitis risk in humid seasons; shoulder overuse; day-sleep routines.
 
 ## Culture & Work
-Night-shift logistics, watch, cable inspections. Guild quotas relaxed in port emergencies.
+Night logistics, watch, cable inspections; quotas relaxed in port emergencies.
 
 ## Clothing
 Back-vent harness; ear-friendly hoods; translucent veils on green-rain days.
