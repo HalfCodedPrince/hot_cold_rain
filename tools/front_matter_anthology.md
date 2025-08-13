@@ -1,4 +1,20 @@
 
+## canon/entities/biota/boru_boru.md
+id: BIO:FA-TIDE-LIZARD-001
+name: Boru-boru (Tide-Crawling Lizard)
+status: Draft
+tags: [lizard, amphibious, pest_control]
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+
+## canon/entities/biota/mudsnake.md
+id: BIO:FA-MANGROVE-EEL-001
+name: Mudsnake (mangrove eel)
+status: Draft
+tags: [eel, amphibious, food]
+links:
+  diet: canon/systems/agriculture_diet.md
+
 ## canon/entities/biota/pack_crab.md
 id: BIO:FA-CRAB-001
 name: Pack Crab (domesticated lineage)
@@ -8,6 +24,40 @@ tags: [domesticated, haulage, shell]
 links:
   arms: canon/systems/tech/arms_armor.md
   ships: canon/systems/transport/ships_galleys.md
+
+## canon/entities/biota/photic_moss.md
+id: BIO:FL-PHOTIC-MOSS-001
+name: Photic Moss (canal glow)
+status: Draft
+tags: [moss, bioluminescence, canal]
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  culture: canon/notes/diegetic/book_childrens_sky.md
+
+## canon/entities/biota/roof_goose.md
+id: BIO:FA-WATERFOWL-ROOF-001
+name: Roof goose (Flightless Waterfowl)
+status: Draft
+tags: [waterfowl, domestic, eggs]
+links:
+  diet: canon/systems/agriculture_diet.md
+  health: canon/systems/health/public_health.md
+
+## canon/entities/biota/sailback.md
+id: BIO:FA-GLIDE-RODENT-001
+name: Sailback (gliding rodent)
+status: Draft
+tags: [rodent, glider, urban]
+links:
+  culture: canon/systems/culture/games_and_festivals.md
+
+## canon/entities/biota/sapir_karodot.md
+id: BIO:FA-DUET-SONGBIRD-001
+name: Sapir Karodot (duet songbird)
+status: Draft
+tags: [bird, duet, ritual]
+links:
+  rhythm: canon/systems/religions/good_old_rhythm.md
 
 ## canon/entities/biota/skin_grass.md
 id: BIO:FL-SKINGRASS-001
@@ -28,6 +78,24 @@ links:
   health: canon/systems/health/public_health.md
   hydrology: canon/systems/planetology/hydrology.md
   religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/biota/tubular_bamboo.md
+id: BIO:FL-TUBE-BAMBOO-001
+name: Tubular Bamboo (spiral-wall cane)
+status: Draft
+tags: [cane, construction, instruments]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  transport: canon/systems/transport/modern_index.md
+
+## canon/entities/biota/vine_palm.md
+id: BIO:FL-VINE-PALM-001
+name: Vine-Palm (storm palm)
+status: Draft
+tags: [palm, wind, structural_fiber]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  works: canon/entities/factions/dredge_and_bar_works.md
 
 ## canon/entities/co_types/bat.md
 id: CTP:BAT-001
@@ -1016,6 +1084,34 @@ links:
   finance: canon/systems/economy/currency_finance.md
   security: canon/systems/security/modern_piracy_navies.md
 
+## canon/systems/antropology/human_origins_migrations.md
+id: ANTH:ORIGINS-001
+name: Human Origins & Migrations (Out of Sar)
+status: Draft
+links:
+  krum: canon/eras/00_preord_krum.md
+  blindness: canon/notes/diegetic/pamphlet_cuzhar_krum.md
+  hydrology: canon/systems/planetology/hydrology.md
+
+## canon/systems/antropology/human_phenotypes.md
+id: ANTH:PHEN-001
+name: Human Phenotypes (Climate & Work)
+status: Draft
+links:
+  diet: canon/systems/agriculture_diet.md
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+
+## canon/systems/antropology/widiwidi_peopling.md
+id: ANTH:MIG-WID-001
+name: Peopling Widiwidi (Island Hopping)
+status: Draft
+links:
+  origins: canon/systems/anthropology/human_origins_migrations.md
+  old_song: canon/systems/transport/navigation_currents.md
+  hydrology: canon/systems/planetology/hydrology.md
+  snapshot: canon/notes/snapshots/known_world_c950.md
+
 ## canon/systems/climate/bright_sea_climate.md
 id: CLIM:BRIGHT-SEA
 name: Bright Sea Climate, Old Song & Green Rains
@@ -1121,6 +1217,32 @@ links:
   transport: canon/systems/transport/modern_index.md
   security: canon/systems/security/modern_piracy_navies.md
 
+## canon/systems/economy/food_logistics_modern.md
+id: ECON:FOOD-LOG-1803
+name: Food Supply & Logistics (c. 1803 AO)
+status: Draft
+links:
+  diet: canon/systems/agriculture_diet.md
+  transport: canon/systems/transport/modern_index.md
+  hydrology: canon/systems/planetology/hydrology.md
+
+## canon/systems/economy/global_supply_links.md
+id: ECON:SUPPLY-001
+name: Global Supply Links (Post–Last War)
+status: Draft
+links:
+  transport: canon/systems/transport/modern_index.md
+  piracy: canon/systems/security/modern_piracy_navies.md
+  currency: canon/systems/economy/currency_finance.md
+
+## canon/systems/energy/power_grid_modern.md
+id: ENE:GRID-1803
+name: Energy — Generation & Grid (c. 1803 AO)
+status: Draft
+links:
+  infra: canon/systems/infrastructure/public_works.md
+  health: canon/systems/health/healthcare_landscape_modern.md
+
 ## canon/systems/geography/expansion_routes_cadence.md
 id: GEO:CADENCE-EXPANSION
 name: Expansion & Frontiers in the Golden Cadence
@@ -1173,6 +1295,14 @@ links:
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
 tags: [symbols, ritual, office]
 
+## canon/systems/health/healthcare_landscape_modern.md
+id: HEALTH:SYSTEMS-1803
+name: Healthcare Landscape (c. 1803 AO)
+status: Draft
+links:
+  public_health: canon/systems/health/public_health.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
 ## canon/systems/health/public_health.md
 id: HEALTH:PUB-001
 name: Public Health (Green Rains & Warm Seas)
@@ -1180,6 +1310,16 @@ status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
   transport_index: canon/systems/transport/modern_index.md
+
+## canon/systems/infrastructure/coastal_storms_resilience.md
+id: INFRA:COAST-STORM-1803
+name: Coastal Cities — Storms, Surges & Civic Resilience
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  urban_form: canon/systems/urbanism/building_heights_density.md
+  water_sewer: canon/systems/infrastructure/water_and_sewer.md
+  transport: canon/systems/transport/modern_index.md
 
 ## canon/systems/infrastructure/public_works.md
 id: INFRA:PUB-001
@@ -1190,6 +1330,23 @@ links:
   transport: canon/systems/transport/modern_index.md
   health: canon/systems/health/public_health.md
   climate: canon/systems/climate/bright_sea_climate.md
+
+## canon/systems/infrastructure/waste_management.md
+id: INFRA:WASTE-1803
+name: Waste & Refuse — Collection, Dumps, Incineration
+status: Draft
+links:
+  health: canon/systems/health/public_health.md
+  economy: canon/systems/economy/currency_finance.md
+
+## canon/systems/infrastructure/water_and_sewer.md
+id: INFRA:WATER-001
+name: Urban Water & Sewers (c. 1803 AO)
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  health: canon/systems/health/public_health.md
+  economy: canon/systems/economy/currency_finance.md
 
 ## canon/systems/labor/coercion_and_status.md
 id: SYS:LAB-STATUS
@@ -1264,6 +1421,22 @@ links:
   law: canon/systems/governance/law_admin.md
   cosmos_index: canon/systems/cosmos/index.md
 
+## canon/systems/planetology/biomes_oceans.md
+id: GEO:BIOMES-SEA-001
+name: Biomes, Coasts & Oceans
+status: Draft
+links:
+  old_song: canon/systems/transport/navigation_currents.md
+  hydrology: canon/systems/planetology/hydrology.md
+
+## canon/systems/planetology/climatology_zones.md
+id: GEO:CLIMATE-001
+name: Climate Zones & Polar Regions
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  biomes: canon/systems/planetology/biomes_oceans.md
+
 ## canon/systems/planetology/geology.md
 id: GEO:TEK-001
 name: Geology & Plates
@@ -1271,6 +1444,14 @@ status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
 tags: [geology, tectonics]
+
+## canon/systems/planetology/geology_tectonics.md
+id: GEO:TECTONICS-001
+name: Geological Sketch & Tectonics
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  economy: canon/systems/economy/currency_finance.md
 
 ## canon/systems/planetology/hydrology.md
 id: GEO:WAT-001
@@ -1349,6 +1530,15 @@ links:
   ships: canon/systems/transport/ships_galleys.md
 tags: [clothing, textiles, climate]
 
+## canon/systems/tech/rain_gear_umbrellas.md
+id: TECH:RAIN-GEAR-1803
+name: Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)
+status: Draft
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
 ## canon/systems/tech/writing_and_printing.md
 id: TECH:PRINT-001
 name: Writing & Printing in the Humid Maritime Tropics
@@ -1376,6 +1566,23 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
 tags: [navigation, currents, old_song]
 
+## canon/systems/transport/resilient_transit_flood_cities.md
+id: TRANS:FLOOD-MODES-1803
+name: Resilient Transit in Flood-Prone Cities
+status: Draft
+links:
+  modern_index: canon/systems/transport/modern_index.md
+  navigation: canon/systems/transport/navigation_currents.md
+  urban_form: canon/systems/urbanism/building_heights_density.md
+
+## canon/systems/transport/road_surfaces.md
+id: TRANS:ROAD-1803
+name: Roads & Surfaces — Asphalt, Stone, Boards
+status: Draft
+links:
+  transport: canon/systems/transport/modern_index.md
+  infra: canon/systems/infrastructure/public_works.md
+
 ## canon/systems/transport/ships_galleys.md
 id: TRANS:SHIPS-001
 name: Ships — Oar Galleys with Auxiliary Sail
@@ -1384,3 +1591,40 @@ links:
   arms: canon/systems/tech/arms_armor.md
   clothing: canon/systems/tech/clothing_and_textiles.md
 tags: [ships, oared, galleys]
+
+## canon/systems/transport/urban_vehicles_logistics.md
+id: TRANS:URBAN-VEHICLES-1803
+name: Urban Vehicles & City Logistics (Low-Tech, Wet)
+status: Draft
+links:
+  road: canon/systems/transport/road_surfaces.md
+  modern_index: canon/systems/transport/modern_index.md
+  supply: canon/systems/economy/global_supply_links.md
+
+## canon/systems/urbanism/architecture_coastal_patterns.md
+id: URB:ARCH-COAST-1803
+name: Architecture — Coastal Patterns & Materials
+status: Draft
+links:
+  urban_form: canon/systems/urbanism/building_heights_density.md
+  infra: canon/systems/infrastructure/coastal_storms_resilience.md
+  water: canon/systems/infrastructure/water_and_sewer.md
+
+## canon/systems/urbanism/building_heights_density.md
+id: URB:FORM-001
+name: Building Heights & Urban Fabric (c. 1803 AO)
+status: Draft
+links:
+  infra: canon/systems/infrastructure/water_and_sewer.md
+  transport: canon/systems/transport/modern_index.md
+  health: canon/systems/health/public_health.md
+
+## canon/systems/welfare/pensions_mutual_aid.md
+id: WEL:PENSIONS-1803
+name: Social State — Pensions, Mutual Aid & Old Age (c. 1803 AO)
+status: Draft
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  health: canon/systems/health/healthcare_landscape_modern.md
+  public_health: canon/systems/health/public_health.md
+  economy: canon/systems/economy/currency_finance.md
