@@ -1,5 +1,5 @@
 # Systems — auto-index
-
+Looking for the guided overview? See 00_master_index.md
 
 ## Antropology
 

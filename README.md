@@ -4,17 +4,15 @@ This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s org
 
 ---
 Current baseline: v0.12
+
 timeline.csv is canon; timeline.txt is mirror
 
 ## Quickstart
 
 ```bash
-# clone and validate
+# just clone
 git clone <repo>
 cd hot_cold_rain
-./tools/validate_timeline.sh    # Git Bash/macOS/Linux
-# or
-pwsh tools/validate_timeline.ps1
 ```
 
 - **Master index:** canon/00_master_index.md
@@ -73,6 +71,35 @@ canon/
 tools/                        # validators, scripts
 ```
 **Shallow rule:** prefer one level of nesting (two at most for subtypes like Beats houses). Use evocative names; keep indices (index.md, 00_master_index.md) discoverable.
+
+# Indices & tooling
+
+## Two indices, two purposes
+
+  **canon/00_master_index.md** — curated landing page (eras, entities, systems, timeline/tools). Keep this edited by hand. 
+
+  **canon/_systems_index.md** — auto-generated inventory of system docs; do not hand-edit.
+
+## Snapshot artifacts (for search & cross-refs)
+
+  **front_matter_anthology.md** — flattened front-matter for quick grep across diegetic/notes; includes links to core cosmos/planetology pages. 
+
+  **id_to_path.csv** — ID → file path map (entities, etc.).
+
+  **link_targets.tsv** — all link targets seen across the tree.
+
+  **Conventions** (IDs, filenames, folders, timeline CSV rules) live in 02_style_guide.md
+
+# Scripts (Git Bash / WSL)
+**Regenerate the auto index of system docs**
+tools/make_systems_index.sh
+
+**Build release snapshots for LLM indexing (front_matter_anthology.md, id_to_path.csv, link_targets.tsv)**
+tools/make_snapshot.sh
+
+**Validate the timeline CSV (IDs exist, refs resolve, status flags ok)**
+tools/validate_timeline.sh
+
 
 ## Canon stance & “endpoint north star”**
 

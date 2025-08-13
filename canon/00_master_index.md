@@ -5,6 +5,7 @@ status: Stable
 ---
 
 # Master Index
+Full inventory of system docs → _systems_index.md
 
 ## Eras
 - ERA-000: `canon/eras/00_preord_krum.md`
