@@ -33,7 +33,9 @@ links:
 ---
 ```
 **IDs**: PERS:…, FAC:…, LOC:…, REG:…, ERA-*, EVT-*, etc.
+
 **Filenames**: snake_case.md.
+
 **Cross-refs**: store under links: by short keys (no deep links to Drafts from Stable).
 
 ## Timeline CSV
