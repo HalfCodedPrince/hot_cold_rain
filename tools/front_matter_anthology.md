@@ -1,0 +1,1365 @@
+
+## canon/entities/biota/pack_crab.md
+id: BIO:FA-CRAB-001
+name: Pack Crab (domesticated lineage)
+type: fauna
+status: Draft
+tags: [domesticated, haulage, shell]
+links:
+  arms: canon/systems/tech/arms_armor.md
+  ships: canon/systems/transport/ships_galleys.md
+
+## canon/entities/biota/skin_grass.md
+id: BIO:FL-SKINGRASS-001
+name: Skin Grass (“reed-skin”)
+type: flora
+status: Draft
+tags: [textile, roof, veil]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+
+## canon/entities/biota/spit_grass.md
+id: BIO:FL-GRASS-001
+name: Spit Grass (Ord Bay endemic)
+type: flora
+status: Draft
+tags: [pollen, ritual, hazard]
+links:
+  health: canon/systems/health/public_health.md
+  hydrology: canon/systems/planetology/hydrology.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/co_types/bat.md
+id: CTP:BAT-001
+name: Co-type — Bat (Ord–Sar)
+status: Draft
+tags: [co_type, bat]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+
+## canon/entities/co_types/fox.md
+id: CTP:FOX-001
+name: Co-type — Fox (Ord–Sar)
+status: Draft
+tags: [co_type, fox]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+
+## canon/entities/co_types/index.md
+id: CTP:INDEX
+name: Co-types Index
+status: Draft
+links:
+  bat: canon/entities/co_types/bat.md
+  fox: canon/entities/co_types/fox.md
+  otter: canon/entities/co_types/otter.md
+tags: [co_type, index]
+
+## canon/entities/co_types/otter.md
+id: CTP:OTT-001
+name: Co-type — Otter (Ord–Sar)
+status: Draft
+tags: [co_type, otter]
+links:
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  health: canon/systems/health/public_health.md
+
+## canon/entities/factions/archive_collegium.md
+id: FAC:ARC-001
+name: Archives Collegium
+type: record_office
+status: Draft
+links:
+  compositories: canon/entities/factions/guild_of_compositories.md
+  symbols: canon/systems/governance/symbols_of_office.md
+tags: [archives, seals, ledgers]
+
+## canon/entities/factions/beats/house_fifth_beat.md
+id: FAC:BEAT-005
+name: House of the Fifth Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Charity & public health; kitchens, infirmaries, flood relief.
+tags: [religion, charity, public_health]
+status: Stable
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  synod: canon/entities/factions/synod_of_beats.md
+
+## canon/entities/factions/beats/house_first_beat.md
+id: FAC:BEAT-001
+name: House of the First Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Doctrine & cosmology; defines orthodoxy; handles heresy cases.
+tags: [religion, doctrine]
+status: Stable
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/factions/beats/house_fourth_beat.md
+id: FAC:BEAT-004
+name: House of the Fourth Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Missions & harbors; liaison to the Council of Captains and port magistracies.
+tags: [religion, ports, diplomacy]
+status: Stable
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  religion: canon/systems/religions/good_old_rhythm.md
+  council: canon/entities/factions/council_of_captains.md
+
+## canon/entities/factions/beats/house_second_beat.md
+id: FAC:BEAT-002
+name: House of the Second Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Text & music; edits recensions, notates modes; trains scribes and choirmasters.
+tags: [religion, music, text]
+status: Stable
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  religion: canon/systems/religions/good_old_rhythm.md
+  tech: canon/systems/tech/writing_and_printing.md
+  guild: canon/entities/factions/guild_of_compositories.md
+
+## canon/entities/factions/beats/house_sixth_beat.md
+id: FAC:BEAT-006
+name: House of the Sixth Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Discipline & courts; internal discipline; arbitration; docketing with civic courts.
+tags: [religion, law, discipline]
+status: Stable
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  religion: canon/systems/religions/good_old_rhythm.md
+  governance: canon/systems/governance/empty_seat.md
+  censorate: canon/entities/factions/censors_bench.md
+  symbols: canon/systems/governance/symbols_of_office.md
+
+## canon/entities/factions/beats/house_third_beat.md
+id: FAC:BEAT-003
+name: House of the Third Beat
+type: temple_house
+parent: FAC:SYN-001
+founded_ao: c. 720
+mandate: Ritual & calendar; harmonizes festival timing with tideways and seasonal lanes.
+tags: [religion, ritual, calendar]
+status: Stable
+links:
+  synod: canon/entities/factions/synod_of_beats.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/factions/censors_bench.md
+id: FAC:CEN-001
+name: Censor’s Bench
+type: state censorate
+chartered_ao: 767
+seat: Ord City (Court of the Sixth Beat annex)
+mandate: License recensions; inspect Compositories; seize and burn leafs deemed heretical or seditious; proscribe choirs.
+tags: [censorship, law, print]
+status: Draft
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  guild: canon/entities/factions/guild_of_compositories.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+
+## canon/entities/factions/council_of_captains.md
+id: FAC:COC-001
+name: Council of Captains
+type: maritime council (executive)
+founded_ao: pre-300 AO (custom), formalized c. 300–350 AO
+seat: Ord City (Salt Chamber)
+mandate: Call elections; direct fleets and patrols; license convoys; appoint Captain-Representatives; steward emergency dockets.
+tags: [governance, navy, commerce]
+status: Stable
+links:
+  governance: canon/systems/governance/empty_seat.md
+  religion: canon/systems/religions/good_old_rhythm.md
+  censorate: canon/entities/factions/censors_bench.md
+  beats:
+    - canon/entities/factions/beats/house_fourth_beat.md
+    - canon/entities/factions/beats/house_sixth_beat.md
+  symbols: canon/systems/governance/symbols_of_office.md
+
+## canon/entities/factions/dredge_and_bar_works.md
+id: FAC:DBW-001
+name: Dredge & Bar Works
+type: civil works corps
+chartered_ao: 900
+seat: Ord Bay (Slipway Quarter)
+mandate: Dredge bars, maintain slipways, reset channel marks; bill ports via Debt Office schedules.
+tags: [infrastructure, dredging, channels]
+status: Draft
+links:
+  infra: canon/systems/infrastructure/public_works.md
+  finance: canon/entities/factions/public_debt_office.md
+
+## canon/entities/factions/grain_chancery.md
+id: FAC:CHA-001
+name: Grain Chancery
+type: fiscal chancery
+chartered_ao: c. 720
+seat: Ord City (Grain Quarter)
+mandate: Issue/redeem grain notes; set port tariffs and measures; audit flood granaries.
+tags: [finance, metrology, food_supply]
+status: Stable
+links:
+  metrology: canon/systems/metrology_calendar.md
+  governance: canon/systems/governance/empty_seat.md
+
+## canon/entities/factions/guild_of_compositories.md
+id: FAC:COMP-001
+name: Guild of Compositories
+type: printer-editors guild
+chartered_ao: c. 710
+seat: Ord City (Compository Row)
+jurisdiction: port cities; licensed houses in major markets
+mandate: Set type and plates for civic forms, pilot-books, hymn-leafs; license temple-approved recensions; publish secular works.
+tags: [printing, commerce, guild]
+status: Stable
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  tech: canon/systems/tech/writing_and_printing.md
+  censorate: canon/entities/factions/censors_bench.md
+  symbols: canon/systems/governance/symbols_of_office.md
+
+## canon/entities/factions/harbor_watches.md
+id: FAC:HBW-001
+name: Harbor Watches
+type: harbor_watch_network
+status: Draft
+links:
+  public_works: canon/systems/infrastructure/public_works.md
+  piracy: canon/systems/security/modern_piracy_navies.md
+  law_admin: canon/systems/governance/law_admin.md
+tags: [signals, bells, fog, headlands]
+
+## canon/entities/factions/keeper_of_oboe_seal.md
+id: FAC:KOS-001
+name: Keeper of the Oboe Seal
+type: crown office
+chartered_ao: 783
+seat: Ord City (Court Vaults)
+mandate: Hold the High Master’s seal matrix & ledger-keys under joint lock (Council + Beat Six); certify absence; register interim acts; sequester tainted seals; yield the seal to the newly proclaimed High Master.
+tags: [law, regency, archives]
+status: Stable
+links:
+  governance: canon/systems/governance/empty_seat.md
+  symbols: canon/systems/governance/symbols_of_office.md
+  council: canon/entities/factions/council_of_captains.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+
+## canon/entities/factions/office_imperial_works.md
+id: FAC:IMW-001
+name: Office of Imperial Works
+type: public works board
+chartered_ao: 756
+seat: Ord City (Slipway Quarter)
+mandate: Manage palaces, slipways, beacon towers, cisterns; commission architectural works.
+tags: [infrastructure, architecture, finance]
+status: Draft
+links:
+  infra: canon/systems/infrastructure/public_works.md
+  governance: canon/systems/governance/empty_seat.md
+
+## canon/entities/factions/public_debt_office.md
+id: FAC:PDO-001
+name: Public Debt Office
+type: treasury board
+chartered_ao: 898
+seat: Ord City (Grain Quarter annex)
+mandate: Float notes/bonds for beacon legs, dredge cycles, and watch posts; service debt via tariffs and assurance fees.
+tags: [finance, debt, tariffs]
+status: Draft
+links:
+  chancery: canon/entities/factions/grain_chancery.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  insurance: canon/entities/factions/convoy_insurance_office.md
+
+## canon/entities/factions/synod_of_beats.md
+id: FAC:SYN-001
+name: Synod of Beats
+type: religious council
+parent: canon/systems/religions/good_old_rhythm.md
+founded_ao: c. 720
+seats: rotating (Ord City; Sar capitals)
+mandate: Governance of doctrine, music-text, ritual, missions, charity, and discipline within the Good Old Rhythm.
+tags: [religion, governance, law, music]
+status: Stable
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  governance: canon/systems/governance/empty_seat.md
+  houses:
+    - FAC:BEAT-001
+    - FAC:BEAT-002
+    - FAC:BEAT-003
+    - FAC:BEAT-004
+    - FAC:BEAT-005
+    - FAC:BEAT-006
+
+## canon/entities/people/erel_zambrani_keeper.md
+id: PERS:CAD-007
+name: Erel Zambrani “the Keeper”
+lifespan: r. 1039–1050 AO
+role: High Master (Golden Cadence)
+tags: [law, keeper, warrants]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+
+## canon/entities/people/eshoron_ir.md
+id: PERS:ESH-001
+name: Eshoron Ir
+naming:
+  style: house_gentilic
+  components: { given: Eshoron, house: Ir }
+  ledger_name: Eshoron Ir
+lifespan: ??–?? AO
+role: High Master (successor); convenor of the First Canon
+tags: [religion, administration, law]
+first_appearance: ERA-700
+status: Draft
+links:
+  era: canon/eras/02_zambranic_700_800.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/people/iarin_zambrani.md
+id: PERS:CAD-001
+name: Iarin Zambrani “the Standardizer”
+lifespan: r. 860–888 AO
+role: High Master (Golden Cadence)
+tags: [governance, standardization, metrology]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  council: canon/entities/factions/council_of_captains.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  watches: canon/entities/factions/harbor_watches.md
+  metrology: canon/systems/metrology_calendar.md
+  debt: canon/entities/factions/public_debt_office.md
+
+## canon/entities/people/kelim_ar_chancellor.md
+id: PERS:CAD-003
+name: Kelim Ar “the Chancellor”
+lifespan: r. 913–942 AO
+role: High Master (Golden Cadence)
+tags: [finance, debt, infrastructure]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  debt: canon/entities/factions/public_debt_office.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+
+## canon/entities/people/kelim_ar_of_sar_north.md
+id: PERS:KAR-001
+name: Kelim Ar of Sar-North
+lifespan: fl. 690–730 AO
+role: Musicologist; grammarian; redactor
+tags: [music, language, religion]
+first_appearance: ERA-700
+status: Draft
+links:
+  region: canon/entities/regions/sar_north.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/people/marak_kllrian.md
+id: PERS:MRK-001
+name: Marak Kllrian
+naming:
+  style: demonym
+  components:
+     given: Marak
+     people: Kllrian
+  ledger_name: Marak Kllrian
+lifespan: 770–821 AO
+role: Admiral; elected High Master (restorer)
+tags: [navy, war, logistics]
+thesis: Outsider with the only fleet that still worked; took the Oar-Bench, made order cheaper than rebellion, and died in a storm.
+first_appearance: ERA-805
+status: Draft
+links:
+  era: canon/eras/05_pax_ordica_790_860.md
+  council: canon/entities/factions/council_of_captains.md
+  watches: canon/entities/factions/harbor_watches.md
+  insurance: canon/entities/factions/convoy_insurance_office.md
+  law: canon/systems/law/marriage_and_vows.md
+
+## canon/entities/people/maren_kllrian.md
+id: PERS:CAD-002
+name: Maren Kllrian “the Quiet Helm”
+lifespan: r. 888–913 AO
+role: High Master (Golden Cadence)
+tags: [convoys, seamanship, education]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  council: canon/entities/factions/council_of_captains.md
+  charts: canon/systems/transport/navigation_currents.md
+
+## canon/entities/people/marr_the_skin_grass.md
+id: PERS:MAR-001
+name: Marr “the Skin-Grass”
+naming:
+  style: patronymic
+  components:
+    given: Marr
+    parent: Marr
+  epithets: ["the Skin-Grass"]
+  ledger_name: Marr ben Marr
+lifespan: 703–783 AO
+role: High Master (interlude)
+tags: [politics, censorship, architecture]
+thesis: A capable schemer turned corrosive ruler; popular opener, censorious midgame, sullen end—he teaches ports to test the leash.
+first_appearance: ERA-750
+status: Draft
+links:
+  era: canon/eras/04_marrite_747_783.md
+  council: canon/entities/factions/council_of_captains.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/people/nasha_of_tau_hi.md
+id: PERS:NAT-001
+name: Nasha of Tau-Hi
+lifespan: fl. 690–720 AO
+role: Natural philosopher; mariner-tutor; redactor
+tags: [science, navigation, religion]
+first_appearance: ERA-700
+status: Draft
+links:
+  city: canon/entities/places/tau_hi.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/people/nasha_tau_hi_broker.md
+id: PERS:CAD-005
+name: Nasha of Tau-Hi “the Broker”
+lifespan: r. 972–1006 AO
+role: High Master (Golden Cadence)
+tags: [treaties, law, ports]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  seven_fingers: canon/entities/places/seven_fingers.md
+  council: canon/entities/factions/council_of_captains.md
+
+## canon/entities/people/neris_zambrani.md
+id: PERS:PUL-001
+name: Nerise Zambrani
+naming:
+  style: house_gentilic
+  components:
+    given: Nerise
+    house: Zambran
+  ledger_name: Nerise Zambrani
+lifespan: 760–830 AO
+role: Matron of an Old Captain house; co-restorer
+tags: [finance, law, diplomacy, religion]
+thesis: The purse and the pulse—she fenced the censorate, armed the loyal, and staged the unity rites while keeping the republic’s forms.
+first_appearance: ERA-805
+status: Draft
+links:
+  era: canon/eras/05_pax_ordica_790_860.md
+  council: canon/entities/factions/council_of_captains.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  law: canon/systems/law/marriage_and_vows.md
+
+## canon/entities/people/nerise_ward_placeholder.md
+id: PERS:NEPHEW-TBD
+name: Nerise’s Ward (placeholder)
+status: Stub
+links:
+  council: canon/entities/factions/council_of_captains.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+
+## canon/entities/people/ordan_bel_builder.md
+id: PERS:CAD-006
+name: Ordan Bel “the Builder”
+lifespan: r. 1006–1039 AO
+role: High Master (Golden Cadence)
+tags: [infrastructure, works, logistics]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+
+## canon/entities/people/pumyaaton.md
+id: PERS:PUM-003
+name: Pumyaaton (brother of Philosir II)
+lifespan: fl. 518 AO
+role: Wurranian commander (overland raid)
+tags: [wurran, campaign, battle_of_mistakes]
+status: Draft
+links:
+  wurran: canon/entities/places/wurran.md
+  ord: canon/entities/places/ord_city.md
+  kllrian_arc: canon/entities/regions/kllrian_arc.md
+
+## canon/entities/people/seven_fingers_captain.md
+id: PERS:SEV-REP-001
+name: Arsu of Seven Fingers
+naming:
+  style: toponymic
+  components:
+    given: Arsu
+    place: Seven Fingers
+  ledger_name: Arsu of Seven Fingers
+lifespan: ?–800 AO
+role: Captain-Representative turned breakaway ruler
+tags: [rebellion, ports]
+thesis: Marr’s slighted captain who taught ports the center wouldn’t bite—until Marak did.
+first_appearance: ERA-750
+status: Draft
+links:
+  place: canon/entities/places/seven_fingers.md
+  era: canon/eras/05_pax_ordica_790_860.md
+
+## canon/entities/people/tammis_ardan.md
+id: PERS:TAM-001
+name: Tammis Ardan
+lifespan: r. 741–746 AO
+role: High Master
+tags: [governance, arsenal, reform]
+status: Draft
+links:
+  council: canon/entities/factions/council_of_captains.md
+  era: canon/eras/02_zambranic_700_800.md
+
+## canon/entities/people/teyu_ir_curator.md
+id: PERS:CAD-004
+name: Teyu Ir “the Curator”
+lifespan: r. 942–972 AO
+role: High Master (Golden Cadence)
+tags: [ritual, censorship, calendar]
+status: Draft
+links:
+  roll: canon/notes/rolls/high_masters_golden_cadence.md
+  synod: canon/entities/factions/synod_of_beats.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+
+## canon/entities/people/teyu_the_grey.md
+id: PERS:TGY-001
+name: Teyu the Grey
+lifespan: fl. 680–720 AO
+role: Tutor-slave turned steward; redactor
+tags: [administration, industry, religion]
+first_appearance: ERA-700
+status: Draft
+links:
+  labor: canon/systems/labor/penal_transportation.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/people/thedos_zambrani.md
+id: PERS:THE-001
+name: Thedos Zambrani
+lifespan: 758–790 AO
+role: Captain-family scion; candidate for the Oar-Bench
+tags: [politics, succession]
+thesis: The bid that never landed—Nerise’s brother whose murder lit the restoration.
+first_appearance: ERA-805
+status: Draft
+links:
+  era: canon/eras/05_pax_ordica_790_860.md
+
+## canon/entities/people/zambran.md
+id: PERS:ZAM-001
+name: Zambran “the Singer”
+lifespan: 650–726 AO
+role: High Master (reformer)
+tags: [politics, religion, oratory]
+thesis: Patron–standardizer of the Rhythm; unifier by press, purse, and policy—charisma over sword.
+first_appearance: ERA-700
+status: Stable
+contradictions:
+  - Tradition credits authorship of the Old Bold Rhythm; temple minutes/ledgers indicate a Sar-trained editorial circle as principal redactors.
+aliases: [Zambran, High Master Zambran]
+links:
+  era: canon/eras/02_zambranic_700_800.md
+  religion: canon/systems/religions/good_old_rhythm.md
+
+## canon/entities/places/coi_hi.md
+id: LOC:KOI-001
+name: Koi-Hi
+type: city-state → later free port (Longara)
+region: Eastern Ord littoral (tail of the easternmost, southernmost peninsula)
+population_class: metropolis (~600,000 at late-precolonial peak)
+governance: city council & port magistracies; later Longara civic senate
+economy: [deepwater harbor, pilot-books, reef salt/dyes, compositories, insurance houses, shipyards]
+religions: [Good Old Rhythm, local syncretisms]
+tags: [port, metropolis, pilotage, insurance, decay]
+status: Draft
+aliases: [Coi-Hi]
+links:
+  eras:
+    - canon/eras/02_zambranic_700_800.md
+    - canon/eras/04_marrite_747_783.md
+  systems:
+    - canon/systems/transport/navigation_currents.md
+    - canon/systems/tech/writing_and_printing.md
+    - canon/systems/culture/games_and_festivals.md
+    - canon/systems/infrastructure/public_works.md
+  factions:
+    - canon/entities/factions/guild_of_compositories.md
+    - canon/entities/factions/council_of_captains.md
+
+## canon/entities/places/krum_primary_site.md
+id: LOC:KRM-001
+name: Ish-Atu Ziggurat Complex (Primary)
+type: submerged_ritual_complex
+region: REG:BRI-001
+status: WIP
+tags: [ziggurat, ritual, submerged]
+
+## canon/entities/places/ord_city.md
+id: LOC:ORD-001
+name: Ord City
+type: city
+region: Bright Sea / Ord Coast
+founded_ao: 0
+population_class: metropolis
+governance: Council of Captains (historic); later imperial administration
+economy: [shipyards, grain chancery, convoy insurance, compositories]
+religions: [Good Old Rhythm]
+tags: [capital, port, shipbuilding, finance]
+status: Stable
+aliases: [Ord, The City]
+links:
+  eras:
+    - canon/eras/01_ord_sar_foundation.md
+    - canon/eras/02_zambranic_700_800.md
+  timeline: [canon/timeline/point_timeline.csv]
+
+## canon/entities/places/reed_camp_district.md
+id: LOC:REED-001
+name: Reed-Camp District
+type: penal/slavery ore-camp district
+region: Sar hinterland reed marshes (bog-iron)
+population_class: dispersed camps
+governance: military wardens; later “protection” compacts with local elites
+economy: [bog iron, charcoal, camp stores]
+religions: [Good Old Rhythm (under wardens), camp syncretisms]
+tags: [penal, industry, slaves, revolt]
+status: Draft
+links:
+  eras:
+    - canon/eras/04_marrite_747_783.md
+  timeline: [canon/timeline/point_timeline.csv]
+
+## canon/entities/places/seven_fingers.md
+id: LOC:SEV-001
+name: Seven Fingers
+type: city-state
+region: Sar littoral
+population_class: city
+governance: council captured by Captain-Representative (late Marrite)
+economy: [reef harvest, dyes, seafaring books, levy ports]
+religions: [Good Old Rhythm, local syncretisms]
+tags: [port, factional, defection]
+status: Draft
+aliases:
+  - "Seven Fingers" (trade misnomer)
+native:
+  short: (tbd)
+  gloss: hair / comb / priest-garb (metonym for “fringe” in Old Sar)
+links:
+  eras:
+    - canon/eras/04_marrite_747_783.md
+  timeline: [canon/timeline/point_timeline.csv]
+
+## canon/entities/places/tau_hi.md
+id: LOC:TAU-HI
+name: Tau-Hi
+type: city
+region: REG:SAR-NORTH
+status: Draft
+tags: [city, sar_north, legal, cultural]
+
+## canon/entities/places/wurran.md
+id: LOC:WUR-001
+name: Wurran-at-Delta
+type: river_delta_city
+continent: Ord
+climate: monsoonal
+status: WIP
+tags: [river_delta, city, port]
+
+## canon/entities/regions/bright_sea.md
+id: REG:BRI-001
+name: Bright Sea
+type: inland_seaway
+status: Stable
+tags: [region, seaway, bright_sea]
+links:
+  old_song: canon/systems/transport/navigation_currents.md
+
+## canon/entities/regions/kllrian_arc.md
+id: REG:KLR-ARC
+name: Kllrian Arc
+type: region
+status: Draft
+tags: [region, archipelago, volcanic]
+
+## canon/entities/regions/ord_bay.md
+id: REG:ORD-BAY
+name: Ord Bay
+type: region
+status: Draft
+tags: [region, bay, harbor]
+
+## canon/entities/regions/ord_iron_marsh.md
+id: REG:ORD-MARSH
+name: Ord Iron Marshes
+type: region
+status: Draft
+tags: [region, marsh, bog_iron]
+
+## canon/entities/regions/ord_west.md
+id: REG:ORD-WEST
+name: Western Ord Peninsulas
+type: region
+status: Draft
+tags: [region, peninsula, forts]
+
+## canon/entities/regions/sar_north.md
+id: REG:SAR-NORTH
+name: Sar North Cities
+type: region
+status: Draft
+tags: [region, cities, tributary]
+
+## canon/entities/regions/widiwidi_lee_arcs.md
+id: REG:WID-LEE
+name: Widiwidi Lee Arcs
+type: region
+status: Draft
+tags: [region, volcanic, pilot_lore]
+
+## canon/eras/00_preord_krum.md
+id: ERA-00
+name: Pre-Ord — Cuzhar Krum and the Ash Years
+status: Draft
+span: "pre–300 AO"
+thesis: "Thalassocratic Bright Sea cultures (Cuzhar Krum) rise on trade and navigation; volcanic/ climatic shocks drive collapse and diaspora before Ord’s ascent."
+signature_events: []
+institutions: []
+
+## canon/eras/01_early_ord_300_700.md
+id: ERA-01
+name: Early Ord (c. 300–700 AO)
+status: Draft
+span: "300–700 AO"
+thesis: "City-states on Ord and Sar coasts consolidate sea-lanes; councils, temple courts, and levy fleets emerge from practical needs (tolls, hygiene, famine control)."
+signature_events: []
+institutions:
+  - canon/entities/factions/council_of_captains.md
+  - canon/entities/factions/synod_of_beats.md
+
+## canon/eras/02_zambranic_700_800.md
+id: ERA-02
+name: Zambranic Reforms (c. 700–800 AO)
+status: Draft
+span: "700–800 AO"
+thesis: "Zambran’s circle fixes doctrine and law in print; Ord–Sar unifies by blockade, siege, and deal-making; imperial offices harden."
+signature_events: []
+institutions:
+  - canon/entities/people/neris_zambrani.md
+  - canon/systems/religions/good_old_rhythm.md
+  - canon/entities/factions/guild_of_compositories.md
+  - canon/entities/factions/council_of_captains.md
+
+## canon/eras/03_marrite_747_783.md
+id: ERA-03
+name: Marrite Interlude (747–783 AO)
+status: Draft
+span: "747–783 AO"
+thesis: "A populist accession curdles into censorship, scandals, and fiscal erosion; power reverts to councils and temple houses; Marr vanishes without a body."
+signature_events: []
+institutions:
+  - canon/entities/people/Marr_the_Skin_Grass.md
+  - canon/entities/factions/censors_bench.md
+  - canon/systems/governance/empty_seat.md
+
+## canon/eras/04_pax_ordica_790_860.md
+id: ERA-04
+name: Pax Ordica / Early Cadence (790–860 AO)
+status: Draft
+span: "790–860 AO"
+thesis: "Post-Marr consolidation: legal clarity, festival unities, harbor watches; institutions routinize power-sharing across Council, Beats, and Chancery."
+signature_events: []
+institutions:
+  - canon/entities/factions/council_of_captains.md
+  - canon/entities/factions/synod_of_beats.md
+  - canon/entities/factions/public_debt_office.md
+
+## canon/eras/05_golden_cadence_apex_860_1050.md
+id: ERA-05
+name: Golden Cadence — Apex (860–1050 AO)
+status: Draft
+span: "860–1050 AO"
+thesis: "Maritime high period: standardized charts, public works, and trade cartels deliver wealth and reach—alongside the seeds of overextension."
+signature_events: []
+institutions:
+  - canon/entities/factions/public_debt_office.md
+  - canon/entities/factions/grain_chancery.md
+  - canon/entities/factions/guild_of_compositories.md
+
+## canon/eras/ERAS_EXAMPLE_FORMAT.md
+id: ERA-11
+name: The Grand Principate (c. 1650–1740 AO)
+status: Draft
+span: "1650–1740 AO"
+thesis: "Marriage compacts + credit-state centralization unify the north; autonomy deals seed future stalemate."
+signature_events: [EVT-1661-POST-RIDERS, EVT-1692-IMPRIMATUR-POINTS]
+institutions: [FAC:PUBLIC-DEBT-OFFICE, FAC:GUILD-COMPOSITORIES]
+
+## canon/notes/changelog.md
+id: NOTE:CHANGELOG
+name: Project Changelog
+status: Draft
+
+## canon/notes/diegetic/DIEGETIC_EXAMPLE_FORMAT.md
+id: DOC:PEACE-PROGRAM-1796
+name: “Hands to the Sky” — Public Circular on the Peace Program
+status: Stable
+date_ao: 1796
+provenance: Oboe-House press office
+seal: Keeper of the Oboe Seal
+tags: [diegetic, circular, peace_program]
+links:
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  overview: canon/overview.md
+
+## canon/notes/diegetic/book_childrens_sky.md
+id: DOC:KIDS-SKY-1792
+name: Our Place in the Song: A Child’s Guide to the Sky Above
+status: Draft
+date_ao: 1792
+provenance: Coi-Hi Youth Press (5th Ed.)
+tags: [diegetic, schoolbook, sky, astronomy]
+links:
+  oboe: canon/systems/cosmos/oboe.md
+  hex: canon/systems/cosmos/moon_hex.md
+  bean: canon/systems/cosmos/bean.md
+  karodot: canon/systems/cosmos/karodot.md
+  ze: canon/systems/cosmos/ze.md
+  belts: canon/systems/cosmos/belts.md
+  planet: canon/systems/planetology/point.md
+  hydrology: canon/systems/planetology/hydrology.md
+fact_box:
+  title: "Our Place in the Song: A Child’s Guide to the Sky Above"
+  doc_type: schoolbook
+  author_in_universe: "Nira Ro (text), Ado Co-Tira (illustrations)"
+  date_ao: 1792
+  era: ERA-1700
+  relates_to: [COS:OBE-001, COS:HEX-001, COS:KAR-001, COS:BEA-001, COS:ZE-001, COS:BEL-001, GEO:SYS-001, GEO:WAT-001]
+  audience: children
+  reliability: medium
+  source_tier: secondary
+  claims:
+    - "Hex can appear green when aerosols scatter moonlight."
+    - "Karodot has a faint ring and many moons."
+    - "Point’s seasons are driven by axial tilt; rains are abrupt."
+  canonical_links:
+    - canon/systems/cosmos/index.md
+    - canon/systems/planetology/point.md
+
+## canon/notes/diegetic/extract_manumission.md
+id: DOC:MANUMISSION-771-ORD
+name: Manumission Roll XII (771 AO), Port of Ord — Beat Six Seal
+status: Draft
+tags: [diegetic, manumission, law]
+links:
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  law: canon/systems/law/marriage_and_vows.md
+  place: canon/entities/places/ord_city.md
+
+## canon/notes/diegetic/interview_with_the_ancestors_ep7_battle_of_mistakes.md
+id: DOC:IWTA-EP7-BOM-0518
+name: Interview with the Ancestors — Ep. 7: “The Battle of Mistakes” (518 AO)
+status: Draft
+date_ao: 1790  # or whenever the broadcast/printing happens
+provenance: Coi-Hi Public Radio transcription
+tags: [diegetic, transcript, battle_of_mistakes]
+links:
+  pum: canon/entities/people/pumyaaton.md
+  wurran: canon/entities/places/wurran.md
+  ord: canon/entities/places/ord_city.md
+
+## canon/notes/diegetic/pamphlet_cuzhar_krum.md
+id: DOC:KRUM-PAMPHLET-1783
+name: The Ancient, the Submerged, the Misrepresented — Cuzhar Krum
+status: Draft
+date_ao: 1783
+provenance: Coi-Hi University Press
+tags: [diegetic, pamphlet, krum]
+links:
+  bright_sea: canon/entities/regions/bright_sea.md
+  primary_site: canon/entities/places/krum_primary_site.md
+  oboe: canon/systems/cosmos/oboe.md
+  era_preord: canon/eras/00_preord_krum.md
+fact_box:
+  title: "The Ancient, the Submerged, the Misrepresented: Cuzhar Krum"
+  doc_type: pamphlet
+  author_in_universe: "Coi-Hi University Press"
+  date_ao: -975
+  era: ERA-010
+  relates_to: [LOC:KRM-001, REG:BRI-001]
+  audience: public
+  reliability: medium
+  source_tier: secondary
+  claims:
+    - "Krum relied on tin shipments from Ord uplands to sustain bronze trade."
+    - "Volcanic ash years and storm decades precipitated abandonment."
+    - "Crab-shell inscriptions served elite/ceremonial record-keeping."
+  canonical_links:
+    - canon/eras/00_preord_krum.md
+    - canon/systems/cosmos/index.md
+
+## canon/notes/diegetic/report_reed_camp_rising.md
+id: DOC:RCR-0762
+name: Incident Report — Reed-Camp Rising (EVT-0762-RCR)
+status: Draft
+tags: [diegetic, report, penal, revolt]
+links:
+  place: canon/entities/places/reed_camp_district.md
+  labor: canon/systems/labor/penal_transportation.md
+  era: canon/eras/04_marrite_747_783.md
+fact_box:
+  title: "Incident Report: Reed-Camp Rising (EVT-0762-RCR)"
+  doc_type: report
+  author_in_universe: "Harbor Watch, Ord Iron Marshes Detachment"
+  date_ao: 762
+  era: ERA-700
+  relates_to: [REG:ORD-MARSH]
+  audience: elite
+  reliability: high
+  source_tier: primary
+  claims:
+    - "Storm-eve chain loosening and levee sabotage enabled mass escape from penal ore camp."
+    - "Casualties minimal among guards; ore output projected to dip for 2–3 seasons."
+    - "Three ringleaders unaccounted; suspected passage via reed punts at third tide bell."
+
+## canon/notes/diegetic/zambran_era_extracts.md
+id: DOC:ZAM-ERA-EXTRACTS-700
+name: Zambran-Era Leaf Extracts (c. 699–705 AO)
+status: Draft
+date_ao: 699–705
+provenance: Mixed leaf copies (licensed and private)
+tags: [diegetic, extracts, zambranic]
+links:
+  era: canon/eras/02_zambranic_700_800.md
+  nasha: canon/entities/people/nasha_of_tau_hi.md
+  kelim: canon/entities/people/kelim_ar_of_sar_north.md
+  teyu: canon/entities/people/teyu_the_grey.md
+
+## canon/notes/rolls/high_masters_golden_cadence.md
+id: ROLL:HM-GC-860-1050
+name: High Masters of the Golden Cadence (860–1050 AO)
+type: roll
+status: Draft
+links:
+  apex_snapshot: canon/notes/snapshots/empire_at_its_peak_c950.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  dredge_works: canon/entities/factions/dredge_and_bar_works.md
+
+## canon/notes/scratchpad/world_themes.md
+id: NOTE:THEMES-001
+name: World Themes (Shana Mutatorem)
+status: Draft
+links:
+  overview: canon/overview.md
+
+## canon/notes/snapshots/empire_at_its_peak_c950.md
+id: SNAP:PEAK-950
+name: Empire at Its Peak (c. 950 AO)
+status: Draft
+links:
+  era: canon/eras/06_golden_cadence_apex_860_1050.md
+
+## canon/notes/snapshots/known_world_c950.md
+id: SNAP:WORLD-950
+name: Known World c. 950 AO
+status: Draft
+links:
+  related_snapshot:: canon/notes/snapshots/empire_at_its_peak_c950.md
+
+## canon/systems/agriculture_diet.md
+id: SYS:AGRO-DIET
+name: Agriculture & Diet — Coasts, Deltas, Isles
+status: Draft
+overlay: false
+links:
+  finance: canon/systems/economy/currency_finance.md
+  security: canon/systems/security/modern_piracy_navies.md
+
+## canon/systems/climate/bright_sea_climate.md
+id: CLIM:BRIGHT-SEA
+name: Bright Sea Climate, Old Song & Green Rains
+status: Draft
+links:
+  transport: canon/systems/transport/navigation_currents.md
+  infra: canon/systems/infrastructure/public_works.md
+
+## canon/systems/cosmos/bean.md
+id: COS:BEA-001
+name: Bean (Inner Dwarf)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+tags: [inner, dwarf]
+
+## canon/systems/cosmos/belts.md
+id: COS:BEL-001
+name: Belts & Small Bodies
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+tags: [asteroids, belts]
+
+## canon/systems/cosmos/index.md
+id: COS:INDEX-001
+name: Cosmos Index
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+
+## canon/systems/cosmos/karodot.md
+id: COS:KAR-001
+name: Karodot (Gas Giant)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+  belts: canon/systems/cosmos/belts.md
+  peace_program: canon/notes/diegetic/press_poster_peace_program.md
+tags: [giant, folklore, rings]
+
+## canon/systems/cosmos/moon_hex.md
+id: COS:HEX-001
+name: Hex (Point’s Moon)
+status: Draft
+aliases: [Ex]   # early-draft alias (deprecated)
+links:
+  overview: canon/systems/cosmos/overview.md
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [tides, aerosols, religion]
+
+## canon/systems/cosmos/oboe.md
+id: COS:OBE-001
+name: Oboe (Primary Star)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+  hex: canon/systems/cosmos/moon_hex.md
+  point: canon/systems/planetology/point.md
+tags: [star, ephemerides, religion]
+
+## canon/systems/cosmos/overview.md
+id: COS:SYS-001
+name: Cosmos Overview
+status: Draft
+links:
+  oboe: canon/systems/cosmos/oboe.md
+  hex: canon/systems/cosmos/moon_hex.md
+  karodot: canon/systems/cosmos/karodot.md
+  bean: canon/systems/cosmos/bean.md
+  ze: canon/systems/cosmos/ze.md
+  belts: canon/systems/cosmos/belts.md
+  index: canon/systems/cosmos/index.md
+
+## canon/systems/cosmos/ze.md
+id: COS:ZE-001
+name: Ze (Outer Dwarf)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+  belts: canon/systems/cosmos/belts.md
+tags: [outer, dwarf, eccentric]
+
+## canon/systems/economy/currency_finance.md
+id: SYS:ECON-CUR
+name: Currency & Finance — Ord–Sar Sphere
+status: Draft
+overlay: false
+era_tags: []
+links:
+  governance: canon/systems/governance/law_admin.md
+  hydrology: canon/systems/planetology/hydrology.md
+  transport: canon/systems/transport/modern_index.md
+  security: canon/systems/security/modern_piracy_navies.md
+
+## canon/systems/geography/expansion_routes_cadence.md
+id: GEO:CADENCE-EXPANSION
+name: Expansion & Frontiers in the Golden Cadence
+status: Draft
+links:
+  era: canon/eras/06_golden_cadence_apex_860_1050.md
+
+## canon/systems/governance/empty_seat.md
+id: GOV:EMPTY-SEAT
+name: The Empty Seat — Interregnal Governance
+status: Stable
+links:
+  council: canon/entities/factions/council_of_captains.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  symbols: canon/systems/governance/symbols_of_office.md
+
+## canon/systems/governance/law_admin.md
+id: SYS:GOV-LAW
+name: Law & Administration — From Captains to Diet
+status: Draft
+overlay: false
+era_tags: []
+region_tags: [ord_bay, sar_north]
+links:
+  council: canon/entities/factions/council_of_captains.md
+  synod: canon/entities/factions/synod_of_beats.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  metrology: canon/systems/metrology_calendar.md
+  finance: canon/systems/economy/currency_finance.md
+
+## canon/systems/governance/political_ecology_bright_sea.md
+id: GOV:POL-ECO
+name: Political Ecology of the Bright Sea
+status: Draft
+links:
+  climate: canon/systems/climate/bright_sea_climate.md
+  hydrology: canon/systems/planetology/hydrology.md
+  transport: canon/systems/transport/modern_index.md
+  law: canon/systems/governance/law_admin.md
+tags: [political_ecology, thalassocracy]
+
+## canon/systems/governance/symbols_of_office.md
+id: GOV:SYMB-OFF
+name: Symbols of Office (Ord–Sar)
+status: Draft
+links:
+  empty_seat: canon/systems/governance/empty_seat.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+tags: [symbols, ritual, office]
+
+## canon/systems/health/public_health.md
+id: HEALTH:PUB-001
+name: Public Health (Green Rains & Warm Seas)
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  transport_index: canon/systems/transport/modern_index.md
+
+## canon/systems/infrastructure/public_works.md
+id: INFRA:PUB-001
+name: Public Works — Beacons, Seawalls & Cisterns
+status: Draft
+links:
+  office_works: canon/entities/factions/office_imperial_works.md
+  transport: canon/systems/transport/modern_index.md
+  health: canon/systems/health/public_health.md
+  climate: canon/systems/climate/bright_sea_climate.md
+
+## canon/systems/labor/coercion_and_status.md
+id: SYS:LAB-STATUS
+name: Coercion & Status in Ord–Sar
+status: Draft
+links:
+  slavery: canon/systems/labor/slavery_in_ord_sar.md
+  penal: canon/systems/labor/penal_transportation.md
+  law: canon/systems/governance/law_admin.md
+tags: [labor, law, status]
+
+## canon/systems/labor/penal_transportation.md
+id: SYS:LAB-PENAL
+name: Penal Transportation & Camp Regimes
+status: Draft
+links:
+  reed_camp: canon/entities/places/reed_camp_district.yaml
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  censors: canon/entities/factions/censors_bench.md
+tags: [penal, camps, labor]
+
+## canon/systems/labor/slavery_in_ord_sar.md
+id: SYS:LAB-SLAVERY
+name: Slavery in Ord–Sar (c. 300–900 AO)
+status: Draft
+links:
+  status: canon/systems/labor/coercion_and_status.md
+  penal: canon/systems/labor/penal_transportation.md
+  religion: canon/systems/religions/good_old_rhythm.md
+tags: [labor, law, slavery]
+
+## canon/systems/language/linguistic_guide.md
+id: LING:SYS-001
+name: Linguistic Guide (Ord–Sar Sphere)
+status: Draft
+links:
+  names: canon/systems/language/names_and_onomastics.md
+  suffixes: canon/systems/language/onomastic_suffixes.md
+tags: [language, phonology, morphology, names]
+
+## canon/systems/language/names_and_onomastics.md
+id: LING:NAMES-001
+name: Names & Onomastics (Ord–Sar)
+status: Draft
+links:
+  suffixes: canon/systems/language/onomastic_suffixes.md
+tags: [names, onomastics]
+
+## canon/systems/language/onomastic_suffixes.md
+id: LANG:SUFFIXES
+name: Onomastic Suffixes (cheat sheet)
+status: Stable
+links:
+  names: canon/systems/language/names_and_onomastics.md
+
+## canon/systems/law/marriage_and_vows.md
+id: LAW:MARRIAGE-001
+name: Marriage & Vows (Ord–Sar)
+status: Draft
+links:
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  beat_two: canon/entities/factions/beats/house_second_beat.md
+  beat_three: canon/entities/factions/beats/house_third_beat.md
+tags: [marriage, vows, law]
+
+## canon/systems/metrology_calendar.md
+id: SYS:MET-CAL
+name: Metrology & Calendar — Base-6 Habits
+status: Draft
+overlay: false
+links:
+  law: canon/systems/governance/law_admin.md
+  cosmos_index: canon/systems/cosmos/index.md
+
+## canon/systems/planetology/geology.md
+id: GEO:TEK-001
+name: Geology & Plates
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [geology, tectonics]
+
+## canon/systems/planetology/hydrology.md
+id: GEO:WAT-001
+name: Hydrology & 'Green Rain'
+status: Draft
+links:
+  hex: canon/systems/cosmos/moon_hex.md
+tags: [hydrology, green_rain]
+
+## canon/systems/planetology/point.md
+id: GEO:SYS-001
+name: Planet Point (Basics)
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  hex: canon/systems/cosmos/moon_hex.md
+tags: [planet, point]
+
+## canon/systems/religions/good_old_rhythm.md
+id: REL:GDR-001
+name: Good Old Rhythm (Old Bold Rhythm)
+status: Draft
+links:
+  oboe: canon/systems/cosmos/oboe.md
+  beats_synod: canon/entities/factions/synod_of_beats.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  beat_two: canon/entities/factions/beats/house_second_beat.md
+  compositories: canon/entities/factions/compository_houses.md
+tags: [religion, music, governance]
+
+## canon/systems/security/modern_piracy_navies.md
+id: SEC:NAV-001
+name: Piracy, Convoys & Navies (Cadence → GP)
+status: Draft
+links:
+  finance: canon/systems/economy/currency_finance.md
+  transport_index: canon/systems/transport/modern_index.md
+  harbor_watches: canon/entities/factions/harbor_watches.md
+
+## canon/systems/systems_examples_format.md
+id: SYS:GOV-EMPTY-SEAT   # stable ID; overlays reuse base ID or add -09 suffix if needed
+name: The Empty Seat — Interregnal Governance
+status: Stable
+overlay: false           # true for overlays
+era_tags: [ ]            # e.g., [09, 14] for overlays
+region_tags: [ord_bay]   # optional facets
+links:
+  council: canon/entities/factions/council_of_captains.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  keeper: canon/entities/factions/keeper_of_oboe_seal.md
+
+## canon/systems/tech/arms_armor.md
+id: TECH:ARM-000
+name: Arms & Armor (Climate & Sea-Aware)
+status: Draft
+links:
+  naval: canon/systems/transport/ships_galleys.md
+tags: [arms, armor, naval, climate]
+
+## canon/systems/tech/broadcast_color_standard.14_last_war_aftermath.md
+id: TECH:BCAST-001
+name: Broadcast Color Standard — ERA-14 “Cadence Color”
+status: Draft
+overlay: true
+era_tags: [14]
+links:
+  printing: canon/systems/tech/writing_and_printing.md
+  law_admin: canon/systems/governance/law_admin.md
+
+## canon/systems/tech/clothing_and_textiles.md
+id: TECH:CLO-000
+name: Clothing & Textiles (Hot, Wet, Windy)
+status: Draft
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  ships: canon/systems/transport/ships_galleys.md
+tags: [clothing, textiles, climate]
+
+## canon/systems/tech/writing_and_printing.md
+id: TECH:PRINT-001
+name: Writing & Printing in the Humid Maritime Tropics
+status: Draft
+links:
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  compositories: canon/entities/factions/guild_of_compositories.md
+  law_admin: canon/systems/governance/law_admin.md
+
+## canon/systems/transport/modern_index.md
+id: TRANS:IDX-001
+name: Transport Index (Sea, Cable, Rail, Road)
+status: Draft
+links:
+  piracy: canon/systems/security/modern_piracy_navies.md
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [transport, index]
+
+## canon/systems/transport/navigation_currents.md
+id: TRANS:NAV-001
+name: Tideways & the Old Song
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [navigation, currents, old_song]
+
+## canon/systems/transport/ships_galleys.md
+id: TRANS:SHIPS-001
+name: Ships — Oar Galleys with Auxiliary Sail
+status: Draft
+links:
+  arms: canon/systems/tech/arms_armor.md
+  clothing: canon/systems/tech/clothing_and_textiles.md
+tags: [ships, oared, galleys]

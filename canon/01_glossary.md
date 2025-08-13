@@ -9,7 +9,7 @@ status: Draft
 **Oboe** — the sun.  
 **Hex** — Point’s large moon; greenish halo during pollen/aerosol blooms.  
 **Old Song** — reliable residual current across the Bright Sea; tideway “set.”  
-**Good Old Rhythm** — civil-religious calendar/rite complex; governed by the **Synod of Beats** and six **Houses (Beats 1–6)**.  
+**Good Old Rhythm** (*Old Bold Rhythm*) — civil-religious calendar/rite complex; governed by the **Synod of Beats** and six **Houses (Beats 1–6)**.  
 **Council of Captains** — Ord executive oligarchy; convenes elections, convoy law.  
 **Keeper of the Oboe Seal** — crown office; holds matrix/keys; certifies absence & succession.  
 **Censor’s Bench** — censorate (Marrite origin); licensing, bans, audits.  
