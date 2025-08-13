@@ -1,17 +1,21 @@
+---
+id: GEO:WAT-001
+name: Hydrology & 'Green Rain'
+status: Draft
+links:
+  hex: canon/systems/cosmos/moon_hex.md
+tags: [hydrology, green_rain]
+---
+
 # Hydrology & ‘Green Rain’
-ID: GEO:WAT-001
 
 ## Waters
-- Salinity Earth-like; coastal mangrove analogues widespread.
-- Coral-like reef systems present in warm, clear belts.
+Salinity Earth-like; coastal mangrove analogues widespread. Coral-like reefs in warm belts.
 
 ## Green rain
-- Cause: airborne pollen & photosynthetic micro-particulates seeded into storm systems; pigments shift rainfall tint.
-- Health: generally nuisance-level; episodic toxic blooms from ‘spit grass’ (historic) and algal events.
-- Management: gutters with traps; laundry/roof routines; temple advisories in ERA-700 calendars.
+Airborne pollen & micro-particulates seed storms; pigments shift rainfall tint.  
+Health: nuisance-level; historic toxic blooms.  
+Management: gutter traps; laundry/roof routines; temple advisories.
 
 ## Tides
-- Semi-diurnal; **Hex** amplifies in certain alignments (“King Tides”).
-
-## Cross-refs
-- COS:HEX-001 (green moon appearances).
+Semi-diurnal; Hex amplifies certain alignments (“King Tides”).

@@ -1,5 +1,12 @@
-# Ships — Oar Galleys with Auxiliary Sail (ERA-300/700)
-ID: TRANS:SHIPS-001
+---
+id: TRANS:SHIPS-001
+name: Ships — Oar Galleys with Auxiliary Sail
+status: Draft
+links:
+  arms: canon/systems/tech/arms_armor.md
+  clothing: canon/systems/tech/clothing_and_textiles.md
+tags: [ships, oared, galleys]
+---
 
 ## Types
 - **City Galley (CG-24/36):** 24–36 oars (single bank), lateen/sprit aux; crew 80–120 (rowers, marines, officers).
@@ -11,7 +18,7 @@ ID: TRANS:SHIPS-001
 - Lateen/sprit sails add 1–2 knots off the wind; not primary in close quarters.
 
 ## Crewing
-- **Rowers:** paid professionals (ERA‑700 reform attempt); otherwise mixed freemen/obligate service in ERA‑300.
+- **Rowers:** paid professionals (ERA-02 reform attempt); otherwise mixed freemen/obligate service in ERA‑300.
 - **Marines:** 20–40 per city galley; kit weight kept low (see below).
 - **Boat-handlers:** cox, bosun, signaler, carpenter, cook, surgeon’s mate.
 

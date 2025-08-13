@@ -1,14 +1,21 @@
+---
+id: GEO:SYS-001
+name: Planet Point (Basics)
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+  hex: canon/systems/cosmos/moon_hex.md
+tags: [planet, point]
+---
+
 # Planet Point (Basics)
-ID: GEO:SYS-001
 
 ## Axial tilt & year
-- Tilt slightly greater than Earth’s: rainy/dry swings, sharp monsoon fronts.
-- Year: ~370 days; civic calendars harmonized in ERA-700.
+Tilt slightly greater than Earth’s; rainy/dry swings, sharp monsoon fronts. Year ~370 days; calendars harmonized ERA-700.
 
-## Circulation sketch
-- Warm equatorial current **Old Song** runs Ord ↔ Sar via shallow ridge.
-- Strong monsoon cells; typhoon corridors along Ord/Sar east coasts.
+## Circulation
+Warm equatorial current **Old Song** runs Ord ↔ Sar via shallow ridge.  
+Strong monsoons; typhoon corridors along east coasts.
 
-## Habitability notes
-- Coastal settlement bias; inland river valleys crucial.
-- Green rain episodes: see GEO:WAT-001.
+## Habitability
+Coastal settlement bias; inland rivers crucial. Green rain episodes: see Hydrology.

@@ -1,4 +1,11 @@
-# Tideways & the Old Song
+---
+id: TRANS:NAV-001
+name: Tideways & the Old Song
+status: Draft
+links:
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [navigation, currents, old_song]
+---
 
 **The Old Song** is the reliable crossing between Ord and Sar:
 - Driven by **tideway rectification** over a **shallow ridge** and amplified during the long Hex-Oboe beat; produces a **residual set** usable for eastbound crossings on one half-cycle and westbound on the other.

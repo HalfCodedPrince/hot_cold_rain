@@ -1,3 +1,12 @@
+---
+id: LING:NAMES-001
+name: Names & Onomastics (Ord–Sar)
+status: Draft
+links:
+  suffixes: canon/systems/language/onomastic_suffixes.md
+tags: [names, onomastics]
+---
+
 # Names & Onomastics (Ord–Sar)
 
 ## Why it looks messy 

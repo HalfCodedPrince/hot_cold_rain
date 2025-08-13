@@ -1,5 +1,14 @@
+---
+id: TECH:CLO-000
+name: Clothing & Textiles (Hot, Wet, Windy)
+status: Draft
+links:
+  religion: canon/systems/religions/good_old_rhythm.md
+  ships: canon/systems/transport/ships_galleys.md
+tags: [clothing, textiles, climate]
+---
+
 # Clothing & Textiles (Hot, Wet, Windy)
-ID: TECH:CLO-000
 
 ## Materials
 - **Bast fibers** (ramie/banana analogues), **bamboo weaves**, **waxed cotton**, **shell-lime wax finishes**.

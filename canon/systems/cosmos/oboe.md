@@ -1,8 +1,18 @@
+---
+id: COS:OBE-001
+name: Oboe (Primary Star)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+  hex: canon/systems/cosmos/moon_hex.md
+  point: canon/systems/planetology/point.md
+tags: [star, ephemerides, religion]
+---
+
 # Oboe (Primary Star)
-ID: COS:OBE-001
 
-- Type: yellow dwarf; steady output; life-friendly.
-- Religious/cultural: “Conductor” in the Good Old Rhythm metaphor; dawn hymns timed to rising.
-- Observations: temple ephemerides (ERA-700+), pilot-book sunrise tables.
+## Physical
+Sun-like yellow dwarf; steady output on human timescales.
 
-Cross-refs: COS:SYS-001 (overview), COS:HEX-001 (Hex), GEO:SYS-001 (Point basics).
+## Observational / ritual
+Temple ephemerides (ERA-700+) and pilot-book sunrise tables anchor calendars and convoy departures. “Conductor” in Good Old Rhythm metaphor.

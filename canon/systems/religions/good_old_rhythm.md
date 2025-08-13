@@ -1,4 +1,16 @@
-# Good Old Rhythm (Old Bold Rhythm)
+---
+id: REL:GDR-001
+name: Good Old Rhythm (Old Bold Rhythm)
+status: Draft
+links:
+  oboe: canon/systems/cosmos/oboe.md
+  beats_synod: canon/entities/factions/synod_of_beats.md
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  beat_two: canon/entities/factions/beats/house_second_beat.md
+  compositories: canon/entities/factions/compository_houses.md
+tags: [religion, music, governance]
+---
+
 - **Core**: Sun (Oboe) as conductor; daily votive music.
 - **Zambran reforms**: Tenets compiled/printed; temple-conservatories built.
 - **Ritual media**: Woodwinds, shell horns; funeral use of (defanged) spit grass.

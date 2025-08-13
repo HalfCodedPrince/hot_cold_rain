@@ -12,7 +12,11 @@ tags: [capital, port, shipbuilding, finance]
 status: Stable
 aliases: [Ord, The City]
 links:
-  eras: [canon/eras/01_ord_sar_foundation.md, canon/eras/02_zambranic_700_800.md]
+  eras:
+    - canon/eras/01_ord_sar_foundation.md
+    - canon/eras/02_zambranic_700_800.md
   timeline: [canon/timeline/point_timeline.csv]
 ---
 
+# Ord City
+Capital and principal port of the Ord–Sar sphere; hub of imperial finance, shipbuilding, and ceremonial power.

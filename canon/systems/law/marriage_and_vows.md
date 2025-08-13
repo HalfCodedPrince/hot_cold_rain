@@ -1,19 +1,22 @@
-# Marriage & Vows (Ord–Sar)
+---
+id: LAW:MARRIAGE-001
+name: Marriage & Vows (Ord–Sar)
+status: Draft
+links:
+  beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  beat_two: canon/entities/factions/beats/house_second_beat.md
+  beat_three: canon/entities/factions/beats/house_third_beat.md
+tags: [marriage, vows, law]
+---
 
 ## Marriage Pact (Beat-Six Form)
-A civil-religious contract notarized by **Beat Six** and the city court. Key options:
-- **Property regime:** separate / shared / trust.
-- **Issue clause:** heirs named (including wards).
-- **Cohabitation:** required / waived.
-- **Consummation:** required / waived.
+Civil-religious contract notarized by **Beat Six** and city court. Options: property regime; issue clause; cohabitation; consummation.
 
 ## Vow of the Long Breath (Beat-Two/Three Rite)
-A public vow under the sun (Oboe) with choir witness. When paired with a **waived-consummation** marriage clause, it creates the familiar “Pulcherian” arrangement: **political marriage**, ritual vow of chastity.
+Public vow under Oboe with choir witness. When paired with waived-consummation, creates “Neresian” arrangement.
 
 ## Effects in Practice
-- Enables alliance without dynastic entanglement.
-- Signals austerity & public piety; useful in crisis.
-- If an heir is needed, the pact can name a **ward** (e.g., Nerise’s nephew) and bind succession support to him in the Council’s next election.
+Alliance without dynastic entanglement; piety signal; heir via ward clause.
 
 ## Annulment & Breach
-Breach of vow is a **religious scandal** (Beat Two); breach of pact is a **civil suit** (Beat Six). The two may proceed independently.
+Breach of vow = religious scandal (Beat Two); breach of pact = civil suit (Beat Six).

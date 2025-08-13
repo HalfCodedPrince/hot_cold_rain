@@ -1,16 +1,21 @@
+---
+id: COS:HEX-001
+name: Hex (Point’s Moon)
+status: Draft
+aliases: [Ex]   # early-draft alias (deprecated)
+links:
+  overview: canon/systems/cosmos/overview.md
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [tides, aerosols, religion]
+---
+
 # Hex (Point’s Moon)
-ID: COS:HEX-001
-_Alias: “Ex” in early drafts (deprecated)._
 
 ## Physical
-- Large apparent size; semi-diurnal tides amplified at certain alignments (“King Tides”).
-- Albedo patching yields dramatic brightness swings.
+Large apparent size; semi-diurnal tides; alignment peaks drive “king tides.” Albedo patching yields dramatic brightness swings.
 
-## Green nights
-- Caused by scattering through atmospheric aerosols (pollen/spores/dust) under humid conditions.
-- Correlates with “green rain” intervals (see GEO:WAT-001).
+## “Green nights”
+Green-tinged nights occur when light scatters through aerosolized pollen/spores/dust under humid conditions (“green rain” seasons). See Hydrology for advisories.
 
 ## Cultural
-- Tide omens; “Queen’s Halo” (ring) as rain sign; morning hymns synced to Hexset before Oboe-rise.
-
-Cross-refs: GEO:WAT-001 (hydrology), COS:SYS-001 (overview).
+Tide omens; “Queen’s Halo” ring as rain sign; morning hymns synced to Hexset before Oboe-rise.

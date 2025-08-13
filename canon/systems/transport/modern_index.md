@@ -1,6 +1,13 @@
-# Transport Index (Sea, Cable, Rail, Road)
-ID: TRANS:IDX-001
-Status: WIP
+---
+id: TRANS:IDX-001
+name: Transport Index (Sea, Cable, Rail, Road)
+status: Draft
+links:
+  piracy: canon/systems/security/modern_piracy_navies.md
+  clothing: canon/systems/tech/clothing_and_textiles.md
+  hydrology: canon/systems/planetology/hydrology.md
+tags: [transport, index]
+---
 
 ## Sea & Inland Water
 - **Harbor ferries** (double‑ended), **canal barges** (shallow draft, standardized beam), **pilot boats**.

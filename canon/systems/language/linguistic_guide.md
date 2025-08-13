@@ -1,5 +1,14 @@
+---
+id: LING:SYS-001
+name: Linguistic Guide (Ord–Sar Sphere)
+status: Draft
+links:
+  names: canon/systems/language/names_and_onomastics.md
+  suffixes: canon/systems/language/onomastic_suffixes.md
+tags: [language, phonology, morphology, names]
+---
+
 # Linguistic Guide (Ord–Sar Sphere)
-ID: LING:SYS-001
 
 ## 1) Phonology (Ord / Sar sketches)
 - **Ordian**: C V (C)V clusters; common onsets {b d g k t p m n r l s z}; vowels {a e i o u}; stress default penultimate. Ex: Bo-dan, Sar-ik, Kal-ru.

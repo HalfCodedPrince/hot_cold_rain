@@ -1,12 +1,16 @@
+---
+id: COS:BEL-001
+name: Belts & Small Bodies
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+tags: [asteroids, belts]
+---
+
 # Belts & Small Bodies
-ID: COS:BEL-001
 
-## Karodot’s Tears
-- Main-belt asteroids between Point and Karodot; meteor showers episodically visible.
-- Legend: frozen “tears” of the sea-hag Karodot—poetic origin, not physical.
+## Karodot’s Tears (main belt)
+Main-belt asteroids between Point and Karodot; meteor showers are episodically visible. In folklore, “tears of the sea-hag Karodot.”
 
-## Trailing Belt
-- Distant, icy small bodies beyond Ze; very faint; largely theoretical in early eras.
-- Navigation relevance: none for pre-modern sailors.
-
-Cross-refs: COS:SYS-001.
+## Trailing Belt (distant)
+Icy small bodies beyond Ze; very faint; largely theoretical to early observers. Little to no navigation relevance before modern instruments.

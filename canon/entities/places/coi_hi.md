@@ -6,12 +6,14 @@ region: Eastern Ord littoral (tail of the easternmost, southernmost peninsula)
 population_class: metropolis (~600,000 at late-precolonial peak)
 governance: city council & port magistracies; later Longara civic senate
 economy: [deepwater harbor, pilot-books, reef salt/dyes, compositories, insurance houses, shipyards]
-religions: [Good Old Rhythm; local syncretisms]
+religions: [Good Old Rhythm, local syncretisms]
 tags: [port, metropolis, pilotage, insurance, decay]
 status: Draft
-aliases: [Coi-Hi]  # legacy orthography
+aliases: [Coi-Hi]
 links:
-  eras: [canon/eras/02_zambranic_700_800.md, canon/eras/04_marrite_747_783.md]
+  eras:
+    - canon/eras/02_zambranic_700_800.md
+    - canon/eras/04_marrite_747_783.md
   systems:
     - canon/systems/transport/navigation_currents.md
     - canon/systems/tech/writing_and_printing.md
@@ -22,20 +24,20 @@ links:
     - canon/entities/factions/council_of_captains.md
 ---
 
-## Overview
+# Overview
 Koi-Hi sits at the storm-shadowed tail of Eastern Ord, a deepwater hinge on the Old Song lanes. By late precolonial centuries it is the **big book and hull** of the Bright Sea: charts and pilot-notes printed in rows, hulls caulked under lanterns, insurance written in back rooms that smell of salt and ink.
 
-## Trajectory (high-level)
+## Trajectory
 - **Early Imperial:** a second-tier port learning Ord pilotage and Rhythm rites.
 - **Hexennial age:** choir colleges and compositories prosper; guild credit thickens; insurance houses appear.
-- **Age of Discovery:** becomes the main outward port for southern Sar / Widiwidi voyages; forms the civic core of the **Longara Republic** (post-imperial).
-- **By 1803 AO:** rusting brilliance—old slipways rot, new works cut cheap; still beautiful in the rain and neon of compository rows.
+- **Age of Discovery:** main outward port for southern Sar / Widiwidi voyages; forms the civic core of the **Longara Republic** (post-imperial).
+- **By 1803 AO:** rusting brilliance — old slipways rot, new works cut cheap; still beautiful in the rain and neon of compository rows.
 
-## District Notes
-- **Outer Bar & Lantern Row** (harbor lights, fog bells).  
-- **Compository Quarter** (licensed presses; hymn-leafs to pilot-books).  
-- **Insurance Steps** (brokers’ arcades; convoy rate boards).  
-- **Slipways** (old imperial cradles beside shabbier new rails).
+## Districts
+- **Outer Bar & Lantern Row** — harbor lights, fog bells.
+- **Compository Quarter** — licensed presses; hymn-leafs to pilot-books.
+- **Insurance Steps** — brokers’ arcades; convoy rate boards.
+- **Slipways** — old imperial cradles beside shabbier new rails.
 
 ## Legal & Cultural
-Legacy **Coi-Hi** spelling persists on old pilot-books. City keeps a proud civic senate in the **Longara** era while licensing Rhythm rites for festivals and funerals.
+Legacy **Coi-Hi** spelling persists on old pilot-books. City keeps a civic senate in the **Longara** era while licensing Rhythm rites for festivals and funerals.

@@ -1,7 +1,13 @@
+---
+id: COS:ZE-001
+name: Ze (Outer Dwarf)
+status: Draft
+links:
+  overview: canon/systems/cosmos/overview.md
+  belts: canon/systems/cosmos/belts.md
+tags: [outer, dwarf, eccentric]
+---
+
 # Ze (Outer Dwarf)
-ID: COS:ZE-001
 
-- Cold, distant; high eccentricity; long year.
-- Cultural presence minimal; occasional temple almanac notes during oppositions.
-
-Cross-refs: COS:SYS-001, COS:BEL-001.
+Cold and distant; high eccentricity; very long year. Cultural presence is minimal, aside from occasional almanac notes near opposition windows.
