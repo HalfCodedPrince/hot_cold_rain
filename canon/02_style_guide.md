@@ -1,14 +1,50 @@
 # Style Guide (v0.12)
 
 ## Dates & Codes
-- Dates use **AO** (After the founding of Ord City). Pre-Ord may show **BO** in prose, but timeline uses negative AO.
-- Event codes: `EVT-####[-TAG]` (e.g., `EVT-0746-TAM-D`); era codes: `ERA-##` (06–14 reserved for post-Cadence).
-- “Beat” time: Long Beat = six years; Short Beat = rite cadence.
+- Common dating: **AO** (After Ord). Pre-Ord allowed as negative AO, optional **BO** in prose (e.g., “975 BO”).
+- Event codes: `EVT-####[-TAG]`. BO events: `EVT-####BO-TAG`.  
+- Beats language allowed in prose: “Long Beat” (6 years), “Short Beat” (rite cadence
+
+## Casing / Spelling
+- **Caps:** Oboe (star); Hex (moon); Old Song; Good Old Rhythm.
+- **Spelling:** Ordian, Wurranian, Klr’ian; Cuzhar Krum.
+- Ranges use en-dash (700–800 AO). Numbers one–nine spelled; 10+ numerals.
 
 ## IDs & Filenames
-- IDs: `PERS:*`, `LOC:*`, `REG:*`, `FAC:*`, `BIO:*` (biota), `CO:*` (co-type), `SYS:*` (system doc), `ERA-*`, `EVT-*`.
-- Filenames: **lowercase snake_case.md**. Overlays use suffix: `<basename>.<era_code>_<handle>.md` (e.g., `law_admin.09_green_skies.md`).
-- Keep one canonical “base” doc per topic (timeless); period changes live in overlays colocated with the base.
+- IDs in front matter: `PERS:*`, `FAC:*`, `LOC:*`, `REG:*`, `BIO:*`, `CTP:*`, `ERA-*`, `EVT-*`.
+- Filenames: lowercase `snake_case.md`.  
+- Prefer one subfolder level (two for subtypes like Beats houses).  
+- File format: markdown (keep schema consistent)
+
+## Tone by Document Type
+- **History/Systems:** cool, concrete; let harm/brutality show via ledgers, rates, statutes.
+- **Diegetic leafs:** in-world voice; 1 page; add plausible seal/signature line.
+- **Entity pages:** thesis line + links; avoid purple prose.
+
+## Timeline CSV (strict)
+**Header:**
+---
+ao,code,title,where,who,summary,impact,refs,status
+---
+**Rules:**
+- `where` / `who`: IDs separated by `;` (may be quoted), cleaned of stray trailing `:"` by validators.
+- Avoid quotes in any field unless you must (and if you do, make sure the line still has exactly 9 comma-separated fields).`
+- `refs`: `|`-separated repo paths (anchors allowed).
+- Always start refs with `canon/….`
+- `status`: **Stable**, **Draft**, or **Contested** only.
+
+**Validators:** `tools/validate_timeline.sh` (Bash)
+
+## Names & Onomastics
+- Keep reader load low: evocative trade names (“Seven Fingers”) + one-line native/gloss.
+- Ledger-name on first mention (house-i, demonym, toponymic, or patronymic).
+- House gentilics take **-i** (Zambrani); demonyms **-an/-ian** (Kllrian).
+- Epithets in quotes on first use: Marr “the Skin-Grass”.
+- Include optional `naming:` block in YAML for future tooling.
+
+## Cross-File Linking
+- Use a `links:` block with stable relative paths.  
+- Don’t deep-link to Drafts from Stable pages (link the parent folder).
 
 ## Folder Layout (shallow, stable)
 - `canon/entities/{people,places,regions,factions,biota,co_types}/`
@@ -17,12 +53,6 @@
 - `canon/timeline/point_timeline.csv` (or `.txt` mirror with the same columns)
 - `canon/notes/{diegetic,rolls,snapshots,scratchpad}/`
 - `canon/art_refs/`
-
-## CSV formatting
-- No commas in summary or impact (use semicolons).`
-- Avoid quotes in any field unless you must (and if you do, make sure the line still has exactly 9 comma-separated fields).`
-- refs is a `|`-separated list of real files (anchors allowed, but the file must exist without the anchor).`
-- Always start refs with `canon/….`
 
 ## Front Matter Schemas (YAML)
 ### Entity (people/place/region/faction/biota/co-type)

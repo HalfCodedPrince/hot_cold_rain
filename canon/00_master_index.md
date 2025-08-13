@@ -1,49 +1,41 @@
-# Master Index (0.12)
+---
+id: INDEX:MASTER
+name: Master Index
+status: Stable
+---
 
-## Top-Level
-- **Glossary:** `canon/01_glossary.md`
-- **Style Guide:** `canon/02_style_guide.md`
-- **Outline Tracker:** `canon/03_outline_tracker.md`
-- **Timeline (CSV):** `canon/timeline/point_timeline.csv`
-- **Eras:** `canon/eras/`
-- **Entities:** `canon/entities/` (people, places, factions, regions, biota, Co-Types)
-- **Systems:** `canon/systems/` (governance, religion, labor, tech, transport, etc.)
-- **Diegetic Notes:** `canon/notes/diegetic/`
-- **Changelog:** `canon/notes/changelog.md`
-- **Art Refs:** `canon/art_refs/`
+# Master Index
 
-## Systems — Quick Map
-- **Governance:** `systems/governance/empty_seat.md`, `systems/governance/political_ecology_bright_sea.md`, `systems/governance/law_admin.md`
-- **Religion:** `systems/religions/good_old_rhythm.md`
-- **Labor:** `systems/labor/coercion_and_status.md`, `systems/labor/slavery_in_ord_sar.md`, `systems/labor/penal_transportation.md`
-- **Infrastructure:** `systems/infrastructure/public_works.md`
-- **Culture:** `systems/culture/sar_ord_game_and_festivals.md`
-- **Transport:** `systems/transport/navigation_currents.md`, `systems/transport/ships_galleys.md`
-- **Tech & Writing:** `systems/tech/writing_and_printing.md`, `systems/tech/ships.md`
-- **Metrology/Calendar:** `systems/metrology_calendar.md`
+## Eras
+- ERA-000: `canon/eras/00_preord_krum.md`
+- ERA-100: `canon/eras/01_ord_sar_foundation.md`
+- ERA-300–700: `canon/eras/03_early_ord_300_700.md`
+- ERA-700–800 (Zambranic): `canon/eras/02_zambranic_700_800.md`
+- ERA-747–783 (Marrite): `canon/eras/04_marrite_747_783.md`
+- ERA-790–860 (Pax Ordica): `canon/eras/05_pax_ordica_790_860.md`
+- ERA-860–1050 (Golden Cadence): `canon/eras/06_golden_cadence_apex_860_1050.md`
+- Modern scaffolding: `canon/notes/snapshots/known_world_c950.md`, `canon/notes/snapshots/empire_at_its_peak_c950.md`
 
-## Recently Added Factions / Offices (IDs)
-- **Synod of Beats** `FAC:SYN-001`; **Beat Houses** `FAC:BEAT-001…006` (First–Sixth)  
-- **Guild of Compositories** `FAC:COMP-001`  
-- **Grain Chancery** `FAC:CHA-001`  
-- **Censor’s Bench** `FAC:CEN-001`  
-- **Office of Imperial Works** `FAC:ARC-001`  
-- **Keeper of the Oboe Seal** `FAC:KOS-001`
+## Entities
+- **People (PERS):** Zambran, Marr, Nerise, Marak, CAD-001…007 — `canon/entities/people/`
+- **Factions (FAC):** Council of Captains, Synod & Houses (1–6), Censor’s Bench, Keeper, Harbor Watches, Debt/Works/Insurance — `canon/entities/factions/`
+- **Places (LOC) & Regions (REG):** Ord City, Seven Fingers, Koi-Hi/Longara seed, Reed-Camp District; Bright Sea, Kllrian Arc — `canon/entities/places/`, `canon/entities/regions/`
+- **Biota (BIO) & Co-types (CTP):** Pack crab; Skin/Spit grass; Bat/Fox/Otter — `canon/entities/biota/`, `canon/entities/co_types/`
 
-## ID Conventions
-- **Eras:** `ERA-###`
-- **Events:** `EVT-YYYY-TAG`
-- **People:** `PERS:TAG-###`
-- **Places:** `LOC:TAG-###`
-- **Factions / Offices:** `FAC:TAG-###`
-- **Status flags:** `Stable`, `Draft`, `Contested`
+## Systems
+- **Governance & Law:** `canon/systems/governance/empty_seat.md`, `canon/systems/law/marriage_and_vows.md`
+- **Labor & Economy:** `canon/systems/labor/penal_transportation.md`, `canon/systems/economy/currency_finance.md`
+- **Transport:** `canon/systems/transport/modern_index.md`, `canon/systems/transport/ships_galleys.md`, `canon/systems/transport/navigation_currents.md`
+- **Security:** `canon/systems/security/modern_piracy_navies.md`
+- **Tech:** `canon/systems/tech/clothing_and_textiles.md`, `canon/systems/tech/writing_and_printing.md`, `canon/systems/tech/arms_armor.md`
+- **Cosmos & Planetology:** `canon/systems/cosmos/index.md`, `canon/systems/planetology/point.md`, `canon/systems/planetology/hydrology.md`
+- **Culture:** `canon/systems/culture/games_and_festivals.md`, `canon/systems/governance/symbols_of_office.md`
 
-## File/Folder Conventions
-- **Filenames:** lowercase `snake_case.md` (prefer Markdown with YAML front matter).  
-- **Cross-refs:** use IDs in `who`/`where` fields (timeline), and link paths in `links:` blocks.  
-- **Migration note:** some legacy `.yaml` entity files remain (e.g., certain places, Council of Captains); convert opportunistically to `.md` with front matter.
+## Timeline
+- CSV: `canon/timeline/point_timeline.csv`  
+- Tools: `tools/validate_timeline.sh`, `tools/validate_timeline.ps1`
 
-## Quick Links
-- **Marrite Interlude (747–783 AO):** `canon/eras/03_marrite_747_783.md`
-- **People:** Zambran `entities/people/zambran.md`; Marr `entities/people/Marr_the_Skin_Grass.md`; Eshoron `entities/people/eshoron_ir.md`
-- **Places:** Ord City, Seven Fingers, Reed-Camp District
+## Notes (Diegetic & Rolls)
+- **Diegetic:** Peace Program circular; Zambran-era extracts; Reed-Camp report; Krum pamphlet; Kids’ sky book — `canon/notes/diegetic/`
+- **Rolls:** High Masters of the Golden Cadence — `canon/notes/rolls/high_masters_golden_cadence.md` (contents will likely be moved to canon/people soon)
+- **Snapshots:** Peak empire / Known world — `canon/notes/snapshots/`
