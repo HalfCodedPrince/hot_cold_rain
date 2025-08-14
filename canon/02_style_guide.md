@@ -3,7 +3,7 @@
 ## Dates & Codes
 - Common dating: **AO** (After Ord). Pre-Ord allowed as negative AO, optional **BO** in prose (e.g., “975 BO”).
 - Event codes: `EVT-####[-TAG]`. BO events: `EVT-####BO-TAG`.  
-- Beats language allowed in prose: “Long Beat” (6 years), “Short Beat” (rite cadence
+- Beats language allowed in prose: “Long Beat” (6 years), “Short Beat” (rite cadence)
 
 ## Casing / Spelling
 - **Caps:** Oboe (star); Hex (moon); Old Song; Good Old Rhythm.
@@ -69,6 +69,15 @@ links:
 tags: [ord, leadership, reform]
 ---
 ```
+## How to record linguistic drift in docs
+When a term already shows variants, add an alias map in front-matter on the *base* page:
+```yaml
+aliases_by_era:
+  05xx-0599: ["Ex"]        # early coastal school orthography
+  0860-1050: ["Hex"]       # koiné standard at apex
+  1700-1803: ["Hex","Hexe"]# modern spellings seen in pamphlets
+```
+
 ## Content Structure (recommended headings)
 - Base System/Entity: `Thesis` · `Overview` · `Institutions/Actors` · `Practices/Law` · `Economics/Logistics` · `Risks/Failure Modes` · `Cross-refs`.
 - Overlay: “What changes from base” · `Effects` · `Hooks` · `Cross-refs`. Keep overlays focused; no repetition of base aside from a short thesis.
