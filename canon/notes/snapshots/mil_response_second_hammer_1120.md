@@ -11,6 +11,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   insurance: canon/entities/factions/convoy_insurance_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 ---
 
 ## Situation

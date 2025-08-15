@@ -5,7 +5,7 @@ status: Draft
 links:
   powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   watches: canon/entities/factions/harbor_watches.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
 ---

@@ -4,7 +4,7 @@ name: Private War & Letters of Marque (1055 AO Circular)
 status: Draft
 links:
   insurance: canon/entities/factions/convoy_insurance_office.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: economy: canon/systems/economy/taxation_finance_c0_1200.md
 ---
 
 ## Framework

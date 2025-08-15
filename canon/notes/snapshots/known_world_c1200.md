@@ -6,6 +6,7 @@ links:
   world_950: canon/notes/snapshots/known_world_c950.md
   snapped: canon/notes/snapshots/empire_snapped_c1100.md
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 ---
 
 ## Ord (north)

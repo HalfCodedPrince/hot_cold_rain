@@ -37,5 +37,6 @@ status: Draft
 - **Breeching rope** — rope checking gun recoil on ship or quay.
 - **Pot-de-fer** — early tube-gun; bolt/stone shooter.
 - **Shelf-hold doctrine** — hold fortified shelf and force enemy to attack out of cover/foul weather.
-
+- **Bond stair** — staged maturities ladder (debt service scheduling).
+- **Bench-docket** — printed fines/fees schedule issued by a court/bench.
 *(Add terms as they stabilize; link to first canonical use.)*

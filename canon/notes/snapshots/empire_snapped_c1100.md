@@ -4,6 +4,7 @@ name: Empire Snapped (c. 1100 AO)
 status: Draft
 links:
   era: canon/eras/06_decline_1050_1150.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   debt: canon/entities/factions/public_debt_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
   watches: canon/entities/factions/harbor_watches.md

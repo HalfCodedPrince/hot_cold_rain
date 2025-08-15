@@ -7,7 +7,7 @@ links:
   hulls: canon/systems/transport/ocean_ranging_hulls_c1180_1300.md
   ships: canon/systems/transport/ships_galleys.md
   works: canon/entities/factions/dredge_and_bar_works.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 ---
 
 ## Families & forms

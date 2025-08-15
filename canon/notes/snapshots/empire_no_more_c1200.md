@@ -5,7 +5,7 @@ status: Draft
 links:
   snapped: canon/notes/snapshots/empire_snapped_c1100.md
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   watches: canon/entities/factions/harbor_watches.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
 ---

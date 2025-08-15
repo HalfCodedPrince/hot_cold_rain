@@ -1,0 +1,96 @@
+---
+id: ECON:TAX-0-1200
+name: Taxation & Finance — Ord–Sar (c.0–1200 AO)
+status: Draft
+links:
+  law: canon/systems/governance/law_admin.md
+  metrology: canon/systems/metrology/index.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  insurance: canon/entities/factions/convoy_insurance_office.md
+  watches: canon/entities/factions/harbor_watches.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  hydrology: canon/systems/planetology/hydrology.md
+  navigation: canon/systems/transport/navigation_currents.md
+tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
+---
+
+## Scope & Thesis
+A practical map of how rulers raise, move, and spend money from Pre-Ord through the Contract Port era. The center’s revenue mix shifts from **in-kind tolls and temple tithes** to **fees, fines, and charters**, but logistics (river lifts, beacon legs, convoy timetables) cap what’s collectible. Where paper outruns transport, **obedience becomes interpretation**.
+
+## Core Revenue Instruments (evolution)
+
+**c. BO–400 AO — In-kind levers**
+- Temple tithes; levy service; road/ford tolls paid in grain, timber, ore.
+- Tribute circuits with **account-tokens** (sticks, seals) and temple accounts.
+
+**400–850 AO — Monetized tolls & offices**
+- Wharfage, beacon fees, dredge assessments; customs at river mouths; convoy subscription tickets.
+- **Office farms** begin: rights to collect a fee farmed to a house for a fixed rent.
+
+**850–1050 AO — Ledgers, premiums, and scrip**
+- Debt Office issues dredge & beacon paper; insurers post **Steps** (rate boards); convoy **tickets** become transferable.
+- Fines standardized by statute and **bench-dockets**; temples keep parallel lists for vows/bonds.
+
+**1050–1200 AO — Contract & drift**
+- Treaty models narrow into city **charters**; mixed courts monetize procedure (fees to stamp, copy, and carry writs).
+- Private war bleeds into escort business; subscription convoys bundle **insurance + pilots + watches**.
+
+## Offices & Who Actually Touches the Money
+- **Public Debt Office** — prices the future: rolls dredge/beacon notes, slices maturities into **bond stairs**; funnels rents from fee-farms.
+- **Office of Imperial Works** — tenders dredge cycles, beacon oil, seawalls; purchases rope, pitch, iron under “Works lists.”
+- **Harbor Watches** — collect approach fines, berth fees; sell “escort hours”; levy seizures under mixed writs.
+- **Convoy Insurance Offices (“Steps”)** — set premiums; hold and delay claims; issue **whistle** leafs when rumor runs.
+- **Grain Chancery** — weights/coins standards; validates ration rails (**grain notes**).
+- **Council of Captains / Keeper of the Oboe Seal** — authorize fee schedules; stamp circulations; post circulars.
+
+## Collection → Treasury → Spend (flows)
+-- Quays/Pass Tolls & Fees → (Watches clerks) → port treasuries → Debt Office clearing
+-- Temple tithes/levy commutations → (Temple bursars) → mixed courts → Works allotments
+-- Convoy subscripts & premiums → (Insurance Steps) → claims reserve → escorts & beacons
+-- Fines & bench-dockets → (Court clerks) → fee-farms rent → central stair servicing
+
+**Spend priorities (typical order):** 
+1) debt service on beacons/dredge; 
+2) convoy escorts/pilots; 
+3) oil, rope, iron; 
+4) festival arrears (stipends); 
+5) inland posts.
+
+## Records & Accounting Discipline
+- **Day-books** at quays; **copy-trails** stamped by Keeper seals; festival closures reconcile.
+- **Double-entry?** No formal debit/credit textbooks yet. Practice is **charge & discharge** by office: each clerk tracks **receipts** and **issues**; the Debt Office aggregates by stair & district. Composite ledgers appear late-Cadence in big ports handling insurance, debt, and fees together.
+- **Audit & drift:** Claim-stairs (appeal ladders) slow payouts; “two seals” rule often broken under pressure.
+
+## Failure Modes (c. 1050–1200)
+- **Maintenance debt:** dredge/beacon paper rolled beyond service life; service slips when storms stack.
+- **Cartel drag:** informals between Watches × Works × Insurers producing higher premiums and stalled claims.
+- **Charter-creep:** Contract Port jurisprudence pushes power to city benches; center can post faster than it can enforce.
+
+## Hooks for Other Pages
+- **Procurement overlay (c.700–1200):** how tenders/fee-farms work and who skims.
+- **Scrip & Tickets (forms):** convoy tickets, ration rails (grain notes), bench-dockets (diegetic scans).
+- **Powder supply chain:** nitrate → foundry → convoy escorts.
+
+## Quick Gloss
+- **Bond stair:** staged maturities ladder.
+- **Bench-docket:** court’s fines & fees schedule (printed leaf).
+- **Grain note / ration rail:** redeemable food scrip within core wards.
+- **Whistle leaf:** anonymous broadside accusing a Step or office.
+
+## Cross-refs to seed now
+- Add **economy** links on snapshots for c.1100 and c.1200 to point here.
+- Add glossary entries for **bond stair** and **bench-docket**.
+
+## Appendix — Example Tender Cycle (beacon leg)
+1) Works posts list (oil, wick, iron caps) →
+2) Debt Office sets cap by stair → 
+3) Watch certifies access days → 
+4) Insurers sign off to keep premiums flat → 
+5) Keeper stamps → 
+6) Pilots sign receipts → 
+7) Auditor festival close.

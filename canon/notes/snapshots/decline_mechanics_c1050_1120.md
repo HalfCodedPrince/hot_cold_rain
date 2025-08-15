@@ -4,7 +4,7 @@ name: Decline Mechanics (1050–1120 AO) — Debt, Silt, Cartels
 status: Draft
 links:
   apex: canon/notes/snapshots/empire_at_its_peak_c950.md
-  finance: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   works: canon/entities/factions/dredge_and_bar_works.md
   debt: canon/entities/factions/public_debt_office.md
   watches: canon/entities/factions/harbor_watches.md
