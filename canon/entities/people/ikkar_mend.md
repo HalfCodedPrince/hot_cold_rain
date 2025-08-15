@@ -15,7 +15,7 @@ first_appearance: ERA-1030
 status: Draft
 links:
   works: canon/entities/factions/office_imperial_works.md
-  infra: canon/systems/infrastructure/public_works.md
+  infra: canon/systems/infrastructure/public_works_c700_1200.md
 ---
 
 ## Notes

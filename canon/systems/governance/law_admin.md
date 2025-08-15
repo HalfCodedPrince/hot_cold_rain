@@ -9,8 +9,8 @@ links:
   council: canon/entities/factions/council_of_captains.md
   synod: canon/entities/factions/synod_of_beats.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
-  metrology: canon/systems/metrology_calendar.md
-  finance: canon/systems/economy/currency_finance.md
+  metrology: canon/systems/metrology/calendar_base6.md
+  finance: canon/systems/economy/currency_finance_c1800.md
 ---
 
 ## Thesis
@@ -38,7 +38,7 @@ Maritime needs (convoys, quarantine, tolls) grew a **harbor-first legal order**:
 - **Distance law:** inland cases lag; temple boats stretch circuits.
 
 ## Cross-refs
-- `canon/systems/metrology_calendar.md` (standards; forms).
-- `canon/systems/economy/currency_finance.md` (warrants, assurance). 
+- `canon/systems/metrology/calendar_base6.md` (standards; forms).
+- `canon/systems/economy/currency_finance_c1800.md` (warrants, assurance). 
 
 > **See also (overlays):** `law_admin.09_green_skies.md` (Mutation-Day registration/status law — TBD).

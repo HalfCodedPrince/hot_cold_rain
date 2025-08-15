@@ -18,7 +18,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   watches: canon/entities/factions/harbor_watches.md
   insurance: canon/entities/factions/convoy_insurance_office.md
-  law: canon/systems/law/marriage_and_vows.md
+  law: canon/systems/law/marriage_and_vows_c700_1200.md
 ---
 
 ## Summary

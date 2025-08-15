@@ -3,8 +3,8 @@ id: TRANS:SHIPS-001
 name: Ships — Oar Galleys with Auxiliary Sail
 status: Draft
 links:
-  arms: canon/systems/tech/arms_armor.md
-  clothing: canon/systems/tech/clothing_and_textiles.md
+  arms: canon/systems/tech/arms_armor_c700.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
 tags: [ships, oared, galleys]
 ---
 

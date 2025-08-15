@@ -3,8 +3,8 @@ id: SYS:LAB-SLAVERY
 name: Slavery in Ord–Sar (c. 300–900 AO)
 status: Draft
 links:
-  status: canon/systems/labor/coercion_and_status.md
-  penal: canon/systems/labor/penal_transportation.md
+  status: canon/systems/labor/coercion_and_status_c300_1000.md
+  penal: canon/systems/labor/penal_transportation_c300_1050.md
   religion: canon/systems/religions/good_old_rhythm.md
 tags: [labor, law, slavery]
 ---

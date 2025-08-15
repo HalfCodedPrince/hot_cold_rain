@@ -10,6 +10,6 @@ status: Stable
 links:
   synod: canon/entities/factions/synod_of_beats.md
   religion: canon/systems/religions/good_old_rhythm.md
-  tech: canon/systems/tech/writing_and_printing.md
+  tech: canon/systems/tech/writing_and_printing_c700_1200.md
   guild: canon/entities/factions/guild_of_compositories.md
 ---

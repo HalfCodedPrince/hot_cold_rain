@@ -4,9 +4,9 @@ name: Social State — Pensions, Mutual Aid & Old Age (c. 1803 AO)
 status: Draft
 links:
   religion: canon/systems/religions/good_old_rhythm.md
-  health: canon/systems/health/healthcare_landscape_modern.md
-  public_health: canon/systems/health/public_health.md
-  economy: canon/systems/economy/currency_finance.md
+  health: canon/systems/health/healthcare_landscape_c1800.md
+  public_health: canon/systems/health/public_health_c1800.md
+  economy: canon/systems/economy/currency_finance_c1800.md
 ---
 
 ## State Pensions

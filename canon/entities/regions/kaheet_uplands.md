@@ -7,7 +7,7 @@ summary: Alpine meadows and knife-pass corridors feeding the Salt River; transhu
 status: Draft
 links:
   rivers: canon/systems/planetology/hydrology.md
-  economy: canon/systems/economy/currency_finance.md
+  economy: canon/systems/economy/currency_finance_c1800.md
   eras: [canon/eras/07_middle_cadence_disjunction_1050_1200.md]
 ---
 **Notes:** Winter roads open marsh belts north of the crest; summer movement hugs ridges. Mules and highland bovids outnumber horses on the windward side.

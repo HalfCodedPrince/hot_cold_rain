@@ -4,8 +4,8 @@ name: Public Works — Beacons, Seawalls & Cisterns
 status: Draft
 links:
   office_works: canon/entities/factions/office_imperial_works.md
-  transport: canon/systems/transport/modern_index.md
-  health: canon/systems/health/public_health.md
+  transport: canon/systems/transport/transport_index_c1800.md
+  health: canon/systems/health/public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate.md
 ---
 

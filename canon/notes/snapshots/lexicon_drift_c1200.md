@@ -4,8 +4,8 @@ name: Lexicon & Drift in the Blindness (c. 1200 AO)
 status: Draft
 links:
   lex_950: canon/notes/snapshots/lexicon_drift_c950.md
-  printing: canon/systems/tech/writing_and_printing.md
-  economy: canon/systems/economy/currency_finance.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  economy: canon/systems/economy/currency_finance_c1800.md
   watches: canon/entities/factions/harbor_watches.md
 ---
 

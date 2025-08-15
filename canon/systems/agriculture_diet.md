@@ -4,8 +4,8 @@ name: Agriculture & Diet — Coasts, Deltas, Isles
 status: Draft
 overlay: false
 links:
-  finance: canon/systems/economy/currency_finance.md
-  security: canon/systems/security/modern_piracy_navies.md
+  finance: canon/systems/economy/currency_finance_c1800.md
+  security: canon/systems/security/piracy_and_navies_c1800.md
 ---
 
 ## Crops & cycles
@@ -18,5 +18,5 @@ Mangrove pond polyculture (milkfish-like + prawns); oyster racks; seaweed rafts.
 Bast sacks; ceramic jars; depot ice via absorption chillers; coastal granaries on stilts. Staples: rice cakes; dried fish; pickled greens; festival sweets. 
 
 ## Cross-refs
-- `canon/systems/economy/currency_finance.md` (grain warrants).
-- `canon/systems/security/modern_piracy_navies.md` (convoyed staples).
+- `canon/systems/economy/currency_finance_c1800.md` (grain warrants).
+- `canon/systems/security/piracy_and_navies_c1800.md` (convoyed staples).

@@ -4,8 +4,8 @@ name: Tubular Bamboo (spiral-wall cane)
 status: Draft
 tags: [cane, construction, instruments]
 links:
-  clothing: canon/systems/tech/clothing_and_textiles.md
-  transport: canon/systems/transport/modern_index.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  transport: canon/systems/transport/transport_index_c1800.md
 ---
 
 ## Traits

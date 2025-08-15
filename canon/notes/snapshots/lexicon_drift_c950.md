@@ -4,8 +4,8 @@ name: Lexicon & Drift at the Apex (c. 950 AO)
 status: Draft
 links:
   apex: canon/notes/snapshots/empire_at_its_peak_c950.md
-  ling_guide: canon/systems/language/linguistic_guide.md
-  names: canon/systems/language/names_and_onomastics.md
+  ling_guide: canon/systems/language/linguistic_guide_for_ord_sar.md
+  names: canon/systems/language/names_and_onomastics_for_ord_sar.md
   suffixes: canon/systems/language/onomastic_suffixes.md
   rhythm: canon/systems/religions/good_old_rhythm.md
 ---

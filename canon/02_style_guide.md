@@ -15,6 +15,9 @@
 - Filenames: lowercase `snake_case.md`.  
 - Prefer one subfolder level (two for subtypes like Beats houses).  
 - File format: markdown (keep schema consistent)
+- Use `_cYYYY` or `_cYYYY_YYYY` for period-specific tech/doctrine/visual/lexicon pages.
+- Snapshots already imply period; keep their `cXXXX` in filename.
+- Entity pages, indices, and systems “root” pages stay **timeless** (no suffix).
 
 ## Tone by Document Type
 - **History/Systems:** cool, concrete; let harm/brutality show via ledgers, rates, statutes.
@@ -31,7 +34,8 @@ ao,code,title,where,who,summary,impact,refs,status
 - Avoid quotes in any field unless you must (and if you do, make sure the line still has exactly 9 comma-separated fields).`
 - `refs`: `|`-separated repo paths (anchors allowed).
 - Always start refs with `canon/….`
-- `status`: **Stable**, **Draft**, or **Contested** only.
+- Any field with commas must be **quoted**. Prefer commas in prose over `+`; only use `+` as a true operator or symbol.
+- Status must be `Stable | Draft | Contested`.
 
 **Validators:** `tools/validate_timeline.sh` (Bash)
 
@@ -70,12 +74,15 @@ tags: [ord, leadership, reform]
 ---
 ```
 ## How to record linguistic drift in docs
-When a term already shows variants, add an alias map in front-matter on the *base* page:
+When a term already shows variants, add an alias map in front-matter on the *base* page/Include optional block when names drift:
 ```yaml
 aliases_by_era:
   05xx-0599: ["Ex"]        # early coastal school orthography
   0860-1050: ["Hex"]       # koiné standard at apex
   1700-1803: ["Hex","Hexe"]# modern spellings seen in pamphlets
+  
+  0860-1050: ["Treaty Port"]
+  1150-1250: ["Contract Port","Charter Port"]
 ```
 
 ## Content Structure (recommended headings)

@@ -5,11 +5,11 @@ status: Draft
 links:
   apex: canon/notes/snapshots/empire_at_its_peak_c950.md
   world: canon/notes/snapshots/known_world_c950.md
-  clothing: canon/systems/tech/clothing_and_textiles.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
   ships: canon/systems/transport/ships_galleys.md
   rhythm: canon/systems/religions/good_old_rhythm.md
-  printing: canon/systems/tech/writing_and_printing.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
 ---
 
 ## Street view — Ord City, a workday (sketch)

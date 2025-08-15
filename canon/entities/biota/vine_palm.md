@@ -4,7 +4,7 @@ name: Vine-Palm (storm palm)
 status: Draft
 tags: [palm, wind, structural_fiber]
 links:
-  clothing: canon/systems/tech/clothing_and_textiles.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
   works: canon/entities/factions/dredge_and_bar_works.md
 ---
 

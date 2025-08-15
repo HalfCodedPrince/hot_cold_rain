@@ -4,9 +4,9 @@ name: Coastal Cities — Storms, Surges & Civic Resilience
 status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
-  urban_form: canon/systems/urbanism/building_heights_density.md
-  water_sewer: canon/systems/infrastructure/water_and_sewer.md
-  transport: canon/systems/transport/modern_index.md
+  urban_form: canon/systems/urbanism/building_heights_density_c1800.md
+  water_sewer: canon/systems/infrastructure/water_and_sewer_c1800.md
+  transport: canon/systems/transport/transport_index_c1800.md
 ---
 
 ## Setting Impacts

@@ -5,7 +5,7 @@ type: flora
 status: Draft
 tags: [textile, roof, veil]
 links:
-  clothing: canon/systems/tech/clothing_and_textiles.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
 ---
 
 ## Habitat

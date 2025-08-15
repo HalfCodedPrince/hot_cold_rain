@@ -3,7 +3,7 @@ id: LING:SYS-001
 name: Linguistic Guide (Ord–Sar Sphere)
 status: Draft
 links:
-  names: canon/systems/language/names_and_onomastics.md
+  names: canon/systems/language/names_and_onomastics_for_ord_sar.md
   suffixes: canon/systems/language/onomastic_suffixes.md
 tags: [language, phonology, morphology, names]
 ---

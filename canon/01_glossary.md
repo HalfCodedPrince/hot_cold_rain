@@ -25,5 +25,17 @@ status: Draft
 **Trailing Belt** — distant icy small bodies beyond Ze; “frozen sea.”  
 **Long Beat** — six-year cadence; legal presumption (“absence → death”) edict in 789 AO.  
 **Empty Seat** — interregnal governance protocol; three seals (Council/Beat/Keeper).
+- **Blue paper** — emergency premium notice posted on the Insurance Steps.
+- **Broken Chain** — colloquial for a dark or incomplete beacon leg.
+- **Claim-stairs / Steps** — the staircase boards where convoy rates and claims are posted.
+- **Contract Port** — treaty-port descendant: city charter with mixed courts and subscription escorts.
+- **Errata leaf** — printed pilotage correction sheet; traded at lantern stalls.
+- **Meal-ticket** — grain note in street speech during scarcity.
+- **Seven-Frame press** — rapid small-format press used for forms, rates, lampoons.
+- **Ticket-man / cloak-man** — licensed vs unlicensed privateer (Sar usage).
+- **Gutter-pan** — rain-shedding pan for powder pans/touch holes.
+- **Breeching rope** — rope checking gun recoil on ship or quay.
+- **Pot-de-fer** — early tube-gun; bolt/stone shooter.
+- **Shelf-hold doctrine** — hold fortified shelf and force enemy to attack out of cover/foul weather.
 
 *(Add terms as they stabilize; link to first canonical use.)*

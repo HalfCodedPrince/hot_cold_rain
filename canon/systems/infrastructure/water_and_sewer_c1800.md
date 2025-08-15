@@ -4,8 +4,8 @@ name: Urban Water & Sewers (c. 1803 AO)
 status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
-  health: canon/systems/health/public_health.md
-  economy: canon/systems/economy/currency_finance.md
+  health: canon/systems/health/public_health_c1800.md
+  economy: canon/systems/economy/currency_finance_c1800.md
 ---
 
 ## Supply

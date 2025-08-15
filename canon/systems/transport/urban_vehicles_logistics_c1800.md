@@ -3,8 +3,8 @@ id: TRANS:URBAN-VEHICLES-1803
 name: Urban Vehicles & City Logistics (Low-Tech, Wet)
 status: Draft
 links:
-  road: canon/systems/transport/road_surfaces.md
-  modern_index: canon/systems/transport/modern_index.md
+  road: canon/systems/transport/road_surfaces_c1800.md
+  modern_index: canon/systems/transport/transport_index_c1800.md
   supply: canon/systems/economy/global_supply_links.md
 ---
 

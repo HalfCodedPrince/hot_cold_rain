@@ -3,10 +3,10 @@ id: TECH:POWDER-BASE-1180-1300
 name: Black Powder & Firearms — Baseline c.1180–1300 AO
 status: Draft
 links:
-  printing: canon/systems/tech/writing_and_printing.md
-  piracy: canon/systems/security/modern_piracy_navies.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  piracy: canon/systems/security/piracy_and_navies_c1800.md
   ships: canon/systems/transport/ships_galleys.md
-  marque: canon/systems/security/letters_of_marque.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
 ---
 
 ## Supply & chemistry

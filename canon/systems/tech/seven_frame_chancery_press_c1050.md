@@ -3,7 +3,7 @@ id: TECH:PRESS-001
 name: Seven-Frame Chancery Press
 status: Draft
 links:
-  printing: canon/systems/tech/writing_and_printing.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
   chancery: canon/entities/factions/grain_chancery.md
   compositories: canon/entities/factions/guild_of_compositories.md
 ---

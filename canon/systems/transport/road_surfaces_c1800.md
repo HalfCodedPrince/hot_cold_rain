@@ -3,8 +3,8 @@ id: TRANS:ROAD-1803
 name: Roads & Surfaces — Asphalt, Stone, Boards
 status: Draft
 links:
-  transport: canon/systems/transport/modern_index.md
-  infra: canon/systems/infrastructure/public_works.md
+  transport: canon/systems/transport/transport_index_c1800.md
+  infra: canon/systems/infrastructure/public_works_c700_1200.md
 ---
 
 ## What Holds Up

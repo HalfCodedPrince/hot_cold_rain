@@ -8,7 +8,7 @@ mandate: Manage palaces, slipways, beacon towers, cisterns; commission architect
 tags: [infrastructure, architecture, finance]
 status: Draft
 links:
-  infra: canon/systems/infrastructure/public_works.md
+  infra: canon/systems/infrastructure/public_works_c700_1200.md
   governance: canon/systems/governance/empty_seat.md
 ---
 ## Notes

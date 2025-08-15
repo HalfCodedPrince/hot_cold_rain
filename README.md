@@ -113,16 +113,9 @@ tools/validate_timeline.sh
   
   - Religio-civic weave: Good Old Rhythm (Synod & Houses) entwined with Council/courts; calendars, festivals, and convoy law are the social OS.
 
-## v0.12 highlights
+## v0.13 highlights
 
-  - Standardized YAML across entities/systems/notes.
-
-  - Timeline CSV hygiene codified + cross-repo validators (Bash & PS).
-
-  - Filled/updated core Ord factions (Council, Synod, Beats 1–6, Censor’s Bench, Keeper, Harbor Watches, Public Debt, Works, Insurance).
-
-  - People canon expanded/found lost in the seas of files (Zambran, Marr, Nerise, Marak; Golden Cadence roll stubs CAD-001…007).
-
-  - Systems cleanup (transport, clothing, cosmos; hydrology/planetology anchors).
-
-  - Diegetic leaf scaffolds (peace circular, pamphlets, extracts, transcripts).
+- We might be done with the renaming stuff. I swear.
+- Files up to the 1200 A.O. added.
+- rename_and_fix scripts added for mass renaming and link fixing, if needed (but we are done. Pinky promise)
+- validate_timeline is having a fit with the quotes; will fix later 

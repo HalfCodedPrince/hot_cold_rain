@@ -3,8 +3,8 @@ id: INFRA:WASTE-1803
 name: Waste & Refuse — Collection, Dumps, Incineration
 status: Draft
 links:
-  health: canon/systems/health/public_health.md
-  economy: canon/systems/economy/currency_finance.md
+  health: canon/systems/health/public_health_c1800.md
+  economy: canon/systems/economy/currency_finance_c1800.md
 ---
 
 ## Collection

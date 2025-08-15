@@ -12,5 +12,5 @@ links:
   religion: canon/systems/religions/good_old_rhythm.md
   governance: canon/systems/governance/empty_seat.md
   censorate: canon/entities/factions/censors_bench.md
-  symbols: canon/systems/governance/symbols_of_office.md
+  symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---

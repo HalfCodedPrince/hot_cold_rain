@@ -5,7 +5,7 @@ status: Draft
 tags: [diegetic, manumission, law]
 links:
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
-  law: canon/systems/law/marriage_and_vows.md
+  law: canon/systems/law/marriage_and_vows_c700_1200.md
   place: canon/entities/places/ord_city.md
 ---
 

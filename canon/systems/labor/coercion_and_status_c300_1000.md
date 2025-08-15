@@ -4,7 +4,7 @@ name: Coercion & Status in Ord–Sar
 status: Draft
 links:
   slavery: canon/systems/labor/slavery_in_ord_sar.md
-  penal: canon/systems/labor/penal_transportation.md
+  penal: canon/systems/labor/penal_transportation_c300_1050.md
   law: canon/systems/governance/law_admin.md
 tags: [labor, law, status]
 ---

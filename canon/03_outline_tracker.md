@@ -4,31 +4,128 @@ name: Outline Tracker
 status: Draft
 ---
 
-# Outline Tracker (v0.12)
+# Outline Tracker (v0.13)
 
-## Tracks
+> Scope: lock the arc from **Apex (c. 950)** → **Unraveling (1050–1200)** → **Voyages & Powder (1200–1400)** → **Pamphlet Wars & Schisms (c. 1450–1600)** → **Rise of the Greater Principality** → **toward Last War**. This tracker stays high-signal: where to write next + exact file homes.
 
-- **A. Eras & Arc Glue**
-  - ERA-700–860 (Zambranic → Marrite → Pax Ordica): ✅ scaffolded
-  - ERA-860–1050 (Golden Cadence): ✅ roll + snapshots
-  - Modern (c. 1803 AO): ◻ radio/TV notes · ◻ convoy doctrine · ◻ aviation scarcity notes
+---
 
-- **B. Entities**
-  - Factions (Council, Synod + 1–6, Keeper, Censor, Harbor Watches, Debt/Works/Insurance): ✅
-  - People (Zambran/Marr/Nerise/Marak/CAD-001…007): ✅
-  - Regions/Places (Ord Bay, Seven Fingers, Reed-Camp): ✅ pass 1
+## A. Eras & Arc Glue
 
-- **C. Systems**
-  - Governance/Law/Labor/Economy: ✅ pass 1
-  - Transport (Modern index, Galleys, Old Song): ✅
-  - Cosmos/Planetology: ✅ indices; ◻ expand color-TV & broadcast tech
-  - Culture (Games/Festivals; Symbols of Office): ✅ pass 1
+- ✅ **ERA-700–860** (Zambranic → Marrite → Pax Ordica): scaffolded; timeline beats in place.
+- ✅ **ERA-860–1050** (Golden Cadence): CAD-001…007 roll + `snapshots/*_c950.md`.
+- ✅ **ERA-1050–1120** (Early Unraveling): `decline_mechanics_c1050_1120.md`; `second_hammer_response_1120.md`.
+- ✅ **ERA-1150–1200** (Second Blindness framing): `known_world_c1200.md`, `empire_no_more_c1200.md`, `visual_life_c1200.md`, `lexicon_drift_c1200.md`.
+- ◻ **ERA-1200–1400 — Voyages & Powder** (not-Age-of-Discovery):
+  - ◻ `eras/07_voyages_powder_1200_1400.md` (overview + lane economics).
+  - ✅ `systems/tech/early_artillery_c1200_1350.md`; ✅ `notes/AAR_pine_pass_shelf.md`.
+  - ◻ `systems/transport/hulls_evolution_c1200_1400.md` (carvel/lateen → hybrid “reef galleon”).
+  - ◻ Timeline beats (charters, letters of reprisal, Widiwidi corridors).
+- ◻ **ERA-1450–1600 — Pamphlet Wars & Schisms**:
+  - ◻ `eras/08_pamphlet_wars_1450_1600.md` (print + doctrine + markets).
+  - ◻ `systems/tech/seven_frame_chancery_press_c1050.md` → add 15th-c upgrades section.
+  - ◻ Diegetic pair: conspiracy pamphlet vs. scholar rebuttal (Mutation omens pre-1550).
+- ◻ **Rise of the Greater Principality** (Louis-XI analogue → Diet web):
+  - ◻ `entities/people/louisian_builder.md` (PERS:LOU-001; marriage/statecraft tree).
+  - ◻ `entities/factions/greater_principality_diet.md` (FAC:GRD-001).
+  - ◻ `snapshots/gp_ascent_c1600.md` (finance, roads, posts).
+- ◻ **Mutation Day (c. 1550) → Long Schisms**:
+  - ◻ `eras/09_mutation_day_and_schisms_1500_1600.md` (event + first breakaways).
+  - ◻ Timeline: port closures, insurance shocks, choir splits.
 
-- **D. Diegetic**
-  - Peace Program circular; Krum pamphlet; Kids’ sky book; extracts; Reed-Camp report: ✅
-  - **Interview with the Ancestors — Battle of Mistakes**: ◻ import transcript · ◻ cross-link Pumyaaton
+---
 
-## Done (v0.12)
-- CSV hygiene + validators (Bash/PS); pre-commit hook example.
-- ID stubs for CAD-001…007; co-types; biota.
-- Normalize Beats houses (`temple_house`, `links.synod`).
+## B. Regions & Widiwidi Push
+
+- ✅ Kllrian temple-states (foundational pages + c0 snapshot).
+- ◻ **Widiwidi arcs**:
+  - ◻ `entities/regions/widiwidi_main.md` (REG:WID-001; belts, lingua clusters).
+  - ◻ `snapshots/widiwidi_gateways_c1200.md` (island-hopping lanes; mission houses).
+  - ◻ `systems/economy/charters_colonial_c1200_1400.md` (indentures, convoy clauses).
+  - ◻ `notes/diegetic/charter_widiwidi_company.md` (port court style).
+
+---
+
+## C. Systems (priority queue)
+
+- ✅ Governance/Law/Labor pass-1 (now periodized in many files).
+- ⚙ **Powder supply chain** (tie to early artillery):
+  - ◻ `systems/industry/saltpeter_nitraries_c1200_1500.md`
+  - ◻ `systems/tech/handgonnes_matchlocks_c1300_1500.md`
+  - ◻ `systems/security/arsenal_controls_c1400_1600.md`
+- ⚙ **Naval & piracy**:
+  - ✅ `systems/security/letters_of_marque_c1050_1200.md`
+  - ◻ `systems/security/privateers_compacts_c1200_1500.md`
+  - ◻ `systems/transport/convoy_rates_tables_c1300.md` (diegetic form sheets).
+- ⚙ **Print & polemics**:
+  - ◻ `systems/tech/broadsides_forms_c1450.md` (formats, seizure warrants)
+  - ◻ `notes/diegetic/pamphlet_wars_sampler.md`
+
+---
+
+## D. Entities (people/factions you asked for)
+
+- ✅ CAD-roll (CAD-001…007).
+- ✅ Zambran, Marr, Nerise, Marak; Seven Fingers; Keeper/Censor/Council.
+- ◻ **Collapse-era personae**:
+  - ◻ PERS:LOU-001 “the Builder” (Greater Principality architect).
+  - ◻ PERS:WID-NAV-001 (Widiwidi pilot-cartographer; charter pioneer).
+  - ◻ PERS:PAMP-001 (pamphleteer-printer; later martyrdom trial).
+- ◻ **Cartels & boards**:
+  - ◻ FAC:INS-CARTEL-001 (insurers × Harbor Watches × Works collusion map).
+  - ◻ FAC:PORT-DIET-* (treaty-port diets; Ord vs Sar procedural drift).
+
+---
+
+## E. Snapshots (what exists vs. to add)
+
+- ✅ `snapshots/empire_at_its_peak_c950.md`
+- ✅ `snapshots/known_world_c950.md`
+- ✅ `snapshots/empire_snapped_c1100.md`
+- ✅ `snapshots/known_world_c1200.md`
+- ✅ `snapshots/empire_no_more_c1200.md`
+- ✅ `snapshots/visual_life_c1200.md`
+- ✅ `snapshots/lexicon_drift_c1200.md`
+- ◻ `snapshots/visual_life_c1400.md` (fashion, signage, hull silhouettes)
+- ◻ `snapshots/lexicon_drift_c1450.md` (pamphlet-era terms; alias rules applied)
+
+---
+
+## F. Diegetic Queue
+
+- ✅ Peace-Program circular; Krum pamphlet; Kids’ sky book; extracts; Reed-Camp report.
+- ◻ **AAR: Pine-Pass Shelf** (final polish + link gunnery tables).
+- ◻ **Pamphlet duel**:
+  - ◻ `diegetic/pamphlet_green_omenist.md`
+  - ◻ `diegetic/rejoinder_on_aerosols_and_hexlight.md`
+- ◻ **Harbor sheets**: convoy tickets, beacon leg notices (form scans).
+
+---
+
+## G. Timeline Beats (sparse → filled)
+
+- ✅ Pre-Ord & Early Ord seeds added (e.g., Wurran War; Battle of Mistakes).
+- ◻ Fill **1050–1200** (defaults, diet paralysis, private watch posts).
+- ◻ Seed **1200–1400** (charter dates, first Widiwidi corridors, powder mishaps).
+- ◻ Seed **1450–1600** (pamphlet seizures, riots, “singing courts” cases).
+
+---
+
+## H. Tools & Hygiene
+
+- ✅ `tools/make_snapshot.sh`; ✅ `tools/validate_timeline.sh`; ✅ `tools/periodize_many.sh`
+- ◻ README: add scripts table + usage examples.
+- ◻ `00_master_index.md`: refresh after periodization round-2.
+- ◻ `02_style_guide.md`: add **Aliases & Lexicon Drift** rule (done) + **Pamphlet formats** rule (TBD).
+- ◻ `id_to_path.csv` / `link_targets.tsv`: regenerate after each batch.
+
+---
+
+## Next up (small, do-able commits)
+
+1) Create `eras/07_voyages_powder_1200_1400.md` scaffold (thesis + section heads).  
+2) Add `systems/industry/saltpeter_nitraries_c1200_1500.md` (2p).  
+3) Draft `entities/people/louisian_builder.md` (PERS:LOU-001, 1p + links).  
+4) Seed 4–6 timeline beats (1200–1250): first charter; insurer cartel rumor; Widiwidi pilot-leaf.  
+5) README scripts table update.
+

@@ -4,10 +4,10 @@ name: Black Powder — Supply, Guilds, & Drift (c.1100–1400 AO)
 status: Draft
 links:
   powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
-  printing: canon/systems/tech/writing_and_printing.md
-  economy: canon/systems/economy/currency_finance.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  economy: canon/systems/economy/currency_finance_c1800.md
   watches: canon/entities/factions/harbor_watches.md
-  marque: canon/systems/security/letters_of_marque.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
 ---
 
 ## Early trickle (c.1100–1180)

@@ -7,7 +7,7 @@ tags: [administration, industry, religion]
 first_appearance: ERA-700
 status: Draft
 links:
-  labor: canon/systems/labor/penal_transportation.md
+  labor: canon/systems/labor/penal_transportation_c300_1050.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 

@@ -4,8 +4,8 @@ name: Co-type — Otter (Ord–Sar)
 status: Draft
 tags: [co_type, otter]
 links:
-  clothing: canon/systems/tech/clothing_and_textiles.md
-  health: canon/systems/health/public_health.md
+  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  health: canon/systems/health/public_health_c1800.md
 ---
 
 ## Morphology

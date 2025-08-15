@@ -29,6 +29,6 @@ Printed catechisms and codes, convoy/harbor standards, and managed tributaries t
 - Factions around the high seat.
 
 ## Cross-refs
-- `canon/systems/tech/writing_and_printing.md`
-- `canon/systems/economy/currency_finance.md`
-- `canon/systems/governance/symbols_of_office.md`
+- `canon/systems/tech/writing_and_printing_c700_1200.md`
+- `canon/systems/economy/currency_finance_c1800.md`
+- `canon/systems/governance/symbols_of_office_c700_1200.md`

@@ -5,7 +5,7 @@ type: fauna
 status: Draft
 tags: [domesticated, haulage, shell]
 links:
-  arms: canon/systems/tech/arms_armor.md
+  arms: canon/systems/tech/arms_armor_c700.md
   ships: canon/systems/transport/ships_galleys.md
 ---
 

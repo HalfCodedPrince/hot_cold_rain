@@ -5,7 +5,7 @@ status: Draft
 links:
   ships: canon/systems/transport/ships_galleys.md
   hydrology: canon/systems/planetology/hydrology.md
-  piracy: canon/systems/security/modern_piracy_navies.md
+  piracy: canon/systems/security/piracy_and_navies_c1800.md
 ---
 
 ## Why the shift

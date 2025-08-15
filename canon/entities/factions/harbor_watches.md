@@ -4,8 +4,8 @@ name: Harbor Watches
 type: harbor_watch_network
 status: Draft
 links:
-  public_works: canon/systems/infrastructure/public_works.md
-  piracy: canon/systems/security/modern_piracy_navies.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  piracy: canon/systems/security/piracy_and_navies_c1800.md
   law_admin: canon/systems/governance/law_admin.md
 tags: [signals, bells, fog, headlands]
 ---

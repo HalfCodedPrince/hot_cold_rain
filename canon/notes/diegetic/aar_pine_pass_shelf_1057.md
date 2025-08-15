@@ -7,7 +7,7 @@ provenance: Ord City Claims Court (Insurance Steps), Bench Two
 seal: clerk’s blue; ward bell stamp (faint)
 links:
   muster: canon/systems/security/muster_and_retainer_law.md
-  marque: canon/systems/security/letters_of_marque.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
   watches: canon/entities/factions/harbor_watches.md
   council: canon/entities/factions/council_of_captains.md
   snapped: canon/notes/snapshots/empire_snapped_c1100.md

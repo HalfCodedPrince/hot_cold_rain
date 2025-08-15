@@ -24,8 +24,8 @@ tags: [clothing, textiles, climate]
 ## Ritual dress (Good Old Rhythm)
 - Light, white/ochre layers; embroidered sun glyphs; translucent rain capes; oboe sashes.
 
-## Military dress (ERA-100 → GP)
-- Shell-lamellar vests; cane bracers; later iron/bronze scale hybrids; storm cloaks with tie-downs.
+## Military dress (universal tradition)
+- Officer unifrom includes ceremonial storm cloaks with tie-downs.
 
 ## Co-type adaptations
 - **Bat**: finger-slit capes; back-vent harness; ear-friendly hoods.

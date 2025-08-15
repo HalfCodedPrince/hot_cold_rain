@@ -6,7 +6,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
-  symbols: canon/systems/governance/symbols_of_office.md
+  symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---
 
 

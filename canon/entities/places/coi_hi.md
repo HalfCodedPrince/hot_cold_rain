@@ -16,9 +16,9 @@ links:
     - canon/eras/04_marrite_747_783.md
   systems:
     - canon/systems/transport/navigation_currents.md
-    - canon/systems/tech/writing_and_printing.md
-    - canon/systems/culture/games_and_festivals.md
-    - canon/systems/infrastructure/public_works.md
+    - canon/systems/tech/writing_and_printing_c700_1200.md
+    - canon/systems/culture/games_and_festivals_c950.md
+    - canon/systems/infrastructure/public_works_c700_1200.md
   factions:
     - canon/entities/factions/guild_of_compositories.md
     - canon/entities/factions/council_of_captains.md

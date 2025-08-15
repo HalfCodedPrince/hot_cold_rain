@@ -23,6 +23,6 @@ Prosperity via predictable calendars, capital projects, and cartelized logistics
 - Maintenance burdens and legitimacy fatigue set up retrenchment.
 
 ## Cross-refs
-- `canon/systems/infrastructure/public_works.md`
+- `canon/systems/infrastructure/public_works_c700_1200.md`
 - `canon/systems/transport/navigation_currents.md`
-- `canon/systems/security/modern_piracy_navies.md`
+- `canon/systems/security/piracy_and_navies_c1800.md`

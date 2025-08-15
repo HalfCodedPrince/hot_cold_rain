@@ -4,7 +4,7 @@ name: Bright Sea Climate, Old Song & Green Rains
 status: Draft
 links:
   transport: canon/systems/transport/navigation_currents.md
-  infra: canon/systems/infrastructure/public_works.md
+  infra: canon/systems/infrastructure/public_works_c700_1200.md
 ---
 
 # Climate of the Bright Sea

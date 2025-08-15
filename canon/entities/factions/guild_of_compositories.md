@@ -10,7 +10,7 @@ tags: [printing, commerce, guild]
 status: Stable
 links:
   religion: canon/systems/religions/good_old_rhythm.md
-  tech: canon/systems/tech/writing_and_printing.md
+  tech: canon/systems/tech/writing_and_printing_c700_1200.md
   censorate: canon/entities/factions/censors_bench.md
-  symbols: canon/systems/governance/symbols_of_office.md
+  symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---

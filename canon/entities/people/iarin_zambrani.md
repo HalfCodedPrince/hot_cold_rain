@@ -10,7 +10,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   watches: canon/entities/factions/harbor_watches.md
-  metrology: canon/systems/metrology_calendar.md
+  metrology: canon/systems/metrology/calendar_base6.md
   debt: canon/entities/factions/public_debt_office.md
 ---
 
