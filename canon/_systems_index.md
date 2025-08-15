@@ -35,6 +35,7 @@
 - **Currency & Finance — Ord–Sar Sphere** (`SYS:ECON-CUR`): `canon/systems/economy/currency_finance_c1800.md`
 - **Food Supply & Logistics (c. 1803 AO)** (`ECON:FOOD-LOG-1803`): `canon/systems/economy/food_logistics_c1800.md`
 - **Global Supply Links (Post–Last War)** (`ECON:SUPPLY-001`): `canon/systems/economy/global_supply_links.md`
+- **Taxation & Finance — Ord–Sar (c.0–1200 AO)** (`ECON:TAX-0-1200`): `canon/systems/economy/taxation_finance_c0_1200.md`
 
 
 ## Energy
