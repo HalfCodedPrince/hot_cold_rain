@@ -131,6 +131,7 @@ SYS:CULT-GAMES,canon/systems/culture/games_and_festivals_c950.md
 SYS:ECON-CUR,canon/systems/economy/currency_finance_c1800.md
 ECON:FOOD-LOG-1803,canon/systems/economy/food_logistics_c1800.md
 ECON:SUPPLY-001,canon/systems/economy/global_supply_links.md
+ECON:TAX-0-1200,canon/systems/economy/taxation_finance_c0_1200.md
 ENE:GRID-1803,canon/systems/energy/power_grid_c1800.md
 GEO:CADENCE-EXPANSION,canon/systems/geography/expansion_routes_cadence_c860_1050.md
 GOV:EMPTY-SEAT,canon/systems/governance/empty_seat_c790_860.md

@@ -1336,7 +1336,7 @@ name: Decline Mechanics (1050–1120 AO) — Debt, Silt, Cartels
 status: Draft
 links:
   apex: canon/notes/snapshots/empire_at_its_peak_c950.md
-  finance: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   works: canon/entities/factions/dredge_and_bar_works.md
   debt: canon/entities/factions/public_debt_office.md
   watches: canon/entities/factions/harbor_watches.md
@@ -1358,7 +1358,7 @@ status: Draft
 links:
   snapped: canon/notes/snapshots/empire_snapped_c1100.md
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   watches: canon/entities/factions/harbor_watches.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
 
@@ -1368,6 +1368,7 @@ name: Empire Snapped (c. 1100 AO)
 status: Draft
 links:
   era: canon/eras/06_decline_1050_1150.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   debt: canon/entities/factions/public_debt_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
   watches: canon/entities/factions/harbor_watches.md
@@ -1390,6 +1391,7 @@ links:
   world_950: canon/notes/snapshots/known_world_c950.md
   snapped: canon/notes/snapshots/empire_snapped_c1100.md
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 
 ## canon/notes/snapshots/known_world_c950.md
 id: SNAP:WORLD-950
@@ -1414,7 +1416,7 @@ status: Draft
 links:
   lex_950: canon/notes/snapshots/lexicon_drift_c950.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md, canon/systems/economy/currency_finance_c1800.md, 
   watches: canon/entities/factions/harbor_watches.md
 
 ## canon/notes/snapshots/lexicon_drift_c950.md
@@ -1441,6 +1443,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   insurance: canon/entities/factions/convoy_insurance_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 
 ## canon/notes/snapshots/pre_empire_c0.md
 id: SNAP:PRE-EMP-0
@@ -1644,6 +1647,26 @@ links:
   piracy: canon/systems/security/piracy_and_navies_c1800.md
   currency: canon/systems/economy/currency_finance_c1800.md
 
+## canon/systems/economy/taxation_finance_c0_1200.md
+id: ECON:TAX-0-1200
+name: Taxation & Finance — Ord–Sar (c.0–1200 AO)
+status: Draft
+links:
+  law: canon/systems/governance/law_admin.md
+  metrology: canon/systems/metrology/index.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  insurance: canon/entities/factions/convoy_insurance_office.md
+  watches: canon/entities/factions/harbor_watches.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  hydrology: canon/systems/planetology/hydrology.md
+  navigation: canon/systems/transport/navigation_currents.md
+tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
+
 ## canon/systems/energy/power_grid_c1800.md
 id: ENE:GRID-1803
 name: Energy — Generation & Grid (c. 1803 AO)
@@ -1748,6 +1771,7 @@ links:
   transport: canon/systems/transport/transport_index_c1800.md
   health: canon/systems/health/public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 
 ## canon/systems/infrastructure/waste_management_c1800.md
 id: INFRA:WASTE-1803
@@ -1854,7 +1878,7 @@ name: Metrology — Measures, Calendars, Coins
 status: Draft
 links:
   chancery: canon/entities/factions/grain_chancery.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md, canon/systems/economy/currency_finance_c1800.md, 
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
 
 ## canon/systems/planetology/biomes_oceans.md
@@ -1924,7 +1948,7 @@ name: Private War & Letters of Marque (1055 AO Circular)
 status: Draft
 links:
   insurance: canon/entities/factions/convoy_insurance_office.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: economy: canon/systems/economy/taxation_finance_c0_1200.md
 
 ## canon/systems/security/piracy_and_navies_c1800.md
 id: SEC:NAV-001
@@ -1962,7 +1986,7 @@ status: Draft
 links:
   powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
   watches: canon/entities/factions/harbor_watches.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
 
@@ -1994,7 +2018,7 @@ links:
   hulls: canon/systems/transport/ocean_ranging_hulls_c1180_1300.md
   ships: canon/systems/transport/ships_galleys.md
   works: canon/entities/factions/dredge_and_bar_works.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
 
 ## canon/systems/tech/rain_gear_umbrellas_c1800.md
 id: TECH:RAIN-GEAR-1803

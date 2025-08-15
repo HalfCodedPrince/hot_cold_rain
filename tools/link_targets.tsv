@@ -241,7 +241,7 @@ canon/notes/rolls/high_masters_golden_cadence.md	canon/entities/factions/public_
 canon/notes/rolls/high_masters_golden_cadence.md	canon/entities/factions/dredge_and_bar_works.md
 canon/notes/scratchpad/world_themes.md	canon/overview.md
 canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/notes/snapshots/empire_at_its_peak_c950.md
-canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/systems/economy/currency_finance_c1800.md
+canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/entities/factions/dredge_and_bar_works.md
 canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/entities/factions/public_debt_office.md
 canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/entities/factions/harbor_watches.md
@@ -251,10 +251,11 @@ canon/notes/snapshots/decline_mechanics_c1050_1120.md	canon/systems/religions/go
 canon/notes/snapshots/empire_at_its_peak_c950.md	canon/eras/06_golden_cadence_apex_860_1050.md
 canon/notes/snapshots/empire_no_more_c1200.md	canon/notes/snapshots/empire_snapped_c1100.md
 canon/notes/snapshots/empire_no_more_c1200.md	canon/notes/snapshots/decline_mechanics_c1050_1120.md
-canon/notes/snapshots/empire_no_more_c1200.md	canon/systems/economy/currency_finance_c1800.md
+canon/notes/snapshots/empire_no_more_c1200.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/notes/snapshots/empire_no_more_c1200.md	canon/entities/factions/harbor_watches.md
 canon/notes/snapshots/empire_no_more_c1200.md	canon/systems/tech/writing_and_printing_c700_1200.md
 canon/notes/snapshots/empire_snapped_c1100.md	canon/eras/06_decline_1050_1150.md
+canon/notes/snapshots/empire_snapped_c1100.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/notes/snapshots/empire_snapped_c1100.md	canon/entities/factions/public_debt_office.md
 canon/notes/snapshots/empire_snapped_c1100.md	canon/entities/factions/dredge_and_bar_works.md
 canon/notes/snapshots/empire_snapped_c1100.md	canon/entities/factions/harbor_watches.md
@@ -265,12 +266,12 @@ canon/notes/snapshots/known_world_c0.md	canon/eras/00_preord_krum.md
 canon/notes/snapshots/known_world_c1200.md	canon/notes/snapshots/known_world_c950.md
 canon/notes/snapshots/known_world_c1200.md	canon/notes/snapshots/empire_snapped_c1100.md
 canon/notes/snapshots/known_world_c1200.md	canon/notes/snapshots/decline_mechanics_c1050_1120.md
+canon/notes/snapshots/known_world_c1200.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/notes/snapshots/lexicon_drift_c0.md	canon/notes/snapshots/lexicon_drift_c950.md
 canon/notes/snapshots/lexicon_drift_c0.md	canon/systems/religions/good_old_rhythm.md
 canon/notes/snapshots/lexicon_drift_c0.md	canon/systems/tech/writing_and_printing_c700_1200.md
 canon/notes/snapshots/lexicon_drift_c1200.md	canon/notes/snapshots/lexicon_drift_c950.md
 canon/notes/snapshots/lexicon_drift_c1200.md	canon/systems/tech/writing_and_printing_c700_1200.md
-canon/notes/snapshots/lexicon_drift_c1200.md	canon/systems/economy/currency_finance_c1800.md
 canon/notes/snapshots/lexicon_drift_c1200.md	canon/entities/factions/harbor_watches.md
 canon/notes/snapshots/lexicon_drift_c950.md	canon/notes/snapshots/empire_at_its_peak_c950.md
 canon/notes/snapshots/lexicon_drift_c950.md	canon/systems/language/linguistic_guide_for_ord_sar.md
@@ -285,6 +286,7 @@ canon/notes/snapshots/mil_response_second_hammer_1120.md	canon/entities/factions
 canon/notes/snapshots/mil_response_second_hammer_1120.md	canon/entities/factions/council_of_captains.md
 canon/notes/snapshots/mil_response_second_hammer_1120.md	canon/entities/factions/convoy_insurance_office.md
 canon/notes/snapshots/mil_response_second_hammer_1120.md	canon/entities/factions/dredge_and_bar_works.md
+canon/notes/snapshots/mil_response_second_hammer_1120.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/notes/snapshots/pre_empire_c0.md	canon/entities/regions/kllrian_arc.md
 canon/notes/snapshots/pre_empire_c0.md	canon/entities/regions/ord_south_riverine_belt.md
 canon/notes/snapshots/pre_empire_c0.md	canon/entities/regions/sar_littoral_belt.md
@@ -350,6 +352,19 @@ canon/systems/economy/food_logistics_c1800.md	canon/systems/planetology/hydrolog
 canon/systems/economy/global_supply_links.md	canon/systems/transport/transport_index_c1800.md
 canon/systems/economy/global_supply_links.md	canon/systems/security/piracy_and_navies_c1800.md
 canon/systems/economy/global_supply_links.md	canon/systems/economy/currency_finance_c1800.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/governance/law_admin.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/metrology/index.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/entities/factions/dredge_and_bar_works.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/entities/factions/public_debt_office.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/entities/factions/convoy_insurance_office.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/entities/factions/harbor_watches.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/security/letters_of_marque_c1050_1200.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/tech/writing_and_printing_c700_1200.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/infrastructure/public_works_c700_1200.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/tech/black_powder_baseline_c1180_1300.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/tech/early_artillery_c1200_1350.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/planetology/hydrology.md
+canon/systems/economy/taxation_finance_c0_1200.md	canon/systems/transport/navigation_currents.md
 canon/systems/energy/power_grid_c1800.md	canon/systems/infrastructure/public_works_c700_1200.md
 canon/systems/energy/power_grid_c1800.md	canon/systems/health/healthcare_landscape_c1800.md
 canon/systems/geography/expansion_routes_cadence_c860_1050.md	canon/eras/06_golden_cadence_apex_860_1050.md
@@ -384,6 +399,7 @@ canon/systems/infrastructure/public_works_c700_1200.md	canon/entities/factions/o
 canon/systems/infrastructure/public_works_c700_1200.md	canon/systems/transport/transport_index_c1800.md
 canon/systems/infrastructure/public_works_c700_1200.md	canon/systems/health/public_health_c1800.md
 canon/systems/infrastructure/public_works_c700_1200.md	canon/systems/climate/bright_sea_climate.md
+canon/systems/infrastructure/public_works_c700_1200.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/systems/infrastructure/waste_management_c1800.md	canon/systems/health/public_health_c1800.md
 canon/systems/infrastructure/waste_management_c1800.md	canon/systems/economy/currency_finance_c1800.md
 canon/systems/infrastructure/water_and_sewer_c1800.md	canon/systems/planetology/hydrology.md
@@ -410,7 +426,6 @@ canon/systems/law/muster_and_retainer_law_c700_1200.md	canon/entities/factions/c
 canon/systems/metrology/calendar_base6.md	canon/systems/governance/law_admin.md
 canon/systems/metrology/calendar_base6.md	canon/systems/cosmos/index.md
 canon/systems/metrology/index.md	canon/entities/factions/grain_chancery.md
-canon/systems/metrology/index.md	canon/systems/economy/currency_finance_c1800.md
 canon/systems/metrology/index.md	canon/systems/tech/writing_and_printing_c700_1200.md
 canon/systems/planetology/biomes_oceans.md	canon/systems/transport/navigation_currents.md
 canon/systems/planetology/biomes_oceans.md	canon/systems/planetology/hydrology.md
@@ -428,7 +443,6 @@ canon/systems/religions/good_old_rhythm.md	canon/entities/factions/beats/house_s
 canon/systems/religions/good_old_rhythm.md	canon/entities/factions/beats/house_second_beat.md
 canon/systems/religions/good_old_rhythm.md	canon/entities/factions/compository_houses.md
 canon/systems/security/letters_of_marque_c1050_1200.md	canon/entities/factions/convoy_insurance_office.md
-canon/systems/security/letters_of_marque_c1050_1200.md	canon/systems/economy/currency_finance_c1800.md
 canon/systems/security/piracy_and_navies_c1800.md	canon/systems/economy/currency_finance_c1800.md
 canon/systems/security/piracy_and_navies_c1800.md	canon/systems/transport/transport_index_c1800.md
 canon/systems/security/piracy_and_navies_c1800.md	canon/entities/factions/harbor_watches.md
@@ -438,7 +452,7 @@ canon/systems/systems_examples_format.md	canon/entities/factions/keeper_of_oboe_
 canon/systems/tech/arms_armor_c700.md	canon/systems/transport/ships_galleys.md
 canon/systems/tech/black_powder_history_c1100_1400.md	canon/systems/tech/black_powder_baseline_c1180_1300.md
 canon/systems/tech/black_powder_history_c1100_1400.md	canon/systems/tech/writing_and_printing_c700_1200.md
-canon/systems/tech/black_powder_history_c1100_1400.md	canon/systems/economy/currency_finance_c1800.md
+canon/systems/tech/black_powder_history_c1100_1400.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/systems/tech/black_powder_history_c1100_1400.md	canon/entities/factions/harbor_watches.md
 canon/systems/tech/black_powder_history_c1100_1400.md	canon/systems/security/letters_of_marque_c1050_1200.md
 canon/systems/tech/broadcast_color_standard_c1770_1810.md	canon/systems/tech/television_history_c1700_1810.md
@@ -450,7 +464,7 @@ canon/systems/tech/early_artillery_c1200_1350.md	canon/systems/tech/black_powder
 canon/systems/tech/early_artillery_c1200_1350.md	canon/systems/transport/ocean_ranging_hulls_c1180_1300.md
 canon/systems/tech/early_artillery_c1200_1350.md	canon/systems/transport/ships_galleys.md
 canon/systems/tech/early_artillery_c1200_1350.md	canon/entities/factions/dredge_and_bar_works.md
-canon/systems/tech/early_artillery_c1200_1350.md	canon/systems/economy/currency_finance_c1800.md
+canon/systems/tech/early_artillery_c1200_1350.md	canon/systems/economy/taxation_finance_c0_1200.md
 canon/systems/tech/rain_gear_umbrellas_c1800.md	canon/systems/tech/clothing_and_textiles_c1800.md
 canon/systems/tech/rain_gear_umbrellas_c1800.md	canon/systems/health/public_health_c1800.md
 canon/systems/tech/rain_gear_umbrellas_c1800.md	canon/systems/religions/good_old_rhythm.md
