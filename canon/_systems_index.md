@@ -1,5 +1,5 @@
 # Systems — auto-index
-Looking for the guided overview? See 00_master_index.md
+
 
 ## Antropology
 
@@ -49,7 +49,7 @@ Looking for the guided overview? See 00_master_index.md
 
 ## Governance
 
-- **The Empty Seat — Interregnal Governance** (`GOV:EMPTY-SEAT`): `canon/systems/governance/empty_seat.md`
+- **The Empty Seat — Interregnal Governance** (`GOV:EMPTY-SEAT`): `canon/systems/governance/empty_seat_c790_860.md`
 - **Law & Administration — From Captains to Diet** (`SYS:GOV-LAW`): `canon/systems/governance/law_admin.md`
 - **Political Ecology of the Bright Sea** (`GOV:POL-ECO`): `canon/systems/governance/political_ecology_bright_sea.md`
 - **Symbols of Office (Ord–Sar)** (`GOV:SYMB-OFF`): `canon/systems/governance/symbols_of_office_c700_1200.md`
@@ -59,6 +59,11 @@ Looking for the guided overview? See 00_master_index.md
 
 - **Healthcare Landscape (c. 1803 AO)** (`HEALTH:SYSTEMS-1803`): `canon/systems/health/healthcare_landscape_c1800.md`
 - **Public Health (Green Rains & Warm Seas)** (`HEALTH:PUB-001`): `canon/systems/health/public_health_c1800.md`
+
+
+## Industry
+
+- **Industry — Locations & Sectors (c. 1803 AO)** (`IND:LAYOUT-1803`): `canon/systems/industry/locations_layout_c1800.md`
 
 
 ## Infrastructure
@@ -89,6 +94,12 @@ Looking for the guided overview? See 00_master_index.md
 - **Muster & Retainer Law (Cadence → Decline)** (`SEC:MUSTER-001`): `canon/systems/law/muster_and_retainer_law_c700_1200.md`
 
 
+## Metrology
+
+- **Metrology & Calendar — Base-6 Habits** (`SYS:MET-CAL`): `canon/systems/metrology/calendar_base6.md`
+- **Metrology — Measures, Calendars, Coins** (`MET:IDX-001`): `canon/systems/metrology/index.md`
+
+
 ## Planetology
 
 - **Biomes, Coasts & Oceans** (`GEO:BIOMES-SEA-001`): `canon/systems/planetology/biomes_oceans.md`
@@ -114,7 +125,7 @@ Looking for the guided overview? See 00_master_index.md
 
 - **Arms & Armor (Climate & Sea-Aware)** (`TECH:ARM-000`): `canon/systems/tech/arms_armor_c700.md`
 - **Black Powder — Supply, Guilds, & Drift (c.1100–1400 AO)** (`TECH:POWDER-HIST-1100-1400`): `canon/systems/tech/black_powder_history_c1100_1400.md`
-- **Broadcast Color Standard — ERA-14 “Cadence Color”** (`TECH:BCAST-001`): `canon/systems/tech/broadcast_color_standard.14_last_war_aftermath.md`
+- **Broadcast Color Standard (c. 1770–1810 AO)** (`TECH:TV-COLOR-STD`): `canon/systems/tech/broadcast_color_standard_c1770_1810.md`
 - **Clothing & Textiles (Hot, Wet, Windy)** (`TECH:CLO-000`): `canon/systems/tech/clothing_and_textiles_c1800.md`
 - **Early Artillery — Bombards, Swivels, & Foundry Discipline (c.1200–1350 AO)** (`TECH:ARTY-EARLY-1200-1350`): `canon/systems/tech/early_artillery_c1200_1350.md`
 - **Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)** (`TECH:RAIN-GEAR-1803`): `canon/systems/tech/rain_gear_umbrellas_c1800.md`
@@ -125,12 +136,12 @@ Looking for the guided overview? See 00_master_index.md
 ## Transport
 
 - **Black Powder & Firearms — Baseline c.1180–1300 AO** (`TECH:POWDER-BASE-1180-1300`): `canon/systems/transport/black_powder_baseline_c1180_1300.md`
-- **Transport Index (Sea, Cable, Rail, Road)** (`TRANS:IDX-001`): `canon/systems/transport/transport_index_c1800.md`
 - **Tideways & the Old Song** (`TRANS:NAV-001`): `canon/systems/transport/navigation_currents.md`
 - **Ocean-Ranging Hulls & Rigs — Baseline c.1180–1300 AO** (`TRANS:HULLS-OCEAN-1180-1300`): `canon/systems/transport/ocean_ranging_hulls_c1180_1300.md`
 - **Resilient Transit in Flood-Prone Cities** (`TRANS:FLOOD-MODES-1803`): `canon/systems/transport/resilient_transit_flood_cities_c1800.md`
 - **Roads & Surfaces — Asphalt, Stone, Boards** (`TRANS:ROAD-1803`): `canon/systems/transport/road_surfaces_c1800.md`
 - **Ships — Oar Galleys with Auxiliary Sail** (`TRANS:SHIPS-001`): `canon/systems/transport/ships_galleys.md`
+- **Transport Index (Sea, Cable, Rail, Road)** (`TRANS:IDX-001`): `canon/systems/transport/transport_index_c1800.md`
 - **Urban Vehicles & City Logistics (Low-Tech, Wet)** (`TRANS:URBAN-VEHICLES-1803`): `canon/systems/transport/urban_vehicles_logistics_c1800.md`
 
 
