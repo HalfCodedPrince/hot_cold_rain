@@ -15,6 +15,8 @@ Full inventory of system docs → _systems_index.md
 - ERA-790–860 (Pax Ordica): `canon/eras/04_pax_ordica_790_860.md`
 - ERA-860–1050 (Golden Cadence): `canon/eras/05_golden_cadence_apex_860_1050.md`
 - ERA-1050-1200 (Empire No More): `canon\eras\06_middle_cadence_disjunction_1050_1200.md`
+- ERA-1200–1290 (Mangrove Garrot): `canon/eras/07_mangrove_garrot_1200-1290.md`
+- ERA-1290–1400 (Knotted Lanterns): `canon/eras/08_knotted_lanterns_1290_1400.md`
 
 ## Entities
 - **People (PERS):** Zambran, Marr, Nerise, Marak, CAD-001…007 — `canon/entities/people/`
@@ -29,4 +31,4 @@ Full inventory of system docs → _systems_index.md
 ## Notes (Diegetic & Rolls)
 - **Diegetic:** Peace Program circular; Zambran-era extracts; Reed-Camp report; Krum pamphlet; Kids’ sky book — `canon/notes/diegetic/`
 - **Rolls:** High Masters of the Golden Cadence — `canon/notes/rolls/high_masters_golden_cadence.md` (contents will likely be moved to canon/people soon)
-- **Snapshots:** Peak empire / Known world — `canon/notes/snapshots/`
+- **Snapshots:** Era snapshots / Known world — `canon/notes/snapshots/`

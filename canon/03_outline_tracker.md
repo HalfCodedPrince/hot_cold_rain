@@ -16,13 +16,19 @@ status: Draft
 - ✅ **ERA-860–1050** (Golden Cadence): CAD-001…007 roll + `snapshots/*_c950.md`.
 - ✅ **ERA-1050–1120** (Early Unraveling): `decline_mechanics_c1050_1120.md`; `second_hammer_response_1120.md`.
 - ✅ **ERA-1150–1200** (Second Blindness framing): `known_world_c1200.md`, `empire_no_more_c1200.md`, `visual_life_c1200.md`, `lexicon_drift_c1200.md`.
-- ◻ **ERA-1200–1400 — Voyages & Powder** (not-Age-of-Discovery):
-  - ◻ `eras/07_voyages_powder_1200_1400.md` (overview + lane economics).
-  - ✅ `systems/tech/early_artillery_c1200_1350.md`; ✅ `notes/AAR_pine_pass_shelf.md`.
-  - ◻ `systems/transport/hulls_evolution_c1200_1400.md` (carvel/lateen → hybrid “reef galleon”).
-  - ◻ Timeline beats (charters, letters of reprisal, Widiwidi corridors).
-- ◻ **ERA-1450–1600 — Pamphlet Wars & Schisms**:
-  - ◻ `eras/08_pamphlet_wars_1450_1600.md` (print + doctrine + markets).
+- ✅ **ERA-1200–1290 — Mangrove Garrot**:
+  - ✅ `eras/07_mangrove_garrot_1200-1290.md`
+  - ✅ `systems/security/mangrove_piracy_compacts_c1200_1290.md` (carrot/stick, RH kits, Prize Dockets)
+  - ✅ `systems/commerce/morum_factors_row_c1296.md` + `systems/commerce/mangrove_gardens_c1290_1400.md`
+- ✅ **ERA-1290–1400 — Knotted Lanterns**:
+  - ✅ `eras/08_knotted_lanterns_1290_1400.md`
+  - ✅ `systems/commerce/fog_gate_marts_stern_shore_c0_1400.md`
+  - ✅ `notes/snapshots/northlands_c0_1400.md`
+  - ✅ `systems/industry/proto_industry_c1290_1400.md`, `systems/industry/mills_power_wetworld_c1250_1450.md`
+  - ✅ `systems/learning/collegia_and_education_c1310_1400.md`
+  - ✅ `systems/tech/handgonnes_matchlocks_c1300_1500.md`
+- ◻ **ERA-1400–1600 — Pamphlet Wars & Schisms**:
+  - ◻ `eras/08_pamphlet_wars_1400_1600.md` (print + doctrine + markets).
   - ◻ `systems/tech/seven_frame_chancery_press_c1050.md` → add 15th-c upgrades section.
   - ◻ Diegetic pair: conspiracy pamphlet vs. scholar rebuttal (Mutation omens pre-1550).
 - ◻ **Rise of the Greater Principality** (Louis-XI analogue → Diet web):

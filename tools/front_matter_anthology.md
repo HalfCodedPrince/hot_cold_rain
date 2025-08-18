@@ -1089,7 +1089,7 @@ institutions:
 
 ## canon/eras/04_pax_ordica_790_860.md
 id: ERA-04
-name: Pax Ordica / Early Cadence (790–860 AO)
+name: Early Cadence (790–860 AO) (development only, legacy - Pax Ordica)
 status: Draft
 span: "790–860 AO"
 thesis: "Post-Marr consolidation: legal clarity, festival unities, harbor watches; institutions routinize power-sharing across Council, Beats, and Chancery."
@@ -1126,6 +1126,44 @@ links:
   debt: canon/entities/factions/public_debt_office.md
   watches: canon/entities/factions/harbor_watches.md
   insurance: canon/entities/factions/convoy_insurance_office.md
+
+## canon/eras/07_mangrove_garrot_1200-1290.md
+id: ERA:07-MANGROVE-1200-1290
+name: Mangrove Garrot (1200–1290 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  powder_hist: canon/systems/tech/black_powder_history_c1100_1400.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  known_world: canon/notes/snapshots/known_world_c1200.md
+  koi_hi: canon/entities/places/koi_hi.md
+  camra_dona: canon/entities/people/camra_dona.md
+tags: [era, piracy, convoys, contract_ports, widiwidi, koi-hi, broken_lantern_years]
+
+## canon/eras/08_knotted_lanterns_1290_1400.md
+id: ERA:08-KNOT-1290-1400
+name: Knotted Lanterns (1290–1400 AO)
+status: Draft
+links:
+  charter: canon/entities/law/treaties/charter_great_principality_1304.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  iron_sand: canon/systems/industry/iron_sand_bloomery_c1200.md
+  pozzolan: canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
+  factors_row: canon/systems/commerce/morum_factors_row_c1296.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  known_world: canon/notes/snapshots/known_world_c1200_update.md
+tags: [era, principality, colonies, widiwidi, universities, theaters, circumnavigation, green_years, church_crisis, nepotism]
 
 ## canon/eras/ERAS_EXAMPLE_FORMAT.md
 id: ERA-11
@@ -1393,6 +1431,19 @@ links:
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
 
+## canon/notes/snapshots/known_world_c1215.md
+id: SNAP:KNOWN-1215
+name: Known World c.1200 — Update Notes (Mangrove Garrot Onset)
+status: Draft
+links:
+  base: canon/notes/snapshots/known_world_c1200.md
+  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+tags: [snapshot, known_world, mangrove_garrot, convoys]
+
 ## canon/notes/snapshots/known_world_c950.md
 id: SNAP:WORLD-950
 name: Known World c. 950 AO
@@ -1444,6 +1495,23 @@ links:
   insurance: canon/entities/factions/convoy_insurance_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+
+## canon/notes/snapshots/northlands_c0_1400.md
+id: SNAP:NORTHLANDS-0-1400
+name: Northlands — Kahet, Uplands & Western Peninsula (c.0–1400 AO)
+status: Draft
+links:
+  eras_07: canon/eras/07_mangrove_garrot_1200-1290.md
+  eras_08: canon/eras/08_knotted_lanterns_1290_1400.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  collegia: canon/systems/learning/collegia_and_education_c1310_1400.md
+  religions_topo: canon/systems/religions/religious_topography_c1290_1400.md
+  kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+  rite_knees: canon/systems/religions/rite_knees_reed_of_crowns.md
+tags: [snapshot, northlands, kahet, uplands, western_peninsula, totems, trade, cartels]
 
 ## canon/notes/snapshots/pre_empire_c0.md
 id: SNAP:PRE-EMP-0
@@ -1531,6 +1599,43 @@ status: Draft
 links:
   transport: canon/systems/transport/navigation_currents.md
   infra: canon/systems/infrastructure/public_works_c700_1200.md
+
+## canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
+id: COM:FOG-GATE-0-1400
+name: Fog-Gate Marts — Stern Shore (c.0–1400 AO)
+status: Draft
+links:
+  northlands: canon/notes/snapshots/northlands_c0_1400.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+  kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
+  crum: canon/systems/religions/crum_assemblies_hundred_crowns.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  factors_row: canon/systems/commerce/morum_factors_row_c1296.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  proto_industry: canon/systems/industry/proto_industry_c1290_1400.md
+tags: [northlands, stern, seasonal_port, fog, assay, oath, fairs, access_days, cartels]
+
+## canon/systems/commerce/mangrove_gardens_c1290_1400.md
+id: COM:GARDENS-1290-1400
+name: Mangrove Gardens (c.1290–1400 AO)
+status: Draft
+links:
+  factors_row: canon/systems/commerce/morum_factors_row_c1296.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+tags: [gardens, brothels, taverns, factors, licenses, bond, queue]
+
+## canon/systems/commerce/morum_factors_row_c1296.md
+id: COM:FACTORS-MORUM-1296
+name: Factors’ Row — Morum (c.1296 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+tags: [factors, exchange, assay, CGW, prize, rate-hold]
 
 ## canon/systems/cosmos/bean.md
 id: COS:BEA-001
@@ -1657,6 +1762,7 @@ links:
   works: canon/entities/factions/dredge_and_bar_works.md
   debt_office: canon/entities/factions/public_debt_office.md
   insurance: canon/entities/factions/convoy_insurance_office.md
+  infrastructure: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md | canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   watches: canon/entities/factions/harbor_watches.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
@@ -1665,6 +1771,7 @@ links:
   early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
   hydrology: canon/systems/planetology/hydrology.md
   navigation: canon/systems/transport/navigation_currents.md
+  governance: canon/systems/governance/procurement_fee_farms_c700_1200.md
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 
 ## canon/systems/energy/power_grid_c1800.md
@@ -1717,6 +1824,23 @@ links:
   law: canon/systems/governance/law_admin.md
 tags: [political_ecology, thalassocracy]
 
+## canon/systems/governance/procurement_fee_farms_c700_1200.md
+id: GOV:PROC-FF-700-1200
+name: Procurement & Fee-Farms (c.700–1200 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+  watches: canon/entities/factions/harbor_watches.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+tags: [procurement, fee-farm, tenders, corruption, audits, escorts]
+
 ## canon/systems/governance/symbols_of_office_c700_1200.md
 id: GOV:SYMB-OFF
 name: Symbols of Office (Ord–Sar)
@@ -1743,6 +1867,20 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   transport_index: canon/systems/transport/transport_index_c1800.md
 
+## canon/systems/industry/iron_sand_bloomery_c1200.md
+id: IND:IRON-SAND-1200
+name: Iron-Sand Bloomery (c.1200 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  metrology: canon/systems/metrology/index.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+tags: [iron-sand, bloomery, tatara, metallurgy, works, escorts, assay, flux]
+
 ## canon/systems/industry/locations_layout_c1800.md
 id: IND:LAYOUT-1803
 name: Industry — Locations & Sectors (c. 1803 AO)
@@ -1751,6 +1889,43 @@ links:
   transport: canon/systems/transport/transport_index_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
   economy: canon/systems/economy/currency_finance_c1800.md
+
+## canon/systems/industry/mills_power_wetworld_c1250_1450.md
+id: IND:MILLS-WET-1250-1450
+name: Mills & Power in a Wet World (c.1250–1450 AO)
+status: Draft
+links:
+  proto: canon/systems/industry/proto_industry_c1290_1400.md
+  hydrology: canon/systems/planetology/hydrology.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+tags: [mills, tidal, river, wind, trip-hammer, stampers, capstan, monsoon]
+
+## canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
+id: IND:POZZ-1200
+name: Pozzolan & Hydraulic Mortar (c.1200 AO)
+status: Draft
+links:
+  works: canon/entities/factions/dredge_and_bar_works.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  metrology: canon/systems/metrology/index.md
+  hydrology: canon/systems/planetology/hydrology.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+tags: [pozzolan, mortar, lime, seawalls, slipways, beacons, works, assay]
+
+## canon/systems/industry/proto_industry_c1290_1400.md
+id: IND:PROTO-1290-1400
+name: Proto-Industry — Shops, Mills & Manufactures (1290–1400 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  iron_sand: canon/systems/industry/iron_sand_bloomery_c1200.md
+  pozzolan: canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+tags: [proto-industry, mills, ropewalks, sail-lofts, stampers, tilt-hammers, nitraries, paper, sugar, climate]
 
 ## canon/systems/infrastructure/coastal_storms_resilience_c1800.md
 id: INFRA:COAST-STORM-1803
@@ -1762,6 +1937,22 @@ links:
   water_sewer: canon/systems/infrastructure/water_and_sewer_c1800.md
   transport: canon/systems/transport/transport_index_c1800.md
 
+## canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+id: INF:COURIER-ASSAY-700-1300
+name: Courier Circuit & Assay Ring (c.700–1300 AO)
+status: Draft
+links:
+  law: canon/systems/governance/law_admin.md
+  metrology: canon/systems/metrology/index.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+  watches: canon/entities/factions/harbor_watches.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  navigation: canon/systems/transport/navigation_currents.md
+tags: [couriers, assay, seals, metrology, finance, governance, logistics]
+
 ## canon/systems/infrastructure/public_works_c700_1200.md
 id: INFRA:PUB-001
 name: Public Works — Beacons, Seawalls & Cisterns
@@ -1772,6 +1963,20 @@ links:
   health: canon/systems/health/public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+
+## canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+id: INF:WARE-BOND-700-1300
+name: Warrant Warehouses & Bonded Granaries (c.700–1300 AO)
+status: Draft
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  metrology: canon/systems/metrology/index.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  debt_office: canon/entities/factions/public_debt_office.md
+  watches: canon/entities/factions/harbor_watches.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+tags: [warehouses, bonded, scrip, grain, oil, receipts, redemption]
 
 ## canon/systems/infrastructure/waste_management_c1800.md
 id: INFRA:WASTE-1803
@@ -1863,6 +2068,30 @@ links:
   council: canon/entities/factions/council_of_captains.md
   insurance: canon/entities/factions/convoy_insurance_office.md
 
+## canon/systems/law/treaties/charter_great_principality_1304.md
+id: LAW:CHARTER-GOP-1304
+name: Charter of the Great Ord-Sar Principality (1304 AO)
+status: Draft
+links:
+  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+tags: [charter, diet, electors, stair, access_days, prize, rate-hold]
+
+## canon/systems/learning/collegia_and_education_c1310_1400.md
+id: EDU:COLLEGIA-1310-1400
+name: Collegia & Education Ladders (c.1310–1400 AO)
+status: Draft
+links:
+  collegia_examples: canon/eras/08_knotted_lanterns_1290_1400.md
+  compositories: canon/systems/tech/writing_and_printing_c700_1200.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+tags: [universities, collegia, guilds, students, courts, bursaries, mobility]
+
 ## canon/systems/metrology/calendar_base6.md
 id: SYS:MET-CAL
 name: Metrology & Calendar — Base-6 Habits
@@ -1930,6 +2159,15 @@ links:
   hex: canon/systems/cosmos/moon_hex.md
 tags: [planet, point]
 
+## canon/systems/religions/crum_assemblies_hundred_crowns.md
+id: REL:CRUM-ASM
+name: Crum-ward Assemblies (Hundred Crowns & Western Ord)
+status: Draft
+links:
+  topo: canon/systems/religions/religious_topography_c1290_1400.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+tags: [crum, assemblies, market, oaths, satire, syncretic]
+
 ## canon/systems/religions/good_old_rhythm.md
 id: REL:GDR-001
 name: Good Old Rhythm (Old Bold Rhythm)
@@ -1942,6 +2180,47 @@ links:
   compositories: canon/entities/factions/compository_houses.md
 tags: [religion, music, governance]
 
+## canon/systems/religions/kllrian_stone_current_old_word.md
+id: REL:KLL-OLDWORD
+name: Stone-Current & the Old Word (Kllrian Continuity)
+status: Draft
+links:
+  topo: canon/systems/religions/religious_topography_c1290_1400.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+tags: [kllrian, terraces, ancestors, water, vows, tolerance]
+
+## canon/systems/religions/religious_topography_c1290_1400.md
+id: REL:TOPO-1290-1400
+name: Religious Topography — Rites & Currents (c.1290–1400 AO)
+status: Draft
+links:
+  good_old: canon/systems/religions/good_old_rhythm.md
+  synod: canon/notes/doctrine/synod_of_beats.md
+  zambran: canon/notes/doctrine/zambran.md
+  sar_rite: canon/systems/religions/rite_sar_sea_lotus.md
+  knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
+  kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
+  crum_free: canon/systems/religions/crum_assemblies_hundred_crowns.md
+tags: [religion, rites, syncretism, rhythm, crum, totems, sar, knees, kllrian, hundred_crowns]
+
+## canon/systems/religions/rite_knees_reed_of_crowns.md
+id: REL:RITE-KNEES
+name: Reed of Crowns (Knees Rite)
+status: Draft
+links:
+  topo: canon/systems/religions/religious_topography_c1290_1400.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+tags: [knees, reed, proto-canon, ecstatic, silence, emanations]
+
+## canon/systems/religions/rite_sar_sea_lotus.md
+id: REL:RITE-SAR
+name: Sea-Lotus Rite (Sar Littoral)
+status: Draft
+links:
+  topo: canon/systems/religions/religious_topography_c1290_1400.md
+  good_old: canon/systems/religions/good_old_rhythm.md
+tags: [sar, rite, lotus, antiphon, lustration, geometry]
+
 ## canon/systems/security/letters_of_marque_c1050_1200.md
 id: SEC:MARQUE-001
 name: Private War & Letters of Marque (1055 AO Circular)
@@ -1949,6 +2228,39 @@ status: Draft
 links:
   insurance: canon/entities/factions/convoy_insurance_office.md
   economy: economy: canon/systems/economy/taxation_finance_c0_1200.md
+
+## canon/systems/security/longara_marine_patrol_doctrine_c1800.md
+id: SEC:LONG-PATROL-1770-1800
+name: Longara Marine Patrol — Littoral Doctrine (c. 1770–1800 AO)
+status: Draft
+links:
+  climate: canon/systems/climate/bright_sea_climate.md
+  currents: canon/systems/transport/navigation_currents.md
+  piracy: canon/systems/security/piracy_and_navies_c1800.md
+  ships: canon/systems/transport/ships_galleys.md
+  watches: canon/entities/factions/harbor_watches.md
+  insurance: canon/entities/factions/convoy_insurance_office.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  rain_gear: canon/systems/tech/rain_gear_umbrellas_c1800.md
+  arms: canon/systems/tech/arms_armor_c700.md
+  law_admin: canon/systems/governance/law_admin.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+tags: [littoral, anti-piracy, patrol, bright_sea, longara, doctrine]
+
+## canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+id: SEC:PIRACY-MANGROVE-1200-1290
+name: Mangrove Piracy & Compact Navies (c.1200–1290 AO)
+status: Draft
+links:
+  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  powder_hist: canon/systems/tech/black_powder_history_c1100_1400.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+tags: [piracy, escorts, privateers, rate-hold, fee-farm, mangrove, republics]
 
 ## canon/systems/security/piracy_and_navies_c1800.md
 id: SEC:NAV-001
@@ -2019,6 +2331,19 @@ links:
   ships: canon/systems/transport/ships_galleys.md
   works: canon/entities/factions/dredge_and_bar_works.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+
+## canon/systems/tech/handgonnes_matchlocks_c1300_1500.md
+id: TECH:FIRE-ARMS-1300-1500
+name: Handgonnes & Matchlocks (c.1300–1500 AO)
+status: Draft
+links:
+  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  industry: canon/systems/industry/proto_industry_c1290_1400.md
+  iron_sand: canon/systems/industry/iron_sand_bloomery_c1200.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+tags: [handgonne, matchlock, fire-lance, serpentine, swivel, powder, humidity]
 
 ## canon/systems/tech/rain_gear_umbrellas_c1800.md
 id: TECH:RAIN-GEAR-1803
