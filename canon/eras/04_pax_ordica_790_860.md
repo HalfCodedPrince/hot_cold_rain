@@ -1,6 +1,6 @@
 ---
 id: ERA-04
-name: Pax Ordica / Early Cadence (790–860 AO)
+name: Early Cadence (790–860 AO) (development only, legacy - Pax Ordica)
 status: Draft
 span: "790–860 AO"
 thesis: "Post-Marr consolidation: legal clarity, festival unities, harbor watches; institutions routinize power-sharing across Council, Beats, and Chancery."

@@ -8,6 +8,7 @@ links:
   works: canon/entities/factions/dredge_and_bar_works.md
   debt_office: canon/entities/factions/public_debt_office.md
   insurance: canon/entities/factions/convoy_insurance_office.md
+  infrastructure: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md | canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   watches: canon/entities/factions/harbor_watches.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
@@ -16,6 +17,7 @@ links:
   early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
   hydrology: canon/systems/planetology/hydrology.md
   navigation: canon/systems/transport/navigation_currents.md
+  governance: canon/systems/governance/procurement_fee_farms_c700_1200.md
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 ---
 
@@ -47,6 +49,7 @@ A practical map of how rulers raise, move, and spend money from Pre-Ord through 
 - **Convoy Insurance Offices (“Steps”)** — set premiums; hold and delay claims; issue **whistle** leafs when rumor runs.
 - **Grain Chancery** — weights/coins standards; validates ration rails (**grain notes**).
 - **Council of Captains / Keeper of the Oboe Seal** — authorize fee schedules; stamp circulations; post circulars.
+-- **Courier Circuit & Assay Ring** - seals, timings, and assay slips that let paper/metal hop safely between benches
 
 ## Collection → Treasury → Spend (flows)
 -- Quays/Pass Tolls & Fees → (Watches clerks) → port treasuries → Debt Office clearing
@@ -60,11 +63,13 @@ A practical map of how rulers raise, move, and spend money from Pre-Ord through 
 3) oil, rope, iron; 
 4) festival arrears (stipends); 
 5) inland posts.
+In failure years, debt service is paid in kind (oil/grain allotments) to keep beacons lit—coin follows when available
 
 ## Records & Accounting Discipline
 - **Day-books** at quays; **copy-trails** stamped by Keeper seals; festival closures reconcile.
 - **Double-entry?** No formal debit/credit textbooks yet. Practice is **charge & discharge** by office: each clerk tracks **receipts** and **issues**; the Debt Office aggregates by stair & district. Composite ledgers appear late-Cadence in big ports handling insurance, debt, and fees together.
 - **Audit & drift:** Claim-stairs (appeal ladders) slow payouts; “two seals” rule often broken under pressure.
+- **Clerks** maintain charge & discharge books with festival tallies; any ‘balance’ is an audit narrative, not arithmetic equality.
 
 ## Failure Modes (c. 1050–1200)
 - **Maintenance debt:** dredge/beacon paper rolled beyond service life; service slips when storms stack.
@@ -82,10 +87,6 @@ A practical map of how rulers raise, move, and spend money from Pre-Ord through 
 - **Grain note / ration rail:** redeemable food scrip within core wards.
 - **Whistle leaf:** anonymous broadside accusing a Step or office.
 
-## Cross-refs to seed now
-- Add **economy** links on snapshots for c.1100 and c.1200 to point here.
-- Add glossary entries for **bond stair** and **bench-docket**.
-
 ## Appendix — Example Tender Cycle (beacon leg)
 1) Works posts list (oil, wick, iron caps) →
 2) Debt Office sets cap by stair → 
@@ -94,3 +95,8 @@ A practical map of how rulers raise, move, and spend money from Pre-Ord through 
 5) Keeper stamps → 
 6) Pilots sign receipts → 
 7) Auditor festival close.
+### Complexity Dial (core → rim)
+
+- **Core Wards (blue-lit ports):** full stack—bench-dockets, Steps, Works lists, Debt stair service, festival closings; convoy tickets widely accepted; grain notes redeemable in warrant warehouses.
+- **Near-Coast Towns:** fee-farms and posted dockets present; insurance/claims handled by agents; convoy tickets often discounted; grain notes redeemable only on market days.
+- **Interior & Passes:** tolls and in-kind commutations dominate; bench-dockets are copied by hand; convoy/claims paper mostly refused; relief runs operate by special mixed writs.

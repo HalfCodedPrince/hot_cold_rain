@@ -56,3 +56,53 @@ Outside the temples, **Compository Houses** are guild-chartered printer-editors 
 - license **temple-approved recensions** and publish secular works.
 
 A temple seal on a leaf guarantees **canonical text & mode**; unsealed print may circulate freely but lacks liturgical standing. In practice, compositories and the House of the Second Beat maintain a tense, profitable partnership.
+
+## Basic Tenets (Old Bold → “Good Old”)
+1) **Keep the Beat:** Conform your work and speech to the civic **cadence** (festival days, toll windows, convoy cycles). Harmony = public peace.  
+2) **Roles before Souls:** Virtue is **right conduct in your station**—pilot, porter, priest, parent. Intention is secondary; predictability is sacred.  
+3) **The Oboe Conducts:** The **Sun (Oboe)** orders seasons and tides; rites follow **natural timings** (winds, rains, lee chains).  
+4) **Six-House Order:** Doctrine (I), **Text & Music** (II), Calendar (III), Missions/Harbors (IV), Charity/Health (V), **Discipline/Courts** (VI). Each house has a job; don’t sing another’s part.  
+5) **Song is Law’s Skin:** Law should be **memorizable** and **singable**. What cannot be sung cannot be enforced safely.  
+6) **Public Peace as Mercy:** The poor are kept by **Beat Five**; the wild by **Beat Six**. Charity and discipline are complementary, not opposed.
+
+> In orthodox teaching the “soul” is a citizen’s **capacity to keep time**—privately devout or skeptical, publicly on beat.
+
+## Basic Realities (what people actually do)
+- **Daily votive singing** at ward shrines; choirs-colleges teach **hand-sign** and call-and-response meters (Kelim Ar’s *Six Beats*).  
+- **Calendar = logistics:** tideways and convoy seasons set festivals; port weeks flex by harbor packets (yes, the Rhythm really does move with ships).  
+- **Temples as conservatories:** music schools, **scriptoria**, bursaries for bright poor; funerals with woodwinds/shell horns; **defanged spit-grass** only for mourning.  
+- **Benches + Synod:** public edicts co-signed; composition houses set official **recensions** with Beat Two, then sell secular print on the side; a tense but lucrative partnership.  
+- **Courts sing procedure:** Beat Six clerks drill **metered formulas** for oaths, fines, and warrants; “law as chant” keeps mixed juries from getting lost.
+
+## Why elites dislike it (clerics & compositories)
+- **Gatekeeping at Beat Two:** monopoly on **text & mode**; licensing throttles rivals; secular printers resent **temple seals** and “approved plates.”  
+- **Ossification:** editorial committees defend cadence purity while practice changes; **pamphleteers** call it museum-law.  
+- **Censorship drift:** doctrine rides on metrical rules; “wrong meter” becomes grounds to **suppress** (cheap way to censor arguments).  
+- **Power creep to Beat Six:** discipline spills into civic courts; **deafening** as heresy theater horrifies even loyalists.  
+- **Economy of ritual:** festivals cost money; benches co-opt rites for tax amnesties and loan renewals—priests feel like **accounting skin**.
+
+## Why common folk dislike it (and still show up)
+- **Time taxes:** mandated ceremonies cut work hours in tight seasons; fines for missing the **Third Beat** sting day laborers.  
+- **Noise police:** ward beadles confiscate drums/fifes outside approved modes; weddings and totémic dances get “metered” or fined.  
+- **Price of mercy:** soup lines (Beat Five) come with sermons; some see charity as a tool to shame the poor.  
+- **Ritual over rain:** inland farmers grumble when the port-set calendar **misaligns** with hill rains.  
+- **Syncretic squeeze:** ancestral/totem rites get folded under “**Splendid Word**” labels or pushed to night margins; some love the blend, many feel trimmed.
+
+## Fault-lines feeding the Pamphlet Wars
+- **Conservatory vs “Splendid Word”** (orthodox musical text vs syncretic preachments).  
+- **Who owns the text?** Beat Two plates vs **compository editions**.  
+- **Deafening & Discipline:** cruelty and scope of Beat Six; should law sing or deliberate?  
+- **Cadence drift:** ports vs uplands over calendars; does the Oboe conduct farmers or pilots?  
+- **Kin-Maze & Nepotism:** Elector marriages tug Synod seats and bursaries; “the Chorus of Cousins.”
+
+## Aesthetics & Places (what it looks/sounds like)
+- **Open-roof courts** with arcaded edges (rain drains, sky for the Oboe); woodwind choirs under shade; shell-horn calls at dawn.  
+- **Hand-sign choirs** in work yards (counting strokes, loading chants).  
+- **Votive objects:** wind-pipes, reed knots, and stamped cadence-leaves hung in doorways.
+
+## Quick Gloss (for the reader)
+- **Oboe:** the Sun as conductor of seasons and civic time.  
+- **Beat (house):** one of six temple houses; II = Text & Music; V = Charity; VI = Discipline/Courts.  
+- **Recension:** a licensed musical-text setting; temple-approved copies carry seals.  
+- **Splendid Word:** syncretic current that blends Rhythm with local cults and moral maxims; tolerated, contested.
+

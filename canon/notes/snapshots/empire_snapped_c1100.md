@@ -15,7 +15,7 @@ links:
 
 ## Governance
 - Procedure holds in minutes, not on quays. Keeper seals are clean; **port courts** pick and choose which writs to honor.  
-- Captain-Reps act like local dukes; treaty ports argue “contract, not crown.”
+- Captain-Reps act like local dukes; treaty ports argue “contract, not bondage.”
 
 ## Finance
 - **Bond stair** misses a rung; tranches dumped to private houses.  

@@ -30,7 +30,7 @@ links:
 **Matters later:** silt & maintenance debt; a single storm cycle can expose thin margins.
 
 ## Religion & Culture
-- Rhythm rites coordinate calendars; Splendid Word tolerated at fringes.
+- Rhythm rites coordinate calendars; significant divergence from orthodoxy tolerated at fringes.
 - Hexennial Games standardized; choir tournaments prestige events.
 - Censor’s Bench narrow but present; warrants filed, not waved.
 
@@ -44,7 +44,7 @@ links:
 **Matters later:** capture of schools by guilds; falsified soundings scandals.
 
 ## Cities (ring-ports)
-- Ord City, Koi-Hi, Tau-Hi as triad hubs; Seven Fingers compliant treaty port.
+- Ord City and Tau-Hi hubs; Seven Fingers compliant treaty port.
 - Insurance Steps & Compository Rows central to urban life.
 
 **Matters later:** cartels & riots if premiums spike; diegetic pamphlet wars.

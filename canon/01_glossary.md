@@ -11,7 +11,7 @@ status: Draft
 **Old Song** — reliable residual current across the Bright Sea; tideway “set.”  
 **Good Old Rhythm** (*Old Bold Rhythm*) — civil-religious calendar/rite complex; governed by the **Synod of Beats** and six **Houses (Beats 1–6)**.  
 **Council of Captains** — Ord executive oligarchy; convenes elections, convoy law.  
-**Keeper of the Oboe Seal** — crown office; holds matrix/keys; certifies absence & succession.  
+**Keeper of the Oboe Seal** — goverment office; holds matrix/keys; certifies absence & succession.  
 **Censor’s Bench** — censorate (Marrite origin); licensing, bans, audits.  
 **Harbor Watches** — signal huts, bells, night posts; certify hours for insurance.  
 **Hexennial Games** — empire-wide festival on the Long Beat; regatta/choir tourney.  
@@ -40,3 +40,7 @@ status: Draft
 - **Bond stair** — staged maturities ladder (debt service scheduling).
 - **Bench-docket** — printed fines/fees schedule issued by a court/bench.
 *(Add terms as they stabilize; link to first canonical use.)*
+- **Assay** — (v./n.) To test coin or ingot for mass/fineness; by extension, the licensed stalls (“assay ring”) that perform the test and the stamped **assay slip** they issue. Required for redeeming metal-denominated paper and bonded stock.
+- **Bench / Benches** — The local port/city court that “sits” to post fees, fines, and charters. Issues **bench-dockets** and countersigns farms/tenders. Distinct from **Steps** (insurer offices).
+- **Fee-farm** — A tax-farm: a grant of a specific fee stream (e.g., wharfage, writ fees) to a collector in exchange for a fixed **rent** (festival due) to the Public Debt Office. Rents service bond “stairs.”
+

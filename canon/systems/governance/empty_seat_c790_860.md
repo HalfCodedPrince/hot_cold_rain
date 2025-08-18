@@ -24,7 +24,7 @@ Until the **Edict of the Long Beat** (789 AO), practice hardened into a triad:
 Any act crossing spheres requires **two of three seals**; coinage changes require **all three**.
 
 ## Keeper of the Oboe Seal (FAC:KOS-001)
-A crown office holding the High Master’s matrix and ledger-keys under joint lock (Council + Beat Six). The Keeper may **certify absence**, **sequester tainted seals**, and **register interim acts**. The Keeper **cannot proclaim** a successor.
+An elected goverment office holding the High Master’s matrix and ledger-keys under joint lock (Council + Beat Six). The Keeper may **certify absence**, **sequester tainted seals**, and **register interim acts**. The Keeper **cannot proclaim** a successor.
 
 ## Elections & Forms
 The **High Master remains an elected magistracy**. In absence, the Council may **call an election** only when either:

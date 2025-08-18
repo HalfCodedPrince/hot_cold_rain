@@ -1,0 +1,1 @@
+> **On Cleansed Cargo** — Assay first; Duty after; Docket last. Goods taken not upon escorted slips may be cleansed at Morum for the fee here posted. No cleansing shall stand without the **ASL-M** stamp and the **RH-tithed** tally.
