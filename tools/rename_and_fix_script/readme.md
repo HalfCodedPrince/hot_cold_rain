@@ -1,4 +1,4 @@
-A script for **mass-renaming** .md files and changing the link, if the header is compliant with the style standard.
+A script for **mass-renaming** .md files and changing the links, if the header is compliant with the style standard.
 
 - **mapping.csv** - you put filename.md,filename_want_to_have.md there (no spaces, separated by a comma)
 - **periodize_preflight.sh** is a sanity-check for formatting of mapping.csv

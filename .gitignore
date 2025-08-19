@@ -5,5 +5,5 @@ __pycache__/
 *.zip
 art_refs/*
 
-hot_cold_rain_currsnap.zip
-manifest.txt
+/tools/reports
+/tools/upload_ready
