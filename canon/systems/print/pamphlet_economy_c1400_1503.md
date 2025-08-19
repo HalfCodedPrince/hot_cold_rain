@@ -7,7 +7,7 @@ links:
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
   fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
   rhythm: canon/systems/religions/good_old_rhythm.md
-  edicts: canon/entities/law/green_sky_edicts_1503.md
+  edicts: 
 tags: [printing, pamphlets, censorship, smuggling, cleanlinesstable, access_days, postal]
 ---
 

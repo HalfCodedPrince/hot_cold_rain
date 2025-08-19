@@ -3,8 +3,8 @@ id: SNAP:VISUAL-950
 name: Everyday Visuals at the Apex (c. 950 AO)
 status: Draft
 links:
-  apex: canon/notes/snapshots/empire_at_its_peak_c950.md
-  world: canon/notes/canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md.md
+  apex: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
+  world: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md
   clothing: canon/systems/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
   ships: canon/systems/transport/ships_galleys.md

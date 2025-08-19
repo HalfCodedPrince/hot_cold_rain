@@ -3,7 +3,7 @@ id: GEO:CADENCE-EXPANSION
 name: Expansion & Frontiers in the Golden Cadence
 status: Draft
 links:
-  era: canon/eras/06_golden_cadence_apex_860_1050.md
+  era: canon/eras/05_golden_cadence_apex_860_1050.md
 ---
 
 # Expansion & Frontiers (860–1050 AO)

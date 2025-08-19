@@ -5,7 +5,6 @@ status: Draft
 links:
   overview: canon/systems/cosmos/overview.md
   belts: canon/systems/cosmos/belts.md
-  peace_program: canon/notes/diegetic/press_poster_peace_program.md
 tags: [giant, folklore, rings]
 ---
 

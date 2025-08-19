@@ -4,8 +4,8 @@ name: Middle Cadence Disjunction (1050–1200 AO)
 status: Draft
 thesis: From procedural legitimacy to procedural failure—maintenance, paper, and weather grind forms down until one bad storm decade and one frontier decade snap them.
 links:
-  prior: canon/notes/snapshots/empire_at_its_peak_c950.md
-  mechanics: canon/notes/snapshots/decline_mechanics_c1050_1120.md
+  prior: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
+  mechanics: canon/notes/snapshots/watershed_moments/decline_mechanics_c1050_1120.md
   synod: canon/entities/factions/synod_of_beats.md
   council: canon/entities/factions/council_of_captains.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md

@@ -6,7 +6,7 @@ links:
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
-  access_days: canon/systems/transport/access_days_board_c1294.md
+  
 tags: [gardens, brothels, taverns, factors, licenses, bond, queue]
 ---
 ## What they are

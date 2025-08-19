@@ -7,7 +7,7 @@ links:
   beats_synod: canon/entities/factions/synod_of_beats.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   beat_two: canon/entities/factions/beats/house_second_beat.md
-  compositories: canon/entities/factions/compository_houses.md
+  compositories: canon/entities/factions/guild_of_compositories.md
 tags: [religion, music, governance]
 ---
 

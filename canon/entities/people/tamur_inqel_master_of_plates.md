@@ -12,7 +12,7 @@ links:
   rhythm: canon/systems/religions/good_old_rhythm.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   central: canon/systems/governance/centralization_levers_principality_c1400_1550.md
-  edicts: canon/entities/law/green_sky_edicts_1503.md
+  edicts: 
 tags: [cleric, censor, plates, pamphlet_wars, green_edicts, ord]
 ---
 

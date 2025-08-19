@@ -13,7 +13,7 @@ aliases: [Coi-Hi]
 links:
   eras:
     - canon/eras/02_zambranic_700_800.md
-    - canon/eras/04_marrite_747_783.md
+    - canon/eras/03_marrite_747_783.md
   systems:
     - canon/systems/transport/navigation_currents.md
     - canon/systems/tech/writing_and_printing_c700_1200.md

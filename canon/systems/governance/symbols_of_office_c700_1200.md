@@ -3,7 +3,7 @@ id: GOV:SYMB-OFF
 name: Symbols of Office (Ord–Sar)
 status: Draft
 links:
-  empty_seat: canon/systems/governance/empty_seat.md
+  empty_seat: canon/systems/governance/empty_seat_c790_860.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
 tags: [symbols, ritual, office]

@@ -6,7 +6,7 @@ tags: [diegetic, report, penal, revolt]
 links:
   place: canon/entities/places/reed_camp_district.md
   labor: canon/systems/labor/penal_transportation_c300_1050.md
-  era: canon/eras/04_marrite_747_783.md
+  era: canon/eras/03_marrite_747_783.md
 fact_box:
   title: "Incident Report: Reed-Camp Rising (EVT-0762-RCR)"
   doc_type: report

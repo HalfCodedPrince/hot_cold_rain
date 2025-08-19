@@ -159,7 +159,6 @@
 
 - **Arms & Armor (Climate & Sea-Aware)** (`TECH:ARM-000`): `canon/systems/tech/arms_armor_c700.md`
 - **Black Powder — Supply, Guilds, & Drift (c.1100–1400 AO)** (`TECH:POWDER-HIST-1100-1400`): `canon/systems/tech/black_powder_history_c1100_1400.md`
-- **Broadcast Color Standard (c. 1770–1810 AO)** (`TECH:TV-COLOR-STD`): `canon/systems/tech/broadcast_color_standard_c1770_1810.md`
 - **Clothing & Textiles (Hot, Wet, Windy)** (`TECH:CLO-000`): `canon/systems/tech/clothing_and_textiles_c1800.md`
 - **Early Artillery — Bombards, Swivels, & Foundry Discipline (c.1200–1350 AO)** (`TECH:ARTY-EARLY-1200-1350`): `canon/systems/tech/early_artillery_c1200_1350.md`
 - **Handgonnes & Matchlocks (c.1300–1500 AO)** (`TECH:FIRE-ARMS-1300-1500`): `canon/systems/tech/handgonnes_matchlocks_c1300_1500.md`

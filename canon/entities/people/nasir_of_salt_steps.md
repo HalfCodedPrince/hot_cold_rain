@@ -15,7 +15,7 @@ first_appearance: ERA-000
 status: Draft
 links:
   region: canon/entities/regions/ord_south_riverine_belt.md
-  lexicon: canon/notes/snapshots/lexicon_drift_c0.md
+  lexicon: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0.md
   metrology: canon/systems/metrology/index.md
 ---
 

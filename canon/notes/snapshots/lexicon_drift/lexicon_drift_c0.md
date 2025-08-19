@@ -3,7 +3,7 @@ id: SNAP:LEX-0
 name: Lexicon Drift c.0 AO — Proto Terms & Later Equivalents
 status: Draft
 links:
-  950_lex: canon/notes/snapshots/lexicon_drift_c950.md
+  950_lex: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md
   religion: canon/systems/religions/good_old_rhythm.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
 ---

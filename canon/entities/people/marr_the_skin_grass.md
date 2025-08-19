@@ -15,7 +15,7 @@ thesis: A capable schemer turned corrosive ruler; popular opener, censorious mid
 first_appearance: ERA-750
 status: Draft
 links:
-  era: canon/eras/04_marrite_747_783.md
+  era: canon/eras/03_marrite_747_783.md
   council: canon/entities/factions/council_of_captains.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---

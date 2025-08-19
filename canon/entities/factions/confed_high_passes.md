@@ -9,8 +9,7 @@ mandate: Keep winter roads, tax summer caravans, protect herds, and bargain trib
 tags: [upland, cavalry, tolls]
 status: Draft
 links:
-  region: canon/entities/regions/Kahet_uplands.md
-  steppe: canon/entities/regions/ord_leeward_steppe.md
-  era: canon/eras/07_middle_cadence_disjunction_1050_1200.md
+  region: canon/entities/regions/kaheet_uplands.md
+  era: canon/eras/06_middle_cadence_disjunction_1050_1200.md
 ---
 **Kit & method:** pony archers, mule skirmishers, wicker shields; burn depots not gates. **Objective:** lane rights and hostage-sureties, not capitals.

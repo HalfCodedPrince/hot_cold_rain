@@ -17,7 +17,7 @@ links:
   region: canon/entities/regions/kllrian_arc.md
   snapshots:
     - canon/notes/snapshots/known_world/known_world_c0.md
-    - canon/notes/snapshots/pre_empire_c0.md
+    - canon/notes/snapshots/watershed_moments/pre_empire_c0.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 

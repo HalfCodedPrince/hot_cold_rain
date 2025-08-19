@@ -4,8 +4,8 @@ name: Centralization Levers — From Benches to Leviathan (1400–1550 AO)
 status: Draft
 links:
   taxation: canon/systems/economy/taxation_finance_c0_1200.md
-  access_days: canon/systems/transport/access_days_board_c1294.md
-  edicts: canon/entities/law/green_sky_edicts_1503.md
+  
+  edicts: 
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   works: canon/entities/factions/dredge_and_bar_works.md
   insurers: canon/entities/factions/convoy_insurance_office.md

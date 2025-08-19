@@ -10,7 +10,7 @@ status: Stable
 links:
   synod: canon/entities/factions/synod_of_beats.md
   religion: canon/systems/religions/good_old_rhythm.md
-  governance: canon/systems/governance/empty_seat.md
+  governance: canon/systems/governance/empty_seat_c790_860.md
   censorate: canon/entities/factions/censors_bench.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---

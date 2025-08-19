@@ -3,12 +3,11 @@ id: TECH:FIRE-ARMS-1300-1500
 name: Handgonnes & Matchlocks (c.1300–1500 AO)
 status: Draft
 links:
-  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  powder_base: canon/systems/tech/black_powder_history_c1100_1400.md
   early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
   industry: canon/systems/industry/proto_industry_c1290_1400.md
   iron_sand: canon/systems/industry/iron_sand_bloomery_c1200.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
-  access_days: canon/systems/transport/access_days_board_c1294.md
 tags: [handgonne, matchlock, fire-lance, serpentine, swivel, powder, humidity]
 ---
 

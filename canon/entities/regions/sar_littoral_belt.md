@@ -7,7 +7,7 @@ summary: Dye & salt metropolises on stepped shrines; mixed guild/temple courts; 
 status: Draft
 links:
   c0_world: canon/notes/snapshots/known_world/known_world_c0.md
-  pre_empire: canon/notes/snapshots/pre_empire_c0.md
+  pre_empire: canon/notes/snapshots/watershed_moments/pre_empire_c0.md
   krum: canon/eras/00_preord_krum.md
 ---
 

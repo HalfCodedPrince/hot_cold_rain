@@ -6,7 +6,7 @@ links:
   origins: canon/systems/anthropology/human_origins_migrations.md
   old_song: canon/systems/transport/navigation_currents.md
   hydrology: canon/systems/planetology/hydrology.md
-  snapshot: canon/notes/canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md.md
+  snapshot: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md
 ---
 
 ## Thesis

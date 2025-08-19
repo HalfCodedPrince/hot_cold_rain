@@ -3,7 +3,7 @@ id: SNAP:LEXICON-950
 name: Lexicon & Drift at the Apex (c. 950 AO)
 status: Draft
 links:
-  apex: canon/notes/snapshots/empire_at_its_peak_c950.md
+  apex: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
   ling_guide: canon/systems/language/linguistic_guide_for_ord_sar.md
   names: canon/systems/language/names_and_onomastics_for_ord_sar.md
   suffixes: canon/systems/language/onomastic_suffixes.md

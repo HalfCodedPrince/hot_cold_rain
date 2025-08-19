@@ -4,8 +4,8 @@ name: Religious Topography — Rites & Currents (c.1290–1400 AO)
 status: Draft
 links:
   good_old: canon/systems/religions/good_old_rhythm.md
-  synod: canon/notes/doctrine/synod_of_beats.md
-  zambran: canon/notes/doctrine/zambran.md
+  synod: canon/entities/factions/synod_of_beats.md
+  zambran: canon/entities/people/zambran.md
   sar_rite: canon/systems/religions/rite_sar_sea_lotus.md
   knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md

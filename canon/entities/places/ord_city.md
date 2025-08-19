@@ -15,7 +15,7 @@ links:
   eras:
     - canon/eras/01_ord_sar_foundation.md
     - canon/eras/02_zambranic_700_800.md
-  timeline: [canon/timeline/point_timeline.csv]
+  timeline: canon/timeline/point_timeline.csv
 ---
 
 # Ord City

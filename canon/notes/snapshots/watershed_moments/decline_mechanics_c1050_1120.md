@@ -3,7 +3,7 @@ id: SNAP:DECLINE-MECH-1050
 name: Decline Mechanics (1050–1120 AO) — Debt, Silt, Cartels
 status: Draft
 links:
-  apex: canon/notes/snapshots/empire_at_its_peak_c950.md
+  apex: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   works: canon/entities/factions/dredge_and_bar_works.md
   debt: canon/entities/factions/public_debt_office.md

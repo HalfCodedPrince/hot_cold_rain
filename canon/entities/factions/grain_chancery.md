@@ -9,5 +9,5 @@ tags: [finance, metrology, food_supply]
 status: Stable
 links:
   metrology: canon/systems/metrology/calendar_base6.md
-  governance: canon/systems/governance/empty_seat.md
+  governance: canon/systems/governance/empty_seat_c790_860.md
 ---

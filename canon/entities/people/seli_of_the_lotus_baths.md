@@ -12,7 +12,7 @@ links:
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
-  edicts: canon/entities/law/green_sky_edicts_1503.md
+  edicts: 
 tags: [cleric, reformer, sar, humanist, lustration, diaspora]
 ---
 

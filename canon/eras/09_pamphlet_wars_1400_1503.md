@@ -8,8 +8,8 @@ links:
   topo: canon/systems/religions/religious_topography_c1290_1400.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
-  edicts: canon/entities/law/green_sky_edicts_1503.md
-  access_days: canon/systems/transport/access_days_board_c1294.md
+  edicts: 
+  
   industry: canon/systems/industry/proto_industry_c1290_1400.md
 tags: [era, pamphlets, refugees, censorship, riots, diaspora, mutation_day, centralization]
 ---

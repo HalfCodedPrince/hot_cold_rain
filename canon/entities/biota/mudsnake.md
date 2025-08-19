@@ -4,7 +4,7 @@ name: Mudsnake (mangrove eel)
 status: Draft
 tags: [eel, amphibious, food]
 links:
-  diet: canon/systems/agriculture_diet.md
+  diet: canon/systems/agriculture/agriculture_diet.md
 ---
 
 ## Habitat

@@ -14,7 +14,7 @@ thesis: The purse and the pulse—she fenced the censorate, armed the loyal, and
 first_appearance: ERA-805
 status: Draft
 links:
-  era: canon/eras/05_pax_ordica_790_860.md
+  era: canon/eras/04_pax_ordica_790_860.md
   council: canon/entities/factions/council_of_captains.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md

@@ -11,8 +11,8 @@ tags: [penal, industry, slaves, revolt]
 status: Draft
 links:
   eras:
-    - canon/eras/04_marrite_747_783.md
-  timeline: [canon/timeline/point_timeline.csv]
+    - canon/eras/03_marrite_747_783.md
+  timeline: canon/timeline/point_timeline.csv
 ---
 
 # Overview

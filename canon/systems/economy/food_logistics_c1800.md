@@ -3,7 +3,7 @@ id: ECON:FOOD-LOG-1803
 name: Food Supply & Logistics (c. 1803 AO)
 status: Draft
 links:
-  diet: canon/systems/agriculture_diet.md
+  diet: canon/systems/agriculture/agriculture_diet.md
   transport: canon/systems/transport/transport_index_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
 ---

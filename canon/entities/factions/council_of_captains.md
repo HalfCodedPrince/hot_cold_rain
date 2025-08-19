@@ -8,7 +8,7 @@ mandate: Call elections; direct fleets and patrols; license convoys; appoint Cap
 tags: [governance, navy, commerce]
 status: Stable
 links:
-  governance: canon/systems/governance/empty_seat.md
+  governance: canon/systems/governance/empty_seat_c790_860.md
   religion: canon/systems/religions/good_old_rhythm.md
   censorate: canon/entities/factions/censors_bench.md
   beats:

@@ -3,7 +3,7 @@ id: TECH:ARTY-EARLY-1200-1350
 name: Early Artillery — Bombards, Swivels, & Foundry Discipline (c.1200–1350 AO)
 status: Draft
 links:
-  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  powder_base: canon/systems/tech/black_powder_history_c1100_1400.md
   hulls: canon/systems/transport/ocean_ranging_hulls_c1180_1300.md
   ships: canon/systems/transport/ships_galleys.md
   works: canon/entities/factions/dredge_and_bar_works.md

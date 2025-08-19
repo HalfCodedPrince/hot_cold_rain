@@ -3,9 +3,8 @@ id: TECH:TV-COLOR-STD
 name: Broadcast Color Standard (c. 1770–1810 AO)
 status: Draft
 links:
-  tv_history: canon/systems/tech/television_history_c1700_1810.md
-  power: canon/systems/energy/power_grid_c1780_1810.md
-  comms: canon/systems/tech/radio_and_telegraph_c1700_1810.md
+  
+  
 tags: [television, color, broadcast, standards]
 ---
 

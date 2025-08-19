@@ -3,7 +3,7 @@ id: TECH:POWDER-HIST-1100-1400
 name: Black Powder — Supply, Guilds, & Drift (c.1100–1400 AO)
 status: Draft
 links:
-  powder_base: canon/systems/tech/black_powder_baseline_c1180_1300.md
+  powder_base: canon/systems/tech/black_powder_history_c1100_1400.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   watches: canon/entities/factions/harbor_watches.md

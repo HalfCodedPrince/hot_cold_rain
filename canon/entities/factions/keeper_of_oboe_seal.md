@@ -8,7 +8,7 @@ mandate: Hold the High Master’s seal matrix & ledger-keys under joint lock (Co
 tags: [law, regency, archives]
 status: Stable
 links:
-  governance: canon/systems/governance/empty_seat.md
+  governance: canon/systems/governance/empty_seat_c790_860.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
   council: canon/entities/factions/council_of_captains.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
