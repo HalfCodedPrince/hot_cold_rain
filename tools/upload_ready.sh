@@ -30,6 +30,13 @@ else
   run_if_exists "tools/make_systems_index.sh"
 fi
 
+# 2.6) build entity indices + systems digest from the anthology (always)
+echo "[run] python tools/generate_indices_and_digest.py --anth tools/front_matter_anthology.md"
+if ! python -u tools/generate_indices_and_digest.py --anth tools/front_matter_anthology.md; then
+  echo "[warn] tools/front_matter_anthology.md not found; trying upload_ready copy…"
+  python -u tools/generate_indices_and_digest.py --anth tools/upload_ready/front_matter_anthology.md
+fi
+
 # 3) router lite heatmap
 if command -v python >/dev/null 2>&1; then
   echo "[run] python tools/router_lite.py"

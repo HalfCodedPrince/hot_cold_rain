@@ -20,15 +20,32 @@ timeline.csv is canon; timeline.txt is mirror
 ## Quickstart
 
 ```bash
-# just clone
+# clone
 git clone <repo>
 cd hot_cold_rain
-```
 
-- **Master index:** canon/00_master_index.md
-- **Style guide:** canon/style_guide.md
-- **Glossary:** canon/glossary.md
-- **Outline tracker:** canon/outline_tracker.md
+# one-command build: snapshots, router, validation, indices, upload pack
+# (Windows Git Bash / WSL / macOS)
+VALIDATE_NO_CASE=1 CLEANUP_MOVE=1 bash tools/upload_ready.sh
+```
+**Outputs:**
+- tools/upload_ready/index_pack.md — Router-Lite + Front-matter Anthology (single uploadable “map + substance”)
+- tools/upload_ready/systems_digest.md — compact systems listing
+- tools/upload_ready/entities_*_index.md — people / factions / places / regions
+- tools/upload_ready/canon/... — canonical copies of the above (nested)
+- tools/reports/..._YYYY-MM-DD-HHMMSS.* — link reports & snapshots (timestamped)
+
+## Where to start
+
+- **Master Index (hand-curated, mostly)**: canon/00_master_index.md
+- **Front-matter Anthology (auto)**: front_matter_anthology.md (flattened front matter with ids/links/tags)
+- **Router (auto)**: tools/router_index.md (Top N by inbound refs; “what’s hot”)
+- **Entity Indices** (auto):
+canon/entities/people/index.md, canon/entities/factions/index.md,
+canon/entities/places/index.md, canon/entities/regions/index.md
+- **Systems Digest (auto)**: canon/systems/systems_digest.md
+**Glossary (hand)**: 01_glossary.md
+**Style Guide (hand)**: 02_style_guide.md
 
 ## File format (all canonical pages)
 ```
@@ -63,22 +80,12 @@ ao,code,title,where,who,summary,impact,refs,status
 ```
 canon/
   00_master_index.md
-  eras/                       # period overviews
-  entities/
-    people/                   # PERS:*
-    factions/                 # FAC:* (incl. Beats houses)
-    places/                   # LOC:*
-    regions/                  # REG:*
-    biota/                    # BIO:*
-    co_types/                 # CTP:*
-  systems/                    # governance, law, economy, tech, cosmos, etc.
-  timeline/                   # CSV + tools
-  notes/
-    diegetic/                 # in-world leafs, transcripts, pamphlets
-    rolls/                    # roll lists (e.g., High Masters)
-    snapshots/                # concise period/location snapshots
-    scratchpad/               # designer notes
-tools/                        # validators, scripts
+  entities/        # people, factions, places, regions (+ biota / co_types)
+  systems/         # governance, economy, tech, transport, health, religion, etc.
+  eras/            # era overviews & packs
+  maps/            # map digest & geography notes
+  timeline/        # CSV + tools
+tools/             # validators, generators, upload pipeline
 ```
 **Shallow rule:** prefer one level of nesting (two at most for subtypes like Beats houses). Use evocative names; keep indices (index.md, 00_master_index.md) discoverable.
 
@@ -86,7 +93,7 @@ tools/                        # validators, scripts
 
 ## Two indices, two purposes
 
-  **canon/00_master_index.md** — curated landing page (eras, entities, systems, timeline/tools). Keep this edited by hand. 
+  **canon/00_master_index.md** — curated landing page (eras, entities, systems, timeline/tools).
 
   **canon/_systems_index.md** — auto-generated inventory of system docs; do not hand-edit.
 
@@ -94,22 +101,26 @@ tools/                        # validators, scripts
 
   **front_matter_anthology.md** — flattened front-matter for quick grep across diegetic/notes; includes links to core cosmos/planetology pages. 
 
-  **id_to_path.csv** — ID → file path map (entities, etc.).
+  **tools/id_to_path.csv** — ID → file path map (entities, etc.).
 
-  **link_targets.tsv** — all link targets seen across the tree.
+  **tools/link_targets.tsv** — all link targets seen across the tree.
 
-  **Conventions** (IDs, filenames, folders, timeline CSV rules) live in 02_style_guide.md
+**Conventions** (IDs, filenames, folders, timeline CSV rules) live in 02_style_guide.md
 
 # Scripts (Git Bash / WSL)
 **Regenerate the auto index of system docs**
 tools/make_systems_index.sh
 
-**Build release snapshots for LLM indexing (front_matter_anthology.md, id_to_path.csv, link_targets.tsv)**
-tools/make_snapshot.sh
+## Build & validation
 
-**Validate the timeline CSV (IDs exist, refs resolve, status flags ok)**
-tools/validate_timeline.sh
+- **Make snapshots:** tools/make_snapshot.sh → anthology / id map / link targets.
+- **Systems listing (human scan)**: tools/generate_systems_index.sh → canon/_systems_index.md.
+- **Router-Lite (heat map)**: tools/router_lite.py → tools/router_index.md.
+- **Link validation: tools/validate_links.py** → tools/link_report.tsv (+ optional link_targets.tsv).
+- **Filter report: tools/filter_link_report.py** → tools/link_errors.tsv, tools/link_summary.md.
+- **Finalize: tools/finalize_artifacts.sh** files everything into tools/upload_ready/ and tools/reports/.
 
+- **All-in-one (because I'm lazy)**: tools/upload_ready.sh (calls all of the above).
 
 ## Canon stance & “endpoint north star”**
 
@@ -122,10 +133,3 @@ tools/validate_timeline.sh
   - Media: radio strong; color TV present but uneven; printing never “lost.”
   
   - Religio-civic weave: Good Old Rhythm (Synod & Houses) entwined with Council/courts; calendars, festivals, and convoy law are the social OS.
-
-## v0.13 highlights
-
-- We might be done with the renaming stuff. I swear.
-- Files up to the 1200 A.O. added.
-- rename_and_fix scripts added for mass renaming and link fixing, if needed (but we are done. Pinky promise)
-- validate_timeline is having a fit with the quotes; will fix later 

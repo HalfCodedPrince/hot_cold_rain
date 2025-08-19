@@ -62,4 +62,36 @@ for f in tools/link_targets.tsv tools/id_to_path.csv tools/link_errors.tsv tools
   fi
 done
 
+# --- Stage entity indices + systems digest for upload ---
+
+# 1) keep canonical layout (nested under upload_ready/)
+for rel in \
+  "canon/entities/people/index.md" \
+  "canon/entities/factions/index.md" \
+  "canon/entities/places/index.md" \
+  "canon/entities/regions/index.md" \
+  "canon/systems/systems_digest.md"
+do
+  if [[ -f "$rel" ]]; then
+    dest="tools/upload_ready/$rel"
+    mkdir -p "$(dirname "$dest")"
+    cp -v -- "$rel" "$dest"
+  fi
+done
+
+# 2) also make flat, descriptive copies (top-level in upload_ready/)
+declare -A FLAT=(
+  ["canon/entities/people/index.md"]="tools/upload_ready/entities_people_index.md"
+  ["canon/entities/factions/index.md"]="tools/upload_ready/entities_factions_index.md"
+  ["canon/entities/places/index.md"]="tools/upload_ready/entities_places_index.md"
+  ["canon/entities/regions/index.md"]="tools/upload_ready/entities_regions_index.md"
+  ["canon/systems/systems_digest.md"]="tools/upload_ready/systems_digest.md"
+)
+
+for src in "${!FLAT[@]}"; do
+  if [[ -f "$src" ]]; then
+    cp -v -- "$src" "${FLAT[$src]}"
+  fi
+done
+
 echo "[done] finalize_artifacts completed."

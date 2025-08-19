@@ -8,7 +8,7 @@ links:
   works: canon/entities/factions/dredge_and_bar_works.md
   debt_office: canon/entities/factions/public_debt_office.md
   insurance: canon/entities/factions/convoy_insurance_office.md
-  infrastructure: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   infrastructure: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   watches: canon/entities/factions/harbor_watches.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
