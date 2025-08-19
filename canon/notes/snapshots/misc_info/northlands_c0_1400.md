@@ -3,7 +3,7 @@ id: SNAP:NORTHLANDS-0-1400
 name: Northlands — Kahet, Uplands & Western Peninsula (c.0–1400 AO)
 status: Draft
 links:
-  eras_07: canon/eras/07_mangrove_garrot_1200-1290.md
+  eras_07: canon/eras/07_mangrove_garrot_1200_1290.md
   eras_08: canon/eras/08_knotted_lanterns_1290_1400.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md

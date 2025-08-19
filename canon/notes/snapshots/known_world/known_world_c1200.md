@@ -3,7 +3,7 @@ id: SNAP:WORLD-1200
 name: Known World c. 1200 AO (Second Blindness oncoming)
 status: Draft
 links:
-  world_950: canon/notes/snapshots/known_world_c950.md
+  world_950: canon/notes/canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md.md
   snapped: canon/notes/snapshots/empire_snapped_c1100.md
   decline_mech: canon/notes/snapshots/decline_mechanics_c1050_1120.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md

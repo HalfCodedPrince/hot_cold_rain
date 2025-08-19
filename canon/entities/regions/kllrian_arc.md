@@ -6,7 +6,7 @@ lat_band: 8–22° N (archipelago & peninsula rims)
 summary: Temple-city terraces feeding paddy grain and papers to Bright Sea ports; choir diplomacy and causeway harbors.
 status: Draft
 links:
-  c0_world: canon/notes/snapshots/known_world_c0.md
+  c0_world: canon/notes/snapshots/known_world/known_world_c0.md
   pre_empire: canon/notes/snapshots/pre_empire_c0.md
   hydrology: canon/systems/planetology/hydrology.md
 ---

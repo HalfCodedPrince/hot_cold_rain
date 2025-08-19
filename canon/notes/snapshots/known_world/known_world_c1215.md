@@ -4,7 +4,7 @@ name: Known World c.1200 — Update Notes (Mangrove Garrot Onset)
 status: Draft
 links:
   base: canon/notes/snapshots/known_world_c1200.md
-  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  era: canon/eras/07_mangrove_garrot_1200_1290.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md

@@ -16,7 +16,7 @@ status: Draft
 links:
   place: canon/entities/places/tau_hi.md
   snapshots:
-    - canon/notes/snapshots/known_world_c0.md
+    - canon/notes/snapshots/known_world/known_world_c0.md
   religion: canon/systems/religions/good_old_rhythm.md
   cosmos: canon/systems/cosmos/index.md
 ---

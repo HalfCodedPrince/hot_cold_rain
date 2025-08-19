@@ -6,7 +6,6 @@ role: High Master (Golden Cadence)
 tags: [governance, standardization, metrology]
 status: Draft
 links:
-  roll: canon/notes/rolls/high_masters_golden_cadence.md
   council: canon/entities/factions/council_of_captains.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   watches: canon/entities/factions/harbor_watches.md

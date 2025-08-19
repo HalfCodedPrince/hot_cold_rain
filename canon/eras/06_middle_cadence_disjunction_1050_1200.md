@@ -1,5 +1,5 @@
 ---
-id: ERA:07-MID-CADENCE
+id: ERA-06
 name: Middle Cadence Disjunction (1050–1200 AO)
 status: Draft
 thesis: From procedural legitimacy to procedural failure—maintenance, paper, and weather grind forms down until one bad storm decade and one frontier decade snap them.

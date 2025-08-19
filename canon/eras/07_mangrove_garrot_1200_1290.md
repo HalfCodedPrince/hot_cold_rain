@@ -1,5 +1,5 @@
 ---
-id: ERA:07-MANGROVE-1200-1290
+id: ERA-07
 name: Mangrove Garrot (1200–1290 AO)
 status: Draft
 links:

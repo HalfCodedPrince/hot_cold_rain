@@ -1,5 +1,5 @@
 ---
-id: ERA:09-PAMPH-1400-1503
+id: ERA-09
 name: Pamphlet Wars & The Day of Green Skies (1400–1503 AO)
 status: Draft
 links:

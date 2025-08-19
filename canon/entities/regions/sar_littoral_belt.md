@@ -6,7 +6,7 @@ lat_band: 6–20° S to 10° N (monsoon swing)
 summary: Dye & salt metropolises on stepped shrines; mixed guild/temple courts; refugee memory from Krum.
 status: Draft
 links:
-  c0_world: canon/notes/snapshots/known_world_c0.md
+  c0_world: canon/notes/snapshots/known_world/known_world_c0.md
   pre_empire: canon/notes/snapshots/pre_empire_c0.md
   krum: canon/eras/00_preord_krum.md
 ---

@@ -17,7 +17,7 @@ status: Draft
 - ✅ **ERA-1050–1120** (Early Unraveling): `decline_mechanics_c1050_1120.md`; `second_hammer_response_1120.md`.
 - ✅ **ERA-1150–1200** (Second Blindness framing): `known_world_c1200.md`, `empire_no_more_c1200.md`, `visual_life_c1200.md`, `lexicon_drift_c1200.md`.
 - ✅ **ERA-1200–1290 — Mangrove Garrot**:
-  - ✅ `eras/07_mangrove_garrot_1200-1290.md`
+  - ✅ `eras/07_mangrove_garrot_1200_1290.md`
   - ✅ `systems/security/mangrove_piracy_compacts_c1200_1290.md` (carrot/stick, RH kits, Prize Dockets)
   - ✅ `systems/commerce/morum_factors_row_c1296.md` + `systems/commerce/mangrove_gardens_c1290_1400.md`
 - ✅ **ERA-1290–1400 — Knotted Lanterns**:
@@ -86,7 +86,7 @@ status: Draft
 ## E. Snapshots (what exists vs. to add)
 
 - ✅ `snapshots/empire_at_its_peak_c950.md`
-- ✅ `snapshots/known_world_c950.md`
+- ✅ `canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md.md`
 - ✅ `snapshots/empire_snapped_c1100.md`
 - ✅ `snapshots/known_world_c1200.md`
 - ✅ `snapshots/empire_no_more_c1200.md`

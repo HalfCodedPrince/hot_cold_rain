@@ -7,7 +7,7 @@ origin: Ord (Upper City)
 roles: [High Master of Ord, Principal Elector, Convoy Architect]
 affiliations: [ORD-BENCH, ELEC-COLL, INS-STEP, WORKS]
 links:
-  era_07: canon/eras/07_mangrove_garrot_1200-1290.md
+  era_07: canon/eras/07_mangrove_garrot_1200_1290.md
   era_08: canon/eras/08_knotted_lanterns_1290_1400.md
   charter: canon/entities/law/treaties/charter_great_principality_1304.md
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md

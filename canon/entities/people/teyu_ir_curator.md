@@ -6,7 +6,6 @@ role: High Master (Golden Cadence)
 tags: [ritual, censorship, calendar]
 status: Draft
 links:
-  roll: canon/notes/rolls/high_masters_golden_cadence.md
   synod: canon/entities/factions/synod_of_beats.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
 ---

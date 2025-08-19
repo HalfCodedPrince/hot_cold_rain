@@ -3,7 +3,7 @@ id: SEC:PIRACY-MANGROVE-1200-1290
 name: Mangrove Piracy & Compact Navies (c.1200–1290 AO)
 status: Draft
 links:
-  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  era: canon/eras/07_mangrove_garrot_1200_1290.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
   procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
   powder_hist: canon/systems/tech/black_powder_history_c1100_1400.md

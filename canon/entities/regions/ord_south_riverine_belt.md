@@ -6,7 +6,7 @@ lat_band: 18–30° N
 summary: Twin rivers, canals, and marsh polders; collegia embryo at estuaries; lime, salt, grain.
 status: Draft
 links:
-  c0_world: canon/notes/snapshots/known_world_c0.md
+  c0_world: canon/notes/snapshots/known_world/known_world_c0.md
   pre_empire: canon/notes/snapshots/pre_empire_c0.md
   hydrology: canon/systems/planetology/hydrology.md
 ---

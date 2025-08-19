@@ -267,7 +267,7 @@ mandate: Keep winter roads, tax summer caravans, protect herds, and bargain trib
 tags: [upland, cavalry, tolls]
 status: Draft
 links:
-  region: canon/entities/regions/kaheet_uplands.md
+  region: canon/entities/regions/Kahet_uplands.md
   steppe: canon/entities/regions/ord_leeward_steppe.md
   era: canon/eras/07_middle_cadence_disjunction_1050_1200.md
 
@@ -415,6 +415,24 @@ links:
     - FAC:BEAT-004
     - FAC:BEAT-005
     - FAC:BEAT-006
+
+## canon/entities/people/camra_dona.md
+id: PERS:DONA-001
+name: Camra Dona
+aliases: [High Master of Ord, The Bride-Maker]
+lifespan: c.1251 AO - 1309 AO (natural causes, fevered relapse)
+origin: Ord (Upper City)
+roles: [High Master of Ord, Principal Elector, Convoy Architect]
+affiliations: [ORD-BENCH, ELEC-COLL, INS-STEP, WORKS]
+links:
+  era_07: canon/eras/07_mangrove_garrot_1200-1290.md
+  era_08: canon/eras/08_knotted_lanterns_1290_1400.md
+  charter: canon/entities/law/treaties/charter_great_principality_1304.md
+  factors_row: canon/systems/commerce/morum_factors_row_c1296.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
+  access: canon/systems/transport/access_days_board_c1294.md
+tags: [statesman, ord, financier, convoy, kin-grove]
 
 ## canon/entities/people/chenara_the_binder.md
 id: PERS:KLL-001
@@ -719,6 +737,23 @@ links:
   chancery: canon/entities/factions/grain_chancery.md
   works: canon/entities/factions/dredge_and_bar_works.md
 
+## canon/entities/people/seli_of_the_lotus_baths.md
+id: PERS:SELI-LOTUS
+name: Seli of the Lotus Baths
+aliases: [Mother Seli, The Lustrant]
+born: c.1422 AO
+died: 1499 AO (exile fever, Morum)
+origin: Tau-Hi (Delta Baths Quarter)
+roles: [Sea-Lotus Rector, Preacher, Pamphleteer, Refugee Patron]
+affiliations: [SEA-LOTUS-RITE, TAU-HI LYC, SPLENDID-WORD, CRUM-ASSEMBLIES]
+links:
+  rite_sar: canon/systems/religions/rite_sar_sea_lotus.md
+  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+tags: [cleric, reformer, sar, humanist, lustration, diaspora]
+
 ## canon/entities/people/seven_fingers_captain.md
 id: PERS:SEV-REP-001
 name: Arsu of Seven Fingers
@@ -748,6 +783,23 @@ status: Draft
 links:
   council: canon/entities/factions/council_of_captains.md
   era: canon/eras/02_zambranic_700_800.md
+
+## canon/entities/people/tamur_inqel_master_of_plates.md
+id: PERS:TAMUR-PLATE
+name: Tamur Inqel
+aliases: [Master of Plates, The Second House’s Hand]
+born: c.1410 AO
+died: 1507 AO (stroke)
+origin: Ord (Choir Ward)
+roles: [High Recensor of Beat II (Text & Music), Plate Registrar, Green-Edicts Drafter]
+affiliations: [BEAT-II, BEAT-VI, NAB, OBOE-PACKET]
+links:
+  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  central: canon/systems/governance/centralization_levers_principality_c1400_1550.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+tags: [cleric, censor, plates, pamphlet_wars, green_edicts, ord]
 
 ## canon/entities/people/teyu_ir_curator.md
 id: PERS:CAD-004
@@ -940,7 +992,7 @@ links:
 
 ## canon/entities/regions/kaheet_uplands.md
 id: REG:KAH-UP
-name: Kaheet Uplands & Pass Country
+name: Kahet Uplands & Pass Country
 type: mountain_uplands
 lat_band: 38–45° N (crest), 30–38° N windward shoulders
 summary: Alpine meadows and knife-pass corridors feeding the Salt River; transhumant herders and toll houses on switchbacks.
@@ -975,17 +1027,6 @@ name: Ord Iron Marshes
 type: region
 status: Draft
 tags: [region, marsh, bog_iron]
-
-## canon/entities/regions/ord_leeward_steppe.md
-id: REG:ORD-STEPPE
-name: Ord Leeward Steppe (Rain-Shadow)
-type: steppe
-lat_band: 35–45° N
-summary: Semi-arid bunchgrass and loess fans; cradle of mounted confederations that tax the passes and raid depots.
-status: Draft
-links:
-  passes: canon/entities/regions/kaheet_uplands.md
-  decline: canon/notes/snapshots/decline_mechanics_c1050_1120.md
 
 ## canon/entities/regions/ord_north_shelf.md
 id: REG:ORD-NORTH
@@ -1165,6 +1206,21 @@ links:
   known_world: canon/notes/snapshots/known_world_c1200_update.md
 tags: [era, principality, colonies, widiwidi, universities, theaters, circumnavigation, green_years, church_crisis, nepotism]
 
+## canon/eras/09_pamphlet_wars_1400_1503.md
+id: ERA:09-PAMPH-1400-1503
+name: Pamphlet Wars & The Day of Green Skies (1400–1503 AO)
+status: Draft
+links:
+  prior_era: canon/eras/08_knotted_lanterns_1290_1400.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  topo: canon/systems/religions/religious_topography_c1290_1400.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  industry: canon/systems/industry/proto_industry_c1290_1400.md
+tags: [era, pamphlets, refugees, censorship, riots, diaspora, mutation_day, centralization]
+
 ## canon/eras/ERAS_EXAMPLE_FORMAT.md
 id: ERA-11
 name: The Grand Principate (c. 1650–1740 AO)
@@ -1173,11 +1229,6 @@ span: "1650–1740 AO"
 thesis: "Marriage compacts + credit-state centralization unify the north; autonomy deals seed future stalemate."
 signature_events: [EVT-1661-POST-RIDERS, EVT-1692-IMPRIMATUR-POINTS]
 institutions: [FAC:PUBLIC-DEBT-OFFICE, FAC:GUILD-COMPOSITORIES]
-
-## canon/notes/changelog.md
-id: NOTE:CHANGELOG
-name: Project Changelog
-status: Draft
 
 ## canon/notes/diegetic/DIEGETIC_EXAMPLE_FORMAT.md
 id: DOC:PEACE-PROGRAM-1796
@@ -1789,6 +1840,19 @@ status: Draft
 links:
   era: canon/eras/06_golden_cadence_apex_860_1050.md
 
+## canon/systems/governance/centralization_levers_principality_c1400_1550.md
+id: GOV:CENTRAL-1400-1550
+name: Centralization Levers — From Benches to Leviathan (1400–1550 AO)
+status: Draft
+links:
+  taxation: canon/systems/economy/taxation_finance_c0_1200.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+tags: [centralization, bureaucracy, passports, registries, monopoly, fee-farms, overreach]
+
 ## canon/systems/governance/empty_seat_c790_860.md
 id: GOV:EMPTY-SEAT
 name: The Empty Seat — Interregnal Governance
@@ -2158,6 +2222,18 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   hex: canon/systems/cosmos/moon_hex.md
 tags: [planet, point]
+
+## canon/systems/print/pamphlet_economy_c1400_1503.md
+id: PRINT:PAMPH-1400-1503
+name: Pamphlet Economy & Censorship (1400–1503 AO)
+status: Draft
+links:
+  collegia: canon/systems/learning/collegia_and_education_c1310_1400.md
+  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
+  fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+tags: [printing, pamphlets, censorship, smuggling, cleanlinesstable, access_days, postal]
 
 ## canon/systems/religions/crum_assemblies_hundred_crowns.md
 id: REL:CRUM-ASM

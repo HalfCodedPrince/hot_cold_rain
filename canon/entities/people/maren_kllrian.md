@@ -6,7 +6,6 @@ role: High Master (Golden Cadence)
 tags: [convoys, seamanship, education]
 status: Draft
 links:
-  roll: canon/notes/rolls/high_masters_golden_cadence.md
   council: canon/entities/factions/council_of_captains.md
   charts: canon/systems/transport/navigation_currents.md
 ---

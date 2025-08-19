@@ -1,5 +1,5 @@
 ---
-id: ERA:08-KNOT-1290-1400
+id: ERA-08
 name: Knotted Lanterns (1290–1400 AO)
 status: Draft
 links:

@@ -3,7 +3,7 @@ id: LAW:CHARTER-GOP-1304
 name: Charter of the Great Ord-Sar Principality (1304 AO)
 status: Draft
 links:
-  era: canon/eras/07_mangrove_garrot_1200-1290.md
+  era: canon/eras/07_mangrove_garrot_1200_1290.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md

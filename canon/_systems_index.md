@@ -57,6 +57,7 @@
 
 ## Governance
 
+- **Centralization Levers — From Benches to Leviathan (1400–1550 AO)** (`GOV:CENTRAL-1400-1550`): `canon/systems/governance/centralization_levers_principality_c1400_1550.md`
 - **The Empty Seat — Interregnal Governance** (`GOV:EMPTY-SEAT`): `canon/systems/governance/empty_seat_c790_860.md`
 - **Law & Administration — From Captains to Diet** (`SYS:GOV-LAW`): `canon/systems/governance/law_admin.md`
 - **Political Ecology of the Bright Sea** (`GOV:POL-ECO`): `canon/systems/governance/political_ecology_bright_sea.md`
@@ -129,6 +130,11 @@
 - **Geological Sketch & Tectonics** (`GEO:TECTONICS-001`): `canon/systems/planetology/geology_tectonics.md`
 - **Hydrology & 'Green Rain'** (`GEO:WAT-001`): `canon/systems/planetology/hydrology.md`
 - **Planet Point (Basics)** (`GEO:SYS-001`): `canon/systems/planetology/point.md`
+
+
+## Print
+
+- **Pamphlet Economy & Censorship (1400–1503 AO)** (`PRINT:PAMPH-1400-1503`): `canon/systems/print/pamphlet_economy_c1400_1503.md`
 
 
 ## Religions
