@@ -12,7 +12,7 @@ links:
 ## Ord (north)
 - **Ord Bay & Salt River** — procedure intact; authority thin. Captain-Reps are patrimonial; **Steps** post premiums by rumor as often as weather.
 - **Western Littoral** — city belts hedge: treaty forms in daylight, private war at night; “contract road” toll leagues. 
-- **Kaheet / uplands** — pass confeds tax timber and ore; port writs honored only with gifts.
+- **Kahet / uplands** — pass confeds tax timber and ore; port writs honored only with gifts.
 
 ## Bright Sea
 - **Kllrian Temple States** — conservative revival: terrace guards, harbor tithe courts; diplomacy over deployment.  

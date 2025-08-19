@@ -19,8 +19,8 @@ links:
 Zambran is the consolidation-era High Master who redirected imperial energy from frontier crisis management to durable civic integration. He did not “write” the Rhythm, but he made it law: bankrolling presses, forcing circulation to harbors and courts, and anchoring the calendar in daily life.
 
 ## Regnal Beats
-- **673 AO** — Elected High Master during the Kaheet raids; establishes a fortified **camp-city** on the marches.  
-- **674–679 AO** — **Kaheet Settlement** by tribute, arbitration, and hostage trade; frontier stabilized.  
+- **673 AO** — Elected High Master during the Kahet raids; establishes a fortified **camp-city** on the marches.  
+- **674–679 AO** — **Kahet Settlement** by tribute, arbitration, and hostage trade; frontier stabilized.  
 - **701 AO** — **Ord–Sar** union formalized after sieges, blockades, and Sar city-faction alignments.  
 - **c. 705 AO** — First printed **Old Bold Rhythm** (temple leafs + harbor packets) circulates empire-wide.  
 - **c. 722 AO** — **Civic adoption** of the Rhythm calendar & rites (ports first; inland by decree).  

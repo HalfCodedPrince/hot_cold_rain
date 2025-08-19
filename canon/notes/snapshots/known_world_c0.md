@@ -12,7 +12,7 @@ links:
 
 ## Ord (south & interior)
 - **South Riverine Belt** — canal towns on a twin-river “crescent”; millet/rice, flood weirs, shell-lime kilns. Harbor collegia are emerging at estuaries.  
-- **Kaheet Shoulders** — terrace grain, goat milk cheeses, toll shrines at passes; stone roads only in short, proud stretches.  
+- **Kahet Shoulders** — terrace grain, goat milk cheeses, toll shrines at passes; stone roads only in short, proud stretches.  
 - **Western Loess & Lakes** — polders and peat; reed towns, pole-roads, winter sledges.
 
 ## Bright Sea (between Ord & Sar)

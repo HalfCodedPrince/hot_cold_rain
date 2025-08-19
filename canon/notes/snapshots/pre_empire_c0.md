@@ -17,7 +17,7 @@ links:
 
 - **Sar Littoral City Leagues (REG:SAR-LIT):** dye/salt metropolises; mixed guild/temple courts; stepped shrines; refugee memory from Krum. *Matters later:* treaty-port DNA and mixed-court playbook.
 
-- **Kaheet Pass Cantons (REG:KAH-UP):** toll shrines, goat herders, winter roads; hostage-surety is law. *Matters later:* the legal template for later pass compacts.
+- **Kahet Pass Cantons (REG:KAH-UP):** toll shrines, goat herders, winter roads; hostage-surety is law. *Matters later:* the legal template for later pass compacts.
 
 - **Hush Isles Custodians:** watchmen over Krum ruins; salvage tithes fund shrines. *Matters later:* taboo → colonial rush centuries on.
 

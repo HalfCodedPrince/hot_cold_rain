@@ -22,7 +22,7 @@ links:
 
 ## Foundry & supply (where this happens)
 - **Slipway Quarter (Ord Bay)**: bronze bombards & swivels tied to convoy tenders; slag barged to river.  
-- **Kaheet uplands**: charcoal smelting & bellows craft; upland carts feed Bay with charcoal and copper.  
+- **Kahet uplands**: charcoal smelting & bellows craft; upland carts feed Bay with charcoal and copper.  
 - **Kllrian temple works**: bulkhead castings + docile **junk-analog** swivels; famed for balanced pintles.
 
 ## Mountings & recoil

@@ -31,7 +31,7 @@ links:
 - **Grain note** → **meal-ticket** in poorer wards; **bond stair** survives but as **ladder** in street speech.
 
 ## Place & people
-- **Kaheet** yields **the Passes** (metonym for confed lands).
+- **Kahet** yields **the Passes** (metonym for confed lands).
 
 ## Recording drift (pattern)
 Add to base pages when needed:

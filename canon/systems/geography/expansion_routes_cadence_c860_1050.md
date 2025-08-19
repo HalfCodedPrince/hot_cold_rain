@@ -20,7 +20,7 @@ The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon le
 - **Koi-Hi / Coi-Hi** — rises to triad status; insurance houses, chart schools; proto-Longara civic habits.  
 - **Cape stations** — small watch islands securing the Old Song bends.
 
-### Kaheet Mountains & North-Ord tribes
+### Kahet Mountains & North-Ord tribes
 - **Pass treaties** buy guide services & timber; no heavy occupation.  
 - **Frontier posts** are depots, not forts.  
   *Matters later:* tribal confederations learn imperial schedules and where they are weak.

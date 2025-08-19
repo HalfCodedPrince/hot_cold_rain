@@ -17,3 +17,11 @@ links:
 - Port causeways and gate piers charge **measure-stone** tolls.
 
 **Matters later:** calendar prestige exports easily; terrace and causeway engineers get hired across the sea.
+
+## Era touchpoints
+- **North Kllrian** joins league (early 1400 c.); privateerization routinized under marque.
+- **Choir diplomacy:** house-songs standardize treaty preambles; terrace engineers export causeway know-how.
+- **Pamphlet era:** public Rhythm minimum; **Old Word** kept on terraces; presses tolerated if quiet.
+
+## Economy & lanes
+- Papers, paddy, lacquer, bast cordage, terrace stone; export **calendar prestige** with pilots and Works clerks.

@@ -17,7 +17,7 @@ links:
   **Matters later:** HRE-like paralysis template.
 - **Eastern Peninsula (Koi-Hi / Longara seed)** — metropolis of charts & credit; future republican core.  
   **Matters later:** carries the torch after imperial decline.
-- **Kaheet & North-Ord uplands** — timber, ore, pass tolls; confederations, not kingdoms.  
+- **Kahet & North-Ord uplands** — timber, ore, pass tolls; confederations, not kingdoms.  
   **Matters later:** incubator for steppe-like raiding polities.
 
 ## Bright Sea (between Ord & Sar)

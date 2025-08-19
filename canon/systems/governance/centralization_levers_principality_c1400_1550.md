@@ -1,0 +1,45 @@
+---
+id: GOV:CENTRAL-1400-1550
+name: Centralization Levers — From Benches to Leviathan (1400–1550 AO)
+status: Draft
+links:
+  taxation: canon/systems/economy/taxation_finance_c0_1200.md
+  access_days: canon/systems/transport/access_days_board_c1294.md
+  edicts: canon/entities/law/green_sky_edicts_1503.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+tags: [centralization, bureaucracy, passports, registries, monopoly, fee-farms, overreach]
+---
+
+## Thesis
+The Principality centralizes **without** a standing tax state by chaining monopolies and registries: **Access Days**, **postal**, **identity**, **marque**, **plates**, and **Co-Type charters**. Each lever is “administrative,” but together they make a **Kafka lattice**: overlapping seals, contradictory dockets, and fees for breathing.
+
+## The levers (stacked)
+1) **National Access Board (NAB)** — upgrades the Koi-Hi board to empire-wide custody over calendars; **priority = obedience**.
+2) **Rate-Hold Registry** — every covered hull & convoy under one book; **premium uplifts** applied by the center.
+3) **Postal Monopoly (Oboe Packet)** — all packets sealed; private posts illegal; **reader rolls** ride inside.
+4) **Plate Registry (Beat II)** — every master plate numbered; presses file runs; **off-plate** prints = seizure + fines.
+5) **Identity Rolls (“Beat Rolls”)** — ward **roll calls** bless identity; proof = **split token** (bone tally + wax mark); needed for tickets, courts, and scrip.
+6) **Convoy & Co-Type Acts** — turns escort compacts and colonial houses into **Company-Types** with police powers (fog-gate → colony ladder).
+7) **Marque & Muster Harmonization** — letters of marque tracked; **press** legalized in storm years; deserters denied tickets.
+8) **Fee-Farm Foreclosure** — arrears → **central seizure**; Works buys mills and yards; leases them back with clauses.
+9) **Cleanliness Tables → Black Books** — printer/port/press ratings harden into **ban ledgers** shared across the realm.
+10) **Green-Scrip** — emergency labor scrip for storms; redeemable only in licensed depots (behavior control via food).
+
+## How it feels (the Kafka bit)
+- **Double seals**: two offices demand different stamps for the same act; queues form; fines accrue while you stand.  
+- **Contradictory dockets**: Beat VI court says pay; NAB clerk says “not until Access is posted.”  
+- **Endless copies**: “Copy of copy” fees; the original lost “in packet.”  
+- **Identity loops**: to get a roll card you need a ticket; to buy a ticket you need a roll card.  
+- **Harmless crimes**: “lantern mis-hang,” “wrong meter filing,” “unauthorized queue change.”
+
+## Why elites allow it
+- **Insurers** get a quieter sea;  
+- **Works** gets steady budgets;  
+- **Electors** get patronage (local clerks, rollmasters);  
+- **Temples** get plate control;  
+- **Companies** get police far from home.
+
+## Breaking points (for later eras)
+- The lattice works in peace; **fails in famine/war**; then comes the Last War—and PRK’s revolt.
