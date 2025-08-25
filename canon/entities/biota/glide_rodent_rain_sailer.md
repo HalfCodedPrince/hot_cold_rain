@@ -6,7 +6,7 @@ status: Draft
 variant_of: BIO:FA-GLIDE-RODENT-001
 tags: [rodent, glider, urban, messenger]
 links:
-  parent: canon/notes/biota/sailback.md
+  parent: canon/entities/biota/sailback.md
   clothing: canon/systems/tech/clothing_and_textiles_c1800.md
 ---
 

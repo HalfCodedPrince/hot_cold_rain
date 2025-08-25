@@ -6,7 +6,7 @@ status: Draft
 variant_of: BIO:FA-DUET-SONGBIRD-001
 tags: [bird, duet, ritual, choir]
 links:
-  parent: canon/notes/biota/sapir_karodot.md
+  parent: canon/entities/biota/sapir_karodot.md
   rhythm: canon/systems/religions/good_old_rhythm.md
 ---
 

@@ -2,7 +2,7 @@
 id: PACK:SYSTEMS-DIGEST
 name: Systems Digest — Claims & Links
 status: Stable
-updated: 2025-08-19
+updated: 2025-08-25
 ---
 
 This digest lists each system page with its ID and canonical path. Keep claims in the source pages; this file is compact routing.
@@ -195,6 +195,12 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `INFRA:WATER-001` — canon/systems/infrastructure/water_and_sewer_c1800.md
 - Tags: c. 1803 AO
 
+## Insurance
+
+### Green Years — Definition, Scoring, and Effects
+`SYS:INSURANCE-GREEN-YEAR` — canon/systems/insurance/green_years_standard.md
+- Tags: systems, insurance, public_health
+
 ## Labor
 
 ### Coercion & Status in Ord–Sar
@@ -225,6 +231,10 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ## Law
 
+### Fines-as-Theatre — Performative Civic Enforcement
+`SYS:LAW-FINES-THEATRE` — canon/systems/law/fines_as_theatre.md
+- Tags: law, policing, ritual
+
 ### Marriage & Vows (Ord–Sar)
 `LAW:MARRIAGE-001` — canon/systems/law/marriage_and_vows_c700_1200.md
 - Tags: marriage, vows, law
@@ -242,6 +252,12 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ### Collegia & Education Ladders (c.1310–1400 AO)
 `EDU:COLLEGIA-1310-1400` — canon/systems/learning/collegia_and_education_c1310_1400.md
 - Tags: universities, collegia, guilds
+
+## Mapping
+
+### Cities c.1803 — Civic Knobs & Line Mixes (systems dataset)
+`SYS:MAPPING-CITIES-C1803` — canon/systems/mapping/canon_systems_mapping_cities_c1803.md
+- Tags: systems dataset
 
 ## Metrology
 
@@ -282,7 +298,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ## Religions
 
-### Crum-ward Assemblies (Free Cities & Western Ord)
+### Crum-ward Assemblies AKA Merchant Priests (Free Cities & Western Ord)
 `REL:CRUM-ASM` — canon/systems/religions/crum_assemblies_free_cities.md
 - Tags: crum, assemblies, market
 

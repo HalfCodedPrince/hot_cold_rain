@@ -5,7 +5,7 @@ status: Draft
 links:
   mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
   society: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
-  map_overlay: notes/maps/map_mutation_day.yaml
+  map_overlay: canon/notes/maps/map_mutation_day.yaml
   clinics: canon/systems/health/public_health_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
 tags: [systems, insurance, public_health, convoys, sanctuaries, green_haze]

@@ -4,9 +4,8 @@ name: Fines-as-Theatre — Performative Civic Enforcement
 status: Draft
 links:
   mixed_court: canon/notes/snapshots/special/co_types_biology_and_law.md
-  plate_bench: canon/systems/censorship/plate_bench.md
   insurance: canon/systems/insurance/green_years_standard.md
-  mutation_overlay: notes/maps/map_mutation_day.yaml
+  mutation_overlay: canon/notes/maps/map_mutation_day.yaml
 tags: [law, policing, ritual, free_cities, fines, theatre, insurance]
 ---
 

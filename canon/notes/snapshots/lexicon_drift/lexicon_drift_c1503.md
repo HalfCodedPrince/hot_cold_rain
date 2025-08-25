@@ -7,7 +7,7 @@ links:
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
   hydrology: canon/systems/planetology/hydrology.md
   rhythm: canon/systems/religions/good_old_rhythm.md
-  metrology_calendar: canon/systems/metrology/metrology_calendar.md
+  metrology_calendar: canon/systems/metrology/calendar_base6.md
   vis_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
   world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
 tags: [snapshot, lexicon, drift, pamphlets, access_days, cleanliness_tables, green_rain, refugees]

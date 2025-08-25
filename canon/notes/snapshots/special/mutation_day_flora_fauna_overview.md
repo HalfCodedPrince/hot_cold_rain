@@ -12,17 +12,17 @@ links:
   clothing: canon/systems/tech/clothing_and_textiles_c1800.md
   transport: canon/systems/transport/transport_index_c1800.md
   existing_biota_index:
-    - canon/notes/biota/BIO:FA-TIDE-LIZARD-001   
-    - canon/notes/biota/BIO:FA-MANGROVE-EEL-001  
-    - canon/notes/biota/BIO:FA-CRAB-001          
-    - canon/notes/biota/BIO:FL-PHOTIC-MOSS-001   
-    - canon/notes/biota/BIO:FA-WATERFOWL-ROOF-001 
-    - canon/notes/biota/BIO:FA-GLIDE-RODENT-001  
-    - canon/notes/biota/BIO:FA-DUET-SONGBIRD-001 
-    - canon/notes/biota/BIO:FL-SKINGRASS-001     
-    - canon/notes/biota/BIO:FL-GRASS-001         
-    - canon/notes/biota/BIO:FL-TUBE-BAMBOO-001   
-    - canon/notes/biota/BIO:FL-VINE-PALM-001     
+    - canon/entities/biota/boru_boru.md   
+    - canon/entities/biota/mudsnake.md  
+    - canon/entities/biota/pack_crab.md          
+    - canon/entities/biota/photic_moss.md   
+    - canon/entities/biota/roof_goose.md 
+    - canon/entities/biota/sailback.md  
+    - canon/entities/biota/sapir_karodot.md 
+    - canon/entities/biota/skin_grass.md     
+    - canon/entities/biota/spit_grass.md         
+    - canon/entities/biota/tubular_bamboo.md   
+    - canon/entities/biota/pack_crab.md     
 tags: [snapshot, special, biota, flora, fauna, mutation_day, plausibility, hazards, festivals, guilds]
 ---
 

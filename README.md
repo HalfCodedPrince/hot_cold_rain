@@ -3,18 +3,10 @@
 This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s organized so in-universe artifacts (“diegetic”) can live alongside out-of-universe canon (systems, eras, timeline). Currently WIP.
 
 ---
-Current baseline: **v0.13**
-## What’s new in v0.13 (highlights)
-- **Eras:** `07_mangrove_garrot_1200-1290.md`, `08_knotted_lanterns_1290_1400.md`
-- **Northlands:** `snapshots/northlands_c0_1400.md`
-- **Commerce:** `fog_gate_marts_stern_shore_c0_1400.md`, `mangrove_gardens_c1290_1400.md`, `morum_factors_row_c1296.md`
-- **Industry:** `iron_sand_bloomery_c1200.md`, `pozzolan_hydraulic_mortar_c1200.md`, `proto_industry_c1290_1400.md`, `mills_power_wetworld_c1250_1450.md`
-- **Learning:** `collegia_and_education_c1310_1400.md`
-- **Tech (arms):** `handgonnes_matchlocks_c1300_1500.md`
-- **Religion:** `religious_topography_c1290_1400.md` + regional rites (Sar / Knees / Kllrian / Crum)
-- **Economy (pre-1300):** `taxation_finance_c0_1200.md` (Ord–Sar)
-
-
+Current baseline: **v0.14**
+## What’s new in v0.14 (highlights)
+- **Day of the Green Skies/Mutation Day/Green day content is mostly in** - see snapshots/special and snapshot/watershed_moments, along with the /biota folder
+- **Test map references** - canon/notes/maps/map_reference.yaml
 timeline.csv is canon; timeline.txt is mirror
 
 ## Quickstart

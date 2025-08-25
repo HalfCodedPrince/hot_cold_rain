@@ -3,9 +3,9 @@ id: SYS:MAPPING-CITIES-C1803
 name: Cities c.1803 — Civic Knobs & Line Mixes (systems dataset)
 status: Draft
 links:
-  inference_rules: canon/systems/mapping/city_inference_rules.md
-  map_reference: notes/maps/map_reference.yaml
-  map_mutation_day: notes/maps/map_mutation_day.yaml
+  inference_rules: 
+  map_reference: canon/notes/maps/map_reference.yaml
+  map_mutation_day: canon/notes/maps/map_mutation_day.yaml
 notes: |
   Timeframe: c.1803 (population tiers from the current burgs CSV). This dataset is also
   used to back-cast 1503–1530 patterns. Ord City historically ~1,000,000 c.1503; 

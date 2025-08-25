@@ -6,7 +6,7 @@ status: Draft
 variant_of: BIO:FA-CRAB-001
 tags: [crab, domesticated, watch, quay, signal]
 links:
-  pack_crab: canon/notes/biota/pack_crab.md
+  pack_crab: canon/entities/biota/pack_crab.md
   works: canon/entities/factions/dredge_and_bar_works.md
 ---
 

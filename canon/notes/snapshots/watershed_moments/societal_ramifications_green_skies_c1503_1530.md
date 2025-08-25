@@ -8,9 +8,9 @@ links:
   types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
   visual_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
   world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  map_reference: notes/map_reference.yaml
-  map_mutation_day: notes/map_mutation_day.yaml
-  systems_cities: canon/systems/mapping/cities_c1803.yml
+  map_reference: canon/notes/maps/map_reference.yaml
+  map_mutation_day: canon/notes/maps/map_mutation_day.yaml
+  systems_cities: canon/systems/mapping/canon_systems_mapping_cities_c1803.md
   insurance: canon/systems/insurance/green_years_standard.md
 tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanctuary, riots, convoys]
 ---
@@ -58,7 +58,7 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 - **Ports & Locks.** **Otter** lines dominate floodworks and salvage; **Reedcat** dialects rig print lofts.  
 - **Dense Wards.** **Bat** lines own night inspection and sealed-packet lofts (no armor aloft; wingsleeves mandatory).  
 - **Road & Court.** **Fox** lines fill factor courts and long-road courier guilds; heat kit (vented crowns, ear-port etiquette) becomes a norm.  
-- **Premiums.** Green-year premiums spike on routes flagged in `notes/map_mutation_day.yaml`; sanctuaries with **A/B** drill pass get rebates.
+- **Premiums.** Green-year premiums spike on routes flagged in `canon/notes/maps/map_mutation_day.yaml`; sanctuaries with **A/B** drill pass get rebates.
 
 ## IV. Law, Family, & Kinship
 - **Marriage & Cross-Pairs.** Legal across lines; **Switch counseling** recommended. **Resolve-at-birth** doctrine fixes identity rolls; adult partial changes don’t reopen status.  
@@ -89,6 +89,6 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 
 ---
 ### Map Hooks
-- **Base facts** → `notes/map_reference.yaml`  
-- **Era overlay (1503–1530)** → `notes/map_mutation_day.yaml`  
-- **Full system view / back-cast** → `canon/systems/mapping/cities_c1803.yml`
+- **Base facts** → `canon/notes/maps/map_reference.yaml`  
+- **Era overlay (1503–1530)** → `canon/notes/maps/map_mutation_day.yaml`  
+- **Full system view / back-cast** → `canon/systems/mapping/canon_systems_mapping_cities_c1803.md`

@@ -2,7 +2,7 @@
 id: INDEX:PEOPLE
 name: People — One-Liners & Links
 status: Stable
-updated: 2025-08-19
+updated: 2025-08-25
 ---
 
 - [PERS:DONA-001] **Camra Dona** — statesman, ord, financier  

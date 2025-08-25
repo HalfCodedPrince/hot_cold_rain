@@ -2,7 +2,7 @@
 id: INDEX:REGIONS
 name: Regions — One-Liners & Links
 status: Stable
-updated: 2025-08-19
+updated: 2025-08-25
 ---
 
 - [REG:BRI-001] **Bright Sea** — region, seaway, bright_sea  

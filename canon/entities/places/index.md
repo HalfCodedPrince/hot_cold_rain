@@ -2,7 +2,7 @@
 id: INDEX:PLACES
 name: Places — One-Liners & Links
 status: Stable
-updated: 2025-08-19
+updated: 2025-08-25
 ---
 
 - [LOC:KOI-001] **Koi-Hi** — port, metropolis, pilotage  
