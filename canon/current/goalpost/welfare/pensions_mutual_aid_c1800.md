@@ -5,7 +5,7 @@ status: Draft
 links:
   religion: canon/systems/religions/good_old_rhythm.md
   health: canon\current\goalpost\health\healthcare_landscape_c1800.md
-  public_health: canon/systems/health/public_health_c1800.md
+  public_health: canon\current\goalpost\health\public_health_c1800.md
   economy: canon\current\goalpost\economy\currency_finance_c1800.md
 ---
 

@@ -8,7 +8,7 @@ links:
   types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
   society: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
-  health: canon/systems/health/public_health_c1800.md
+  health: canon\current\goalpost\health\public_health_c1800.md
 ---
 
 Urban-density volant line for **night inspection & packet lofts**; standard kit is **wingsleeves, shoulder cradles**—**no armor aloft**.

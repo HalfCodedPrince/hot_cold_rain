@@ -44,15 +44,7 @@
 
 ## Economy
 
-- **Currency & Finance — Ord–Sar Sphere** (`SYS:ECON-CUR`): `canon/systems/economy/currency_finance_c1800.md`
-- **Food Supply & Logistics (c. 1803 AO)** (`ECON:FOOD-LOG-1803`): `canon/systems/economy/food_logistics_c1800.md`
-- **Global Supply Links (Post–Last War)** (`ECON:SUPPLY-001`): `canon/systems/economy/global_supply_links.md`
 - **Taxation & Finance — Ord–Sar (c.0–1200 AO)** (`ECON:TAX-0-1200`): `canon/systems/economy/taxation_finance_c0_1200.md`
-
-
-## Energy
-
-- **Energy — Generation & Grid (c. 1803 AO)** (`ENE:GRID-1803`): `canon/systems/energy/power_grid_c1800.md`
 
 
 ## Geography
@@ -88,29 +80,21 @@
 - **Symbols of Office (Ord–Sar)** (`GOV:SYMB-OFF`): `canon/systems/governance/symbols_of_office_c700_1200.md`
 
 
-## Health
-
-- **Healthcare Landscape (c. 1803 AO)** (`HEALTH:SYSTEMS-1803`): `canon/systems/health/healthcare_landscape_c1800.md`
-- **Public Health (Green Rains & Warm Seas)** (`HEALTH:PUB-001`): `canon/systems/health/public_health_c1800.md`
-
-
 ## Industry
 
+- **Foundry Discipline & Heat Practice (c.1400–1550 AO)** (`SYS:FOUNDRY-1400_1550`): `canon/systems/industry/foundry_discipline_1400_1550.md`
 - **Iron-Sand Bloomery (c.1200 AO)** (`IND:IRON-SAND-1200`): `canon/systems/industry/iron_sand_bloomery_c1200.md`
-- **Industry — Locations & Sectors (c. 1803 AO)** (`IND:LAYOUT-1803`): `canon/systems/industry/locations_layout_c1800.md`
 - **Mills & Power in a Wet World (c.1250–1450 AO)** (`IND:MILLS-WET-1250-1450`): `canon/systems/industry/mills_power_wetworld_c1250_1450.md`
 - **Pozzolan & Hydraulic Mortar (c.1200 AO)** (`IND:POZZ-1200`): `canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md`
 - **Proto-Industry — Shops, Mills & Manufactures (1290–1400 AO)** (`IND:PROTO-1290-1400`): `canon/systems/industry/proto_industry_c1290_1400.md`
+- **Saltpeter Supply & Nitraries (c.1500–1510 AO)** (`SYS:SALTPETER-1500`): `canon/systems/industry/saltpeter_supply_c1500.md`
 
 
 ## Infrastructure
 
-- **Coastal Cities — Storms, Surges & Civic Resilience** (`INFRA:COAST-STORM-1803`): `canon/systems/infrastructure/coastal_storms_resilience_c1800.md`
 - **Courier Circuit & Assay Ring (c.700–1300 AO)** (`INF:COURIER-ASSAY-700-1300`): `canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md`
 - **Public Works — Beacons, Seawalls & Cisterns** (`INFRA:PUB-001`): `canon/systems/infrastructure/public_works_c700_1200.md`
 - **Warrant Warehouses & Bonded Granaries (c.700–1300 AO)** (`INF:WARE-BOND-700-1300`): `canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md`
-- **Waste & Refuse — Collection, Dumps, Incineration** (`INFRA:WASTE-1803`): `canon/systems/infrastructure/waste_management_c1800.md`
-- **Urban Water & Sewers (c. 1803 AO)** (`INFRA:WATER-001`): `canon/systems/infrastructure/water_and_sewer_c1800.md`
 
 
 ## Insurance
@@ -144,11 +128,6 @@
 ## Learning
 
 - **Collegia & Education Ladders (c.1310–1400 AO)** (`EDU:COLLEGIA-1310-1400`): `canon/systems/learning/collegia_and_education_c1310_1400.md`
-
-
-## Mapping
-
-- **Cities c.1803 — Civic Knobs & Line Mixes (systems dataset)** (`SYS:MAPPING-CITIES-C1803`): `canon/systems/mapping/canon_systems_mapping_cities_c1803.md`
 
 
 ## Metrology
@@ -186,20 +165,15 @@
 ## Security
 
 - **Private War & Letters of Marque (1055 AO Circular)** (`SEC:MARQUE-001`): `canon/systems/security/letters_of_marque_c1050_1200.md`
-- **Longara Marine Patrol — Littoral Doctrine (c. 1770–1800 AO)** (`SEC:LONG-PATROL-1770-1800`): `canon/systems/security/longara_marine_patrol_doctrine_c1800.md`
 - **Mangrove Piracy & Compact Navies (c.1200–1290 AO)** (`SEC:PIRACY-MANGROVE-1200-1290`): `canon/systems/security/mangrove_piracy_compacts_c1200_1290.md`
-- **Piracy, Convoys & Navies (Cadence → GP)** (`SEC:NAV-001`): `canon/systems/security/piracy_and_navies_c1800.md`
 
 
 ## Tech
 
 - **Arms & Armor (Climate & Sea-Aware)** (`TECH:ARM-000`): `canon/systems/tech/arms_armor_c700.md`
 - **Black Powder — Supply, Guilds, & Drift (c.1100–1400 AO)** (`TECH:POWDER-HIST-1100-1400`): `canon/systems/tech/black_powder_history_c1100_1400.md`
-- **Broadcast Color Standard (c. 1770–1810 AO)** (`TECH:TV-COLOR-STD`): `canon/systems/tech/broadcast_color_standard_c1770_1810.md`
-- **Clothing & Textiles (Hot, Wet, Windy)** (`TECH:CLO-000`): `canon/systems/tech/clothing_and_textiles_c1800.md`
 - **Early Artillery — Bombards, Swivels, & Foundry Discipline (c.1200–1350 AO)** (`TECH:ARTY-EARLY-1200-1350`): `canon/systems/tech/early_artillery_c1200_1350.md`
 - **Handgonnes & Matchlocks (c.1300–1500 AO)** (`TECH:FIRE-ARMS-1300-1500`): `canon/systems/tech/handgonnes_matchlocks_c1300_1500.md`
-- **Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)** (`TECH:RAIN-GEAR-1803`): `canon/systems/tech/rain_gear_umbrellas_c1800.md`
 - **Saltpeter Supply & Nitraries (c.1500–1510 AO)** (`SYS:SALTPETER-1500`): `canon/systems/tech/saltpeter_supply_c1500.md`
 - **Seven-Frame Chancery Press** (`TECH:PRESS-001`): `canon/systems/tech/seven_frame_chancery_press_c1050.md`
 - **Writing & Printing in the Humid Maritime Tropics** (`TECH:PRINT-001`): `canon/systems/tech/writing_and_printing_c700_1200.md`
@@ -210,20 +184,5 @@
 - **Black Powder & Firearms — Baseline c.1180–1300 AO** (`TECH:POWDER-BASE-1180-1300`): `canon/systems/transport/black_powder_baseline_c1180_1300.md`
 - **Tideways & the Old Song** (`TRANS:NAV-001`): `canon/systems/transport/navigation_currents.md`
 - **Ocean-Ranging Hulls & Rigs — Baseline c.1180–1300 AO** (`TRANS:HULLS-OCEAN-1180-1300`): `canon/systems/transport/ocean_ranging_hulls_c1180_1300.md`
-- **Resilient Transit in Flood-Prone Cities** (`TRANS:FLOOD-MODES-1803`): `canon/systems/transport/resilient_transit_flood_cities_c1800.md`
-- **Roads & Surfaces — Asphalt, Stone, Boards** (`TRANS:ROAD-1803`): `canon/systems/transport/road_surfaces_c1800.md`
 - **Ships — Oar Galleys with Auxiliary Sail** (`TRANS:SHIPS-001`): `canon/systems/transport/ships_galleys.md`
-- **Transport Index (Sea, Cable, Rail, Road)** (`TRANS:IDX-001`): `canon/systems/transport/transport_index_c1800.md`
-- **Urban Vehicles & City Logistics (Low-Tech, Wet)** (`TRANS:URBAN-VEHICLES-1803`): `canon/systems/transport/urban_vehicles_logistics_c1800.md`
-
-
-## Urbanism
-
-- **Architecture — Coastal Patterns & Materials** (`URB:ARCH-COAST-1803`): `canon/systems/urbanism/architecture_coastal_patterns_c1800.md`
-- **Building Heights & Urban Fabric (c. 1803 AO)** (`URB:FORM-001`): `canon/systems/urbanism/building_heights_density_c1800.md`
-
-
-## Welfare
-
-- **Social State — Pensions, Mutual Aid & Old Age (c. 1803 AO)** (`WEL:PENSIONS-1803`): `canon/systems/welfare/pensions_mutual_aid.md`
 

@@ -5,7 +5,7 @@ status: Draft
 links:
   office_works: canon/entities/factions/office_imperial_works.md
   transport: canon\current\goalpost\transport\transport_index_c1800.md
-  health: canon/systems/health/public_health_c1800.md
+  health: canon\current\goalpost\health\public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
 ---

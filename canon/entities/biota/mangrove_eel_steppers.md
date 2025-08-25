@@ -7,7 +7,7 @@ variant_of: BIO:FA-MANGROVE-EEL-001
 tags: [eel, amphibious, canal, food, pest_control]
 links:
   parent: canon/entities/biota/mudsnake.md
-  health: canon/systems/health/public_health_c1800.md
+  health: canon\current\goalpost\health\public_health_c1800.md
 ---
 
 ## Habitat

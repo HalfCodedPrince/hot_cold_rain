@@ -11,7 +11,7 @@ links:
   crum_free: canon/systems/religions/crum_assemblies_free_cities.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
   mutation_mech: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon/notes/snapshots/society/societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
   synod: canon/entities/factions/synod_of_beats.md
   beats: canon/entities/factions/beats/house_second_beat.md
   metrology_calendar: canon/systems/metrology/calendar_base6.md
