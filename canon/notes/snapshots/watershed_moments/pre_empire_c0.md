@@ -3,9 +3,9 @@ id: SNAP:PRE-EMP-0
 name: Pre-Empire c.0 AO — Major Players
 status: Draft
 links:
-  kllrian: canon/entities/regions/kllrian_arc.md
-  ord_south: canon/entities/regions/ord_south_riverine_belt.md
-  sar_lit: canon/entities/regions/sar_littoral_belt.md
+  kllrian: canon\systems\geography\regions\kllrian_arc.md
+  ord_south: canon\systems\geography\regions\ord_south_riverine_belt.md
+  sar_lit: canon\systems\geography\regions\sar_littoral_belt.md
   krum: canon/eras/00_preord_krum.md
 ---
 

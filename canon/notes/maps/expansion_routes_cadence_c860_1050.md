@@ -8,8 +8,7 @@ links:
   public_works: canon/systems/infrastructure/public_works_c700_1200.md
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
   taxation: canon/systems/economy/taxation_finance_c0_1200.md
-  regions_index: canon/entities/regions/index.md
-  map_digest: canon/maps/map_digest.md
+  map_digest: canon\notes\maps\map_reference.yaml
 tags: [map, routes, treaty_ports, beacon_legs, golden_cadence]
 ---
 

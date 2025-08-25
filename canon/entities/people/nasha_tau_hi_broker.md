@@ -6,7 +6,7 @@ role: High Master (Golden Cadence)
 tags: [treaties, law, ports]
 status: Draft
 links:
-  seven_fingers: canon/entities/places/seven_fingers.md
+  seven_fingers: canon\systems\geography\places\seven_fingers.md
   council: canon/entities/factions/council_of_captains.md
 ---
 

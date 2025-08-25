@@ -14,7 +14,7 @@ thesis: Wove tide tables and Hex halo cycles into practical almanacs; apocrypha 
 first_appearance: ERA-000
 status: Draft
 links:
-  place: canon/entities/places/tau_hi.md
+  place: canon\systems\geography\places\tau_hi.md
   snapshots:
     - canon/notes/snapshots/known_world/known_world_c0.md
   religion: canon/systems/religions/good_old_rhythm.md

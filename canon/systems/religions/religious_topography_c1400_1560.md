@@ -5,7 +5,7 @@ status: Draft
 links:
   prior_topo: canon/systems/religions/religious_topography_c1290_1400.md
   good_old: canon/systems/religions/good_old_rhythm.md
-  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
+  sea_lotus: canon/systems\religions\rite_sar_sea_lotus.md
   knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
   crum_free: canon/systems/religions/crum_assemblies_free_cities.md

@@ -6,9 +6,9 @@ role: Wurranian commander (overland raid)
 tags: [wurran, campaign, battle_of_mistakes]
 status: Draft
 links:
-  wurran: canon/entities/places/wurran.md
-  ord: canon/entities/places/ord_city.md
-  kllrian_arc: canon/entities/regions/kllrian_arc.md
+  wurran: canon\systems\geography\places\wurran.md
+  ord: canon\systems\geography\places\ord_city.md
+  kllrian_arc: canon\systems\geography\regions\kllrian_arc.md
 ---
 
 ## Summary

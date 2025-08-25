@@ -12,7 +12,7 @@ links:
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   known_world: canon/notes/snapshots/known_world/known_world_c1200.md
-  koi_hi: canon/entities/places/koi_hi.md
+  koi_hi: canon\systems\geography\places\koi_hi.md
   camra_dona: canon/entities/people/camra_dona.md
 tags: [era, piracy, convoys, contract_ports, widiwidi, koi-hi, broken_lantern_years]
 ---

@@ -114,7 +114,7 @@ status: Stable           # Stable | Draft | Contested
 aliases: [Thedos of Ord] # optional
 links:
   # stable relative paths (avoid deep-linking into Drafts)
-  home: canon/entities/places/ord_city.md
+  home: canon\systems\geography\places\ord_city.md
   related: canon/entities/factions/synod_of_beats.md
 tags: [ord, leadership, reform]
 ---

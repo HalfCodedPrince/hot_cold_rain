@@ -14,7 +14,7 @@ thesis: Bound terrace cities and causeway ports into a levy-league under temple 
 first_appearance: ERA-010
 status: Draft
 links:
-  region: canon/entities/regions/kllrian_arc.md
+  region: canon\systems\geography\regions\kllrian_arc.md
   snapshots:
     - canon/notes/snapshots/known_world/known_world_c0.md
     - canon/notes/snapshots/watershed_moments/pre_empire_c0.md

@@ -113,8 +113,77 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ## Geography
 
-### Expansion & Frontiers in the Golden Cadence
-`GEO:CADENCE-EXPANSION` — canon/systems/geography/expansion_routes_cadence_c860_1050.md
+### Koi-Hi
+`LOC:KOI-001` — canon/systems/geography/places/koi_hi.md
+- Tags: port, metropolis, pilotage
+
+### Ish-Atu Ziggurat Complex (Primary)
+`LOC:KRM-001` — canon/systems/geography/places/krum_primary_site.md
+- Tags: ziggurat, ritual, submerged
+
+### Ord City
+`LOC:ORD-001` — canon/systems/geography/places/ord_city.md
+- Tags: capital, port, shipbuilding
+
+### Reed-Camp District
+`LOC:REED-001` — canon/systems/geography/places/reed_camp_district.md
+- Tags: penal, industry, penal_labor
+
+### Seven Fingers
+`LOC:SEV-001` — canon/systems/geography/places/seven_fingers.md
+- Tags: port, factional, defection
+
+### Tau-Hi
+`LOC:TAU-HI` — canon/systems/geography/places/tau_hi.md
+- Tags: city, sar_north, legal
+
+### Wurran-at-Delta
+`LOC:WUR-001` — canon/systems/geography/places/wurran.md
+- Tags: river_delta, city, port
+
+### Bright Sea (physiography & lanes)
+`REG:BRI-001` — canon/systems/geography/regions/bright_sea.md
+- Tags: geography, region, seaway
+
+### Kahet Uplands & Pass Country (physiography & lanes)
+`REG:KAH-UP` — canon/systems/geography/regions/kahet_uplands_pass_country.md
+- Tags: geography, region, uplands
+
+### Kllrian Arc (physiography & lanes)
+`REG:KLR-ARC` — canon/systems/geography/regions/kllrian_arc.md
+- Tags: geography, region, terraces
+
+### Ord Bay (physiography, works & lanes)
+`REG:ORD-BAY` — canon/systems/geography/regions/ord_bay.md
+- Tags: geography, region, bay
+
+### Ord Iron Marshes (physiography & resource belt)
+`REG:ORD-MARSH` — canon/systems/geography/regions/ord_iron_marshes.md
+- Tags: geography, region, marsh
+
+### Ord North Shelf & Fjord Coast (physiography & lanes)
+`REG:ORD-NORTH` — canon/systems/geography/regions/ord_north_shelf.md
+- Tags: geography, region, subpolar
+
+### South-Ord Riverine Belt (physiography & lanes)
+`REG:ORD-SOUTH` — canon/systems/geography/regions/ord_south_riverine_belt.md
+- Tags: geography, region, rivers
+
+### Western Ord Peninsulas (physiography & forts)
+`REG:ORD-WEST` — canon/systems/geography/regions/ord_west_peninsulas.md
+- Tags: geography, region, peninsulas
+
+### Sar Littoral Belt (physiography & city lanes)
+`REG:SAR-LIT` — canon/systems/geography/regions/sar_littoral_belt.md
+- Tags: geography, region, littoral
+
+### Sar North Cities (physiography & compacts)
+`REG:SAR-NORTH` — canon/systems/geography/regions/sar_north_cities.md
+- Tags: geography, region, cities
+
+### Widiwidi Lee Arcs (physiography & pilot lore)
+`REG:WID-LEE` — canon/systems/geography/regions/widiwidi_lee_arcs.md
+- Tags: geography, region, volcanic
 
 ## Governance
 
@@ -124,6 +193,10 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ### The Empty Seat — Interregnal Governance
 `GOV:EMPTY-SEAT` — canon/systems/governance/empty_seat_c790_860.md
+
+### Green Edicts — Bench/Steps/Works Coordination (c.1503–1515 AO)
+`SNAP:GREEN-EDICTS-1503_1515` — canon/systems/governance/green_edicts_c1503_1515.md
+- Tags: green_skies, edicts, administration
 
 ### Law & Administration — From Captains to Diet
 `SYS:GOV-LAW` — canon/systems/governance/law_admin.md
@@ -239,6 +312,10 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `LAW:MARRIAGE-001` — canon/systems/law/marriage_and_vows_c700_1200.md
 - Tags: marriage, vows, law
 
+### Mixed Courts — Cross-Rite Civil Benches (Ord–Sar)
+`LAW:MIXED-COURTS-BASE` — canon/systems/law/mixed_courts.md
+- Tags: law, mixed_courts, sanctuaries
+
 ### Muster & Retainer Law (Cadence → Decline)
 `SEC:MUSTER-001` — canon/systems/law/muster_and_retainer_law_c700_1200.md
 - Tags: Cadence → Decline
@@ -314,6 +391,10 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `REL:TOPO-1290-1400` — canon/systems/religions/religious_topography_c1290_1400.md
 - Tags: religion, rites, syncretism
 
+### Religious Topography — Pamphlets, Switch Years & Settlements (c.1400–1560 AO)
+`REL:TOPO-1400-1560` — canon/systems/religions/religious_topography_c1400_1560.md
+- Tags: religion, rites, rhythm
+
 ### Reed of Crowns (Knees Rite)
 `REL:RITE-KNEES` — canon/systems/religions/rite_knees_reed_of_crowns.md
 - Tags: knees, reed, proto-canon
@@ -369,6 +450,10 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ### Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)
 `TECH:RAIN-GEAR-1803` — canon/systems/tech/rain_gear_umbrellas_c1800.md
 - Tags: Green-Rain Culture
+
+### Saltpeter Supply & Nitraries (c.1500–1510 AO)
+`SYS:SALTPETER-1500` — canon/systems/tech/saltpeter_supply_c1500.md
+- Tags: systems, tech, supply_chain
 
 ### Seven-Frame Chancery Press
 `TECH:PRESS-001` — canon/systems/tech/seven_frame_chancery_press_c1050.md

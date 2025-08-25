@@ -14,7 +14,7 @@ thesis: Marr’s slighted captain who taught ports the center wouldn’t bite—
 first_appearance: ERA-750
 status: Draft
 links:
-  place: canon/entities/places/seven_fingers.md
+  place: canon\systems\geography\places\seven_fingers.md
   era: canon/eras/04_pax_ordica_790_860.md
 ---
 ## Notes

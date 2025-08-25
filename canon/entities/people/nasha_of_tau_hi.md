@@ -7,7 +7,7 @@ tags: [science, navigation, religion]
 first_appearance: ERA-700
 status: Draft
 links:
-  city: canon/entities/places/tau_hi.md
+  city: canon\systems\geography\places\tau_hi.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 

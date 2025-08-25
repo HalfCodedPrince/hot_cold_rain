@@ -9,11 +9,11 @@ links:
   known_world_c0: canon/notes/snapshots/known_world/known_world_c0.md
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   religious_topo: canon/systems/religions/religious_topography_c1400_1560.md
-  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
+  sea_lotus: canon/systems\religions\rite_sar_sea_lotus.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   mixed_courts: canon/systems/law/mixed_courts.md
-  green_edicts: canon/notes/snapshots/special/green_edicts_c1503_1515.md
+  green_edicts: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
 ---
 
 ## Thesis

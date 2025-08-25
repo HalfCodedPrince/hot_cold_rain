@@ -7,8 +7,8 @@ provenance: Coi-Hi Public Radio transcription
 tags: [diegetic, transcript, battle_of_mistakes]
 links:
   pum: canon/entities/people/pumyaaton.md
-  wurran: canon/entities/places/wurran.md
-  ord: canon/entities/places/ord_city.md
+  wurran: canon\systems\geography\places\wurran.md
+  ord: canon\systems\geography\places\ord_city.md
 ---
 
 *(Paste transcript here; stage directions in italics. Keep speaker cues consistent: HOST, ELDER-1, ELDER-2, ARCHIVIST, etc.)*

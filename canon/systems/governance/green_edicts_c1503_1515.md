@@ -7,9 +7,9 @@ links:
   topo_1400_1560: canon/systems/religions/religious_topography_c1400_1560.md
   pamphlets_era: canon/eras/09_pamphlet_wars_1400_1503.md
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon/notes/snapshots/societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
   good_old_rhythm: canon/systems/religions/good_old_rhythm.md
-  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
+  sea_lotus: canon/systems\religions\rite_sar_sea_lotus.md
   co_types_bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
   co_types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
   clothing_textiles: canon/systems/tech/clothing_and_textiles_c1800.md

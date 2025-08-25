@@ -9,7 +9,7 @@ links:
   era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
   green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
   mixed_courts: canon/systems/law/mixed_courts.md
-  society_green: canon/notes/snapshots/societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
   hydrology: canon\systems\planetology\hydrology.md
   debt_office: canon/entities/factions/public_debt_office.md
