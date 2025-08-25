@@ -5,8 +5,8 @@ type: treasury_board
 status: Draft
 links:
   debt_office: canon/entities/factions/public_debt_office.md
-  currency: canon\current\goalpost\economy\currency_finance_c1800.md
-  piracy: canon\current\goalpost\security\piracy_and_navies_c1800.md
+  currency: canon/current/goalpost/economy/currency_finance_c1800.md
+  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
 tags: [insurance, tariffs, convoys]
 ---
 

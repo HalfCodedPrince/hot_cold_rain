@@ -5,7 +5,7 @@ status: Draft
 tags: [geography, region, seaway, currents, convoys, reef_cuts]
 links:
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   navigation_currents: canon/systems/transport/navigation_currents.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md

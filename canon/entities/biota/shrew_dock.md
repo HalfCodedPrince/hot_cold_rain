@@ -5,8 +5,8 @@ type: fauna
 status: Draft
 tags: [mammal, insectivore, urban, pest_control]
 links:
-  health: canon\current\goalpost\health\public_health_c1800.md
-  works: canon\current\goalpost\transport\transport_index_c1800.md
+  health: canon/current/goalpost/health/public_health_c1800.md
+  works: canon/current/goalpost/transport/transport_index_c1800.md
 ---
 
 ## Habitat

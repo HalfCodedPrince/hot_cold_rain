@@ -3,9 +3,9 @@ id: URB:FORM-001
 name: Building Heights & Urban Fabric (c. 1803 AO)
 status: Draft
 links:
-  infra: canon\current\goalpost\infrastructure\water_and_sewer_c1800.md
-  transport: canon\current\goalpost\transport\transport_index_c1800.md
-  health: canon\current\goalpost\health\public_health_c1800.md
+  infra: canon/current/goalpost/infrastructure/water_and_sewer_c1800.md
+  transport: canon/current/goalpost/transport/transport_index_c1800.md
+  health: canon/current/goalpost/health/public_health_c1800.md
 ---
 
 ## Constraints

@@ -3,8 +3,8 @@ id: TRANS:IDX-001
 name: Transport Index (Sea, Cable, Rail, Road)
 status: Draft
 links:
-  piracy: canon\current\goalpost\security\piracy_and_navies_c1800.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
 tags: [transport, index]
 ---
@@ -28,6 +28,6 @@ tags: [transport, index]
 - Wayfinding: hex‑grid house codes; quay markers by tide step numbers.
 
 ### Cross‑refs
-- canon\current\goalpost\security\piracy_and_navies_c1800.md (convoying)
+- canon/current/goalpost/security/piracy_and_navies_c1800.md (convoying)
 - systems/tech/clothing_and_textiles.md (crew PPE)
 - systems/planetology/hydrology.md (tides/green rain)

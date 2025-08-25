@@ -3,9 +3,9 @@ id: ECON:SUPPLY-001
 name: Global Supply Links (Post–Last War)
 status: Draft
 links:
-  transport: canon\current\goalpost\transport\transport_index_c1800.md
-  piracy: canon\current\goalpost\security\piracy_and_navies_c1800.md
-  currency: canon\current\goalpost\economy\currency_finance_c1800.md
+  transport: canon/current/goalpost/transport/transport_index_c1800.md
+  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
+  currency: canon/current/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Modes & Reality

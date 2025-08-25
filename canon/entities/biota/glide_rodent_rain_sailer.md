@@ -7,7 +7,7 @@ variant_of: BIO:FA-GLIDE-RODENT-001
 tags: [rodent, glider, urban, messenger]
 links:
   parent: canon/entities/biota/sailback.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
 ---
 
 ## Habitat

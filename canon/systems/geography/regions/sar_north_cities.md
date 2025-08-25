@@ -4,7 +4,7 @@ name: Sar North Cities (physiography & compacts)
 status: Draft
 tags: [geography, region, cities, tributary, compacts, reef_cuts, narrows]
 links:
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   religious_topo: canon/systems/religions/religious_topography_c1400_1560.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md

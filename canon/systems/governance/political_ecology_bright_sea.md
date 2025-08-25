@@ -5,7 +5,7 @@ status: Draft
 links:
   climate: canon/systems/climate/bright_sea_climate.md
   hydrology: canon/systems/planetology/hydrology.md
-  transport: canon\current\goalpost\transport\transport_index_c1800.md
+  transport: canon/current/goalpost/transport/transport_index_c1800.md
   law: canon/systems/governance/law_admin.md
 tags: [political_ecology, thalassocracy]
 ---

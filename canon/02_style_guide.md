@@ -45,8 +45,7 @@
 **Periodized mechanics**: …/<topic>_cYYYY[–YYYY].md
 
 **World snapshots**: canon/notes/snapshots/<domain>/<domain>_cYYYY[–YYYY].md
-
-**Special post-1503 biology/law briefs**: canon/notes/snapshots/special/<topic>.md (only if they’re concise, reader-facing “briefs”; otherwise move to Systems).
+Do not invent new domains unless absolutley have to.
 
 ---
 
@@ -89,19 +88,19 @@ ao,code,title,where,who,summary,impact,refs,status
 ## Folder Layout (shallow, stable)
 - `canon/eras/` (the biggest picture, in dynamic, mainly to show historical vectors, not just at the moment in time)
 - `canon/timeline/point_timeline.csv` (timeline with historical events)
-- `canon/notes/snapshots` (broad, world-state overviews at a FIXED point in time)
+- `canon/notes/snapshots` (broad, world-state overviews at a *fixed* point in time)
 - `canon/entities/{people,biota,co_types}/` (important historical figures/flora/fauna)
-- `canon/systems/{pillar}/` (building blocks for era/snapshots, contains mechanics, institutions, standards, law, tech workings, etc — stable through time or versioned by period)
+- `canon/systems/{system_type}/` (building blocks for eras abnd snapshots, contains mechanics, institutions, standards, law, tech workings, etc. Could be stable (like solar system params) or versioned by period)
 - `canon/current/goalpost` (the initial outline of “where we are headed”)
 - `canon/current/final` (the final outline, based the whole project, the last step)
 
 
 ## Front Matter (YAML)
 We **don’t** use boolean flags like `overlay: true`. Page intent is expressed via:
-- `status:` (Stable | Draft | Contested | Stub)
+- `status:` (Stable | Draft | Contested)
 - file placement (Snapshots vs Systems)
 - filename period markers (`_cYYYY[_YYYY]`)
-- redirects via `links.moved_to: <new/path.md>`
+- redirects (if ABSOLUTELY have to) via `links.moved_to: <new/path.md>`
 
 ## Front Matter Schemas (YAML)
 
@@ -114,7 +113,7 @@ status: Stable           # Stable | Draft | Contested
 aliases: [Thedos of Ord] # optional
 links:
   # stable relative paths (avoid deep-linking into Drafts)
-  home: canon\systems\geography\places\ord_city.md
+  home: canon/systems/geography/places/ord_city.md
   related: canon/entities/factions/synod_of_beats.md
 tags: [ord, leadership, reform]
 ---

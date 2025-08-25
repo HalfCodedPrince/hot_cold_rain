@@ -3,7 +3,7 @@ id: SYS:LAB-PENAL
 name: Penal Transportation & Camp Regimes
 status: Draft
 links:
-  reed_camp: canon\systems\geography\places\reed_camp_district.md
+  reed_camp: canon/systems/geography/places/reed_camp_district.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   censors: canon/entities/factions/censors_bench.md
 tags: [penal, camps, labor]

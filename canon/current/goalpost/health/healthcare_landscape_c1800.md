@@ -3,7 +3,7 @@ id: HEALTH:SYSTEMS-1803
 name: Healthcare Landscape (c. 1803 AO)
 status: Draft
 links:
-  public_health: canon\current\goalpost\health\public_health_c1800.md
+  public_health: canon/current/goalpost/health/public_health_c1800.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 

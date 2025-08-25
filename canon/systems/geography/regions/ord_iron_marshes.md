@@ -4,12 +4,12 @@ name: Ord Iron Marshes (physiography & resource belt)
 status: Draft
 tags: [geography, region, marsh, bog_iron, nitraries, penal_works, storm_curtains]
 links:
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   saltpeter_supply: canon/systems/tech/saltpeter_supply_c1500.md
   foundry_discipline: canon/systems/industry/foundry_discipline_1400_1550.md
-  green_edicts: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  green_edicts: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   mixed_courts: canon/systems/law/mixed_courts.md
   industry: canon/systems/industry/foundry_discipline_1400_1550.md
   saltpeter: canon/systems/industry/saltpeter_supply_c1500.md

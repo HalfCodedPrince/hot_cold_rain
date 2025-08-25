@@ -6,8 +6,8 @@ tags: [snapshot, tech, logistics, print, powder, sanitation, navigation, adminis
 links:
   era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
-  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
+  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   mixed_courts: canon/systems/law/mixed_courts.md
   good_old_rhythm: canon/systems/religions/good_old_rhythm.md
   taxation_finance: canon/systems/economy/taxation_finance_c0_1200.md

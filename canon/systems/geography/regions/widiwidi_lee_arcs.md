@@ -4,13 +4,13 @@ name: Widiwidi Lee Arcs (physiography & pilot lore)
 status: Draft
 tags: [geography, region, volcanic, lee_arcs, pilotage, rumors, landfalls]
 links:
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   navigation_currents: canon/systems/transport/navigation_currents.md
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   transport: canon/systems/transport/navigation_currents.md
-  security: canon\current\goalpost\security\piracy_and_navies_c1800.md
+  security: canon/current/goalpost/security/piracy_and_navies_c1800.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
 ---
 

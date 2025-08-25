@@ -6,7 +6,7 @@ tags: [diegetic, manumission, law]
 links:
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   law: canon/systems/law/marriage_and_vows_c700_1200.md
-  place: canon\systems\geography\places\ord_city.md
+  place: canon/systems/geography/places/ord_city.md
 ---
 
 **Roll XII (771 AO), Port of Ord — Beat Six Seal**  

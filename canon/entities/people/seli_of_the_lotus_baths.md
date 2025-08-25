@@ -8,7 +8,7 @@ origin: Tau-Hi (Delta Baths Quarter)
 roles: [Sea-Lotus Rector, Preacher, Pamphleteer, Refugee Patron]
 affiliations: [SEA-LOTUS-RITE, TAU-HI LYC, SPLENDID-WORD, CRUM-ASSEMBLIES]
 links:
-  rite_sar: canon/systems\religions\rite_sar_sea_lotus.md
+  rite_sar: canon/systems/religions/rite_sar_sea_lotus.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md

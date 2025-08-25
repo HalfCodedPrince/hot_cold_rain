@@ -24,8 +24,8 @@ Stability through procedure: presumption rules, harbor safety regimes, and festi
 
 ## Cross-refs
 - `canon/systems/culture/sar_ord_game_and_festivals.md`
-- `canon\current\goalpost\security\piracy_and_navies_c1800.md`
-- `canon\current\goalpost\economy\currency_finance_c1800.md`
+- `canon/current/goalpost/security/piracy_and_navies_c1800.md`
+- `canon/current/goalpost/economy/currency_finance_c1800.md`
 
 ## TODO
 - Link 792 Harbor Watches; 800 Seven Fingers trial; 827 succession.

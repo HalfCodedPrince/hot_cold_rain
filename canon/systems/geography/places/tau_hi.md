@@ -12,7 +12,7 @@ links:
   insurance: canon/systems/insurance/green_years_standard.md
   rhythm: canon/systems/religions/good_old_rhythm.md
   eras: canon/eras/09_pamphlet_wars_1400_1503.md
-  religion: canon/systems\religions\rite_sar_sea_lotus.md
+  religion: canon/systems/religions/rite_sar_sea_lotus.md
 ---
 
 # Tau-Hi

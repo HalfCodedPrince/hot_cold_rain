@@ -5,7 +5,7 @@ status: Draft
 links:
   apex: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
   world: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
   ships: canon/systems/transport/ships_galleys.md
   rhythm: canon/systems/religions/good_old_rhythm.md

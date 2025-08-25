@@ -11,19 +11,19 @@ links:
   topo_prev: canon/systems/religions/religious_topography_c1290_1400.md
   topo_1400_1560: canon/systems/religions/religious_topography_c1400_1560.md
   good_old_rhythm: canon/systems/religions/good_old_rhythm.md
-  sea_lotus: canon/systems\religions\rite_sar_sea_lotus.md
+  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
   reed_of_crowns: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_old_word: canon/systems/religions/kllrian_stone_current_old_word.md
   free_city_assemblies: canon/systems/religions/crum_assemblies_free_cities.md
   era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
-  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
+  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   mixed_courts: canon/systems/law/mixed_courts.md
   calendar_base6: canon/systems/metrology/calendar_base6.md
   co_types_bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
   co_types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
-  clothing_textiles: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  clothing_textiles: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
 tags: [religion, music, governance]

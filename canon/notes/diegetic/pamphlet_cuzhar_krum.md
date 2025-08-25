@@ -6,8 +6,8 @@ date_ao: 1783
 provenance: Coi-Hi University Press
 tags: [diegetic, pamphlet, krum]
 links:
-  bright_sea: canon\systems\geography\regions\bright_sea.md
-  primary_site: canon\systems\geography\places/krum_primary_site.md
+  bright_sea: canon/systems/geography/regions/bright_sea.md
+  primary_site: canon/systems/geography/places/krum_primary_site.md
   oboe: canon/systems/cosmos/oboe.md
   era_preord: canon/eras/00_preord_krum.md
 fact_box:

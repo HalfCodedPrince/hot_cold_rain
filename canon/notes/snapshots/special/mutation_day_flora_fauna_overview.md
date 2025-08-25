@@ -4,13 +4,13 @@ name: Mutation Day Biota — Plausible Shifts in Flora & Fauna (c.1503–1530 AO
 status: Draft
 links:
   mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  society: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
   hydrology: canon/systems/planetology/hydrology.md
   agriculture: canon/systems/agriculture/agriculture_diet.md
-  health_c1800: canon\current\goalpost\health\public_health_c1800.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
-  transport: canon\current\goalpost\transport\transport_index_c1800.md
+  health_c1800: canon/current/goalpost/health/public_health_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
+  transport: canon/current/goalpost/transport/transport_index_c1800.md
   existing_biota_index:
     - canon/entities/biota/boru_boru.md   
     - canon/entities/biota/mudsnake.md  

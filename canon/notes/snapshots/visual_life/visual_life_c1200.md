@@ -5,9 +5,9 @@ status: Draft
 links:
   vis_950: canon/notes/snapshots/visual_life/visual_life_c0950.md
   watches: canon/entities/factions/harbor_watches.md
-  piracy: canon\current\goalpost\security\piracy_and_navies_c1800.md
+  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
 ---
 
 ## Street view — Ord Bay ward, overcast afternoon

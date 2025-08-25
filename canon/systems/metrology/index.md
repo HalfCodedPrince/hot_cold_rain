@@ -5,7 +5,7 @@ status: Draft
 links:
   chancery: canon/entities/factions/grain_chancery.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
-  economy: canon\current\goalpost\economy\currency_finance_c1800.md 
+  economy: canon/current/goalpost/economy/currency_finance_c1800.md 
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
 ---
 

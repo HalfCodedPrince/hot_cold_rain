@@ -9,7 +9,7 @@ links:
   synod: canon/entities/factions/synod_of_beats.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   metrology: canon/systems/metrology/calendar_base6.md
-  finance: canon\current\goalpost\economy\currency_finance_c1800.md
+  finance: canon/current/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Thesis
@@ -38,6 +38,6 @@ Maritime needs (convoys, quarantine, tolls) grew a **harbor-first legal order**:
 
 ## Cross-refs
 - `canon/systems/metrology/calendar_base6.md` (standards; forms).
-- `canon\current\goalpost\economy\currency_finance_c1800.md` (warrants, assurance). 
+- `canon/current/goalpost/economy/currency_finance_c1800.md` (warrants, assurance). 
 
 > **See also (overlays):** `law_admin.09_green_skies.md` (Mutation-Day registration/status law — TBD).

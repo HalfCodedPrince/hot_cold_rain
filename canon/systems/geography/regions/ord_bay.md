@@ -4,11 +4,11 @@ name: Ord Bay (physiography, works & lanes)
 status: Draft
 tags: [geography, region, bay, harbor, benches, insurers, ropewalks, gardens]
 links:
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
-  green_edicts: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  green_edicts: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   mixed_courts: canon/systems/law/mixed_courts.md
   debt_office: canon/entities/factions/public_debt_office.md
   works: canon/entities/factions/dredge_and_bar_works.md

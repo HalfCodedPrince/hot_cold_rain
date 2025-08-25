@@ -3,9 +3,9 @@ id: IND:LAYOUT-1803
 name: Industry — Locations & Sectors (c. 1803 AO)
 status: Draft
 links:
-  transport: canon\current\goalpost\transport\transport_index_c1800.md
+  transport: canon/current/goalpost/transport/transport_index_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
-  economy: canon\current\goalpost\economy\currency_finance_c1800.md
+  economy: canon/current/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Where it Sits

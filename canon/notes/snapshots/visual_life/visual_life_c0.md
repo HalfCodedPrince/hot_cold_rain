@@ -3,7 +3,7 @@ id: SNAP:VISUAL-0
 name: Visual Life c.0 AO — Clothes, Streets, Building Skin
 status: Draft
 links:
-  textiles: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  textiles: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
 ---
 

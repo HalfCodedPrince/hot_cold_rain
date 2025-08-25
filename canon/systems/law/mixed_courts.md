@@ -4,12 +4,12 @@ name: Mixed Courts — Cross-Rite Civil Benches (Ord–Sar)
 status: Draft
 tags: [law, mixed_courts, sanctuaries, torts, recensions, access_days]
 links:
-  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   topo_prev: canon/systems/religions/religious_topography_c1290_1400.md
   topo_1400_1560: canon/systems/religions/religious_topography_c1400_1560.md
   good_old_rhythm: canon/systems/religions/good_old_rhythm.md
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   calendar_base6: canon/systems/metrology/calendar_base6.md
 ---
 

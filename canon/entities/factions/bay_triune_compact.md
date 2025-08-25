@@ -10,7 +10,7 @@ links:
   watches: canon/entities/factions/harbor_watches.md
   works: canon/entities/factions/dredge_and_bar_works.md
   debt: canon/entities/factions/public_debt_office.md
-  economy: canon\current\goalpost\economy\currency_finance_c1800.md
+  economy: canon/current/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Dossier (archival)

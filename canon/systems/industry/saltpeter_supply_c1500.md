@@ -7,9 +7,9 @@ links:
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
-  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   mixed_courts: canon/systems/law/mixed_courts.md
-  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   hydrology: canon/systems/planetology/hydrology.md
   debt_office: canon/entities/factions/public_debt_office.md
   works: canon/entities/factions/dredge_and_bar_works.md

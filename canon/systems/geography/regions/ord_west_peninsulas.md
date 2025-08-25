@@ -4,7 +4,7 @@ name: Western Ord Peninsulas (physiography & forts)
 status: Draft
 tags: [geography, region, peninsulas, capes, forts, coerced_city_states, pilotage]
 links:
-  hydrology: canon\systems\planetology\hydrology.md
+  hydrology: canon/systems/planetology/hydrology.md
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md

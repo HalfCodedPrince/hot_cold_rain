@@ -4,7 +4,7 @@ name: Public Health (Green Rains & Warm Seas)
 status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
-  transport_index: canon\current\goalpost\transport\transport_index_c1800.md
+  transport_index: canon/current/goalpost/transport/transport_index_c1800.md
 ---
 
 ## Thesis

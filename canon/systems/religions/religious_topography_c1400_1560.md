@@ -5,17 +5,17 @@ status: Draft
 links:
   prior_topo: canon/systems/religions/religious_topography_c1290_1400.md
   good_old: canon/systems/religions/good_old_rhythm.md
-  sea_lotus: canon/systems\religions\rite_sar_sea_lotus.md
+  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
   knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
   crum_free: canon/systems/religions/crum_assemblies_free_cities.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
   mutation_mech: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon\notes\snapshots\watershed_moments\societal_ramifications_green_skies_c1503_1530.md
+  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   synod: canon/entities/factions/synod_of_beats.md
   beats: canon/entities/factions/beats/house_second_beat.md
   metrology_calendar: canon/systems/metrology/calendar_base6.md
-  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
 tags: [religion, rites, rhythm, sea_lotus, pamphlets, calendars, switch_hours, sanctuaries, mixed_courts]

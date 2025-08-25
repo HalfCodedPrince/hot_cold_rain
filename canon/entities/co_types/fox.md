@@ -7,8 +7,8 @@ links:
   bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
   types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
   society: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
-  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
-  health: canon\current\goalpost\health\public_health_c1800.md
+  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
+  health: canon/current/goalpost/health/public_health_c1800.md
 ---
 
 Heat-wise city line for **factor courts, messengers, and Steps clerks**; kit centers on **vented crowns** and **ear-friendly hoods**.

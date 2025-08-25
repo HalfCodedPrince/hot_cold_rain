@@ -7,7 +7,7 @@ variant_of: BIO:FA-WATERFOWL-ROOF-001
 tags: [waterfowl, domestic, watch, eggs]
 links:
   parent: canon/entities/biota/roof_goose.md
-  health: canon\current\goalpost\health\public_health_c1800.md
+  health: canon/current/goalpost/health/public_health_c1800.md
 ---
 
 ## Habitat

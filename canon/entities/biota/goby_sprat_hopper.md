@@ -6,7 +6,7 @@ status: Draft
 tags: [fish, amphibious, quay, pest_control, urban]
 links:
   hydrology: canon/systems/planetology/hydrology.md
-  health: canon\current\goalpost\health\public_health_c1800.md
+  health: canon/current/goalpost/health/public_health_c1800.md
   mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
 ---
 

@@ -14,7 +14,7 @@ thesis: Sold undergrade copper ingots against measure-stone marks; complaints ar
 first_appearance: ERA-000
 status: Draft
 links:
-  region: canon\systems\geography\regions\ord_south_riverine_belt.md
+  region: canon/systems/geography/regions/ord_south_riverine_belt.md
   lexicon: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0.md
   metrology: canon/systems/metrology/index.md
 ---
