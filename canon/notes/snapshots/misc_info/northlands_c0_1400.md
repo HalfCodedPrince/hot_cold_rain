@@ -19,7 +19,7 @@ tags: [snapshot, northlands, kahet, uplands, western_peninsula, totems, trade, c
 ## Scope & Thesis
 The **Northlands** (everything north of the Ord Bay rim and Sar littoral) are three belts:
 1) **Kahet Ranges & Stern Littoral** (eastern mountains and the western shore of the Stern Ocean),
-2) **Central Uplands** (headwaters feeding the Hundred Crowns rivers),
+2) **Central Uplands** (headwaters feeding the Free Cities rivers),
 3) **Western Peninsula & outer archipelagos**.
 
 From c.0–1100 they sit outside imperial administration; 1100–1400 they become **markets-of-convenience** for fish, furs, bast, iron, and later **cartelized ports**. Faith runs **totemic/ancestor** at home, **Rhythm-minimum** in markets. By 1400 AO the lanes touch them seasonally, not yet as provinces.
@@ -35,7 +35,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 - **Faith & rite:** **Stone-Current / Old Word** in terraces; **Sky-Knife** totems on the shore (bone flutes, trance hunts). Rhythm observed **minimally** at market posts.
 - **Ports (seasonal):** rock-notch havens; small palisade marts that “wake” two festivals a year when convoys run.
 
-### B) Central Uplands (river sources to Hundred Crowns)
+### B) Central Uplands (river sources to Free Cities)
 - **Terrain:** high saddles, peat and heather, sources of the great south-running rivers; winter freezes.
 - **People:** hill confederacies → **petty kingdoms** clustered at river heads; feud/feast cycle.
 - **Economy:** hides, horn, **furs**, honey and wax, small iron from bloom forges, resin and mast for shipyards; pack trains south in the dry.
@@ -44,7 +44,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 ### C) Western Peninsula & Outer Archipelagos
 - **Terrain:** low mangrove chokes and swamp forest fingers; exposed spits to the Stern; rich lagoons.
 - **People:** “Storm-Brother” totems; trousers (to scandalize southerners), loud drums.
-- **Economy:** fish, eels, salt, bast, resin, **wharf timber**; later (13th–14th c.) **Knees** and richer **Hundred Crowns** towns plant **charter colonies** along the outer rim.
+- **Economy:** fish, eels, salt, bast, resin, **wharf timber**; later (13th–14th c.) **Knees** and richer **Free Cities** towns plant **charter colonies** along the outer rim.
 - **Faith:** market-blended—**Crum-ward assemblies** meet Rhythm calendars; local storm rites remain.
 
 ---
@@ -64,7 +64,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 - The Broken Lantern onset barely reaches this far; **inshore raiding** increases on the west; uplands fortify fords; fairs shift weeks to avoid pirate seasons.
 
 ### 1200–1290 — Mangrove Garrot
-- **Knees** & **Hundred Crowns** begin outer-rim colonies; Kahet shore crews trial **escort service** for hire; uplands sell charcoal and bast to convoy outposts.
+- **Knees** & **Free Cities** begin outer-rim colonies; Kahet shore crews trial **escort service** for hire; uplands sell charcoal and bast to convoy outposts.
 - **Ord-Kahet** is seeded late in the arc: an **Ord-style charter port** north of the Kahet range (nucleus of **Too-Kahet**).
 
 ### 1290–1400 — Knotted Lanterns
@@ -105,7 +105,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 - **Wur-City (old Wurran):** river-head market that becomes a fixed town; still half-ritual, half-ledger by 1400.  
 - **Northern Cartels:** string of **loose fishing/fur/oil ports** on the Stern shore; precursor trading houses already swap **winter oil** and **weed ash**.  
 - **Karodot:** surviving Widiwidi administration core; its agents buy northern bast and oil as convoy ballast.  
-- **Free Cities (Hundred Crowns):** remain fractious but hold **Crum nights**; their brokers finance western marts.  
+- **Free Cities (Free Cities):** remain fractious but hold **Crum nights**; their brokers finance western marts.  
 - **Honor Treaty Port:** a late-century **anchorage pact** between **Knees** and **Free Cities** trialed as a truce for the outer archipelagos.
 
 ---

@@ -17,6 +17,8 @@ updated: 2025-08-19
   → canon/entities/people/iarin_zambrani.md
 - [PERS:IKK-001] **Ikkar Mend** — public_works, patronage, corruption  
   → canon/entities/people/ikkar_mend.md
+- [INDEX:PEOPLE] **People — One-Liners & Links**  
+  → canon/entities/people/index.md
 - [PERS:CAD-003] **Kelim Ar “the Chancellor”** — finance, debt, infrastructure  
   → canon/entities/people/kelim_ar_chancellor.md
 - [PERS:KAR-001] **Kelim Ar of Sar-North** — music, language, religion  

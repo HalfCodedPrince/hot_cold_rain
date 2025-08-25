@@ -30,4 +30,4 @@ links:
 - Council’s prestige = **paper without teeth** beyond the bay.  
 
 
-**Leads into:** Hundred Crowns paralysis on the Ord side; Contract Ports along Sar; later religious-political fractures set the stage for Mutation Day centuries on.
+**Leads into:** Free Cities paralysis on the Ord side; Contract Ports along Sar; later religious-political fractures set the stage for Mutation Day centuries on.

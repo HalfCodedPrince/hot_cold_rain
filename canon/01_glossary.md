@@ -52,11 +52,13 @@ updated: 2025-08-19
 ## G
 
 - **Green Rain** — pollen/toxin rain events; masks/veils common; public-health ritual.
+- **Green Year** -  a *risk label*; any calendar year in which a city/route’s **Green Haze Index (GHI)** meets or exceeds the **Green Year threshold**. The designation may be **regional** (harbor belts, convoy legs) or **city-level**. 
 
 ## H
 
 - **Harbor Watches** — signal huts, bells, night posts; certify hours for insurance.  
 - **Hex** — Point’s large moon; greenish halo during pollen/aerosol blooms.
+- **Hexad** — six-day week (primary term).
 
 ## I
 

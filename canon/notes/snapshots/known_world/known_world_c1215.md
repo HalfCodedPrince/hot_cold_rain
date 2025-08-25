@@ -30,8 +30,8 @@ tags: [snapshot, known_world, mangrove_garrot, convoys]
 - **Northern Cities**: assay stall licensed; Steps permitted to post; convoys frequent.
 - **Southern Cities**: flirt with raider sanctuary; tithes in kind; grain shortages in failure years.
 
-## Hundred Crowns & Hinterland
-- **Hundred Crowns**: ritualized town fights continue; mercenary-trader bands circulate; river towns push higher on western Ord tributaries.
+## Free Cities & Hinterland
+- **Free Cities**: ritualized town fights continue; mercenary-trader bands circulate; river towns push higher on western Ord tributaries.
 
 ## Lane Rumors (setups)
 - “Plume line” stories from far east (volcanic caps over the horizon) circulate among pilots.

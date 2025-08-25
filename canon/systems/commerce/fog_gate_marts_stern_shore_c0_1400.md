@@ -6,7 +6,7 @@ links:
   northlands: canon/notes/snapshots/misc_info/northlands_c0_1400.md
   good_old: canon/systems/religions/good_old_rhythm.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
-  crum: canon/systems/religions/crum_assemblies_hundred_crowns.md
+  crum: canon/systems/religions/crum_assemblies_free_cities.md
   
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md

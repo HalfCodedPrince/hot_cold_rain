@@ -16,3 +16,6 @@ Reduced wing load; strong legs; night-roosting flocks.
 
 ## Use
 Eggs, meat, pest control; temple yards keep licenced flocks for kitchens and poor tables.
+
+## Breeds
+Meatflap (bigger), Bell-Flock (storm detection)

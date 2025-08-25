@@ -14,7 +14,7 @@ The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon le
 ### Ord (north continent)
 - **Ord Bay & Salt River** — integrated core; complete beacon legs; watches certified.  
 - **Western Ord littoral** — **loose hegemony** via convoy protection & levy tickets; local councils remain.  
-- **Southern Ord city-belts** — evolving toward the later **Hundred Crowns** micro-states; nominal fealty, strong guilds.
+- **Southern Ord city-belts** — evolving toward the later **Free Cities** micro-states; nominal fealty, strong guilds.
 
 ### Eastern Ord Peninsula (future Longara)
 - **Koi-Hi / Coi-Hi** — rises to triad status; insurance houses, chart schools; proto-Longara civic habits.  

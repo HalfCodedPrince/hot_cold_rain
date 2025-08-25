@@ -1,6 +1,6 @@
 ---
 id: REL:CRUM-ASM
-name: Crum-ward Assemblies (Hundred Crowns & Western Ord)
+name: Crum-ward Assemblies AKA Merchant Priests (Free Cities & Western Ord)
 status: Draft
 links:
   topo: canon/systems/religions/religious_topography_c1290_1400.md

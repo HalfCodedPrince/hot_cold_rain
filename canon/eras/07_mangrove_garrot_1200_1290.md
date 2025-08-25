@@ -48,7 +48,7 @@ The **Mangrove Garrot** is what pilots call the century when river-mangrove chok
 - **Ord:** bureaucracy deepens; Works/Steps winches keep core wards fed; escorts hired by subscription.
 - **Sar cities:** **Knees vs. Seven Fingers** quarrel over reef-cut gates; Tau-Hi thrives (delta + bondable stock) and colonizes eastern Sar (cutting + mushroom cultivation + wetlands).
 - **Killian Temple Cities:** North (assay + Steps + charter) becomes convoy hub; South flirts with sanctuary, gains raiders, loses winters.
-- **Hundred Crowns:** ritualized town fights; northern tribes push river towns up western Ord tributaries—raider/trader/mercenary mix.
+- **Free Cities:** ritualized town fights; northern tribes push river towns up western Ord tributaries—raider/trader/mercenary mix.
 
 ## Widiwidi Cargo (why anyone risks it)
 - **Mineral/chemical:** native sulfur, alum, pozzolan ash, iron sand (titanomagnetite).

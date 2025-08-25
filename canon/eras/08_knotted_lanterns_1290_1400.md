@@ -32,10 +32,10 @@ After the **Great Conference at Ord (1304)**, the sea quiets only by halves. The
 
 ### Northlands (Ordward side)
 - **East of Kahet — Ord-Kahet.** A charismatic upland confederate rises, then loses his head to an **Oboe Seal purse** from a “concerned” Emperor **Camra Dona**. His successor accepts a **Dona marriage** and an **Ord-style charter port** north of the Kahet range: **Ord-Kahet**. This becomes the **Too-Kahet** state’s core.
-- **Central/Western uplands.** River-source petty kingdoms supplying the **Hundred Crowns** with timber, hides, iron, and trouble. Faiths are **totemic/shamanic**; trousers are worn (to everyone’s scandalous amusement). Chronic border feuds, ritual ceasefires at festivals.
+- **Central/Western uplands.** River-source petty kingdoms supplying the **Free Cities** with timber, hides, iron, and trouble. Faiths are **totemic/shamanic**; trousers are worn (to everyone’s scandalous amusement). Chronic border feuds, ritual ceasefires at festivals.
 
 ### Westward push
-- **Knees** and richer **Hundred Crowns** towns colonize **western Ord peninsulas** and **outer archipelagos** (wetlands/tropical rainforests). Poorer towns follow as refugees. New reefs, new fees.
+- **Knees** and richer **Free Cities** towns colonize **western Ord peninsulas** and **outer archipelagos** (wetlands/tropical rainforests). Poorer towns follow as refugees. New reefs, new fees.
 
 ---
 

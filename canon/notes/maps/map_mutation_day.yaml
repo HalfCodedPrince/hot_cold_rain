@@ -1,0 +1,128 @@
+# notes/maps/map_mutation_day.yaml — 1503–1530 overlay
+cities:
+  - name: Tau-Hi
+    status: present
+    ward_density: high
+    locks_floodworks: some
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Haru-ahru
+    status: present
+    ward_density: high
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Knees
+    status: present
+    ward_density: high
+    locks_floodworks: some
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Kroth
+    status: present
+    ward_density: high
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: med
+  - name: Seven Fingers
+    status: present
+    ward_density: high
+    locks_floodworks: some
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Grakk
+    status: present
+    ward_density: high
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: med
+  - name: Koi-Hi
+    status: present
+    ward_density: high
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Morum
+    status: present
+    ward_density: med
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Ord-Kahet
+    status: present
+    ward_density: med
+    locks_floodworks: some
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Vitrana
+    status: present
+    ward_density: med
+    locks_floodworks: some
+    beacon_towers: many
+    rumor_pressure: high
+  - name: Gamunka
+    status: absent_1503
+    note: "northern-tribes river town; future inland capital"
+  - name: Honor
+    status: absent_1503
+    note: "uninhabited island"
+  - name: Wur
+    status: absent_1503
+    note: "ruins / village; future archaeological site"
+  - name: Fo
+    status: absent_1503
+    note: "northern-tribes river town; future inland capital"
+  - name: Yafa
+    status: absent_1503
+    note: "small Ordian river trading town; future inland capital"
+  - name: Moss City
+    status: absent_1503
+    note: "refugee camp beginnings; not yet a federation"
+  - name: Ord City
+    status: present
+    ward_density: low
+    locks_floodworks: major
+    beacon_towers: many
+    rumor_pressure: med
+  - name: New Roots
+    status: present
+    ward_density: low
+    locks_floodworks: some
+    beacon_towers: few
+    rumor_pressure: high
+  - name: Camu-Se
+    status: present
+    ward_density: low
+    locks_floodworks: major
+    beacon_towers: few
+    rumor_pressure: med
+  - name: North-Se
+    status: absent_1503
+    note: "frozen rock; uninhabited"
+  - name: Black Roots
+    status: present
+    ward_density: low
+    locks_floodworks: some
+    beacon_towers: few
+    rumor_pressure: high
+  - name: Lake Exchange
+    status: absent_1503
+    note: "scenic lake site; no urban settlement"
+  - name: Tau-Hi Delta Citadel
+    status: present
+    ward_density: low
+    locks_floodworks: some
+    beacon_towers: few
+    rumor_pressure: med
+  - name: Bo-Dan
+    status: present
+    ward_density: low
+    locks_floodworks: some
+    beacon_towers: few
+    rumor_pressure: high
+  - name: Lower Ord
+    status: present
+    ward_density: low
+    locks_floodworks: some
+    beacon_towers: few
+    rumor_pressure: high

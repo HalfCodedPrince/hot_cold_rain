@@ -106,6 +106,11 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `ENE:GRID-1803` — canon/systems/energy/power_grid_c1800.md
 - Tags: c. 1803 AO
 
+## General
+
+### Systems Digest — Claims & Links
+`PACK:SYSTEMS-DIGEST` — canon/systems/systems_digest.md
+
 ## Geography
 
 ### Expansion & Frontiers in the Golden Cadence
@@ -277,8 +282,8 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ## Religions
 
-### Crum-ward Assemblies (Hundred Crowns & Western Ord)
-`REL:CRUM-ASM` — canon/systems/religions/crum_assemblies_hundred_crowns.md
+### Crum-ward Assemblies (Free Cities & Western Ord)
+`REL:CRUM-ASM` — canon/systems/religions/crum_assemblies_free_cities.md
 - Tags: crum, assemblies, market
 
 ### Good Old Rhythm (Old Bold Rhythm)

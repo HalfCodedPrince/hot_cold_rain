@@ -13,7 +13,7 @@ tags: [printing, pamphlets, censorship, smuggling, cleanlinesstable, access_days
 
 ## Supply chain (how words move)
 - **Rag/bast → paper** (stampers), **lampblack/oil → ink**, **type & plates** (Beat II plates vs compository sets).
-- **Presses** in collegia, Crum halls (Hundred Crowns/Free Cities), and back rooms of Mangrove Gardens (night runs).
+- **Presses** in collegia, Crum halls (Free Cities/Free Cities), and back rooms of Mangrove Gardens (night runs).
 - **Routes**: convoy holds (hidden in rope bales), **postal packets** (before monopoly), **fog-gate marts** (oath-covered bundles).
 
 ## Markets

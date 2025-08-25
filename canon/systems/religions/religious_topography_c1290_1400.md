@@ -9,7 +9,7 @@ links:
   sar_rite: canon/systems/religions/rite_sar_sea_lotus.md
   knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
-  crum_free: canon/systems/religions/crum_assemblies_hundred_crowns.md
+  crum_free: canon/systems/religions/crum_assemblies_free_cities.md
 tags: [religion, rites, syncretism, rhythm, crum, totems, sar, knees, kllrian, hundred_crowns]
 ---
 
@@ -21,13 +21,13 @@ The **Good Old Rhythm** (Ordian core) is a civic-ritual order (six houses, sung 
 - **Sea-Lotus Rite (Sar)** → kin to Rhythm but temple-humanist; antiphonal choirs, lustrations, geometry; skeptical of Beat VI’s cruelty.
 - **Reed of Crowns (Knees)** → archaizing, visionary strands; “emanations” theology; ecstatic silence and step-dances; pre-canon habits.
 - **Stone-Current / Old Word (Kllrian)** → public minimum of Rhythm; private ancestor-terrace and water-spirit cult; vows kept in stone.
-- **Crum-ward Assemblies (Hundred Crowns & western Ord)** → market temples blending Kuzhar **Crum** remnants, Rhythm meters, and local oaths.
+- **Crum-ward Assemblies (Free Cities & western Ord)** → market temples blending Kuzhar **Crum** remnants, Rhythm meters, and local oaths.
 - **Totemic streams (Northlands)** → eastern Kahet bird-knives; central river-mothers; western storm-brothers; each overlays Rhythm calendars selectively.
 
 ## Recognition & friction (in practice)
 - **Calendars:** ports align (convoy seasons); uplands keep rain months.  
 - **Texts & tunes:** Ord/Sar recognize each other’s **recensions** with side-notes; Knees accepts tunes, not texts; Kllrian keeps **Old Words** out of Beat II plates.  
-- **Discipline:** Sar refuses **deafening**; Hundred Crowns fine instead of brand; Kllrian courts swap penance for corvée; totem tribes ignore all but convoy rules.  
+- **Discipline:** Sar refuses **deafening**; Free Cities fine instead of brand; Kllrian courts swap penance for corvée; totem tribes ignore all but convoy rules.  
 - **Sacral economy:** all accept **Beat V** (charity) collections in disaster years; totem tribes prefer food to sermons.
 
 ## Why people move between rites (and how)

@@ -13,7 +13,7 @@ links:
   **Matters later:** cartel scandals (insurance × watches × works).
 - **Western Littoral** — half-loyal city belts; reef trade, pilotage; “tribute when convenient.”  
   **Matters later:** quick to defect in shocks.
-- **Southern Belts (proto–Hundred Crowns)** — dense micro-states, guild oligarchies, festival pomp.  
+- **Southern Belts (proto–Free Cities)** — dense micro-states, guild oligarchies, festival pomp.  
   **Matters later:** HRE-like paralysis template.
 - **Eastern Peninsula (Koi-Hi / Longara seed)** — metropolis of charts & credit; future republican core.  
   **Matters later:** carries the torch after imperial decline.

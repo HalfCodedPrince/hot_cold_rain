@@ -1,0 +1,203 @@
+# notes/maps/map_reference.yaml — stable map facts
+cities:
+  - name: Tau-Hi
+    region: North-Central coast of Sar; East of Seven Fingers; inside a small bay
+    is_port: sea
+    river_system: delta
+    biome: temperate_rainforest
+    precip_mm_yr: 1700
+    precip_class: wet
+    dominant_religion: "Good Old Rhythm - Lotus"
+  - name: Haru-ahru
+    region: South-Eastern coast of Ord; inside a deep bay (Ahru Bay)
+    is_port: sea
+    river_system: estuary
+    biome: wetland
+    precip_mm_yr: 3300
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm"
+  - name: Knees
+    region: North-Western coast of Sar; inside a small bay
+    is_port: sea
+    river_system: estuary
+    biome: tropical_rainforest
+    precip_mm_yr: 2200
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm - Reeds"
+  - name: Kroth
+    region: Western Bright Sea; the biggest island in the Bright Sea
+    is_port: river; center of the island biggest island
+    river_system: headwaters
+    biome: tropical_rainforest
+    precip_mm_yr: 4300
+    precip_class: soaked
+    dominant_religion: "Ancestral/Water worship"
+  - name: Seven Fingers
+    region: North-Central coast of Sar; East of Knees
+    is_port: sea
+    river_system: delta
+    biome: tropical_rainforest
+    precip_mm_yr: 1800
+    precip_class: wet
+    dominant_religion: "Good Old Rhythm - Lotus"
+  - name: Grakk
+    region: Western Ord; about 100 km from the southern coast
+    is_port: river; lake adjacent
+    river_system: located between several big rivers feeding a big lake
+    biome: tropical_rainforest
+    precip_mm_yr: 2500
+    precip_class: soaked
+    dominant_religion: "Mecrhant-Priests"
+  - name: Koi-Hi
+    region: South-Eastern coast of Ord; easternmost-southernmost city of Ord; located on a peninsula
+    is_port: sea
+    river_system: estuary
+    biome: wetland
+    precip_mm_yr: 4600
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm"
+  - name: Morum
+    region: North-Eastern coast of Sar; a few big islands to the North
+    is_port: sea
+    river_system: between two rivers
+    biome: temperate_rainforest
+    precip_mm_yr: 2800
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm - Lotus"
+  - name: Ord-Kahet
+    region: Eastern coast of Ord
+    is_port: sea
+    river_system: river is about 30 miles from the city
+    biome: tropical_seasonal_forest
+    precip_mm_yr: 1800
+    precip_class: wet
+    dominant_religion: "Good Old Rhythm"
+  - name: Vitrana
+    region: South-Eastern coast of Ord; on the first southern peninsula
+    is_port: sea
+    river_system: estuary
+    biome: tropical_rainforest
+    precip_mm_yr: 4500
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm"
+  - name: Gamunka
+    region: Central Ord; about 300 km from the southern coast
+    is_port: river
+    river_system: on a big river
+    biome: temperate_deciduous_forest
+    precip_mm_yr: 600
+    precip_class: normal
+    dominant_religion: "Mecrhant-Priests/Northern totemism"
+  - name: Honor
+    region: In the middle of the Western Acrhipelago (Singing Sea, west of Brigth Sea, between the oceans)
+    is_port: sea
+    river_system: small river
+    biome: wetland
+    precip_mm_yr: 5100
+    precip_class: soaked
+    dominant_religion: "Mecrhant-Priests/Good Old Rhythm - Reeds"
+  - name: Wur
+    region: South-Eastern coast of Ord; inside a deep bay (Ord Bay); west of Ord
+    is_port: sea
+    river_system: no
+    biome: temperate_deciduous_forest
+    precip_mm_yr: 800
+    precip_class: normal
+    dominant_religion: "Good Old Rhythm"
+  - name: Fo
+    region: Central Ord; about 700 km from the southern coast
+    is_port: river
+    river_system: on a big river
+    biome: temperate_rainforest
+    precip_mm_yr: 1100
+    precip_class: wet
+    dominant_religion: "Mecrhant-Priests/Northern totemism"
+  - name: Honor
+  - name: Yafa
+    region: Central-Eastern Ord; about 200 km from the southern coast
+    is_port: river
+    river_system: on a big river
+    biome: temperate_rainforest
+    precip_mm_yr: 600
+    precip_class: normal
+    dominant_religion: "Mecrhant-Priests/Good Old Rhythm - Reeds"
+  - name: Moss City
+    region: South-Western coast of Sar
+    is_port: sea
+    river_system: estuary
+    biome: temperate_deciduous_forest
+    precip_mm_yr: 1500
+    precip_class: wet
+    dominant_religion: "Splendid Word/Mutation cults"
+  - name: Ord City
+    region: South-Eastern coast of Ord; inside a deep bay (Ord Bay)
+    is_port: river
+    river_system: on a river; about 80 miles from the sea
+    biome: temperate_rainforest
+    precip_mm_yr: 1500
+    precip_class: wet
+    dominant_religion: "Good Old Rhythm"
+  - name: New Roots
+    region: Western coast of Widiwidi; weasternmost port of Widiwidi
+    is_port: sea
+    river_system: estuary; same river as Camu-Se
+    biome: wetland
+    precip_mm_yr: 4000
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm (nominally)"
+  - name: Camu-Se
+    region: Western Widiwidi; about 130 km from the western coast of Widiwidi
+    is_port: river
+    river_system: headwaters; same river as New Roots
+    biome: wetland
+    precip_mm_yr: 3300
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm (nominally)"
+  - name: North-Se
+    region: Northern coast of Ord
+    is_port: sea
+    river_system: estuary
+    biome: taiga
+    precip_mm_yr: 6100
+    precip_class: soaked
+    dominant_religion: "Northern totemism/Good Old Rhythm (nominally)"
+  - name: Black Roots
+    region: Western coast of Widiwidi; south and a bit east from New Roots
+    is_port: sea
+    river_system: small estuary
+    biome: wetland
+    precip_mm_yr: 8200
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm (nominally)"
+  - name: Lake Exchange
+    region: Central Widiwidi; about 300 km from western coast of Widiwidi
+    is_port: river; lake adjacent
+    river_system: on a big river; lake adjacent
+    biome: temperate_deciduous_forest
+    precip_mm_yr: 2500
+    precip_class: soaked
+    dominant_religion: "No religion"
+  - name: Tau-Hi Delta Citadel
+    region: Upriver from Tau-Hi
+    is_port: sea
+    river_system: headwaters
+    biome: temperate_deciduous_forest
+    precip_mm_yr: 900
+    precip_class: normal
+    dominant_religion: "Good Old Rhythm - Lotus"
+  - name: Bo-Dan
+    region: Western coast of Widiwidi; north of New Roots
+    is_port: sea
+    river_system: estuary
+    biome: wetland
+    precip_mm_yr: 5600
+    precip_class: soaked
+    dominant_religion: "Good Old Rhythm (nominally)"
+  - name: Lower Ord
+    region: South-Eastern coast of Ord; inside a deep bay (Ord Bay)
+    is_port: sea
+    river_system: delta
+    biome: temperate_rainforest
+    precip_mm_yr: 1500
+    precip_class: wet
+    dominant_religion: "Good Old Rhythm"

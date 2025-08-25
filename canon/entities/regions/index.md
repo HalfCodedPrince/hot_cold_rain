@@ -7,6 +7,8 @@ updated: 2025-08-19
 
 - [REG:BRI-001] **Bright Sea** — region, seaway, bright_sea  
   → canon/entities/regions/bright_sea.md
+- [INDEX:REGIONS] **Regions — One-Liners & Links**  
+  → canon/entities/regions/index.md
 - [REG:KAH-UP] **Kahet Uplands & Pass Country**  
   → canon/entities/regions/kaheet_uplands.md
 - [REG:KLR-ARC] **Kllrian Arc**  

@@ -37,6 +37,8 @@ updated: 2025-08-19
   → canon/entities/factions/guild_of_compositories.md
 - [FAC:HBW-001] **Harbor Watches** — signals, bells, fog  
   → canon/entities/factions/harbor_watches.md
+- [INDEX:FACTIONS] **Factions — One-Liners & Links**  
+  → canon/entities/factions/index.md
 - [REG:KAH-UP] **Kahet Uplands & Pass Country** — region, kahet, uplands  
   → canon/entities/factions/kahet_uplands.md
 - [FAC:KOS-001] **Keeper of the Oboe Seal** — law, regency, archives  

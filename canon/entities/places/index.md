@@ -7,6 +7,8 @@ updated: 2025-08-19
 
 - [LOC:KOI-001] **Koi-Hi** — port, metropolis, pilotage  
   → canon/entities/places/coi_hi.md
+- [INDEX:PLACES] **Places — One-Liners & Links**  
+  → canon/entities/places/index.md
 - [LOC:KRM-001] **Ish-Atu Ziggurat Complex (Primary)** — ziggurat, ritual, submerged  
   → canon/entities/places/krum_primary_site.md
 - [LOC:ORD-001] **Ord City** — capital, port, shipbuilding  
