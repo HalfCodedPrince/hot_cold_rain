@@ -10,6 +10,7 @@ links:
   knees_reed: canon/systems/religions/rite_knees_reed_of_crowns.md
   kll_oldword: canon/systems/religions/kllrian_stone_current_old_word.md
   crum_free: canon/systems/religions/crum_assemblies_free_cities.md
+  social_1503: canon/notes/snapshots/social_and_cultural/social_and_cultural_c1503.md
 tags: [religion, rites, syncretism, rhythm, crum, totems, sar, knees, kllrian, hundred_crowns]
 ---
 

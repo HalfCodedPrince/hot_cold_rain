@@ -2,7 +2,6 @@
 id: SYS:GOV-LAW
 name: Law & Administration — From Captains to Diet
 status: Draft
-overlay: false
 era_tags: []
 region_tags: [ord_bay, sar_north]
 links:

@@ -8,6 +8,24 @@ links:
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   beat_two: canon/entities/factions/beats/house_second_beat.md
   compositories: canon/entities/factions/guild_of_compositories.md
+  topo_prev: canon/systems/religions/religious_topography_c1290_1400.md
+  topo_1400_1560: canon/systems/religions/religious_topography_c1400_1560.md
+  good_old_rhythm: canon/systems/religions/good_old_rhythm.md
+  sea_lotus: canon/systems/religions/rite_sar_sea_lotus.md
+  reed_of_crowns: canon/systems/religions/rite_knees_reed_of_crowns.md
+  kll_old_word: canon/systems/religions/kllrian_stone_current_old_word.md
+  free_city_assemblies: canon/systems/religions/crum_assemblies_free_cities.md
+  era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
+  mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
+  society_green: canon/notes/snapshots/societal_ramifications_green_skies_c1503_1530.md
+  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
+  mixed_courts: canon/systems/law/mixed_courts.md
+  calendar_base6: canon/systems/metrology/calendar_base6.md
+  co_types_bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
+  co_types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
+  clothing_textiles: canon/systems/tech/clothing_and_textiles_c1800.md
+  tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
+  economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
 tags: [religion, music, governance]
 ---
 
@@ -106,3 +124,13 @@ A temple seal on a leaf guarantees **canonical text & mode**; unsealed print may
 - **Recension:** a licensed musical-text setting; temple-approved copies carry seals.  
 - **Splendid Word:** syncretic current that blends Rhythm with local cults and moral maxims; tolerated, contested.
 
+## Addendum — Pamphlets, Green Edicts & the Switch Years (c.1400–1560 AO)
+
+- **Names & posture.** In pamphlet shorthand, “Old Bold Rhythm” survives the pamphlet century re-branded as the **Good Old Rhythm**—less pure, more police, after the 1503 crisis forces bench/Steps/Works coordination (“Green Edicts”).  
+- **Recensions.** **Beat II** reissues plates with marginalia and seals; cross-recognition with Sea-Lotus continues where side-notes suffice; Free Cities accept signed parallel slips.  
+- **Discipline.** The spectacle of **deafening** collapses into the civic **Empty Chair** norm; fines substitute for marks in merchant cities; **Beat VI** procedures bleed into Mixed Court process.  
+- **Sanctuaries & clinics.** **Beat V** frontages expand kitchens/infirmaries and switch counseling; sanctuary warrants require **Mixed Court** stamps; etiquette (ear-ports, wingsleeves, shrine rails) is codified in ward rules.  
+- **Calendars & Switch Hours.** Public calendars remain silent; inspections, clinics, and festival timetables **quietly track** the **Switch Hours** that matter for ward peace.  
+- **Sea-Lotus & neighbors.** Antiphon and lustration grammar influence port festivals; Sea-Lotus humanism pushes mercy law; Reed of Crowns keeps its vision-leaves and refuses plate control.
+
+*Cross-refs:* `religious_topography_c1400_1560.md`, `09_pamphlet_wars_1400_1503.md`, `mutation_day_mechanism.md`, `societal_ramifications_green_skies_c1503_1530.md`.

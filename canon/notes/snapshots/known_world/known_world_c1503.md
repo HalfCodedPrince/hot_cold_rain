@@ -12,6 +12,7 @@ links:
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
   arms: canon/systems/tech/handgonnes_matchlocks_c1300_1500.md
+  society: canon/notes/snapshots/social_and_cultural/social_and_cultural_c1503.md
 tags: [snapshot, known_world, green_skies, mutation_day, pamphlets, refugees, centralization]
 ---
 

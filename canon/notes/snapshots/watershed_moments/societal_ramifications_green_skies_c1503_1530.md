@@ -12,6 +12,7 @@ links:
   map_mutation_day: canon/notes/maps/map_mutation_day.yaml
   systems_cities: canon/systems/mapping/canon_systems_mapping_cities_c1803.md
   insurance: canon/systems/insurance/green_years_standard.md
+  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
 tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanctuary, riots, convoys]
 ---
 

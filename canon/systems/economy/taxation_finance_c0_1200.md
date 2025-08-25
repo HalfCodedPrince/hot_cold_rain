@@ -19,6 +19,7 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   navigation: canon/systems/transport/navigation_currents.md
   governance: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 ---
 

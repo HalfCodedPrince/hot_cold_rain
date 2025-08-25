@@ -2,7 +2,6 @@
 id: SYS:AGRO-DIET
 name: Agriculture & Diet — Coasts, Deltas, Isles
 status: Draft
-overlay: false
 links:
   finance: canon/systems/economy/currency_finance_c1800.md
   security: canon/systems/security/piracy_and_navies_c1800.md

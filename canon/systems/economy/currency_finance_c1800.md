@@ -2,7 +2,6 @@
 id: SYS:ECON-CUR
 name: Currency & Finance — Ord–Sar Sphere
 status: Draft
-overlay: false
 era_tags: []
 links:
   governance: canon/systems/governance/law_admin.md

@@ -12,10 +12,14 @@ tags: [capital, port, shipbuilding, finance]
 status: Stable
 aliases: [Ord, The City]
 links:
-  eras:
-    - canon/eras/01_ord_sar_foundation.md
-    - canon/eras/02_zambranic_700_800.md
-  timeline: canon/timeline/point_timeline.csv
+  ord_bay: canon/systems/geography/regions/ord_bay.md
+  transport: canon/systems/transport/navigation_currents.md
+  finance: canon/systems/economy/taxation_finance_c0_1200.md
+  insurance: canon/systems/insurance/green_years_standard.md
+  law_admin: canon/systems/governance/law_admin.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  insurance: canon/systems/insurance/green_years_standard.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
 ---
 
 # Ord City

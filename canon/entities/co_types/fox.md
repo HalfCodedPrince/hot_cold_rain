@@ -1,21 +1,32 @@
 ---
-id: CTP:FOX-001
+id: CO:FOX-001
 name: Co-type — Fox (Ord–Sar)
 status: Draft
-tags: [co_type, fox]
+tags: [co_type, fox, line, dialects, sanctuary, mixed_court]
 links:
+  bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
+  types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
+  society: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   clothing: canon/systems/tech/clothing_and_textiles_c1800.md
   health: canon/systems/health/public_health_c1800.md
 ---
 
+Heat-wise city line for **factor courts, messengers, and Steps clerks**; kit centers on **vented crowns** and **ear-friendly hoods**.
+
 ## Morphology
-Light frame; short slick coat; narrow muzzle; full speech with slight sibilant color.
+Light frame; narrow muzzle; **mobile pinnae**; fine pelage; tendon elasticity. Sensory color: **olfactory-heavy memory**, airflow “loud”; quick attentional shifts; full speech (slight sibilant color common).
 
 ## Health
-Heat rash; ear mites; pollen irritation.
+Heat rash; ear mites; pollen irritation. Clinics advise shade cycles, scent-safe inks/papers in close quarters.
+
+## Dialects (ward splits)
+**Longfoot** couriers (distance-gait); **Cold-fox** (taiga glare-veil norms).
 
 ## Culture & Work
-Clerks, messengers, market factors; famed negotiators in Sar courts.
+**Factor courts**, long-road couriers, copyists, and market runners; ushers/scribes in **Mixed Courts**.
+
+## Law & Safety
+Identity rolls present in corridor cities; **smell-binding injury** is a named workplace tort (hot-presses/inks). Cross-pair marriages are legal; **Switch counseling** recommended.
 
 ## Clothing
-Short-nap textiles; vented collars; muzzle veils during pollen surges.
+**Vented crowns** (mesh caps) with evaporative pads at pinna roots; **ear-friendly hoods**; open-weave half-capes with shoulder vents; **sweat-channel seams**; quiet soles; formal collars that clear ear sweep.

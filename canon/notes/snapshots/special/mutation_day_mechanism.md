@@ -8,7 +8,7 @@ links:
   known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   visual_life_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
   metrology_calendar: canon/systems/metrology/calendar_base6.md
-  green_edicts: 
+  green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
 tags: [snapshot, special, mechanism, green_skies, co_types, rumors, oboe, plate, steps, switch_hours]
 ---
 

@@ -11,17 +11,15 @@ tags: [port, metropolis, pilotage, insurance, decay]
 status: Draft
 aliases: [Coi-Hi]
 links:
-  eras:
-    - canon/eras/02_zambranic_700_800.md
-    - canon/eras/03_marrite_747_783.md
-  systems:
-    - canon/systems/transport/navigation_currents.md
-    - canon/systems/tech/writing_and_printing_c700_1200.md
-    - canon/systems/culture/games_and_festivals_c950.md
-    - canon/systems/infrastructure/public_works_c700_1200.md
-  factions:
-    - canon/entities/factions/guild_of_compositories.md
-    - canon/entities/factions/council_of_captains.md
+  transport: canon/systems/transport/navigation_currents.md
+  print: canon/systems/tech/writing_and_printing_c700_1200.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  insurance: canon/systems/insurance/green_years_standard.md
+  economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
+  law_admin: canon/systems/governance/law_admin.md
+  print: canon/systems/print/pamphlet_economy_c1400_1503.md
+  insurance: canon/systems/insurance/green_years_standard.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
 ---
 
 # Overview
@@ -30,7 +28,7 @@ Koi-Hi sits at the storm-shadowed tail of Eastern Ord, a deepwater hinge on the 
 ## Trajectory
 - **Early Imperial:** a second-tier port learning Ord pilotage and Rhythm rites.
 - **Hexennial age:** choir colleges and compositories prosper; guild credit thickens; insurance houses appear.
-- **Age of Discovery:** main outward port for southern Sar / Widiwidi voyages; forms the civic core of the **Longara Republic** (post-imperial).
+- **Probe & Post era:** main outward port for southern Sar / Widiwidi voyages; forms the civic core of the **Longara Republic** (post-imperial).
 - **By 1803 AO:** rusting brilliance — old slipways rot, new works cut cheap; still beautiful in the rain and neon of compository rows.
 
 ## Districts

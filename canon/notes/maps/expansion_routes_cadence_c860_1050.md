@@ -1,31 +1,38 @@
 ---
-id: GEO:CADENCE-EXPANSION
-name: Expansion & Frontiers in the Golden Cadence
+id: SNAP:MAP-EXPANSION-0860-1050
+name: Expansion Routes — Golden Cadence (c.860–1050 AO)
 status: Draft
 links:
   era: canon/eras/05_golden_cadence_apex_860_1050.md
+  navigation: canon/systems/transport/navigation_currents.md
+  public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  taxation: canon/systems/economy/taxation_finance_c0_1200.md
+  regions_index: canon/entities/regions/index.md
+  map_digest: canon/maps/map_digest.md
+tags: [map, routes, treaty_ports, beacon_legs, golden_cadence]
 ---
 
-# Expansion & Frontiers (860–1050 AO)
+# Expansion Routes — Golden Cadence (860–1050 AO)
 
 ## What “expansion” means at sea
-The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon legs, convoy rights—not continuous inland provinces.
+The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon legs, convoy rights — not continuous inland provinces.
 
 ### Ord (north continent)
 - **Ord Bay & Salt River** — integrated core; complete beacon legs; watches certified.  
 - **Western Ord littoral** — **loose hegemony** via convoy protection & levy tickets; local councils remain.  
-- **Southern Ord city-belts** — evolving toward the later **Free Cities** micro-states; nominal fealty, strong guilds.
+- **Southern Ord city-belts** — evolving toward later **Free Cities** micro-states; nominal fealty, strong guilds.
 
 ### Eastern Ord Peninsula (future Longara)
-- **Koi-Hi / Coi-Hi** — rises to triad status; insurance houses, chart schools; proto-Longara civic habits.  
-- **Cape stations** — small watch islands securing the Old Song bends.
+- **Koi-Hi** — rises to triad status; insurance houses, chart schools; proto-Longara civic habits.  
+- **Cape stations** — small watch islands securing Old Song bends.
 
 ### Kahet Mountains & North-Ord tribes
 - **Pass treaties** buy guide services & timber; no heavy occupation.  
 - **Frontier posts** are depots, not forts.  
   *Matters later:* tribal confederations learn imperial schedules and where they are weak.
 
-### Bright Sea Archipelagos (Kllrian Temple States)
+### Bright Sea Archipelagos (Kllrian temple states)
 - **Northern arcs** — stable temple city-states; rites mesh with convoy calendars.  
 - **Southern arcs** — **Hush Isles** (Cuzhar ruins): partial repopulation; cultural taboo keeps densities low.  
   *Matters later:* taboo breaks under colonial hunger and temple schisms.
@@ -47,4 +54,5 @@ The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon le
 ## Edge pressures by 1050 AO
 - **Silting bars** on western Ord & Sar deltas strain dredge cycles.  
 - **Watch bribery** appears where treaty ports game premiums.  
-- **Temple fissures** along the frontier rites (Splendid Word updraft).
+- **Temple fissures** along frontier rites (Splendid Word updraft).
+

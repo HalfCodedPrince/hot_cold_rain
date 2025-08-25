@@ -39,6 +39,7 @@ updated: 2025-08-19
 ## D
 
 - **Day-mark** — stencil symbol painted on lots/berths for that day’s gate; pigment changes by courier packet.
+- **Drill A/B patterns** - Two alternating, scripted ward drills (A and B) used by Steps & Mixed Courts to verify closures, clinics, kit, and signage. Both must pass within an audit window to qualify for clean-lane rebates.
 
 ## E
 

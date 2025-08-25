@@ -2,7 +2,6 @@
 id: SYS:MET-CAL
 name: Metrology & Calendar — Base-6 Habits
 status: Draft
-overlay: false
 links:
   law: canon/systems/governance/law_admin.md
   cosmos_index: canon/systems/cosmos/index.md

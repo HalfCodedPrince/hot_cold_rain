@@ -7,7 +7,6 @@ tags: [music, language, religion]
 first_appearance: ERA-700
 status: Draft
 links:
-  region: canon/entities/regions/sar_north.md
   religion: canon/systems/religions/good_old_rhythm.md
 ---
 
