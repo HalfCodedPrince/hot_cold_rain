@@ -10,7 +10,7 @@ links:
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   transport: canon/systems/transport/navigation_currents.md
-  security: canon/systems/security/piracy_and_navies_c1800.md
+  security: canon\current\goalpost\security\piracy_and_navies_c1800.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
 ---
 

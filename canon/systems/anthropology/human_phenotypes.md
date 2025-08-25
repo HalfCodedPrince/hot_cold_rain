@@ -4,7 +4,7 @@ name: Human Phenotypes (Climate & Work)
 status: Draft
 links:
   diet: canon/systems/agriculture/agriculture_diet.md
-  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
   health: canon/systems/health/public_health_c1800.md
 ---
 

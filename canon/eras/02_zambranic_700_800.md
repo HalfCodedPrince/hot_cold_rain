@@ -30,5 +30,5 @@ Printed catechisms and codes, convoy/harbor standards, and managed tributaries t
 
 ## Cross-refs
 - `canon/systems/tech/writing_and_printing_c700_1200.md`
-- `canon/systems/economy/currency_finance_c1800.md`
+- `canon\current\goalpost\economy\currency_finance_c1800.md`
 - `canon/systems/governance/symbols_of_office_c700_1200.md`

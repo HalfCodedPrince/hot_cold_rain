@@ -86,14 +86,14 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ## Economy
 
 ### Currency & Finance — Ord–Sar Sphere
-`SYS:ECON-CUR` — canon/systems/economy/currency_finance_c1800.md
+`SYS:ECON-CUR` — canon\current\goalpost\economy\currency_finance_c1800.md
 
 ### Food Supply & Logistics (c. 1803 AO)
-`ECON:FOOD-LOG-1803` — canon/systems/economy/food_logistics_c1800.md
+`ECON:FOOD-LOG-1803` — canon\current\goalpost\economy\food_logistics_c1800.md
 - Tags: c. 1803 AO
 
 ### Global Supply Links (Post–Last War)
-`ECON:SUPPLY-001` — canon/systems/economy/global_supply_links.md
+`ECON:SUPPLY-001` — canon\current\goalpost\economy\global_supply_links_c1800.md
 - Tags: Post–Last War
 
 ### Taxation & Finance — Ord–Sar (c.0–1200 AO)
@@ -216,7 +216,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ## Health
 
 ### Healthcare Landscape (c. 1803 AO)
-`HEALTH:SYSTEMS-1803` — canon/systems/health/healthcare_landscape_c1800.md
+`HEALTH:SYSTEMS-1803` — canon\current\goalpost\health\healthcare_landscape_c1800.md
 - Tags: c. 1803 AO
 
 ### Public Health (Green Rains & Warm Seas)
@@ -248,7 +248,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ## Infrastructure
 
 ### Coastal Cities — Storms, Surges & Civic Resilience
-`INFRA:COAST-STORM-1803` — canon/systems/infrastructure/coastal_storms_resilience_c1800.md
+`INFRA:COAST-STORM-1803` — canon\current\goalpost\infrastructure\coastal_storms_resilience_c1800.md
 
 ### Courier Circuit & Assay Ring (c.700–1300 AO)
 `INF:COURIER-ASSAY-700-1300` — canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
@@ -265,7 +265,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `INFRA:WASTE-1803` — canon/systems/infrastructure/waste_management_c1800.md
 
 ### Urban Water & Sewers (c. 1803 AO)
-`INFRA:WATER-001` — canon/systems/infrastructure/water_and_sewer_c1800.md
+`INFRA:WATER-001` — canon\current\goalpost\infrastructure\water_and_sewer_c1800.md
 - Tags: c. 1803 AO
 
 ## Insurance
@@ -333,7 +333,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ## Mapping
 
 ### Cities c.1803 — Civic Knobs & Line Mixes (systems dataset)
-`SYS:MAPPING-CITIES-C1803` — canon/systems/mapping/canon_systems_mapping_cities_c1803.md
+`SYS:MAPPING-CITIES-C1803` — canon\current\goalpost\mapping\canon_systems_mapping_cities_c1803.md
 - Tags: systems dataset
 
 ## Metrology
@@ -418,7 +418,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 - Tags: piracy, escorts, privateers
 
 ### Piracy, Convoys & Navies (Cadence → GP)
-`SEC:NAV-001` — canon/systems/security/piracy_and_navies_c1800.md
+`SEC:NAV-001` — canon\current\goalpost\security\piracy_and_navies_c1800.md
 - Tags: Cadence → GP
 
 ## Tech
@@ -436,7 +436,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 - Tags: television, color, broadcast
 
 ### Clothing & Textiles (Hot, Wet, Windy)
-`TECH:CLO-000` — canon/systems/tech/clothing_and_textiles_c1800.md
+`TECH:CLO-000` — canon\current\goalpost\tech\clothing_and_textiles_c1800.md
 - Tags: clothing, textiles, climate
 
 ### Early Artillery — Bombards, Swivels, & Foundry Discipline (c.1200–1350 AO)
@@ -448,7 +448,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 - Tags: handgonne, matchlock, fire-lance
 
 ### Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)
-`TECH:RAIN-GEAR-1803` — canon/systems/tech/rain_gear_umbrellas_c1800.md
+`TECH:RAIN-GEAR-1803` — canon\current\goalpost\tech\rain_gear_umbrellas_c1800.md
 - Tags: Green-Rain Culture
 
 ### Saltpeter Supply & Nitraries (c.1500–1510 AO)
@@ -477,14 +477,14 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `TRANS:FLOOD-MODES-1803` — canon/systems/transport/resilient_transit_flood_cities_c1800.md
 
 ### Roads & Surfaces — Asphalt, Stone, Boards
-`TRANS:ROAD-1803` — canon/systems/transport/road_surfaces_c1800.md
+`TRANS:ROAD-1803` — canon\current\goalpost\transport\road_surfaces_c1800.md
 
 ### Ships — Oar Galleys with Auxiliary Sail
 `TRANS:SHIPS-001` — canon/systems/transport/ships_galleys.md
 - Tags: ships, oared, galleys
 
 ### Transport Index (Sea, Cable, Rail, Road)
-`TRANS:IDX-001` — canon/systems/transport/transport_index_c1800.md
+`TRANS:IDX-001` — canon\current\goalpost\transport\transport_index_c1800.md
 - Tags: transport, index
 
 ### Urban Vehicles & City Logistics (Low-Tech, Wet)
@@ -497,7 +497,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 `URB:ARCH-COAST-1803` — canon/systems/urbanism/architecture_coastal_patterns_c1800.md
 
 ### Building Heights & Urban Fabric (c. 1803 AO)
-`URB:FORM-001` — canon/systems/urbanism/building_heights_density_c1800.md
+`URB:FORM-001` — canon\current\goalpost\urbanism\building_heights_density_c1800.md
 - Tags: c. 1803 AO
 
 ## Welfare

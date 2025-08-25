@@ -9,7 +9,7 @@ links:
   rhythm: canon/systems/religions/good_old_rhythm.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   watches: canon/entities/factions/harbor_watches.md
-  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
   known_world: canon/notes/snapshots/known_world/known_world_c1503.md
   society: canon/notes/snapshots/social_and_cultural/social_and_cultural_c1503.md
 tags: [snapshot, visual_life, green_rain, pamphlets, access_days, watches, rites]

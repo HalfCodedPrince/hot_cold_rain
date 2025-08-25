@@ -6,7 +6,7 @@ tags: [co_type, bat, dialect, quay_bat]
 links:
   parent: canon/entities/co_types/bat.md
   types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
-  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
   health: canon/systems/health/public_health_c1800.md
 ---
 

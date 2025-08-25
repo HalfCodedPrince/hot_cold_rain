@@ -4,7 +4,7 @@ name: Energy — Generation & Grid (c. 1803 AO)
 status: Draft
 links:
   infra: canon/systems/infrastructure/public_works_c700_1200.md
-  health: canon/systems/health/healthcare_landscape_c1800.md
+  health: canon\current\goalpost\health\healthcare_landscape_c1800.md
 ---
 
 ## Sources (patchwork)

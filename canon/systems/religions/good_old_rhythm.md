@@ -23,7 +23,7 @@ links:
   calendar_base6: canon/systems/metrology/calendar_base6.md
   co_types_bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
   co_types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
-  clothing_textiles: canon/systems/tech/clothing_and_textiles_c1800.md
+  clothing_textiles: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
 tags: [religion, music, governance]

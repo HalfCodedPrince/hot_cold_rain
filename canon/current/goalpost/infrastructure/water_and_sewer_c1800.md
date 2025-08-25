@@ -5,7 +5,7 @@ status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
   health: canon/systems/health/public_health_c1800.md
-  economy: canon/systems/economy/currency_finance_c1800.md
+  economy: canon\current\goalpost\economy\currency_finance_c1800.md
 ---
 
 ## Supply

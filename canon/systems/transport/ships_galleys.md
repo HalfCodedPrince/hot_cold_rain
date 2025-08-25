@@ -4,7 +4,7 @@ name: Ships — Oar Galleys with Auxiliary Sail
 status: Draft
 links:
   arms: canon/systems/tech/arms_armor_c700.md
-  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
+  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
 tags: [ships, oared, galleys]
 ---
 

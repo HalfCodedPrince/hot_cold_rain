@@ -10,7 +10,7 @@ links:
   world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
   map_reference: canon/notes/maps/map_reference.yaml
   map_mutation_day: canon/notes/maps/map_mutation_day.yaml
-  systems_cities: canon/systems/mapping/canon_systems_mapping_cities_c1803.md
+  systems_cities: canon\current\goalpost\mapping\canon_systems_mapping_cities_c1803.md
   insurance: canon/systems/insurance/green_years_standard.md
   green_edicts: canon\systems\governance\green_edicts_c1503_1515.md
 tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanctuary, riots, convoys]
@@ -92,4 +92,4 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 ### Map Hooks
 - **Base facts** → `canon/notes/maps/map_reference.yaml`  
 - **Era overlay (1503–1530)** → `canon/notes/maps/map_mutation_day.yaml`  
-- **Full system view / back-cast** → `canon/systems/mapping/canon_systems_mapping_cities_c1803.md`
+- **Full system view / back-cast** → `canon\current\goalpost\mapping\canon_systems_mapping_cities_c1803.md`

@@ -25,4 +25,4 @@ Prosperity via predictable calendars, capital projects, and cartelized logistics
 ## Cross-refs
 - `canon/systems/infrastructure/public_works_c700_1200.md`
 - `canon/systems/transport/navigation_currents.md`
-- `canon/systems/security/piracy_and_navies_c1800.md`
+- `canon\current\goalpost\security\piracy_and_navies_c1800.md`

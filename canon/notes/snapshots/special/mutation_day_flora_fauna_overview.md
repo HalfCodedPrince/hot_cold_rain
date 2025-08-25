@@ -9,8 +9,8 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   agriculture: canon/systems/agriculture/agriculture_diet.md
   health_c1800: canon/systems/health/public_health_c1800.md
-  clothing: canon/systems/tech/clothing_and_textiles_c1800.md
-  transport: canon/systems/transport/transport_index_c1800.md
+  clothing: canon\current\goalpost\tech\clothing_and_textiles_c1800.md
+  transport: canon\current\goalpost\transport\transport_index_c1800.md
   existing_biota_index:
     - canon/entities/biota/boru_boru.md   
     - canon/entities/biota/mudsnake.md  
