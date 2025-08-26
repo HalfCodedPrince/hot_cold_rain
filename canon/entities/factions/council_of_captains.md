@@ -6,7 +6,7 @@ founded_ao: pre-300 AO (custom), formalized c. 300–350 AO
 seat: Ord City (Salt Chamber)
 mandate: Call elections; direct fleets and patrols; license convoys; appoint Captain-Representatives; steward emergency dockets.
 tags: [governance, navy, commerce]
-status: Stable
+status: draft
 links:
   governance: canon/systems/governance/empty_seat_c790_860.md
   religion: canon/systems/religions/good_old_rhythm.md

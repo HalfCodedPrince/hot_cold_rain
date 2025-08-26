@@ -1,7 +1,7 @@
 ---
 id: INDEX:PEOPLE
 name: People — One-Liners & Links
-status: Stable
+status: draft
 updated: 2025-08-26
 ---
 

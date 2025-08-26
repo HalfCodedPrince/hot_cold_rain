@@ -15,7 +15,7 @@ tags: [tides, aerosols, religion]
 Large apparent size; semi-diurnal tides; alignment peaks drive “king tides.” Albedo patching yields dramatic brightness swings.
 
 ## “Green nights”
-Green-tinged nights occur when light scatters through aerosolized pollen/spores/dust under humid conditions (“green rain” seasons). See Hydrology for advisories.
+Green-tinged nights occur when light scatters through aerosolized upper-air loads following green-rain conditions. See Hydrology for advisories.
 
 ## Cultural
 Tide omens; “Queen’s Halo” ring as rain sign; morning hymns synced to Hexset before Oboe-rise.

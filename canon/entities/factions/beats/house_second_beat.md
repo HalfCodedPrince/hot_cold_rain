@@ -6,7 +6,7 @@ parent: FAC:SYN-001
 founded_ao: c. 720
 mandate: Text & music; edits recensions, notates modes; trains scribes and choirmasters.
 tags: [religion, music, text]
-status: Stable
+status: draft
 thesis: Text-and-music house—recensions, modes, and training of scribes/choirmasters; interfaces with Compositories.
 links:
   synod: canon/entities/factions/synod_of_beats.md
@@ -16,4 +16,5 @@ links:
   musicologist: canon/entities/people/kelim_ar_of_sar_north.md
   redactor: canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
   recensor: canon/entities/people/tamur_inqel_master_of_plates.md
+  culture_games: canon/systems/culture/games_and_festivals_c950.md
 ---

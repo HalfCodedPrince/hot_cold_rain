@@ -13,6 +13,7 @@ links:
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
 tags: [procurement, fee-farm, tenders, corruption, audits, escorts]
 ---
 

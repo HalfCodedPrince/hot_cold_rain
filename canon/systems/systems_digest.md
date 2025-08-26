@@ -1,7 +1,7 @@
 ---
 id: PACK:SYSTEMS-DIGEST
 name: Systems Digest — Claims & Links
-status: Stable
+status: draft
 updated: 2025-08-26
 ---
 

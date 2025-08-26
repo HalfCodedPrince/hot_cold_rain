@@ -10,7 +10,7 @@ tags: [asteroids, belts]
 # Belts & Small Bodies
 
 ## Karodot’s Tears (main belt)
-Main-belt asteroids between Point and Karodot; meteor showers are episodically visible. In folklore, “tears of the sea-hag Karodot.”
+Main-belt small bodies between Point and Karodot. Periodic meteor showers noted in coastal records and temple logs; brightness varies with stream density and geometry. In folklore, “tears of the sea-hag Karodot.”
 
 ## Trailing Belt (distant)
-Icy small bodies beyond Ze; very faint; largely theoretical to early observers. Little to no navigation relevance before modern instruments.
+Icy small bodies beyond Ze. Very faint; treated as a hypothesis in early compilations, then gradually accepted as survey notes accumulated. Little to no navigation relevance before modern instruments.

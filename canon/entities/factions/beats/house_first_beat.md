@@ -6,7 +6,7 @@ parent: FAC:SYN-001
 founded_ao: c. 720
 mandate: Doctrine & cosmology; defines orthodoxy; handles heresy cases.
 tags: [religion, doctrine]
-status: Stable
+status: draft
 thesis: Doctrinal house—guards orthodoxy and cosmology; adjudicates heresy cases for the Synod.
 links:
   synod: canon/entities/factions/synod_of_beats.md

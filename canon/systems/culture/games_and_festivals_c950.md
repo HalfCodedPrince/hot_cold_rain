@@ -1,14 +1,21 @@
 ---
 id: SYS:CULT-GAMES
-name: Games, Sports & Festivals of the Bright Sea
+name: Games, Sports & Festivals of the Bright Sea (c.950 AO)
 status: Draft
 links:
   synod: canon/entities/factions/synod_of_beats.md
   beat_second: canon/entities/factions/beats/house_second_beat.md
   beat_sixth: canon/entities/factions/beats/house_sixth_beat.md
+  rhythm: canon/systems/religions/good_old_rhythm.md
+  calendar: canon/systems/metrology/calendar_base6.md
+  compositories: canon/entities/factions/guild_of_compositories.md
 tags: [festivals, sport, calendar]
 ---
 
+# Games, Sports & Festivals of the Bright Sea
+
+## Thesis
+Sea-centric contests keyed to the Long Beat; timing and order rest on temple ephemerides and choir cadence. House Second shapes text/music events; House Sixth arbitrates discipline and wagers.
 
 ## Hexennial Games (The Long Beat)
 **Cadence:** every 6 years (sextal “Long Beat”) • **Founded:** c. 732 AO • **Host:** rotates among major ports  
@@ -23,14 +30,10 @@ tags: [festivals, sport, calendar]
 
 **Betting:** licensed bookmen; odds printed as sextal tables; temple tax skimmed for charity.
 
----
-
 ## Annual & Local Festivals
 - **Green Lantern Nights** — when the green rains peak, flotillas of oiled-cloth lanterns drift seaward; hymns in the Short Beat.  
 - **Pilot’s Vow** — coming-of-age swim across a marked tide channel; a reef token proves the crossing.  
 - **Old Song Day** — first fair wind of the season; regattas for small craft; kite-spars flown from piers.
-
----
 
 ## Everyday Sports & Pastimes
 - **Crab Races** — trained shore crabs with painted shells; heats run in gutter-alleys after rain.  
@@ -39,8 +42,6 @@ tags: [festivals, sport, calendar]
 - **Rope Grapple** — tug and clinch on floating rafts; falls count when both feet leave the raft.  
 - **Driftstones** (board game) — mancala-like counting on six pits per side; capture on the long beat (sixth move).  
 - **Captains’ Lines** (strategy) — semaphore-style line-linking on a hex grid; win by connecting port to port.
-
----
 
 ## Notes for Referees & Writers
 - **Cadence matters:** Scores break ties by lowest *breath count* (beats held) or *stroke count*.  

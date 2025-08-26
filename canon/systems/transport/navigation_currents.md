@@ -9,6 +9,7 @@ links:
   origins_track: canon/systems/anthropology/human_origins_migrations.md
   island_hops: canon/systems/anthropology/widiwidi_peopling.md
   climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
+  fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
 tags: [navigation, currents, old_song]
 ---
 

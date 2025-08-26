@@ -7,7 +7,7 @@ founded_ao: c. 720
 seat: rotating (Ord City; Sar capitals)
 mandate: Governance of doctrine, music-text, ritual, missions, charity, and discipline within the Good Old Rhythm.
 tags: [religion, governance, law, music]
-status: Stable
+status: draft
 thesis: Umbrella council coordinating the six temple houses; co-signs civic-religious governance where Rhythm meets courts and calendars.
 links:
   religion: canon/systems/religions/good_old_rhythm.md

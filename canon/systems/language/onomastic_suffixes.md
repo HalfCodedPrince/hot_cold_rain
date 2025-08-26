@@ -1,7 +1,7 @@
 ---
 id: LANG:SUFFIXES
 name: Onomastic Suffixes (cheat sheet)
-status: Stable
+status: draft
 links:
   names: canon/systems/language/names_and_onomastics_for_ord_sar.md
 ---

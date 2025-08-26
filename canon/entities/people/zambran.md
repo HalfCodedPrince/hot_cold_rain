@@ -4,7 +4,7 @@ name: Zambran “the Singer”
 lifespan: 650–726 AO
 roles: [High Master (reformer)]
 tags: [politics, religion, oratory]
-status: Stable
+status: draft
 thesis: Patron–standardizer of the Rhythm; unifier by press, purse, and policy—charisma over sword.
 aliases: [Zambran, High Master Zambran]
 contradictions:

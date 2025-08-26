@@ -12,6 +12,8 @@ links:
   index: canon/systems/cosmos/index.md
 ---
 
+# Cosmos Overview
+
 ## Star (Oboe)
 Yellow-dwarf primary; steady output; temple ephemerides published from c. 700 AO. Dawn rites tie hymn timing to Oboe-rise.
 

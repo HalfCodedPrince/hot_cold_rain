@@ -11,6 +11,7 @@ links:
   insurers: canon/entities/factions/convoy_insurance_office.md
   public_works: canon/systems/infrastructure/public_works_c700_1200.md
   diet: canon/systems/agriculture/agriculture_diet.md
+  fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
 tags: [warehouses, bonded, scrip, grain, oil, receipts, redemption]
 ---
 

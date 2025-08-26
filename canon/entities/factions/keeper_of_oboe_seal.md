@@ -6,7 +6,7 @@ chartered_ao: 783
 seat: Ord City (Court Vaults)
 mandate: Hold the High Master’s seal matrix & ledger-keys under joint lock (Council + Beat Six); certify absence; register interim acts; sequester tainted seals; yield the seal to the newly proclaimed High Master.
 tags: [law, regency, archives]
-status: Stable
+status: draft
 links:
   governance: canon/systems/governance/empty_seat_c790_860.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md

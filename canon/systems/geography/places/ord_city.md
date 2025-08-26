@@ -9,7 +9,7 @@ governance: Council of Captains (historic); later imperial administration
 economy: [shipyards, grain chancery, convoy insurance, compositories]
 religions: [Good Old Rhythm]
 tags: [capital, port, shipbuilding, finance]
-status: Stable
+status: draft
 aliases: [Ord, The City]
 links:
   ord_bay: canon/systems/geography/regions/ord_bay.md

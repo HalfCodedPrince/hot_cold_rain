@@ -23,6 +23,8 @@ links:
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 ---
 
+# Taxation & Finance — Ord–Sar (c.0–1200 AO)
+
 ## Scope & Thesis
 A practical map of how rulers raise, move, and spend money from Pre-Ord through the Contract Port era. The center’s revenue mix shifts from **in-kind tolls and temple tithes** to **fees, fines, and charters**, but logistics (river lifts, beacon legs, convoy timetables) cap what’s collectible. Where paper outruns transport, **obedience becomes interpretation**.
 
@@ -51,21 +53,21 @@ A practical map of how rulers raise, move, and spend money from Pre-Ord through 
 - **Convoy Insurance Offices (“Steps”)** — set premiums; hold and delay claims; issue **whistle** leafs when rumor runs.
 - **Grain Chancery** — weights/coins standards; validates ration rails (**grain notes**).
 - **Council of Captains / Keeper of the Oboe Seal** — authorize fee schedules; stamp circulations; post circulars.
--- **Courier Circuit & Assay Ring** - seals, timings, and assay slips that let paper/metal hop safely between benches
+- **Courier Circuit & Assay Ring** — seals, timings, and assay slips that let paper/metal hop safely between benches.
 
 ## Collection → Treasury → Spend (flows)
--- Quays/Pass Tolls & Fees → (Watches clerks) → port treasuries → Debt Office clearing
--- Temple tithes/levy commutations → (Temple bursars) → mixed courts → Works allotments
--- Convoy subscripts & premiums → (Insurance Steps) → claims reserve → escorts & beacons
--- Fines & bench-dockets → (Court clerks) → fee-farms rent → central stair servicing
+- Quays/Pass Tolls & Fees → *(Watches clerks)* → port treasuries → Debt Office clearing.
+- Temple tithes/levy commutations → *(Temple bursars)* → mixed courts → Works allotments.
+- Convoy subscripts & premiums → *(Insurance Steps)* → claims reserve → escorts & beacons.
+- Fines & bench-dockets → *(Court clerks)* → fee-farms rent → central stair servicing.
 
-**Spend priorities (typical order):** 
-1) debt service on beacons/dredge; 
-2) convoy escorts/pilots; 
-3) oil, rope, iron; 
-4) festival arrears (stipends); 
-5) inland posts.
-In failure years, debt service is paid in kind (oil/grain allotments) to keep beacons lit—coin follows when available
+**Spend priorities (typical order):**  
+1) debt service on beacons/dredge;  
+2) convoy escorts/pilots;  
+3) oil, rope, iron;  
+4) festival arrears (stipends);  
+5) inland posts.  
+In failure years, debt service is paid in kind (oil/grain allotments) to keep beacons lit—coin follows when available.
 
 ## Records & Accounting Discipline
 - **Day-books** at quays; **copy-trails** stamped by Keeper seals; festival closures reconcile.
@@ -90,15 +92,15 @@ In failure years, debt service is paid in kind (oil/grain allotments) to keep be
 - **Whistle leaf:** anonymous broadside accusing a Step or office.
 
 ## Appendix — Example Tender Cycle (beacon leg)
-1) Works posts list (oil, wick, iron caps) →
-2) Debt Office sets cap by stair → 
-3) Watch certifies access days → 
-4) Insurers sign off to keep premiums flat → 
-5) Keeper stamps → 
-6) Pilots sign receipts → 
+1) Works posts list (oil, wick, iron caps) →  
+2) Debt Office sets cap by stair →  
+3) Watch certifies access days →  
+4) Insurers sign off to keep premiums flat →  
+5) Keeper stamps →  
+6) Pilots sign receipts →  
 7) Auditor festival close.
-### Complexity Dial (core → rim)
 
+### Complexity Dial (core → rim)
 - **Core Wards (blue-lit ports):** full stack—bench-dockets, Steps, Works lists, Debt stair service, festival closings; convoy tickets widely accepted; grain notes redeemable in warrant warehouses.
 - **Near-Coast Towns:** fee-farms and posted dockets present; insurance/claims handled by agents; convoy tickets often discounted; grain notes redeemable only on market days.
 - **Interior & Passes:** tolls and in-kind commutations dominate; bench-dockets are copied by hand; convoy/claims paper mostly refused; relief runs operate by special mixed writs.

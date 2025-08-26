@@ -165,3 +165,88 @@ aliases_by_era:
   - **Stable → Draft:** avoid deep-linking a Stable page to a Draft leaf; point to the stable parent/collection instead. Draft↔Draft and Stable↔Stable leaf links are fine.
 - **Output format.** Post `.md` text directly in chat with the path and proposed filename. Proposing additions to existing files is allowed; don’t attach external files.
 
+---
+
+## Editing Workflow (LLM-facing)
+
+**Overarching directives**:
+- Treat index_pack.md as required pre-read for: ID/path resolution, overview membership, status, aliases, and link-key sanity. It is in the core upload set, so reliance is safe.
+
+**Scope lock**
+- Each task starts by stating: `file`, `ops`, `forbid`, `mode`.
+- If a referenced file is unseen, request a snippet or propose `[NEW STUB]` and stop there.
+
+**Style preflight**
+- Check filename, front-matter keys, `links:` shape, tag casing, and ranges per this guide.
+- Use only a `links:` block for inter-file references; do not insert inline prose about other files.  
+  (See “Cross-File Linking”.)
+
+**Tooling discipline**
+- For link/back-link work, the assistant MUST query `index_pack.md` and the domain overview’s `links:` using the search tool before proposing changes.
+- Response must include a short `LookupLog:` listing each file checked and the result: FOUND / MISSING / INCONCLUSIVE.
+- If INCONCLUSIVE, no proposal is made in STRICT mode; ask ≤3 questions.
+- Require verify-backlink before proposing any back-link.
+- Require anchors to validate table anchors.
+- Require LookupLog: in the delivery with the exact commands + outputs you ran.
+
+**Repo ground truth**
+- Only rely on the pasted file, `00_master_index.md`, `01_glossary.md`. Anything else is `[SPECULATIVE → CONFIRM?]`.
+
+**Edit output format**
+- For each file touched, output: the path on its own line, then one fenced block with the full replacement.
+
+**Assumption register**
+- List any assumptions at the end. Empty is allowed.
+
+**Link discipline**
+- You may propose reciprocal `links:` entries in other files. No prose edits in unseen files.  
+  Do not deep-link into Drafts from Stable pages; link the parent folder. 
+
+**Validation checklist**
+- `TermCheck:` new terms introduced.
+- `LinkCheck:` added/changed paths.
+- `ScopeCheck:` confirm only the requested areas changed.
+
+**Modes**
+- `STRICT`: zero speculation; no new terms; do not assert new entities, laws, or numbers; link only to existing pages. If a section would require new doctrine, mark it “stub proposed” and stop.
+- `BUILDER`: allowed `[NEW STUB]` and clearly labeled proposals at the end under “Proposals”.
+
+**unknowns: [...]**: is a short checklist of concrete gaps you want to resolve or avoid guessing about (e.g., “who issues licenses,” “commission ranges,” “northern cartel tie strength”). If left empty, missing facts will not be invented in STRICT mode.
+
+**Missing-info rule**
+- If anything blocks a clean pass, stop and ask ≤3 pointed questions.
+
+## Priority & Precedence
+
+1) **Pasted snippet in chat** → authoritative for this pass.  
+2) **02_style_guide.md** (this file).  
+3) **00_master_index.md** and **index_pack.md** (IDs, paths, overview membership).  
+4) **01_glossary.md** (terms allowed).  
+5) Everything else = **[SPECULATIVE → CONFIRM?]**.
+
+When rules collide: **Workflow** instructions override Appendix phrasing. “Cross-file linking” rules govern links.
+
+...
+
+**Task template**
+```yaml
+# Use "!" to select the active mode
+TASK
+mode: !STRICT | BUILDER
+file: canon/.../your_file.md
+ops: [style_check, lore_check, expansions, link_backlinks]
+forbid: [no_prose_in_other_files, repo_ground_truth_only]
+unknowns: [...]  # concrete gaps to resolve or avoid guessing
+```
+
+
+---
+
+# See also: Entry Points
+
+For navigation and context, see:
+
+- **README.md** — repo/tooling overview (scripts, outputs, shortcuts).
+- **00_master_index.md** — canon-facing landing page (hand-curated map).
+- **01_glossary.md** — canonical terms
+- **canon/notes/maps/map_reference.yaml** — LLM-friendly geography anchor

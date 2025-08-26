@@ -6,7 +6,7 @@ chartered_ao: c. 720
 seat: Ord City (Grain Quarter)
 mandate: Issue/redeem grain notes; set port tariffs and measures; audit flood granaries.
 tags: [finance, metrology, food_supply]
-status: Stable
+status: draft
 thesis: Fiscal chancery for grain-credit and measures—issues notes, polices tariffs/measures, and audits flood reserves.
 links:
   metrology: canon/systems/metrology/calendar_base6.md

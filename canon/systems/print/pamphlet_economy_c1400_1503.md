@@ -9,6 +9,7 @@ links:
   rhythm: canon/systems/religions/good_old_rhythm.md
   green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   regulator: canon/entities/people/tamur_inqel_master_of_plates.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
 tags: [printing, pamphlets, censorship, smuggling, cleanlinesstable, access_days, postal]
 ---
 

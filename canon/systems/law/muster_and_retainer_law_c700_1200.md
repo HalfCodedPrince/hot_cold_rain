@@ -6,6 +6,7 @@ links:
   watches: canon/entities/factions/harbor_watches.md
   council: canon/entities/factions/council_of_captains.md
   insurance: canon/entities/factions/convoy_insurance_office.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
 ---
 
 ## Cadence baseline

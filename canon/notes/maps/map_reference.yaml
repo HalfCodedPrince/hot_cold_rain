@@ -1,4 +1,6 @@
 # canon/notes/maps/map_reference.yaml — stable map facts
+# See also: 00_master_index.md (canon navigation) and 01_glossary.md (terms)
+
 cities:
   - name: Tau-Hi
     region: North-Central coast of Sar; East of Seven Fingers; inside a small bay

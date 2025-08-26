@@ -1,8 +1,8 @@
 --- 
 id: INDEX:MASTER
-name: Master Index — Alt. History Project
+name: Master Index (hand-curated entry point)
 status: Stable
-updated: 2025-08-25
+updated: 2025-08-26
 ---
 
 # Welcome / Start here
@@ -10,14 +10,6 @@ updated: 2025-08-25
 This is a working map for the canon and tools. Use the **Index Pack** for LLM uploads, the **Systems Digest** (auto, human-centered) for “how it works”, and the **Entity Indices** (auto, human-centered) for quick lookups.
 
 ---
-
-## Shortcuts
-
-- **Router (heatmap)**: `tools/router_index.md` (or in Index Pack - Top N by inbound refs; “what’s hot”)
-- **Front-matter Anthology (auto)**: `front_matter_anthology.md` (flattened front matter with ids/links/tags)
-- **Systems Digest**: `canon/systems/systems_digest.md` (auto, but human-oriented)
-- **Glossary**: `01_glossary.md`  •  **Style guide**: `02_style_guide.md`  •  **Map Reference**: `canon/notes/maps/map_reference.yaml`
-- **Current GPT prompt**: see the end of `02_style_guide.md`
 
 ## Canon structure
 - `canon/eras/` (the biggest picture, in dynamic, mainly to show historical vectors, not just at the moment in time)
@@ -59,3 +51,11 @@ Outputs land in tools/upload_ready/ and reports in tools/reports/.
   - **Media:** radio strong; color TV present but uneven; printing never “lost.”
   
   - **Religio-civic weave:** Good Old Rhythm (Synod & Houses) entwined with Council/courts; calendars, festivals, and convoy law are the social OS.
+
+---
+
+**See also: (always in repo)** 
+- `README.md` for repo/tooling overview
+- `02_style_guide.md` for naming/linking rules
+- `01_glossary.md` for terms
+- `canon/notes/maps/map_reference.yaml` for LLM-friendly geography

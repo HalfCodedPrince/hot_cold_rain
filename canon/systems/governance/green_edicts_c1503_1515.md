@@ -18,7 +18,13 @@ links:
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   drafter: canon/entities/people/tamur_inqel_master_of_plates.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
+  works: canon/entities/factions/dredge_and_bar_works.md
+  insurers: canon/entities/factions/convoy_insurance_office.md
+  harbor_watches: canon/entities/factions/harbor_watches.md
 ---
+
+# Green Edicts — Bench/Steps/Works Coordination (c.1503–1515 AO)
 
 ## Thesis
 A post-1503 administrative package that trades spectacle for procedure: cities retain public rites, but peace is achieved through **sanctuary drills, Mixed Courts, clinic hours (“Switch counseling”), standard kit**, and **plate-sealed recensions**. Not theology—coordination.
@@ -36,6 +42,14 @@ Harbor/dock chaos after the **Day of Green Skies**, convoy irregularities, pamph
 
 ## Enforcement & theatre
 Fines-as-theatre replace marks; **plate seals** on public postings; inspection grades displayed on beacon legs and guild doors.
+
+## Implementation & records (by title)
+- **Sanctuaries/Clinics:** A/B drill leaf; clinic window leaf; quarterly bursary tallies filed to ward bench.  
+- **Mixed Courts:** tort docket leaf; clerk presence noted; festival-close reconciliation.  
+- **Calendars/Access:** Access Day leaf cross-stamped with port festival clock; retime orders logged.  
+- **Kit/Work:** inspection rubric leaf; bench fines table; crew grade board.  
+- **Texts/Plates:** recension title leaf with plate number and signatories; marginalia policy line.  
+- **Beacons/Signals:** aux chart leaf; Works × benches edition mark; Watch notice for closures.
 
 ## Effects by 1515
 Riot frequency drops; **“Deafening → Empty Chair”** norm; sanctuary culture stabilizes; Sea-Lotus ports lead on clinic integration; print fights persist but are clerk-contained.

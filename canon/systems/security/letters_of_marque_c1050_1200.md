@@ -5,6 +5,7 @@ status: Draft
 links:
   insurance: canon/entities/factions/convoy_insurance_office.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
 ---
 
 ## Framework

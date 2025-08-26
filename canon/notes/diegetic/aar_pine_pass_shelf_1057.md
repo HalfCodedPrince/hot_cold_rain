@@ -1,7 +1,7 @@
 ---
 id: DOC:AAR-PINE-PASS-1057
 name: Claims Docket Extract — After-Action & Loss Account (Pine-Pass Shelf, 1057 AO)
-status: Stable
+status: draft
 date_ao: 1057
 provenance: Ord City Claims Court (Insurance Steps), Bench Two
 seal: clerk’s blue; ward bell stamp (faint)

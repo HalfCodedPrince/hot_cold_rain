@@ -1,7 +1,7 @@
 ---
 id: DOC:WATCH-CIRC-1198
 name: Watch Circular — “Blue Papers” & Beacon Outages
-status: Stable
+status: draft
 date_ao: 1198
 provenance: Ord Bay Harbor Watches (Salt Chamber Annex)
 seal: Ward Captain of Steps Three–Five
