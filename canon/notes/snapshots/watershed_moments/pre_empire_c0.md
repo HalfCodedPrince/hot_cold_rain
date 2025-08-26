@@ -7,6 +7,7 @@ links:
   ord_south: canon/systems/geography/regions/ord_south_riverine_belt.md
   sar_lit: canon/systems/geography/regions/sar_littoral_belt.md
   krum: canon/eras/00_preord_krum.md
+  historical_figure: canon/entities/people/henara_the_binder.md
 ---
 
 # Pre-Empire c.0 AO — Major Players

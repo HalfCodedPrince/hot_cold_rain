@@ -11,6 +11,7 @@ links:
   insurance: canon/entities/factions/convoy_insurance_office.md
   hydrology: canon/systems/planetology/hydrology.md
   religion: canon/systems/religions/good_old_rhythm.md
+  
 ---
 
 ## The Slow Choke

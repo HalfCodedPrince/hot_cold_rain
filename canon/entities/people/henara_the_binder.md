@@ -7,7 +7,7 @@ naming:
     given: Henara
   epithets: ["the Binder"]
   ledger_name: Henara
-lifespan:  -096 – -062 AO   # c. 96–62 BO
+lifespan: -096–-062 AO  # c. 96–62 BO
 role: High Priest and Canal-Warden of the Kllrian Arc (brief unifier)
 tags: [kllrian, temple, canals, diplomacy, conquest, myth]
 thesis: Bound terrace cities and causeway ports into a levy-league under temple seals; unity crumbled after his death amid “eel-people” raids.
@@ -19,6 +19,8 @@ links:
     - canon/notes/snapshots/known_world/known_world_c0.md
     - canon/notes/snapshots/watershed_moments/pre_empire_c0.md
   religion: canon/systems/religions/good_old_rhythm.md
+  metrology: canon/systems/metrology/calendar_base6.md
+  stone_current: canon/systems/religions/kllrian_stone_current_old_word.md
 ---
 
 ## Summary

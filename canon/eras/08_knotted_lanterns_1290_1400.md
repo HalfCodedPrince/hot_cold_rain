@@ -13,7 +13,6 @@ links:
   pozzolan: canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
-  
   marque: canon/systems/security/letters_of_marque_c1050_1200.md
   known_world: canon/notes/snapshots/known_world/known_world_c1215.md
 tags: [era, principality, colonies, widiwidi, universities, theaters, circumnavigation, green_years, church_crisis, nepotism]

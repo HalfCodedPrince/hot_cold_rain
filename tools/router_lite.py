@@ -1,7 +1,7 @@
-#!\usr\bin\env python3
-# tools\router_lite.py
+#!/usr/bin/env python3
+# tools/router_lite.py
 
-# python -u tools\router_lite.py
+# python -u tools/router_lite.py
 import csv, sys
 from pathlib import Path
 from collections import Counter

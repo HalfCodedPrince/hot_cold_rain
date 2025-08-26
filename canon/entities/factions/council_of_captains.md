@@ -15,6 +15,10 @@ links:
     - canon/entities/factions/beats/house_fourth_beat.md
     - canon/entities/factions/beats/house_sixth_beat.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
+  restorer: canon/entities/people/marak_kllrian.md
+  famous_case: canon\entities\people\arsu_of_seven_fingers.md
+  famous_candidate: canon/entities/people/thedos_zambrani.md
+thesis: Harbor collegium turned executive spine; calls elections for the High Master and holds one of the Three Seals in the Empty Seat regime.
 ---
 
 ## Overview
@@ -26,7 +30,7 @@ The Council began as a harbor collegium of ship-masters and became the republic�
 - **Convoys:** pool/route approvals; insurance standards published to compositories and port courts.
 
 ### Chamber & Seat
-Sessions meet in the **Salt Chamber**. The High Master’s **Oar-Bench Throne** (see `systems/governance/symbols_of_office.md`) sits centered and usually empty; captains take benches by ward, clerks stand.
+Sessions meet in the **Salt Chamber**. The High Master’s **Oar-Bench Throne** (see `canon/systems/governance/symbols_of_office_c700_1200.md`) sits centered and usually empty; captains take benches by ward, clerks stand.
 
 ## Notes
 During the **Empty Seat**, the Council holds one of the **Three Seals** (fleets & writs). Its prestige suffered in the Marrite years for inaction against defecting ports.

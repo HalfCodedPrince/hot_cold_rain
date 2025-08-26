@@ -6,7 +6,7 @@ links:
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
-  
+  architect: canon/entities/people/camra_dona.md
 tags: [gardens, brothels, taverns, factors, licenses, bond, queue]
 ---
 ## What they are

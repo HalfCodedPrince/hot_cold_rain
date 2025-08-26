@@ -7,6 +7,7 @@ founded_ao: c. 720
 mandate: Ritual & calendar; harmonizes festival timing with tideways and seasonal lanes.
 tags: [religion, ritual, calendar]
 status: Stable
+thesis: Ritual-calendar house—harmonizes festival days with tides and lanes; keeps the civic-temple calendar in tune.
 links:
   synod: canon/entities/factions/synod_of_beats.md
   religion: canon/systems/religions/good_old_rhythm.md

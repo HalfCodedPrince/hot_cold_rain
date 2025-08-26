@@ -9,7 +9,7 @@ naming:
   epithets: ["the Builder"]
   ledger_name: Ordan Bel
 lifespan: 968–1039 AO
-role: High Master (Golden Cadence)
+roles: [High Master (Golden Cadence)]
 tags: [public_works, finance, ports]
 thesis: Maxed Works—beacons, dredges, slipways—faster than local revenues could service; prosperity with a maintenance overhang.
 first_appearance: ERA-950
@@ -22,11 +22,11 @@ links:
 ---
 
 ## Summary
-Ordan Bel turned surplus into structure: continuous **beacon legs**, **Slipway Standard Mk II**, and deep-draft cuts. He financed via **Debt Office** bonds keyed to festival cycles. It worked—until storms and stacked maturities met thin local treasuries.
+Turned surplus into structure: contiguous **beacon legs**, **Slipway Standard Mk II**, deep-draft cuts—financed via **Debt Office** bonds keyed to festival cycles. It worked until storms + stacked maturities met thin treasuries.
 
-## Program Highlights
-- **Slipway Mk II** rollout in Ord Bay and major Sar capes.  
-- **Debt calendars** synchronized to Hexennial sets (ease collections, hide rollovers).  
-- **Port metrology stones** re-faced; tariff boards standardized.
+## Program highlights
+- Slipway Mk II rollout in Ord Bay and Sar capes.  
+- **Debt calendars** synchronized to Hexennial sets (ease collections; hide rollovers).  
+- Port **measure-stones** re-faced; tariff boards standardized.
 
-**Matters later:** durable hardware + **duration creep** → brittle when revenues dip.
+**Matters later:** hardware durability + **duration creep** → brittle when revenues dip.

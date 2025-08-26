@@ -12,6 +12,8 @@ links:
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
   council: canon/entities/factions/council_of_captains.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  archives_collegium: canon/entities/factions/archives_collegium.md
+  happened_under: canon/entities/people/erel_zambrani_keeper.md
 ---
 ## Notes
 The Keeper cannot proclaim successors. Registry clerks are sworn to the Short Beat; seal movements require both Council and Beat Six countersigns.

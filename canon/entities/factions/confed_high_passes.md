@@ -8,8 +8,10 @@ seat: rotating (three pass councils)
 mandate: Keep winter roads, tax summer caravans, protect herds, and bargain tribute with lowland chancelleries.
 tags: [upland, cavalry, tolls]
 status: Draft
+thesis: Rotating upland compact that controls passes, lanes, and hostage-sureties; aims for lane rights over capitals.
 links:
   region: canon/systems/geography/regions/kahet_uplands_pass_country.md
   era: canon/eras/06_middle_cadence_disjunction_1050_1200.md
 ---
+
 **Kit & method:** pony archers, mule skirmishers, wicker shields; burn depots not gates. **Objective:** lane rights and hostage-sureties, not capitals.

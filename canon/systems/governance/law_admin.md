@@ -10,6 +10,9 @@ links:
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   metrology: canon/systems/metrology/calendar_base6.md
   finance: canon/current/goalpost/economy/currency_finance_c1800.md
+  censorate: canon/entities/factions/censors_bench.md
+  vows_oboe: canon\entities\people\neris_zambrani.md
+  arsenal_reform: canon\entities\people\tammis_ardan.md
 ---
 
 ## Thesis
@@ -35,9 +38,3 @@ Maritime needs (convoys, quarantine, tolls) grew a **harbor-first legal order**:
 - **Stalemate:** Diet vetoes; princes govern by delay.  
 - **Capture:** Harbor offices rent-seek; watch bribery in lean years.  
 - **Distance law:** inland cases lag; temple boats stretch circuits.
-
-## Cross-refs
-- `canon/systems/metrology/calendar_base6.md` (standards; forms).
-- `canon/current/goalpost/economy/currency_finance_c1800.md` (warrants, assurance). 
-
-> **See also (overlays):** `law_admin.09_green_skies.md` (Mutation-Day registration/status law — TBD).

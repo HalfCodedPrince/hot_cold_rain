@@ -7,6 +7,8 @@ links:
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   economy: canon/current/goalpost/economy/currency_finance_c1800.md 
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  archives: canon/entities/factions/archives_collegium.md
+  earliest_documented_fraud: canon\entities\people\nasir_of_salt_steps.md
 ---
 
 ## Scope
@@ -32,5 +34,3 @@ Practical standards used by ports, courts, and convoy finance during the Cadence
 
 ### Marking & Proof
 - Ward **bell-year** marks on measures; compositories print **forms**; counterfeit marks → Watch courts.
-
-_Notes:_ Subpages like `weight_stones.md`, `grain_notes.md`, and `tide_steps.md` can be added later; keep this index as the stable target.

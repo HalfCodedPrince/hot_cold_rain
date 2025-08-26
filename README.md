@@ -8,6 +8,8 @@ Current baseline: **v0.14**
 - **Day of the Green Skies/Mutation Day/Green day content is mostly in** - see snapshots/special and snapshot/watershed_moments, along with the /biota folder
 - **Test map references** - canon/notes/maps/map_reference.yaml
 timeline.csv is canon; timeline.txt is mirror
+- **Project restructuring ongoing** - yet another one, may Oboe save our souls. It should make things more readable by LLM and save a shred of my sanity too.
+- **Script cleaunp ongoing** - un-blackbox them, because sometimes I need a fix and asking LLM to do it is a pain; regex, open your arms, for here I come.
 
 ## Quickstart
 
@@ -29,15 +31,7 @@ VALIDATE_NO_CASE=1 CLEANUP_MOVE=1 bash tools/upload_ready.sh
 
 ## Where to start
 
-- **Master Index (hand-curated, mostly)**: canon/00_master_index.md
-- **Front-matter Anthology (auto)**: front_matter_anthology.md (flattened front matter with ids/links/tags)
-- **Router (auto)**: tools/router_index.md (Top N by inbound refs; “what’s hot”)
-- **Entity Indices** (auto):
-canon/entities/people/index.md, canon/entities/factions/index.md,
-canon/entities/places/index.md, canon/entities/regions/index.md
-- **Systems Digest (auto)**: canon/systems/systems_digest.md
-**Glossary (hand)**: 01_glossary.md
-**Style Guide (hand)**: 02_style_guide.md
+- **Master Index (hand-curated entry point)**: canon/00_master_index.md
 
 ## File format (all canonical pages)
 ```

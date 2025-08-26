@@ -2,10 +2,12 @@
 id: PERS:DONA-001
 name: Camra Dona
 aliases: [High Master of Ord, The Bride-Maker]
-lifespan: c.1251 AO - 1309 AO (natural causes, fevered relapse)
+lifespan: c.1251–1309 AO
 origin: Ord (Upper City)
 roles: [High Master of Ord, Principal Elector, Convoy Architect]
 affiliations: [ORD-BENCH, ELEC-COLL, INS-STEP, WORKS]
+status: Draft
+thesis: Pragmatist High Master who turned pirates into revenue, benches into schedules, and cousins into a Kin-Grove—then midwifed the Great Ord–Sar Principality (1304).
 links:
   era_07: canon/eras/07_mangrove_garrot_1200_1290.md
   era_08: canon/eras/08_knotted_lanterns_1290_1400.md
@@ -13,14 +15,15 @@ links:
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
-  
+  council: canon/entities/factions/council_of_captains.md;
+  navigation: canon/systems/transport/navigation_currents.md;
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md;
+  marque: canon/systems/law/letters_of_marque_c1050_1200.md;
+  seven_fingers: canon/systems/geography/places/seven_fingers.md.
 tags: [statesman, ord, financier, convoy, kin-grove]
 ---
 
-## One-line
-Pragmatist High Master who turned pirates into revenue, benches into schedules, and cousins into a **Kin-Grove**, then midwifed the **Great Ord–Sar Principality** (1304).
-
-## Profile
+## Overview
 A ledger mind with a dramatist’s sense of spectacle, Camra Dona understood that **paper without ports is noise**. He married Ord’s benches to insurers and Works, married **Electors to Dona kin**, and married **fear to profit** (Mangrove Ordinance + Morum Exchange). Not a conqueror; a *co-opter*.
 
 ## Timeline
@@ -46,4 +49,3 @@ A ledger mind with a dramatist’s sense of spectacle, Camra Dona understood tha
 ## Hooks
 - A private letter to the Tau-Hi Archon on the cost of mercy.  
 - The pocket whistle he used to time Access hearings (he carried it everywhere).
-

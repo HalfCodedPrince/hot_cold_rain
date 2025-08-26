@@ -2,17 +2,19 @@
 id: PERS:ZAM-001
 name: Zambran “the Singer”
 lifespan: 650–726 AO
-role: High Master (reformer)
+roles: [High Master (reformer)]
 tags: [politics, religion, oratory]
-thesis: Patron–standardizer of the Rhythm; unifier by press, purse, and policy—charisma over sword.
-first_appearance: ERA-700
 status: Stable
+thesis: Patron–standardizer of the Rhythm; unifier by press, purse, and policy—charisma over sword.
+aliases: [Zambran, High Master Zambran]
 contradictions:
   - Tradition credits authorship of the Old Bold Rhythm; temple minutes/ledgers indicate a Sar-trained editorial circle as principal redactors.
-aliases: [Zambran, High Master Zambran]
 links:
   era: canon/eras/02_zambranic_700_800.md
   religion: canon/systems/religions/good_old_rhythm.md
+  synod: canon/entities/factions/synod_of_beats.md
+  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+  calendar: canon/systems/metrology/calendar_base6.md
 ---
 
 ## Summary
@@ -30,7 +32,7 @@ Zambran is the consolidation-era High Master who redirected imperial energy from
 Court ledgers and temple minutes show **Eshoron Ir** convened the editorial circle; **Nasha of Tau-Hi**, **Kelim Ar**, and **Teyu the Grey** compiled and redacted. **Zambran** funded presses, compelled distribution, and mandated civic adoption.
 
 ## Iconography & Anecdota
-- **Unibrow of Unity**: official busts/coins render a continuous brow as a visual pun on unity; satirists exaggerate it.
-- **“Zambran’s Salad”**: goat-cheese greens, allegedly from the camp-city kitchens; tavern lore insists it’s inauthentic and overpriced.
-- **Never held a boarding axe**: contemporaries agree he was a poor singer and never swung an axe; his captains did.
+- **Unibrow of Unity**; satirists exaggerate it.  
+- **“Zambran’s Salad”** tavern lore.  
+- **Never held a boarding axe**; captains did.  
 - **The Oar-Bench Throne**: sworn upon the thwart; otherwise kept empty in sessions.

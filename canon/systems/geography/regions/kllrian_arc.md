@@ -10,6 +10,7 @@ links:
   religious_topo: canon/systems/religions/religious_topography_c1400_1560.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
+  early_unity: canon/entities/people/henara_the_binder.md
 ---
 
 ## Thesis

@@ -11,6 +11,7 @@ links:
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  architect: canon/entities/people/camra_dona.md
 tags: [piracy, escorts, privateers, rate-hold, fee-farm, mangrove, republics]
 ---
 

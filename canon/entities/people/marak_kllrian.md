@@ -3,14 +3,12 @@ id: PERS:MRK-001
 name: Marak Kllrian
 naming:
   style: demonym
-  components:
-     given: Marak
-     people: Kllrian
+  components: { given: Marak, people: Kllrian }
   ledger_name: Marak Kllrian
 lifespan: 770–821 AO
-role: Admiral; elected High Master (restorer)
+roles: [Admiral, High Master (restorer)]
 tags: [navy, war, logistics]
-thesis: Outsider with the only fleet that still worked; took the Oar-Bench, made order cheaper than rebellion, and died in a storm.
+thesis: Outsider with the only fleet still working; took the Oar-Bench, made order cheaper than rebellion, and died in a storm.
 first_appearance: ERA-805
 status: Draft
 links:
@@ -19,6 +17,8 @@ links:
   watches: canon/entities/factions/harbor_watches.md
   insurance: canon/entities/factions/convoy_insurance_office.md
   law: canon/systems/law/marriage_and_vows_c700_1200.md
+  symbols: canon/systems/governance/symbols_of_office_c700_1200.md
+  empty_seat: canon/systems/governance/empty_seat_c790_860.md
 ---
 
 ## Summary

@@ -6,6 +6,10 @@ links:
   rhythm: canon/systems/religions/good_old_rhythm.md
   compositories: canon/entities/factions/guild_of_compositories.md
   law_admin: canon/systems/governance/law_admin.md
+  censorate: canon/entities/factions/censors_bench.md
+  synod: canon/entities/factions/synod_of_beats.md
+  administrative_manuals: canon\entities\people\teyu_the_grey.md
+  patron: canon/entities/people/zambran_the_singer.md
 ---
 
 # Writing & Printing in the Humid Maritime Tropics

@@ -8,6 +8,10 @@ links:
   health: canon/current/goalpost/health/public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+  works: canon/entities/factions/dredge_and_bar_works.md,
+  watches: canon/entities/factions/harbor_watches.md,
+  debt_office: canon/entities/factions/public_debt_office.md
+  patron: canon/entities/people/ikkar_mend.md
 ---
 
 # Public Works — Beacons, Seawalls & Cisterns

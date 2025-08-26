@@ -8,8 +8,7 @@ updated: 2025-08-19
 # Glossary
 
 **How to use**
-- **One line each**: concise, declarative definitions. Use *(aka …)* for aliases.  
-- **Cross-refs**: if a canonical page exists, add a trailing hint like `→ canon/systems/...` later.  
+- **One line each**: concise, declarative definitions. Use *(aka …)* for aliases.   
 - **Style**: capitalize proper names (e.g., *Bright Sea*), keep common nouns lower case (*bench-docket*).
 
 ---

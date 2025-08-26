@@ -10,6 +10,7 @@ links:
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
   religious_topo: canon/systems/religions/religious_topography_c1400_1560.md
+  upland_confed: canon/entities/factions/confed_high_passes.md
 ---
 
 ## Thesis

@@ -4,7 +4,8 @@ name: Good Old Rhythm (Old Bold Rhythm)
 status: Draft
 links:
   oboe: canon/systems/cosmos/oboe.md
-  beats_synod: canon/entities/factions/synod_of_beats.md
+  patron: canon/entities/people/zambran_the_singer.md
+  synod: canon/entities/factions/synod_of_beats.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   beat_two: canon/entities/factions/beats/house_second_beat.md
   compositories: canon/entities/factions/guild_of_compositories.md

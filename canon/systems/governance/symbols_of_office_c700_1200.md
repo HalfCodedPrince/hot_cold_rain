@@ -6,6 +6,9 @@ links:
   empty_seat: canon/systems/governance/empty_seat_c790_860.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
+  archives_collegium: canon/entities/factions/archives_collegium.md
+  council: canon/entities/factions/council_of_captains.md
+  censorate: canon/entities/factions/censors_bench.md
 tags: [symbols, ritual, office]
 ---
 

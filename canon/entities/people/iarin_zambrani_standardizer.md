@@ -1,10 +1,12 @@
 ---
 id: PERS:CAD-001
 name: Iarin Zambrani “the Standardizer”
-lifespan: r. 860–888 AO
-role: High Master (Golden Cadence)
+lifespan: ?–? AO
+reign_ao: 860–888
+roles: [High Master (Golden Cadence)]
 tags: [governance, standardization, metrology]
 status: Draft
+thesis: Finished Harbor Watch rollouts and pushed court forms/metric stones to treaty ports; the procedural state thickened on his watch.
 links:
   council: canon/entities/factions/council_of_captains.md
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
@@ -12,9 +14,6 @@ links:
   metrology: canon/systems/metrology/calendar_base6.md
   debt: canon/entities/factions/public_debt_office.md
 ---
-
-# Thesis
-Finishes Harbor Watch rollouts; pushes court forms and metric stones to treaty ports.
 
 ## Matters later
 Bureaucratic overgrowth begins here; later rulers inherit a heavier procedural state.

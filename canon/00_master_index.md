@@ -11,11 +11,12 @@ This is the high-level table of contents and working map for the canon and tools
 
 ## Shortcuts
 
-- Router (heatmap): `tools/router_index.md` (or in Index Pack)
-- Front-matter Anthology: `front_matter_anthology.md`
-- Systems Digest: `canon/systems/systems_digest.md`
-- Entities: `canon/entities/people/index.md`, `canon/entities/factions/index.md`, `canon/entities/places/index.md`, `canon/entities/regions/index.md`
-- Glossary: `01_glossary.md`  •  Style guide: `02_style_guide.md`  •  Map Reference: `canon/notes/maps/map_reference.yaml`
+- **Router (heatmap)**: `tools/router_index.md` (or in Index Pack - Top N by inbound refs; “what’s hot”)
+- **Front-matter Anthology (auto)**: `front_matter_anthology.md` (flattened front matter with ids/links/tags)
+- **Systems Digest**: `canon/systems/systems_digest.md`
+- **Entities**: `canon/entities/people/index.md`, `canon/entities/factions/index.md`, `canon/entities/places/index.md`, `canon/entities/regions/index.md`
+- **Glossary**: `01_glossary.md`  •  **Style guide**: `02_style_guide.md`  •  **Map Reference**: `canon/notes/maps/map_reference.yaml`
+
 
 ## Canon structure
 - `canon/eras/` (the biggest picture, in dynamic, mainly to show historical vectors, not just at the moment in time)

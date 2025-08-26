@@ -7,6 +7,7 @@ founded_ao: c. 720
 mandate: Doctrine & cosmology; defines orthodoxy; handles heresy cases.
 tags: [religion, doctrine]
 status: Stable
+thesis: Doctrinal house—guards orthodoxy and cosmology; adjudicates heresy cases for the Synod.
 links:
   synod: canon/entities/factions/synod_of_beats.md
   religion: canon/systems/religions/good_old_rhythm.md

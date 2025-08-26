@@ -131,7 +131,7 @@ aliases_by_era:
 ```
 
 ## Content Structure (recommended headings)
-- Base System/Entity: `Thesis` · `Overview` · `Institutions/Actors` · `Practices/Law` · `Economics/Logistics` · `Risks/Failure Modes` · `Cross-refs`.
+- Base System/Entity: `Thesis` · `Overview` · `Institutions/Actors` · `Practices/Law` · `Economics/Logistics` · `Risks/Failure Modes`
 
 ## Links (example for standardization)
   **systems & snapshots (primary)**

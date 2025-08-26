@@ -6,6 +6,7 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   cosmos: canon/systems/cosmos/index.md
   krum: canon/eras/00_preord_krum.md
+  historical_figure: canon/entities/people/henara_the_binder.md
 ---
 
 # Known World, c. 0 AO

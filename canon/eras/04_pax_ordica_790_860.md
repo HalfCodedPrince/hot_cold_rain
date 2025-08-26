@@ -9,6 +9,7 @@ institutions:
   - canon/entities/factions/council_of_captains.md
   - canon/entities/factions/synod_of_beats.md
   - canon/entities/factions/public_debt_office.md
+succession: canon/entities/people/thedos_zambrani.md
 ---
 
 ## Thesis

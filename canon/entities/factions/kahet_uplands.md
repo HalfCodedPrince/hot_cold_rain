@@ -7,6 +7,7 @@ links:
   ord_kahet: canon/eras/08_knotted_lanterns_1290_1400.md
   works: canon/entities/factions/dredge_and_bar_works.md
   stone_current: canon/systems/religions/kllrian_stone_current_old_word.md
+  upland_confed: canon/entities/factions/confed_high_passes.md
 tags: [region, kahet, uplands, passes, fords, terrace, stone-current, oath-stone]
 ---
 

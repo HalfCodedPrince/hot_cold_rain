@@ -9,6 +9,7 @@ links:
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
+  proclaimer: canon/entities/people/camra_dona.md
 tags: [charter, diet, electors, stair, access_days, prize, rate-hold]
 ---
 

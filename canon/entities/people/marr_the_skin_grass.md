@@ -3,21 +3,23 @@ id: PERS:MAR-001
 name: Marr “the Skin-Grass”
 naming:
   style: patronymic
-  components:
-    given: Marr
-    parent: Marr
+  components: { given: Marr, parent: Marr }
   epithets: ["the Skin-Grass"]
   ledger_name: Marr ben Marr
 lifespan: 703–783 AO
-role: High Master (interlude)
+reign_ao: 747–783
+roles: [High Master (interlude)]
 tags: [politics, censorship, architecture]
-thesis: A capable schemer turned corrosive ruler; popular opener, censorious midgame, sullen end—he teaches ports to test the leash.
 first_appearance: ERA-750
 status: Draft
+thesis: Capable schemer turned corrosive ruler—popular opener, censorious midgame, sullen end—teaches ports to test the leash.
 links:
   era: canon/eras/03_marrite_747_783.md
   council: canon/entities/factions/council_of_captains.md
   religion: canon/systems/religions/good_old_rhythm.md
+  censorate: canon/entities/factions/censors_bench.md
+  works_office: canon/entities/factions/office_of_imperial_works.md
+  symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---
 
 ## Summary
@@ -33,13 +35,12 @@ Nephew-favorite of **Zambran**, Marr rose on intrigue and emergency. Early compe
 - **783 AO** — **Vanishes** between night and tide; searches and temple lots called; no body recovered.
 
 ## Why “Skin-Grass”?
-Three competing etymologies circulate:
-1) **Taxman’s Quip:** “He skins even grass”—extracts petty fees and fines from nothing.  
+1) **Taxman’s Quip:** “He skins even grass”—petty fees from nothing.  
 2) **Green Rot:** stores ruined under his watch (green rain), “the skin of grass over grain.”  
-3) **Pamphleteers’ Pun:** a choir joke about the smell, reportedly due to a disease, i.e. literally "smells like old skin-grass". 
+3) **Pamphleteers’ Pun:** a choir joke about the smell, reportedly due to disease.
 
 ## Anecdota & Rumor
-- **Sea-lion councillor:** apocryphal—pamphlets claim Marr seated a trained sea-lion at Council.  
-- **Flies on spikes:** multiple contemporaries confirm this pastime.  
-- **Consort politics:** temple minutes hint at a strong listener-consort early on; later erased in purges (records missing).
-- **Last Swim**: suppressed guard chatter claims Marr slipped the palace cordon for a night swim the week of his disappearance. Official bulletins denounce “sea-omens” and “impostors.”
+- **Sea-lion councillor:** apocryphal pamphlet trope.  
+- **Flies on spikes:** multiple contemporaries confirm.  
+- **Consort politics:** early strong listener-consort; later purged from minutes.  
+- **Last Swim:** guard chatter claims a night swim the week of disappearance; bulletins denounce “sea-omens.”
