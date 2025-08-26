@@ -20,7 +20,7 @@ links:
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   censorate: canon/entities/factions/censors_bench.md
   debt: canon/entities/factions/public_debt_office.md
-  archives: canon/entities/factions/archive_collegium.md
+  archives: canon/entities/factions/archives_collegium.md
   law_admin: canon/systems/governance/law_admin.md
 ---
 

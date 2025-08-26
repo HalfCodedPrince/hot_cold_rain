@@ -16,7 +16,7 @@ links:
     - canon/entities/factions/beats/house_sixth_beat.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
   restorer: canon/entities/people/marak_kllrian.md
-  famous_case: canon\entities\people\arsu_of_seven_fingers.md
+  famous_case: canon/entities/people/arsu_of_seven_fingers.md
   famous_candidate: canon/entities/people/thedos_zambrani.md
 thesis: Harbor collegium turned executive spine; calls elections for the High Master and holds one of the Three Seals in the Empty Seat regime.
 ---

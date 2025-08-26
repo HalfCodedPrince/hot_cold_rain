@@ -8,7 +8,7 @@ first_appearance: ERA-700
 status: Draft
 thesis: Provided wind/rain/seasonal commentary aligning the liturgical calendar with navigational reality.
 links:
-  city: canon/entities/places/tau_hi.md
+  city: canon/systems/geography/places/tau_hi.md
   religion: canon/systems/religions/good_old_rhythm.md
   charts: canon/systems/transport/navigation_currents.md
   beat_two: canon/entities/factions/beats/house_second_beat.md

@@ -5,7 +5,7 @@ status: Draft
 links:
   hydrology: canon/systems/planetology/hydrology.md
   commentator: canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
-  early_commentator: canon\entities\people\thalen_of_tau_hi.md
+  early_commentator: canon/entities/people/thalen_of_tau_hi.md
 tags: [navigation, currents, old_song]
 ---
 

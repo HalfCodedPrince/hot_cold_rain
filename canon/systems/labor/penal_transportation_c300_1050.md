@@ -6,7 +6,7 @@ links:
   reed_camp: canon/systems/geography/places/reed_camp_district.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   censors: canon/entities/factions/censors_bench.md
-  manuals_by: canon\entities\people\teyu_the_grey.md
+  manuals_by: canon/entities/people/teyu_the_grey.md
 tags: [penal, camps, labor]
 ---
 

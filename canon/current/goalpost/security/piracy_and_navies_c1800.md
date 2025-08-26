@@ -6,7 +6,7 @@ links:
   finance: canon/current/goalpost/economy/currency_finance_c1800.md
   transport_index: canon/current/goalpost/transport/transport_index_c1800.md
   harbor_watches: canon/entities/factions/harbor_watches.md
-  insurers: canon/entities/factions/convoy_insurance_office.md,
+  insurers: canon/entities/factions/convoy_insurance_office.md
   council: canon/entities/factions/council_of_captains.md
 ---
 

@@ -8,7 +8,7 @@ links:
   economy: canon/current/goalpost/economy/currency_finance_c1800.md 
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
   archives: canon/entities/factions/archives_collegium.md
-  earliest_documented_fraud: canon\entities\people\nasir_of_salt_steps.md
+  earliest_documented_fraud: canon/entities/people/nasir_of_salt_steps.md
 ---
 
 ## Scope

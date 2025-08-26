@@ -7,10 +7,10 @@ links:
   cosmos_index: canon/systems/cosmos/index.md
   synod: canon/entities/factions/synod_of_beats.md
   standardizer: canon/entities/people/iarin_zambrani_standardizer.md
-  hexennial_codifier: canon\entities\people\teyu_ir_curator.md
+  hexennial_codifier: canon/entities/people/teyu_ir_curator.md
   ephemerides: canon/systems/cosmos/index.md
   standards_enforcement: canon/systems/governance/law_admin.md
-  civic_adoption: canon/entities/people/zambran_the_singer.md
+  civic_adoption: canon/entities/people/zambran.md
 ---
 
 ## Numbers

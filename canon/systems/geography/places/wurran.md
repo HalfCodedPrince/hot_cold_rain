@@ -13,7 +13,7 @@ links:
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   insurance: canon/systems/insurance/green_years_standard.md
   rhythm: canon/systems/religions/good_old_rhythm.md
-  battle_of_mistakes: canon\entities\people\pumyaaton.md
+  battle_of_mistakes: canon/entities/people/pumyaaton.md
 ---
 
 # Wurran-at-Delta

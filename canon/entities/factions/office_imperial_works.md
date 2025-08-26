@@ -12,7 +12,7 @@ links:
   infra: canon/systems/infrastructure/public_works_c700_1200.md
   governance: canon/systems/governance/empty_seat_c790_860.md
   master: canon/entities/people/ikkar_mend.md
-  patron: canon/entities/people/marr_skin_grass.md
+  patron: canon/entities/people/marr_the_skin_grass.md
 ---
 
 ## Notes

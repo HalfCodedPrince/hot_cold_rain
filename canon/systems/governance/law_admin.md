@@ -11,8 +11,8 @@ links:
   metrology: canon/systems/metrology/calendar_base6.md
   finance: canon/current/goalpost/economy/currency_finance_c1800.md
   censorate: canon/entities/factions/censors_bench.md
-  vows_oboe: canon\entities\people\neris_zambrani.md
-  arsenal_reform: canon\entities\people\tammis_ardan.md
+  vows_oboe: canon/entities/people/nerise_zambrani.md
+  arsenal_reform: canon/entities/people/tammis_ardan.md
 ---
 
 ## Thesis

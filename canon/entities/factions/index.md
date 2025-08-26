@@ -2,11 +2,11 @@
 id: INDEX:FACTIONS
 name: Factions — One-Liners & Links
 status: Stable
-updated: 2025-08-25
+updated: 2025-08-26
 ---
 
 - [FAC:ARC-001] **Archives Collegium** — archives, seals, ledgers  
-  → canon/entities/factions/archive_collegium.md
+  → canon/entities/factions/archives_collegium.md
 - [FAC:BTC-001] **Bay Triune Compact (alleged)** — cartel, scandal, ports  
   → canon/entities/factions/bay_triune_compact.md
 - [FAC:BEAT-005] **House of the Fifth Beat** — religion, charity, public_health  

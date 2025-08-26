@@ -25,7 +25,7 @@ links:
   insurance: canon/systems/insurance/green_years_standard.md
   rhythm: canon/systems/religions/good_old_rhythm.md
   accords_by: canon/entities/people/nasha_of_tau_hi_broker.md
-  captain_representative_ord_sar: canon\entities\people\arsu_of_seven_fingers.md
+  captain_representative_ord_sar: canon/entities/people/arsu_of_seven_fingers.md
 ---
 
 # Overview

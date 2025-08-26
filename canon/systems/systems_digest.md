@@ -2,7 +2,7 @@
 id: PACK:SYSTEMS-DIGEST
 name: Systems Digest — Claims & Links
 status: Stable
-updated: 2025-08-25
+updated: 2025-08-26
 ---
 
 This digest lists each system page with its ID and canonical path. Keep claims in the source pages; this file is compact routing.

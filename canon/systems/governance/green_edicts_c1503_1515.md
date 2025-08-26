@@ -17,7 +17,7 @@ links:
   calendar_base6: canon/systems/metrology/calendar_base6.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
-  drafter: canon\entities\people\tamur_inqel_master_of_plates.md
+  drafter: canon/entities/people/tamur_inqel_master_of_plates.md
 ---
 
 ## Thesis

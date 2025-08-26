@@ -18,7 +18,7 @@ links:
   council: canon/entities/factions/council_of_captains.md
   religion: canon/systems/religions/good_old_rhythm.md
   censorate: canon/entities/factions/censors_bench.md
-  works_office: canon/entities/factions/office_of_imperial_works.md
+  works_office: canon/entities/factions/office_imperial_works.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
 ---
 

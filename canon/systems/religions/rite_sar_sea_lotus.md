@@ -5,7 +5,7 @@ status: Draft
 links:
   topo: canon/systems/religions/religious_topography_c1290_1400.md
   good_old: canon/systems/religions/good_old_rhythm.md
-  rector: canon\entities\people\seli_of_the_lotus_baths.md
+  rector: canon/entities/people/seli_of_the_lotus_baths.md
 tags: [sar, rite, lotus, antiphon, lustration, geometry]
 ---
 

@@ -2,19 +2,21 @@
 id: INDEX:PEOPLE
 name: People — One-Liners & Links
 status: Stable
-updated: 2025-08-25
+updated: 2025-08-26
 ---
 
+- [PERS:SEV-REP-001] **Arsu of Seven Fingers** — rebellion, ports  
+  → canon/entities/people/arsu_of_seven_fingers.md
 - [PERS:DONA-001] **Camra Dona** — statesman, ord, financier  
   → canon/entities/people/camra_dona.md
-- [PERS:KLL-001] **Henara “the Binder”** — kllrian, temple, canals  
-  → canon/entities/people/chenara_the_binder.md
 - [PERS:CAD-007] **Erel Zambrani “the Keeper”** — law, archives, censorship  
   → canon/entities/people/erel_zambrani_keeper.md
 - [PERS:ESH-001] **Eshoron Ir** — religion, administration, law  
   → canon/entities/people/eshoron_ir.md
+- [PERS:KLL-001] **Henara “the Binder”** — kllrian, temple, canals  
+  → canon/entities/people/henara_the_binder.md
 - [PERS:CAD-001] **Iarin Zambrani “the Standardizer”** — governance, standardization, metrology  
-  → canon/entities/people/iarin_zambrani.md
+  → canon/entities/people/iarin_zambrani_standardizer.md
 - [PERS:IKK-001] **Ikkar Mend** — public_works, patronage, corruption  
   → canon/entities/people/ikkar_mend.md
 - [INDEX:PEOPLE] **People — One-Liners & Links**  
@@ -26,19 +28,13 @@ updated: 2025-08-25
 - [PERS:MRK-001] **Marak Kllrian** — navy, war, logistics  
   → canon/entities/people/marak_kllrian.md
 - [PERS:CAD-002] **Maren Kllrian “the Quiet Helm”** — convoys, seamanship, education  
-  → canon/entities/people/maren_kllrian.md
+  → canon/entities/people/maren_kllrian_quiet_helm.md
 - [PERS:MAR-001] **Marr “the Skin-Grass”** — politics, censorship, architecture  
   → canon/entities/people/marr_the_skin_grass.md
 - [PERS:NAT-001] **Nasha of Tau-Hi** — science, navigation, religion  
-  → canon/entities/people/nasha_of_tau_hi.md
-- [PERS:CAD-005] **Nasha of Tau-Hi “the Broker”** — treaties, law, ports  
-  → canon/entities/people/nasha_tau_hi_broker.md
-- [PERS:NAS-001] **Nasir of the Salt Steps** — ord-south, commerce, scandal  
+  → canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
+- [PERS:NAS-001] **Nasir of the Salt Steps** — ord_south, commerce, scandal  
   → canon/entities/people/nasir_of_salt_steps.md
-- [PERS:PUL-001] **Nerise Zambrani** — finance, law, diplomacy  
-  → canon/entities/people/neris_zambrani.md
-- [PERS:NEPHEW-TBD] **Nerise’s Ward (placeholder)** — placeholder  
-  → canon/entities/people/nerise_ward_placeholder.md
 - [PERS:CAD-006] **Ordan Bel “the Builder”** — public_works, finance, ports  
   → canon/entities/people/ordan_bel_builder.md
 - [PERS:PUM-003] **Pumyaaton (brother of Philosir II)** — wurran, campaign, battle_of_mistakes  
@@ -47,13 +43,11 @@ updated: 2025-08-25
   → canon/entities/people/seli_fifth_stone.md
 - [PERS:SELI-LOTUS] **Seli of the Lotus Baths** — cleric, reformer, sar  
   → canon/entities/people/seli_of_the_lotus_baths.md
-- [PERS:SEV-REP-001] **Arsu of Seven Fingers** — rebellion, ports  
-  → canon/entities/people/seven_fingers_captain.md
 - [PERS:TAM-001] **Tammis Ardan** — governance, arsenal, reform  
   → canon/entities/people/tammis_ardan.md
 - [PERS:TAMUR-PLATE] **Tamur Inqel** — cleric, censor, plates  
   → canon/entities/people/tamur_inqel_master_of_plates.md
-- [PERS:CAD-004] **Teyu Ir “the Curator”** — ritual, censorship, calendar  
+- [PERS:CAD-004] **Teyu Ir "the Curator"** — ritual, censorship, calendar  
   → canon/entities/people/teyu_ir_curator.md
 - [PERS:TGY-001] **Teyu the Grey** — administration, industry, religion  
   → canon/entities/people/teyu_the_grey.md

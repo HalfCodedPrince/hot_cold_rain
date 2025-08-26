@@ -6,7 +6,7 @@ span: "700–800 AO"
 thesis: "Zambran’s circle fixes doctrine and law in print; Ord–Sar unifies by blockade, siege, and deal-making; imperial offices harden."
 signature_events: []
 institutions:
-  - canon/entities/people/neris_zambrani.md
+  - canon/entities/people/nerise_zambrani.md
   - canon/systems/religions/good_old_rhythm.md
   - canon/entities/factions/guild_of_compositories.md
   - canon/entities/factions/council_of_captains.md

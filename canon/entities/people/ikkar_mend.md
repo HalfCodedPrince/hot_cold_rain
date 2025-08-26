@@ -12,7 +12,7 @@ thesis: Juggled prestige beacons and slipways with “emergency” clauses; boug
 first_appearance: ERA-1030
 status: Draft
 links:
-  works: canon/entities/factions/office_of_imperial_works.md   # fixed path
+  works: canon/entities/factions/office_imperial_works.md
   infra: canon/systems/infrastructure/public_works_c700_1200.md
   debt: canon/entities/factions/public_debt_office.md
 ---

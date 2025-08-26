@@ -13,7 +13,7 @@ links:
   religion: canon/systems/religions/good_old_rhythm.md
   governance: canon/systems/governance/empty_seat_c790_860.md
   convenor: canon/entities/people/eshoron_ir.md
-  codifier: canon\entities\people\teyu_ir_curator.md
+  codifier: canon/entities/people/teyu_ir_curator.md
   houses:
     - canon/entities/factions/beats/house_first_beat.md
     - canon/entities/factions/beats/house_second_beat.md
@@ -21,7 +21,7 @@ links:
     - canon/entities/factions/beats/house_fourth_beat.md
     - canon/entities/factions/beats/house_fifth_beat.md
     - canon/entities/factions/beats/house_sixth_beat.md
-  patron: canon/entities/people/zambran_the_singer.md
+  patron: canon/entities/people/zambran.md
 ---
 
 ## Overview

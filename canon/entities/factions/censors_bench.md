@@ -12,8 +12,8 @@ links:
   guild: canon/entities/factions/guild_of_compositories.md
   beat_six: canon/entities/factions/beats/house_sixth_beat.md
   first_censore_drift_under: canon/entities/people/erel_zambrani_keeper.md
-  founder: canon/entities/people/marr_skin_grass.md
-  ally: canon\entities\people\tamur_inqel_master_of_plates.md
+  founder: canon/entities/people/marr_the_skin_grass.md
+  ally: canon/entities/people/tamur_inqel_master_of_plates.md
 tags: [censorship, law, print]
 ---
 

@@ -8,8 +8,8 @@ links:
   law_admin: canon/systems/governance/law_admin.md
   censorate: canon/entities/factions/censors_bench.md
   synod: canon/entities/factions/synod_of_beats.md
-  administrative_manuals: canon\entities\people\teyu_the_grey.md
-  patron: canon/entities/people/zambran_the_singer.md
+  administrative_manuals: canon/entities/people/teyu_the_grey.md
+  patron: canon/entities/people/zambran.md
 ---
 
 # Writing & Printing in the Humid Maritime Tropics

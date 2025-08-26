@@ -14,5 +14,5 @@ links:
   governance: canon/systems/governance/empty_seat_c790_860.md
   censorate: canon/entities/factions/censors_bench.md
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
-  warrant_template: canon\entities\people\teyu_ir_curator.md
+  warrant_template: canon/entities/people/teyu_ir_curator.md
 ---

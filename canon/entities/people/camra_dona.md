@@ -15,10 +15,10 @@ links:
   factors_row: canon/systems/commerce/morum_factors_row_c1296.md
   gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
   piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
-  council: canon/entities/factions/council_of_captains.md;
-  navigation: canon/systems/transport/navigation_currents.md;
-  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md;
-  marque: canon/systems/law/letters_of_marque_c1050_1200.md;
+  council: canon/entities/factions/council_of_captains.md
+  navigation: canon/systems/transport/navigation_currents.md
+  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
+  marque: canon/systems/security/letters_of_marque_c1050_1200.md
   seven_fingers: canon/systems/geography/places/seven_fingers.md.
 tags: [statesman, ord, financier, convoy, kin-grove]
 ---

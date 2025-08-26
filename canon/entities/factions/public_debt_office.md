@@ -14,7 +14,7 @@ links:
   insurance: canon/entities/factions/convoy_insurance_office.md
   first_whistleblowers_under: canon/entities/people/erel_zambrani_keeper.md
   founder: canon/entities/people/kelim_ar_chancellor.md
-  auditor_general: canon\entities\people\seli_fifth_stone.md
+  auditor_general: canon/entities/people/seli_fifth_stone.md
 ---
 
 ## Notes
