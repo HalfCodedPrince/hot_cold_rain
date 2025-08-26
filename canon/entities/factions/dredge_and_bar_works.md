@@ -12,4 +12,5 @@ links:
   infrastructure: canon/systems/infrastructure/public_works_c700_1200.md
   finance: canon/entities/factions/public_debt_office.md
   patron: canon/entities/people/kelim_ar_chancellor.md
+  climate_driver: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 ---

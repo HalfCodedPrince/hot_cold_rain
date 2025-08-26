@@ -12,6 +12,7 @@ links:
   transport: canon/systems/transport/navigation_currents.md
   security: canon/current/goalpost/security/piracy_and_navies_c1800.md
   era_09: canon/eras/09_pamphlet_wars_1400_1503.md
+  peopling: canon/systems/anthropology/widiwidi_peopling.md
 ---
 
 ## Thesis

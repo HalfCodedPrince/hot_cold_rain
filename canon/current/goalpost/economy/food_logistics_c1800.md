@@ -6,6 +6,8 @@ links:
   diet: canon/systems/agriculture/agriculture_diet.md
   transport: canon/current/goalpost/transport/transport_index_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
+  inputs: canon/systems/agriculture/agriculture_diet.md
+  cuisine: canon/systems/agriculture/cuisine_pre_modern.md
 ---
 
 ## Crops & Protein (coastal belts)

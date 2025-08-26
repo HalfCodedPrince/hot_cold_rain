@@ -149,3 +149,19 @@ aliases_by_era:
 
   **maps & references (tertiary)**
   map_mutation_day: canon/notes/maps/map_mutation_day.yaml
+
+
+# Appendix: Project Guardrails (GPT collaborator)
+
+- **Lore-first.** Check every change against current lore; do not “upgrade” plot or systems ad hoc.
+- **Repo as ground truth.** Only reference files that exist in the currently uploaded project set or in the user’s pasted snippet.
+  - If a reference seems necessary but no file exists, mark it explicitly as a *proposed new stub*.
+- **No silent renames.** Do not add/remove small words (“of”, “the”, etc.) in filenames or titles unless you’re explicitly proposing a rename.
+- **Snippets are authoritative.** When a file is pasted in chat, treat that snippet as the canonical version for this pass. If you recall older drafts, label them “earlier memory (discard if outdated).”
+- **Cross-file linking.**
+  - Use `links:` with stable relative paths only.
+  - Don’t re-propose links already present in `links:`.
+  - Prefer symmetric links (propose reciprocal updates when relevant).
+  - **Stable → Draft:** avoid deep-linking a Stable page to a Draft leaf; point to the stable parent/collection instead. Draft↔Draft and Stable↔Stable leaf links are fine.
+- **Output format.** Post `.md` text directly in chat with the path and proposed filename. Proposing additions to existing files is allowed; don’t attach external files.
+

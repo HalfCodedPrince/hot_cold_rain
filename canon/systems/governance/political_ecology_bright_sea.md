@@ -3,7 +3,7 @@ id: GOV:POL-ECO
 name: Political Ecology of the Bright Sea
 status: Draft
 links:
-  climate: canon/systems/climate/bright_sea_climate.md
+  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
   hydrology: canon/systems/planetology/hydrology.md
   transport: canon/current/goalpost/transport/transport_index_c1800.md
   law: canon/systems/governance/law_admin.md

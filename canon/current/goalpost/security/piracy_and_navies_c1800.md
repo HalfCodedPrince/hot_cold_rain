@@ -8,6 +8,8 @@ links:
   harbor_watches: canon/entities/factions/harbor_watches.md
   insurers: canon/entities/factions/convoy_insurance_office.md
   council: canon/entities/factions/council_of_captains.md
+  staples: canon/systems/agriculture/agriculture_diet.md
+  weather: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 ---
 
 # Piracy, Convoys & Navies

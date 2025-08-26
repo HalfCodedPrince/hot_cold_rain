@@ -6,12 +6,13 @@ links:
   office_works: canon/entities/factions/office_imperial_works.md
   transport: canon/current/goalpost/transport/transport_index_c1800.md
   health: canon/current/goalpost/health/public_health_c1800.md
-  climate: canon/systems/climate/bright_sea_climate.md
+  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
   works: canon/entities/factions/dredge_and_bar_works.md
   watches: canon/entities/factions/harbor_watches.md
   debt_office: canon/entities/factions/public_debt_office.md
   patron: canon/entities/people/ikkar_mend.md
+  
 ---
 
 # Public Works — Beacons, Seawalls & Cisterns

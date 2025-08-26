@@ -3,7 +3,7 @@ id: SEC:LONG-PATROL-1770-1800
 name: Longara Marine Patrol — Littoral Doctrine (c. 1770–1800 AO)
 status: Draft
 links:
-  climate: canon/systems/climate/bright_sea_climate.md
+  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
   currents: canon/systems/transport/navigation_currents.md
   piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
   ships: canon/systems/transport/ships_galleys.md

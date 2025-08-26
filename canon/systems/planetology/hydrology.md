@@ -4,6 +4,8 @@ name: Hydrology & 'Green Rain'
 status: Draft
 links:
   hex: canon/systems/cosmos/moon_hex.md
+  origins: canon/systems/anthropology/human_origins_migrations.md
+  bright_sea: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 tags: [hydrology, green_rain]
 ---
 

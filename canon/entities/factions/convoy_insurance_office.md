@@ -9,6 +9,7 @@ links:
   currency: canon/current/goalpost/economy/currency_finance_c1800.md
   piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
   architect: canon/entities/people/maren_kllrian_quiet_helm.md
+  premia_basis: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 tags: [insurance, tariffs, convoys]
 ---
 

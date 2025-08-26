@@ -10,6 +10,7 @@ links:
   watches: canon/entities/factions/harbor_watches.md
   insurers: canon/entities/factions/convoy_insurance_office.md
   public_works: canon/systems/infrastructure/public_works_c700_1200.md
+  diet: canon/systems/agriculture/agriculture_diet.md
 tags: [warehouses, bonded, scrip, grain, oil, receipts, redemption]
 ---
 

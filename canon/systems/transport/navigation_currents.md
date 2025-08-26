@@ -6,6 +6,9 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   commentator: canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
   early_commentator: canon/entities/people/thalen_of_tau_hi.md
+  origins_track: canon/systems/anthropology/human_origins_migrations.md
+  island_hops: canon/systems/anthropology/widiwidi_peopling.md
+  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 tags: [navigation, currents, old_song]
 ---
 

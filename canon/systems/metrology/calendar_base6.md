@@ -11,6 +11,7 @@ links:
   ephemerides: canon/systems/cosmos/index.md
   standards_enforcement: canon/systems/governance/law_admin.md
   civic_adoption: canon/entities/people/zambran.md
+  beat_weather_usage: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 ---
 
 ## Numbers

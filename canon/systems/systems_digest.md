@@ -29,7 +29,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ## Climate
 
 ### Bright Sea Climate, Old Song & Green Rains
-`CLIM:BRIGHT-SEA` — canon/systems/climate/bright_sea_climate.md
+`CLIM:BRIGHT-SEA` — canon/systems/climate/bright_sea_climate_old_song_green_rains.md
 
 ## Commerce
 
