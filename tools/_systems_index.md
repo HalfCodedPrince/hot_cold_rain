@@ -4,6 +4,7 @@
 ## Agriculture
 
 - **Agriculture & Diet — Coasts, Deltas, Isles** (`SYS:AGRO-DIET`): `canon/systems/agriculture/agriculture_diet.md`
+- **Cuisine — Premodern Patterns** (`SYS:CUISINE-PRE`): `canon/systems/agriculture/cuisine_pre_modern.md`
 
 
 ## Anthropology
@@ -15,7 +16,7 @@
 
 ## Climate
 
-- **Bright Sea Climate, Old Song & Green Rains** (`CLIM:BRIGHT-SEA`): `canon/systems/climate/bright_sea_climate.md`
+- **Bright Sea Climate, Old Song & Green Rains** (`CLIM:BRIGHT-SEA`): `canon/systems/climate/bright_sea_climate_old_song_green_rains.md`
 
 
 ## Commerce

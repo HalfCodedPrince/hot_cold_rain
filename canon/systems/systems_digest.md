@@ -12,6 +12,9 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 ### Agriculture & Diet — Coasts, Deltas, Isles
 `SYS:AGRO-DIET` — canon/systems/agriculture/agriculture_diet.md
 
+### Cuisine — Premodern Patterns
+`SYS:CUISINE-PRE` — canon/systems/agriculture/cuisine_pre_modern.md
+
 ## Anthropology
 
 ### Human Origins & Migrations (Out of Sar)

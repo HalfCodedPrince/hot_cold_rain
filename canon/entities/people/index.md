@@ -31,10 +31,14 @@ updated: 2025-08-26
   → canon/entities/people/maren_kllrian_quiet_helm.md
 - [PERS:MAR-001] **Marr “the Skin-Grass”** — politics, censorship, architecture  
   → canon/entities/people/marr_the_skin_grass.md
+- [PERS:CAD-005] **Nasha of Tau-Hi “the Broker”** — treaties, law, ports  
+  → canon/entities/people/nasha_of_tau_hi_broker.md
 - [PERS:NAT-001] **Nasha of Tau-Hi** — science, navigation, religion  
   → canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
 - [PERS:NAS-001] **Nasir of the Salt Steps** — ord_south, commerce, scandal  
   → canon/entities/people/nasir_of_salt_steps.md
+- [PERS:PUL-001] **Nerise Zambrani** — finance, law, diplomacy  
+  → canon/entities/people/nerise_zambrani.md
 - [PERS:CAD-006] **Ordan Bel “the Builder”** — public_works, finance, ports  
   → canon/entities/people/ordan_bel_builder.md
 - [PERS:PUM-003] **Pumyaaton (brother of Philosir II)** — wurran, campaign, battle_of_mistakes  
