@@ -67,6 +67,7 @@ updated: 2025-08-19
 ## K
 
 - **Keeper of the Oboe Seal** — government office; holds matrix/keys; certifies absence & succession.  
+- **Kin-Maze** - - Principality-related; Camra Dona kin tied every Principality Elector, sowing seeds for internal conflict. As a general term: a synonim for widespread nepotism.
 - **Kllrian Arc** — volcanic archipelago; terrace hydrology; paddy grain to Ord–Sar.
 
 ## L
@@ -92,6 +93,7 @@ updated: 2025-08-19
 - **Pot-de-fer** — early tube-gun; bolt/stone shooter.  
 - **Pozzolan (A/B)** — volcanic ash graded for hydraulic mortar; A = underwater/splash.  
 - **Prize Docket** — insurer-run docket deciding captures and bounties; key to privateering.
+- **Principality** - Principality ("Greater Principality of Ord and Sar") is a political entity wetnusred by Camra Dona in around ~1300 A.O. Covers most of the cities around the Bright Sea, fragile and prone to internal conflicts.
 
 ## R
 

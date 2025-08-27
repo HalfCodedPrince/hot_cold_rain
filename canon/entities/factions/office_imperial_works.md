@@ -16,4 +16,4 @@ links:
 ---
 
 ## Notes
-Captured by court favorites under Marr; prestige projects jump the queue; maintenance budgets raided; “imperfect” works condemned and burned in 771 AO.
+Captured by court favorites under Marr; prestige projects jump the queue; maintenance budgets raided; “imperfect” works condemned and burned in 771 AO; the office kept existing after Marr.

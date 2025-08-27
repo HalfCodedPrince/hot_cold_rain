@@ -9,6 +9,8 @@ links:
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
   archives: canon/entities/factions/archives_collegium.md
   earliest_documented_fraud: canon/entities/people/nasir_of_salt_steps.md
+  iron_sand_bloomery_c1200: canon/systems/industry/iron_sand_bloomery_c1200.md
+  weights_and_measures: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
 ---
 
 ## Scope

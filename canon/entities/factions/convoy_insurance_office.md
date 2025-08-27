@@ -10,6 +10,8 @@ links:
   piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
   architect: canon/entities/people/maren_kllrian_quiet_helm.md
   premia_basis: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
+  procurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
 tags: [insurance, tariffs, convoys]
 ---
 

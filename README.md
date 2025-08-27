@@ -48,6 +48,11 @@ VALIDATE_NO_CASE=1 CLEANUP_MOVE=1 bash tools/upload_ready.sh
 
 - **Master Index (hand-curated entry point)**: `canon/00_master_index.md`
 
+## Meta docs:
+- `canon/02_style_guide.md`
+- `canon/03_LLM_editing_workflow.md`
+- `canon/03_LLM_linking_policy.md`
+
 ---
 
 ## Repository layout (LLM-friendly, shallow)

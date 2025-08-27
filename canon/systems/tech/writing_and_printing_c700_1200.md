@@ -10,6 +10,7 @@ links:
   synod: canon/entities/factions/synod_of_beats.md
   administrative_manuals: canon/entities/people/teyu_the_grey.md
   patron: canon/entities/people/zambran.md
+  procurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
 ---
 
 # Writing & Printing in the Humid Maritime Tropics

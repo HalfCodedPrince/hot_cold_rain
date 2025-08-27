@@ -15,6 +15,9 @@ links:
   first_whistleblowers_under: canon/entities/people/erel_zambrani_keeper.md
   founder: canon/entities/people/kelim_ar_chancellor.md
   auditor_general: canon/entities/people/seli_fifth_stone.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
+  procurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  public_works_connection: canon/systems/infrastructure/public_works_c700_1200.md
 ---
 
 ## Notes

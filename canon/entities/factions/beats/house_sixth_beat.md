@@ -16,4 +16,5 @@ links:
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
   warrant_template: canon/entities/people/teyu_ir_curator.md
   culture_games: canon/systems/culture/games_and_festivals_c950.md
+  symbols_of_office: canon/systems/governance/symbols_of_office_c700_1200.md
 ---

@@ -27,6 +27,7 @@ links:
   clothing_textiles: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
+  symbols_of_office: canon/systems/governance/symbols_of_office_c700_1200.md
 tags: [religion, music, governance]
 ---
 

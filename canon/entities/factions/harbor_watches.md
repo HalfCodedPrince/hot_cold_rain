@@ -11,6 +11,9 @@ links:
   rollout: canon/entities/people/iarin_zambrani_standardizer.md
   unifier: canon/entities/people/marak_kllrian.md
   fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
+  procurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  public_works_connection: canon/systems/infrastructure/public_works_c700_1200.md
 tags: [signals, bells, fog, headlands]
 ---
 

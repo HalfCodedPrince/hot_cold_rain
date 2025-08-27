@@ -8,6 +8,7 @@ links:
   keeper: canon/entities/factions/keeper_of_oboe_seal.md
   chancery: canon/entities/factions/grain_chancery.md
   law: canon/systems/governance/law_admin.md
+  symbols_of_office: canon/systems/governance/symbols_of_office_c700_1200.md
 tags: [interregnum, seals, elections]
 ---
 

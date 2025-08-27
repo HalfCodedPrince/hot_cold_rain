@@ -14,6 +14,7 @@ links:
   hydrology: canon/systems/planetology/hydrology.md
   debt_office: canon/entities/factions/public_debt_office.md
   works: canon/entities/factions/dredge_and_bar_works.md
+  foundry_discipline_1400_1550: canon/systems/industry/foundry_discipline_1400_1550.md
 ---
 
 ## Thesis
@@ -34,7 +35,7 @@ Gunpowder is already practical in sieges and watches, but the **rate-limiter is 
 ## Grades & Use
 - **Bulk serpentine:** for mines/signal pots; cheap but inconsistent.  
 - **Refined (re-boiled):** watches & siege trains.  
-- **Corned (rich ports):** limited, higher energy and flow; favored by elite trains.
+- **Corned (rich ports):** limited, higher energy and flow; favored by elite units.
 
 ## Sites & Seasonality
 - **Urban nitraries** in warm/dry wards;  
@@ -54,9 +55,3 @@ Output dips in long wet spells; rises after festival seasons (more “feedstock�
 
 ## Nuisance & Public Health
 Stink, brine spills, flybeds. Ward codes require covers, drains, and **quiet clinic lanes** nearby; beadles can shutter yards that ignore rinse/roof rules during green weeks.
-
-## Hooks (GM)
-- A seized lot lacks a **plate-sealed assay**; court day or bribe?  
-- A wet year rots nitraries; a port floods the market with **corned** imports.  
-- A printers’ lampoon brands a nitrary “plague yard”; Free City censors shrug; insurers don’t.  
-- Access Day collides with festival → convoy stalls → soldiers go without powder.

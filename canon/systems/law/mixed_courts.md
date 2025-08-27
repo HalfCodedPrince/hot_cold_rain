@@ -11,6 +11,7 @@ links:
   mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
   society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
   calendar_base6: canon/systems/metrology/calendar_base6.md
+  foundry_discipline_1400_1550: canon/systems/industry/foundry_discipline_1400_1550.md
 ---
 
 ## Scope & jurisdiction

@@ -1,7 +1,7 @@
 ---
 id: PACK:SYSTEMS-DIGEST
 name: Systems Digest — Claims & Links
-status: draft
+status: Stable
 updated: 2025-08-26
 ---
 
@@ -82,7 +82,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ## Culture
 
-### Games, Sports & Festivals of the Bright Sea
+### Games, Sports & Festivals of the Bright Sea (c.950 AO)
 `SYS:CULT-GAMES` — canon/systems/culture/games_and_festivals_c950.md
 - Tags: festivals, sport, calendar
 
@@ -179,6 +179,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ### The Empty Seat — Interregnal Governance
 `GOV:EMPTY-SEAT` — canon/systems/governance/empty_seat_c790_860.md
+- Tags: interregnum, seals, elections
 
 ### Green Edicts — Bench/Steps/Works Coordination (c.1503–1515 AO)
 `SNAP:GREEN-EDICTS-1503_1515` — canon/systems/governance/green_edicts_c1503_1515.md

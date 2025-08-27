@@ -12,6 +12,7 @@ links:
   metrology: canon/systems/metrology/calendar_base6.md
   green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
   works: canon/entities/factions/dredge_and_bar_works.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
 ---
 
 # Climate of the Bright Sea

@@ -20,6 +20,8 @@ links:
   navigation: canon/systems/transport/navigation_currents.md
   governance: canon/systems/governance/procurement_fee_farms_c700_1200.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
+  iron_sand_bloomery_c1200: canon/systems/industry/iron_sand_bloomery_c1200.md
+  proto_industry_c1290_1400: canon/systems/industry/proto_industry_c1290_1400.md
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 ---
 

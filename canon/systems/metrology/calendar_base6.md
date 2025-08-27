@@ -13,6 +13,7 @@ links:
   civic_adoption: canon/entities/people/zambran.md
   beat_weather_usage: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
   fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
 ---
 
 ## Numbers

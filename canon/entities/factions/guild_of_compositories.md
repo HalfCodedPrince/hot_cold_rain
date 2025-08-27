@@ -16,4 +16,5 @@ links:
   symbols: canon/systems/governance/symbols_of_office_c700_1200.md
   first_canon: canon/entities/people/eshoron_ir.md
   redactor: canon/entities/people/kelim_ar_of_sar_north.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
 ---

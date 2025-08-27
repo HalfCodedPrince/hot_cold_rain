@@ -40,7 +40,7 @@
 
 ## Culture
 
-- **Games, Sports & Festivals of the Bright Sea** (`SYS:CULT-GAMES`): `canon/systems/culture/games_and_festivals_c950.md`
+- **Games, Sports & Festivals of the Bright Sea (c.950 AO)** (`SYS:CULT-GAMES`): `canon/systems/culture/games_and_festivals_c950.md`
 
 
 ## Economy

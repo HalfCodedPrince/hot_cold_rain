@@ -10,8 +10,6 @@ links:
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   health: canon/current/goalpost/health/public_health_c1800.md
   climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
-
-  
 ---
 
 ## Crops & cycles
@@ -42,51 +40,74 @@ Rites fund **public kettles** (pulses + greens); festival sweets from rice starc
 Low-lactose habits; seaweed/oyster sauces supply iodine; polished grain preference rises price of greens—temple kitchens counter with ferments.
 
 
-## c.1800 (industrializing addendum)
+## c.1800 (Shana Mutatorem Addendum — Patchwork Modernity)
 
 ### Supply & lanes
-- **Convoyed staples** (rice, pulses, salted fish) run regular **festival-cycle** schedules; price boards post expected arrivals.  
-- **Bonded warehouses** smooth scarcity; ports issue **grain warrants** redeemable across Steps.  
-- **Backhaul** carries oils, sugar, spices, pickles; **ice-legs** move fish inland via insulated chests.
+
+* **Convoyed staples** (rice, pulses, salted fish) run irregular **festival-cycle** schedules; price boards flicker on battered lightboxes, but the poor listen for news at tea stalls or over the radio.
+* **Bonded warehouses** (some rebuilt, some ruined) buffer scarcity; ports issue **grain warrants** printed, posted, or broadcast.
+* **Backhaul** brings spices, pickles, factory sugar, salvage, and sometimes “ice-legs” for inland fish—ice is rationed, often gone by noon.
 
 ### Milling & refining
-- Water/steam mills expand **whitened flours and polished rice**; sieving grades enter tariff tables.  
-- **Tempered starches** (noodle sheets, vermicelli) appear in ports; batter-ferments persist in delta towns.
+
+* **Electric and steam mills** in ports expand **polished rice** and white bread, but outages send workers back to hand-querns and waterwheels.
+* **Factory oils** and mass sugars replace old flavors; tinned sweets and factory loaves appear but are envied and distrusted.
+* **Preservation**: canning lines run intermittently; smokehouses and clay jars remain essential.
 
 ### Oils, sugars & condiments
-- Oils: coconut, sesame, reef-fish; **lamp-oil refiners** spin off kitchen grades.  
-- Sugars: palm/cane/date syrups; **centrifuged crystals** in richer wards.  
-- Condiments: oyster/seaweed sauces, shrimp pastes, citrus brines; pepper and clove arrive by treaty-port chains.
+
+* Oils: coconut, sesame, reef-fish, plus new **factory blends** (often adulterated).
+* Sugars: palm/cane/date syrups, with **centrifuged crystals** for elites; cheap substitutes common in city alleys.
+* Condiments: oyster/seaweed sauces, shrimp pastes, citrus brines; cheap soda, pickled weeds, and off-brand sauces mix with imports.
 
 ### Markets & regulation
-- **Morning wet markets** for fish/greens; **evening dry markets** for grains and sweets.  
-- Magistrates post **weights & measures stones**; **adulteration boards** sample oils, tea-bricks, spice cakes.  
-- **Price ceilings** during storm years; temple kitchens receive first claim on relief grain.
+
+* **Morning markets** open under neon and ragged awnings; **evening stalls** glow with storm lanterns and green moonlight.
+* Black market tables and old soldiers’ canteens crowd alongside corporate food stalls, each with badges and ration chits.
+* **Weights & measures stones** are ignored; “assay rings” still test, but bribes and substitutions are common.
+* **Price signals** and relief shipments announced by clerk, radio, or rumor—often too late for the hungry.
 
 ### Kitchens & apparatus
-- Port hearths mix **steamers + brazier woks + clay-pots**; uplands keep flatstone griddles.  
-- **Cast-iron pans** and enamel kettles spread with convoy trade; charcoal briquettes replace raw wood in cities.
+
+* **City kitchens**: electric stoves buzz when power holds; most pots still simmer on charcoal or scavenged wood.
+* **Cold chains** are fragile; “temple ice” is rare, expensive, and gone by noon.
+* Port hearths mix **steamers, woks, clay-pots, enamel and iron pans**—most chipped and salvaged.
+* **Street vendors** boil water, hawk rice cakes, fried scraps, brined tofu, soda in recycled bottles beneath flickering rain screens.
 
 ### Street foods & vendor ecology
-- Rice cakes with pickle; noodle bowls; fried dough rings; skewer grills; **brined tofu-like cakes**; seaweed rolls.  
-- Vendors ring **shift-hour bells**; guild stalls rotate corners by license; rain screens turn alleys into food arcades.
+
+* Rice cakes, noodle bowls, battered fish, fried dough, skewer grills, brined tofu slabs, pickled greens, soda, and street tea.
+* Vendor guilds and corporate franchises fight for corners; black market sellers fill the gaps.
+* **Shift-hour bells** still ring, but so do air-raid sirens and riot whistles; alleys become food arcades by day, shelters by night.
 
 ### Institutional kitchens
-- **Temple kettles** (pulses + greens) mark fast-days; **warden’s pots** in ward houses feed night patrols.  
-- **Works messes** adopt fixed menus (starch + stew + tea); dock **canteens** trial coupon books.
+
+* **Temple kettles** serve pulses and greens, but struggle to meet demand.
+* **Works messes** and dockside canteens issue fixed starch+stew+tea menus; coupon books accepted, but counterfeits are rampant.
+* **Warden’s pots** feed night patrols; old orphans beg soup at temple doors.
 
 ### Beverages
-- Herb teas (salt-and-sour for heat days); **rice beers** in inland belts; sugar-lime coolers in ports; coffee substitutes in poorer wards.
+
+* **Herb teas** (salt-and-sour for heat); **rice beers** inland; sugar-lime coolers and off-brand sodas in the ports; chicory and “market brew” substitute for coffee.
+* Boiled street water helps keep cholera down in denser wards.
 
 ### Nutrition & public health
-- **Deficiency clusters** (beriberi-like) track polished-grain spikes; notices push **greens/ferments**.  
-- Salt-iodine via seaweed/oyster sauces; **street-water boilers** cut cholera in dense wards.
+
+* **Deficiencies** (beriberi, fever, “market malaise”) follow polished-rice and sugar spikes; clerks and posters urge more greens/ferments, but many districts lack both.
+* **Salt-iodine** from seaweed/oyster sauces; “street-water boilers” are public, but outbreaks are common after storms.
+* **Relief kitchens** get first claim on imported rice and oil, but shipments are sporadic and corruption is legendary.
 
 ### Class textures
-- **Dock & rope crews:** one-pot stews, starch cakes, fried scraps.  
-- **Clerks & traders:** noodle houses, tea stalls, sweet fritters.  
-- **Bench houses:** banquet sets (reef fish, young greens, sugar confections) on court days.
+
+* **Dock & rope crews:** scrap pots, rice cakes, fried scraps, market tea.
+* **Clerks & traders:** noodle houses, sweet fritters, soda, street coffee.
+* **Bench houses:** banquets of reef fish, young greens, tinned sweets, imported confections—on court days, beneath flickering lamps.
 
 ### Price signals & measures
-- Seasonal **rice/fish spreads** posted beside **assay rings**; warrants list **grade, moisture, broken-grain** percentages.  
-- Fines for **short ladles** and **watered brines**; repeat offenders lose stall-days.
+
+* Seasonal **rice/fish spreads** and price ceilings posted by lightbox, radio, or rumor; **assay rings** still grade grain and oil (when they can).
+* Fines for **short ladles**, “watered brines,” or adulterated oils are posted, but seldom collected; repeat offenders lose stall-days, or just move stalls.
+
+---
+
+*The world teeters between progress and decay. Under the green rains, every meal is both hope and memory—patchwork, improvised, and fiercely alive.*

@@ -13,6 +13,7 @@ links:
   systems_cities: canon/current/goalpost/mapping/canon_systems_mapping_cities_c1803.md
   insurance: canon/systems/insurance/green_years_standard.md
   green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
+  foundry_discipline_1400_1550: canon/systems/industry/foundry_discipline_1400_1550.md
 tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanctuary, riots, convoys]
 ---
 

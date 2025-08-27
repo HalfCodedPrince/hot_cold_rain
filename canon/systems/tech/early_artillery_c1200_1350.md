@@ -8,6 +8,7 @@ links:
   ships: canon/systems/transport/ships_galleys.md
   works: canon/entities/factions/dredge_and_bar_works.md
   economy: canon/systems/economy/taxation_finance_c0_1200.md
+  iron_sand_bloomery_c1200: canon/systems/industry/iron_sand_bloomery_c1200.md
 ---
 
 ## Families & forms

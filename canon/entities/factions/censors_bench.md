@@ -14,6 +14,8 @@ links:
   first_censore_drift_under: canon/entities/people/erel_zambrani_keeper.md
   founder: canon/entities/people/marr_the_skin_grass.md
   ally: canon/entities/people/tamur_inqel_master_of_plates.md
+  procurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  symbols_of_office: canon/systems/governance/symbols_of_office_c700_1200.md
 tags: [censorship, law, print]
 ---
 

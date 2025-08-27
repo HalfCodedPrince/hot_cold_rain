@@ -12,6 +12,7 @@ links:
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   architect: canon/entities/people/camra_dona.md
+  proto_industry_c1290_1400: canon/systems/industry/proto_industry_c1290_1400.md
 tags: [piracy, escorts, privateers, rate-hold, fee-farm, mangrove, republics]
 ---
 

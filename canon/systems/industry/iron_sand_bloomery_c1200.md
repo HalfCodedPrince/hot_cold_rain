@@ -10,6 +10,7 @@ links:
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   metrology: canon/systems/metrology/index.md
   early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
+  proto_industry_c1290_1400: canon/systems/industry/proto_industry_c1290_1400.md
 tags: [iron-sand, bloomery, tatara, metallurgy, works, escorts, assay, flux]
 ---
 

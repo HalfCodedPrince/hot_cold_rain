@@ -6,6 +6,7 @@ links:
   piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
   clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
   hydrology: canon/systems/planetology/hydrology.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
 tags: [transport, index]
 ---
 

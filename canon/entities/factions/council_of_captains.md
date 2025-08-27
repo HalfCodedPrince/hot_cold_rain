@@ -18,6 +18,7 @@ links:
   restorer: canon/entities/people/marak_kllrian.md
   famous_case: canon/entities/people/arsu_of_seven_fingers.md
   famous_candidate: canon/entities/people/thedos_zambrani.md
+  political_ecology: canon/systems/governance/political_ecology_bright_sea.md
 thesis: Harbor collegium turned executive spine; calls elections for the High Master and holds one of the Three Seals in the Empty Seat regime.
 ---
 

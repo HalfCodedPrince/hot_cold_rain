@@ -12,6 +12,10 @@ links:
   public_works: canon/systems/infrastructure/public_works_c700_1200.md
   diet: canon/systems/agriculture/agriculture_diet.md
   fog_marts: canon/systems/commerce/fog_gate_marts_stern_shore_c0_1400.md
+  rocurement_fee_farms: canon/systems/governance/procurement_fee_farms_c700_1200.md
+  pozzolan_hydraulic_mortar_c1200: canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
+  iron_sand_bloomery_c1200: canon/systems/industry/iron_sand_bloomery_c1200.md
+  public_works_connection: canon/systems/infrastructure/public_works_c700_1200.md
 tags: [warehouses, bonded, scrip, grain, oil, receipts, redemption]
 ---
 

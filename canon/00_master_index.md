@@ -3,6 +3,10 @@ id: INDEX:MASTER
 name: Master Index (hand-curated entry point)
 status: Stable
 updated: 2025-08-26
+meta:
+  style: 02_style_guide.md
+  workflow: 03_LLM_editing_workflow.md
+  linking: 03_LLM_linking_policy.md
 ---
 
 # Welcome / Start here
