@@ -1,7 +1,7 @@
 ---
 id: PERS:CAD-004
 name: Teyu Ir "the Curator"
-lifespan: r. 942–972 AO
+reign_ao: 942–972
 role: High Master (Golden Cadence)
 status: Draft
 tags: [ritual, censorship, calendar]

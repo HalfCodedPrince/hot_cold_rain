@@ -2,7 +2,7 @@
 id: PACK:SYSTEMS-DIGEST
 name: Systems Digest — Claims & Links
 status: Stable
-updated: 2025-08-26
+updated: 2025-08-27
 ---
 
 This digest lists each system page with its ID and canonical path. Keep claims in the source pages; this file is compact routing.
@@ -234,6 +234,7 @@ This digest lists each system page with its ID and canonical path. Keep claims i
 
 ### Public Works — Beacons, Seawalls & Cisterns
 `INFRA:PUB-001` — canon/systems/infrastructure/public_works_c700_1200.md
+- Tags: beacons, seawalls, cisterns
 
 ### Warrant Warehouses & Bonded Granaries (c.700–1300 AO)
 `INF:WARE-BOND-700-1300` — canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md

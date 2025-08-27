@@ -5,23 +5,17 @@ status: Draft
 links:
   law: canon/systems/governance/law_admin.md
   metrology: canon/systems/metrology/index.md
-  works: canon/entities/factions/dredge_and_bar_works.md
   debt_office: canon/entities/factions/public_debt_office.md
   insurance: canon/entities/factions/convoy_insurance_office.md
   courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
   infrastructure: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
   watches: canon/entities/factions/harbor_watches.md
-  marque: canon/systems/security/letters_of_marque_c1050_1200.md
   printing: canon/systems/tech/writing_and_printing_c700_1200.md
   public_works: canon/systems/infrastructure/public_works_c700_1200.md
-  powder_base: canon/systems/tech/black_powder_history_c1100_1400.md
-  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
   hydrology: canon/systems/planetology/hydrology.md
   navigation: canon/systems/transport/navigation_currents.md
   governance: canon/systems/governance/procurement_fee_farms_c700_1200.md
   economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
-  iron_sand_bloomery_c1200: canon/systems/industry/iron_sand_bloomery_c1200.md
-  proto_industry_c1290_1400: canon/systems/industry/proto_industry_c1290_1400.md
 tags: [taxation, finance, scrip, beacons, convoys, debt, fines]
 ---
 

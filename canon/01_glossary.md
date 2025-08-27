@@ -67,7 +67,7 @@ updated: 2025-08-19
 ## K
 
 - **Keeper of the Oboe Seal** — government office; holds matrix/keys; certifies absence & succession.  
-- **Kin-Maze** - - Principality-related; Camra Dona kin tied every Principality Elector, sowing seeds for internal conflict. As a general term: a synonim for widespread nepotism.
+- **Kin-Maze** - - Principality-related; Camra Dona kin tied every Principality Elector, sowing seeds for internal conflict. As a general term: a synonym for widespread nepotism.
 - **Kllrian Arc** — volcanic archipelago; terrace hydrology; paddy grain to Ord–Sar.
 
 ## L

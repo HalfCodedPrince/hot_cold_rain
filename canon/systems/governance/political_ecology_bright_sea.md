@@ -5,7 +5,6 @@ status: Draft
 links:
   climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
   hydrology: canon/systems/planetology/hydrology.md
-  transport: canon/current/goalpost/transport/transport_index_c1800.md
   law: canon/systems/governance/law_admin.md
   metrology: canon/systems/metrology/calendar_base6.md
   insurers: canon/entities/factions/convoy_insurance_office.md

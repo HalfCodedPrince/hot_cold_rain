@@ -9,7 +9,7 @@ governance: Council of Captains (historic); later imperial administration
 economy: [shipyards, grain chancery, convoy insurance, compositories]
 religions: [Good Old Rhythm]
 tags: [capital, port, shipbuilding, finance]
-status: draft
+status: Draft
 aliases: [Ord, The City]
 links:
   ord_bay: canon/systems/geography/regions/ord_bay.md
@@ -18,7 +18,6 @@ links:
   insurance: canon/systems/insurance/green_years_standard.md
   law_admin: canon/systems/governance/law_admin.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
-  insurance: canon/systems/insurance/green_years_standard.md
   rhythm: canon/systems/religions/good_old_rhythm.md
 ---
 

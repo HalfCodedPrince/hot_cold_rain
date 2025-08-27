@@ -3,7 +3,7 @@ id: SYS:CUISINE-URB-1800
 name: Cuisine — Urban Patterns (c.1800)
 status: Draft
 links:
-  diet: canon/systems/agriculture/agriculture_diet.md
+  diet: canon\current\goalpost\agriculture\agriculture_diet_c1800.md
   logistics: canon/current/goalpost/economy/food_logistics_c1800.md
   health: canon/current/goalpost/health/public_health_c1800.md
   warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md

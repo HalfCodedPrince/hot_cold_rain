@@ -2,7 +2,7 @@
 id: INDEX:PEOPLE
 name: People — One-Liners & Links
 status: Stable
-updated: 2025-08-26
+updated: 2025-08-27
 ---
 
 - [PERS:SEV-REP-001] **Arsu of Seven Fingers** — rebellion, ports  

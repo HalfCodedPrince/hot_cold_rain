@@ -2,7 +2,7 @@
 id: INDEX:FACTIONS
 name: Factions — One-Liners & Links
 status: Stable
-updated: 2025-08-26
+updated: 2025-08-27
 ---
 
 - [FAC:ARC-001] **Archives Collegium** — archives, seals, ledgers  

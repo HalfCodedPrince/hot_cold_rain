@@ -20,7 +20,6 @@ links:
   law_admin: canon/systems/governance/law_admin.md
   mixed_courts: canon/systems/law/mixed_courts.md
   eras_marrite: canon/eras/03_marrite_747_783.md
-  law_admin: canon/systems/governance/law_admin.md
   print: canon/systems/print/pamphlet_economy_c1400_1503.md
   insurance: canon/systems/insurance/green_years_standard.md
   rhythm: canon/systems/religions/good_old_rhythm.md
