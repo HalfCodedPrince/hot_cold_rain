@@ -6,9 +6,7 @@ span: "860–1050 AO"
 thesis: "Maritime high period: standardized charts, public works, and trade cartels deliver wealth and reach—alongside the seeds of overextension."
 signature_events: []
 institutions:
-  - canon/entities/factions/public_debt_office.md
-  - canon/entities/factions/grain_chancery.md
-  - canon/entities/factions/guild_of_compositories.md
+
 ---
 
 ## Thesis
@@ -25,4 +23,4 @@ Prosperity via predictable calendars, capital projects, and cartelized logistics
 ## Cross-refs
 - `canon/systems/infrastructure/public_works_c700_1200.md`
 - `canon/systems/transport/navigation_currents.md`
-- `canon/current/goalpost/security/piracy_and_navies_c1800.md`
+- `canon/endpoint/goalpost/security/piracy_and_navies_c1800.md`

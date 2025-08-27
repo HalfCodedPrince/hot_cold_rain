@@ -4,8 +4,7 @@ name: Photic Moss (canal glow)
 status: Draft
 tags: [moss, bioluminescence, canal]
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  culture: canon/notes/diegetic/book_childrens_sky.md
+
 ---
 
 ## Habitat

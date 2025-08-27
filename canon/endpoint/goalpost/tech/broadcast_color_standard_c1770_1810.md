@@ -3,8 +3,6 @@ id: TECH:TV-COLOR-STD
 name: Broadcast Color Standard (c. 1770–1810 AO)
 status: Draft
 links:
-  
-  
 tags: [television, color, broadcast, standards]
 ---
 

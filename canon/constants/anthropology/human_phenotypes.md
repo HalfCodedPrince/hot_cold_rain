@@ -3,10 +3,7 @@ id: ANTH:PHEN-001
 name: Human Phenotypes (Climate & Work)
 status: Draft
 links:
-  diet: canon/systems/agriculture/agriculture_diet.md
-  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
-  health: canon/current/goalpost/health/public_health_c1800.md
-  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
+
 ---
 
 Population-level trends shaped by heat, humidity, work, and diet:

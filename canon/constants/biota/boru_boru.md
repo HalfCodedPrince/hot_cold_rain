@@ -4,7 +4,7 @@ name: Boru-boru (Tide-Crawling Lizard)
 status: Draft
 tags: [lizard, amphibious, pest_control]
 links:
-  hydrology: canon/systems/planetology/hydrology.md
+
 ---
 
 ## Habitat

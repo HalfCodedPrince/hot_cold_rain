@@ -3,9 +3,7 @@ id: HEALTH:PUB-001
 name: Public Health (Green Rains & Warm Seas)
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  transport_index: canon/current/goalpost/transport/transport_index_c1800.md
-  antrho: canon/systems/anthropology/human_phenotypes.md
+  transport_index: canon/endpoint/goalpost/transport/transport_index_c1800.md
 ---
 
 ## Thesis

@@ -3,12 +3,8 @@ id: SNAP:SPECIAL-MUTATION-MECHANISM-1503
 name: Mutation Day Mechanism — The Day of Green Skies (c.1503 AO)
 status: Draft
 links:
-  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
-  hydrology: canon/systems/planetology/hydrology.md
-  known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  visual_life_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
-  metrology_calendar: canon/systems/metrology/calendar_base6.md
-  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
+
+
 tags: [snapshot, special, mechanism, green_skies, co_types, rumors, oboe, plate, steps, switch_hours]
 ---
 

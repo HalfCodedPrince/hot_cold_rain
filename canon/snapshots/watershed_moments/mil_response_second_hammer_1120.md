@@ -3,15 +3,7 @@ id: SNAP:MIL-1120
 name: Military Response — The Second Hammer (c. 1120 AO)
 status: Draft
 links:
-  decline_mech: canon/notes/snapshots/watershed_moments/decline_mechanics_c1050_1120.md
-  snapped: canon/notes/snapshots/watershed_moments/empire_snapped_c1100.md
-  muster: canon/systems/law/muster_and_retainer_law_c700_1200.md
-  marque: canon/systems/security/letters_of_marque_c1050_1200.md
-  watches: canon/entities/factions/harbor_watches.md
-  council: canon/entities/factions/council_of_captains.md
-  insurance: canon/entities/factions/convoy_insurance_office.md
-  works: canon/entities/factions/dredge_and_bar_works.md
-  economy: canon/systems/economy/taxation_finance_c0_1200.md
+
 ---
 
 ## Situation

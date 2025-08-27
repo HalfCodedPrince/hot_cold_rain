@@ -3,10 +3,9 @@ id: INFRA:COAST-STORM-1803
 name: Coastal Cities — Storms, Surges & Civic Resilience
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  urban_form: canon/current/goalpost/urbanism/building_heights_density_c1800.md
-  water_sewer: canon/current/goalpost/infrastructure/water_and_sewer_c1800.md
-  transport: canon/current/goalpost/transport/transport_index_c1800.md
+  urban_form: canon/endpoint/goalpost/urbanism/building_heights_density_c1800.md
+  water_sewer: canon/endpoint/goalpost/infrastructure/water_and_sewer_c1800.md
+  transport: canon/endpoint/goalpost/transport/transport_index_c1800.md
 ---
 
 ## Setting Impacts

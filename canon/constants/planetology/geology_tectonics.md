@@ -3,8 +3,7 @@ id: GEO:TECTONICS-001
 name: Geological Sketch & Tectonics
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  economy: canon/current/goalpost/economy/currency_finance_c1800.md
+
 ---
 
 ## Outline

@@ -4,7 +4,7 @@ name: Sailback (gliding rodent)
 status: Draft
 tags: [rodent, glider, urban]
 links:
-  culture: canon/systems/culture/games_and_festivals_c950.md
+
 ---
 
 ## Habitat

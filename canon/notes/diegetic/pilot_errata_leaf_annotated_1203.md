@@ -6,8 +6,7 @@ date_ao: 1203
 provenance: Compository Row, Lantern Stalls
 seal: Guild of Compositories (pier stamp)
 links:
-  transport: canon/systems/transport/navigation_currents.md
-  visual: canon/notes/snapshots/visual_life/visual_life_c1200.md
+
 ---
 
 **ERRATA for Ridge Crossing, springs 1203 AO**

@@ -3,16 +3,7 @@ id: SNAP:KNOWN-1503
 name: Known World c.1503 AO — Dawn of the Day of Green Skies
 status: Draft
 links:
-  base_1200: canon/notes/snapshots/known_world/known_world_c1200.md
-  update_1215: canon/notes/snapshots/known_world/known_world_c1215.md
-  era_08: canon/eras/08_knotted_lanterns_1290_1400.md
-  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
-  hydrology: canon/systems/planetology/hydrology.md
-  rhythm: canon/systems/religions/good_old_rhythm.md
-  print: canon/systems/print/pamphlet_economy_c1400_1503.md
-  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
-  arms: canon/systems/tech/handgonnes_matchlocks_c1300_1500.md
-  society: canon/notes/snapshots/social_and_cultural/social_and_cultural_c1503.md
+
 tags: [snapshot, known_world, green_skies, mutation_day, pamphlets, refugees, centralization]
 ---
 

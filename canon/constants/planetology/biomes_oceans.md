@@ -3,8 +3,7 @@ id: GEO:BIOMES-SEA-001
 name: Biomes, Coasts & Oceans
 status: Draft
 links:
-  old_song: canon/systems/transport/navigation_currents.md
-  hydrology: canon/systems/planetology/hydrology.md
+
 ---
 
 ## Coasts (Ord & Sar)

@@ -4,19 +4,7 @@ name: Economy Snapshot (c.1503 AO)
 status: Draft
 tags: [snapshot, economy, trade, finance, insurance, taxation, labor, colonial_vector]
 links:
-  era_pamphlets: canon/eras/09_pamphlet_wars_1400_1503.md
-  tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
-  mutation_mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  society_green: canon/notes/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
-  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
-  mixed_courts: canon/systems/law/mixed_courts.md
-  taxation_finance: canon/systems/economy/taxation_finance_c0_1200.md
-  good_old_rhythm: canon/systems/religions/good_old_rhythm.md
-  co_types_bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
-  co_types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
-  hydrology: canon/systems/planetology/hydrology.md
-  saltpeter_supply: canon/systems/tech/saltpeter_supply_c1500.md
-  foundry_discipline: canon/systems/industry/foundry_discipline_1400_1550.md
+
 ---
 
 ## Thesis (what money feels like after the Green Skies)

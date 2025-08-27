@@ -4,8 +4,7 @@ name: Roof goose (Flightless Waterfowl)
 status: Draft
 tags: [waterfowl, domestic, eggs]
 links:
-  diet: canon/systems/agriculture/agriculture_diet.md
-  health: canon/current/goalpost/health/public_health_c1800.md
+ 
 ---
 
 ## Habitat

@@ -3,7 +3,7 @@ id: SNAP:PEAK-950
 name: Empire at Its Peak (c. 950 AO)
 status: Draft
 links:
-  era: canon/eras/05_golden_cadence_apex_860_1050.md
+
 ---
 
 # Empire at Its Peak (c. 950 AO)

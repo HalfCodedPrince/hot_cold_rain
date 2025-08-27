@@ -3,9 +3,8 @@ id: TRANS:FLOOD-MODES-1803
 name: Resilient Transit in Flood-Prone Cities
 status: Draft
 links:
-  modern_index: canon/current/goalpost/transport/transport_index_c1800.md
-  navigation: canon/systems/transport/navigation_currents.md
-  urban_form: canon/current/goalpost/urbanism/building_heights_density_c1800.md
+  modern_index: canon/endpoint/goalpost/transport/transport_index_c1800.md
+  urban_form: canon/endpoint/goalpost/urbanism/building_heights_density_c1800.md
 ---
 
 ## 1) Water Transit

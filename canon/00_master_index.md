@@ -1,8 +1,8 @@
---- 
+---
 id: INDEX:MASTER
 name: Master Index (hand-curated entry point)
 status: Stable
-updated: 2025-08-26
+updated: 2025-08-27
 meta:
   style: 02_style_guide.md
   workflow: 03_LLM_editing_workflow.md
@@ -11,55 +11,45 @@ meta:
 
 # Welcome / Start here
 
-This is a working map for the canon and tools. Use the **Index Pack** for LLM uploads, the **Systems Digest** (auto, human-centered) for “how it works”, and the **Entity Indices** (auto, human-centered) for quick lookups.
+Working map for canon and tools. Use **Index Pack** for LLM uploads, **Systems Digest** for “how it works,” and **Entity Indices** for quick lookups.
 
 ---
 
 ## Canon structure
-- `canon/eras/` (the biggest picture, in dynamic, mainly to show historical vectors, not just at the moment in time)
-- `canon/timeline/point_timeline.csv` (timeline with historical events)
-- `canon/notes/snapshots` (broad, world-state overviews at a FIXED point in time)
-- `canon/entities/` (important historical figures/factions/flora/fauna)
-- `canon/systems/{pillar}/` (building blocks for era/snapshots, contains mechanics, institutions, standards, law, tech workings, etc — stable through time or versioned by period)
-- `canon/current/goalpost` (the initial outline of “where we are headed”)
-- `canon/current/final` (the final outline, based the whole project, the last step)
+- `canon/constants/` — natural or civilizational invariants (link “up” allowed).
+- `canon/systems_diachronic/{broad_family}/{pillar}/` — human systems as **era leaves**; pillars are for small subsystems; (`*_cYYYY[-YYYY].md`).
+- `canon/snapshots/` — point-in-time overviews; link to same-era leaves and constants.
+- `canon/entities/{ERA_ID}` — people, factions
+- `canon/eras/` — optional bundles or composition pages.
+- `canon/timeline/point_timeline.csv` — events table.
+- `canon/endpoint/goalpost` — direction of travel.
+- `canon/endpoint/final` — final outline.
+---
+
+## Meta docs
+- Editing workflow: `03_LLM_editing_workflow.md`
+- Linking policy: `03_LLM_linking_policy.md`
+- Style guide: `02_style_guide.md`
 
 ---
 
-## Upload set (Core files always in repo)
-1. `tools/index_pack.md` (Router-Lite + Anthology; regen after big edits)
-2. `01_glossary.md` and `02_style_guide.md`
-3. `canon/notes/maps/map_reference.yaml`
-4. `README.md`
-5. Additional context files as required for current editing session.
+## Technical limits (editing)
+- Header: ≤12 links, ≤300 tokens.
+- File size: warn ≥12 KB, split/trim at 18 KB.
+- Keep task file sets small.
+- Discovery source of truth: `index_pack.md`. Do not rely on folder indexes.
+- Diachronic leaves include a short **Primer**; use `primer_rev` if the primer changes.
 
+---
+
+## Retirement quick reference
+- **When:** a new diachronic leaf supersedes scope, or a snapshot becomes the surface for that era.
+- **Do:** set `status: Retired` on old leaf; add `links.moved_to: <successor>`; set `derived_from` on successor.
+- **Guard:** no new inbound links to Retired (except `derived_from`); move retired files to `/retired/` after one release.
+
+---
 
 ## Build pipeline
-
-Run the end-to-end pack builder:
+Run end-to-end pack builder:
 ```bash
 VALIDATE_NO_CASE=1 CLEANUP_MOVE=1 bash tools/upload_ready.sh
-```
-Outputs land in tools/upload_ready/ and reports in tools/reports/.
-
----
-
-## Canon stance & "endpoint north star"
-
-  - **Modern baseline** (c. 1803 AO): ~1980s consumer tech aesthetics under unstable supply (patchwork radioshack vibe).
-  
-  - **Aviation:** rare, expensive, maintenance-heavy; carriers are prestige relics.
-  
-  - **Space program:** one post-war “peace program” launch; the probe failed → a few iconic images, scandal, cancellation.
-  
-  - **Media:** radio strong; color TV present but uneven; printing never “lost.”
-  
-  - **Religio-civic weave:** Good Old Rhythm (Synod & Houses) entwined with Council/courts; calendars, festivals, and convoy law are the social OS.
-
----
-
-**See also: (always in repo)** 
-- `README.md` for repo/tooling overview
-- `02_style_guide.md` for naming/linking rules
-- `01_glossary.md` for terms
-- `canon/notes/maps/map_reference.yaml` for LLM-friendly geography

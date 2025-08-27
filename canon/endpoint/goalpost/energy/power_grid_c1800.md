@@ -3,8 +3,7 @@ id: ENE:GRID-1803
 name: Energy — Generation & Grid (c. 1803 AO)
 status: Draft
 links:
-  infra: canon/systems/infrastructure/public_works_c700_1200.md
-  health: canon/current/goalpost/health/healthcare_landscape_c1800.md
+  health: canon/endpoint/goalpost/health/healthcare_landscape_c1800.md
 ---
 
 ## Sources (patchwork)

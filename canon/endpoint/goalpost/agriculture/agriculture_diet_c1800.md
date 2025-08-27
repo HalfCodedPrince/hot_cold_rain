@@ -3,11 +3,10 @@ id: SYS:AGRO-DIET-1800
 name: Paatchwork Modernity Agriculture & Diet — Coasts, Deltas, Isles
 status: Draft
 links:
-  finance: canon/current/goalpost/economy/currency_finance_c1800.md
-  security: canon/current/goalpost/security/piracy_and_navies_c1800.md
-  food_logistics: canon/current/goalpost/economy/food_logistics_c1800.md
-  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
-  health: canon/current/goalpost/health/public_health_c1800.md
+  finance: canon/endpoint/goalpost/economy/currency_finance_c1800.md
+  security: canon/endpoint/goalpost/security/piracy_and_navies_c1800.md
+  food_logistics: canon/endpoint/goalpost/economy/food_logistics_c1800.md
+  health: canon/endpoint/goalpost/health/public_health_c1800.md
 ---
 
 ### Supply & lanes

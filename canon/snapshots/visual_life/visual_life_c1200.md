@@ -3,9 +3,7 @@ id: SNAP:VISUAL-1200
 name: Everyday Visuals in Unraveling Times (c. 1200 AO)
 status: Draft
 links:
-  vis_950: canon/notes/snapshots/visual_life/visual_life_c0950.md
-  watches: canon/entities/factions/harbor_watches.md
-  printing: canon/systems/tech/writing_and_printing_c700_1200.md
+
 ---
 
 ## Street view — Ord Bay ward, overcast afternoon

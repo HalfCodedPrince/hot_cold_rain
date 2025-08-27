@@ -3,12 +3,7 @@ id: SNAP:SNAP-1100
 name: Empire Snapped (c. 1100 AO)
 status: Draft
 links:
-  era: canon/eras/06_middle_cadence_disjunction_1050_1200.md
-  economy: canon/systems/economy/taxation_finance_c0_1200.md
-  debt: canon/entities/factions/public_debt_office.md
-  works: canon/entities/factions/dredge_and_bar_works.md
-  watches: canon/entities/factions/harbor_watches.md
-  printing: canon/systems/tech/seven_frame_chancery_press_c1050.md
+
 ---
 
 # Empire Snapped (c. 1100 AO)

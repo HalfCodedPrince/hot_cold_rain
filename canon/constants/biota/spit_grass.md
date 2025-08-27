@@ -5,9 +5,7 @@ type: flora
 status: Draft
 tags: [pollen, ritual, hazard]
 links:
-  health: canon/current/goalpost/health/public_health_c1800.md
-  hydrology: canon/systems/planetology/hydrology.md
-  religion: canon/systems/religions/good_old_rhythm.md
+
 ---
 
 ## Habitat

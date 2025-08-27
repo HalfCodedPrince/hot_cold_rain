@@ -3,17 +3,8 @@ id: SEC:LONG-PATROL-1770-1800
 name: Longara Marine Patrol — Littoral Doctrine (c. 1770–1800 AO)
 status: Draft
 links:
-  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
-  currents: canon/systems/transport/navigation_currents.md
-  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
-  ships: canon/systems/transport/ships_galleys.md
-  watches: canon/entities/factions/harbor_watches.md
-  insurance: canon/entities/factions/convoy_insurance_office.md
-  public_works: canon/systems/infrastructure/public_works_c700_1200.md
-  rain_gear: canon/current/goalpost/tech/rain_gear_umbrellas_c1800.md
-  arms: canon/systems/tech/arms_armor_c700.md
-  law_admin: canon/systems/governance/law_admin.md
-  marque: canon/systems/security/letters_of_marque_c1050_1200.md
+  piracy: canon/endpoint/goalpost/security/piracy_and_navies_c1800.md
+  rain_gear: canon/endpoint/goalpost/tech/rain_gear_umbrellas_c1800.md
 tags: [littoral, anti-piracy, patrol, bright_sea, longara, doctrine]
 ---
 

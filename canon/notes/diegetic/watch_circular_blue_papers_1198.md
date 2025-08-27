@@ -6,9 +6,7 @@ date_ao: 1198
 provenance: Ord Bay Harbor Watches (Salt Chamber Annex)
 seal: Ward Captain of Steps Three–Five
 links:
-  watches: canon/entities/factions/harbor_watches.md
-  insurance: canon/entities/factions/convoy_insurance_office.md
-  snapped: canon/notes/snapshots/watershed_moments/empire_no_more_c1200.md
+
 ---
 
 **To all ward houses and bell posts:**

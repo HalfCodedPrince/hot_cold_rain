@@ -3,7 +3,7 @@ id: COS:BEA-001
 name: Bean (Inner Dwarf)
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
+
 tags: [inner, dwarf]
 ---
 

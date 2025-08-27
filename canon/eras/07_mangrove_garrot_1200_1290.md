@@ -3,17 +3,7 @@ id: ERA-07
 name: Mangrove Garrot (1200–1290 AO)
 status: Draft
 links:
-  economy: canon/systems/economy/taxation_finance_c0_1200.md
-  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
-  powder_hist: canon/systems/tech/black_powder_history_c1100_1400.md
-  early_artillery: canon/systems/tech/early_artillery_c1200_1350.md
-  marque: canon/systems/security/letters_of_marque_c1050_1200.md
-  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
-  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
-  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
-  known_world: canon/notes/snapshots/known_world/known_world_c1200.md
-  koi_hi: canon/systems/geography/places/koi_hi.md
-  camra_dona: canon/entities/people/camra_dona.md
+
 tags: [era, piracy, convoys, contract_ports, widiwidi, koi-hi, broken_lantern_years]
 ---
 

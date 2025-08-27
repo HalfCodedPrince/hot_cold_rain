@@ -3,17 +3,7 @@ id: ERA-09
 name: Pamphlet Wars & The Day of Green Skies (1400–1503 AO)
 status: Draft
 links:
-  prior_era: canon/eras/08_knotted_lanterns_1290_1400.md
-  rhythm: canon/systems/religions/good_old_rhythm.md
-  topo: canon/systems/religions/religious_topography_c1290_1400.md
-  print: canon/systems/print/pamphlet_economy_c1400_1503.md
-  centralization: canon/systems/governance/centralization_levers_principality_c1400_1550.md
-  edicts: canon/systems/governance/green_edicts_c1503_1515.md
-  tech_level: canon/notes/snapshots/tech/tech_level_c1503.md
-  economy_c1503: canon/notes/snapshots/economy/economy_c1503.md
-  industry: canon/systems/industry/proto_industry_c1290_1400.md
-  social_1503: canon/notes/snapshots/social_and_cultural/social_and_cultural_c1503.md
-  foundry_discipline_1400_1550: canon/systems/industry/foundry_discipline_1400_1550.md
+
 tags: [era, pamphlets, refugees, censorship, riots, diaspora, mutation_day, centralization]
 ---
 

@@ -6,10 +6,6 @@ date_ao: 699–705
 provenance: Mixed leaf copies (licensed and private)
 tags: [diegetic, extracts, zambranic]
 links:
-  era: canon/eras/02_zambranic_700_800.md
-  nasha: canon/entities/people/nasha_of_tau_hi_natural_philosopher.md
-  kelim: canon/entities/people/kelim_ar_of_sar_north.md
-  teyu: canon/entities/people/teyu_the_grey.md
 ---
 
 # On Waters and Winds — Nasha of Tau-Hi (c. 702 AO)

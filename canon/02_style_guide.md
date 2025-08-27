@@ -44,7 +44,7 @@ Leaves are moved to `/retired/` after one release.
 
 ### Snapshots (point-in-time)
 
-* `canon/notes/snapshots/<domain>/<domain>_cYYYY[–YYYY].md`
+* `canon/snapshots/<domain>/<domain>_cYYYY[–YYYY].md`
 * Scope: broad state for an era. Link to same-era diachronic leaves and constants.
 
 ---
@@ -93,12 +93,12 @@ Leaves are moved to `/retired/` after one release.
 ## Folder Layout
 
 * `canon/constants/`
-* `canon/systems/diachronic/{pillar}/{family}/`
-* `canon/notes/snapshots/`
-* `canon/entities/{people,biota,co_types}/`
+* `canon/systems_diachronic/{broad_family}/{pillar}/`
+* `canon/snapshots/`
+* `canon/eras/era/{people,factiobs}/`
 * `canon/eras/` (bundles, if used)
 * `retired/` (optional; exclude from indices)
-* `canon/current/{goalpost,final}`
+* `canon/endpoint/{goalpost,final}`
 
 ## Technical limits (reminders)
 

@@ -3,9 +3,7 @@ id: TECH:CLO-000
 name: Clothing & Textiles (Hot, Wet, Windy)
 status: Draft
 links:
-  religion: canon/systems/religions/good_old_rhythm.md
-  ships: canon/systems/transport/ships_galleys.md
-  antrho: canon/systems/anthropology/human_phenotypes.md
+
 tags: [clothing, textiles, climate]
 ---
 

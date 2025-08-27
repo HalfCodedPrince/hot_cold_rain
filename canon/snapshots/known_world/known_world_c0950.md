@@ -3,7 +3,7 @@ id: SNAP:WORLD-950
 name: Known World c. 950 AO
 status: Draft
 links:
-  related_snapshot: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
+
 ---
 
 # Known World, c. 950 AO

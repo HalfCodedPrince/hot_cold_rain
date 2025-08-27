@@ -6,20 +6,12 @@ date_ao: 1792
 provenance: Coi-Hi Youth Press (5th Ed.)
 tags: [diegetic, schoolbook, sky, astronomy]
 links:
-  oboe: canon/systems/cosmos/oboe.md
-  hex: canon/systems/cosmos/moon_hex.md
-  bean: canon/systems/cosmos/bean.md
-  karodot: canon/systems/cosmos/karodot.md
-  ze: canon/systems/cosmos/ze.md
-  belts: canon/systems/cosmos/belts.md
-  planet: canon/systems/planetology/point.md
-  hydrology: canon/systems/planetology/hydrology.md
+
 fact_box:
   title: "Our Place in the Song: A Child’s Guide to the Sky Above"
   doc_type: schoolbook
   author_in_universe: "Nira Ro (text), Ado Co-Tira (illustrations)"
   date_ao: 1792
-  era: ERA-1700
   relates_to: [COS:OBE-001, COS:HEX-001, COS:KAR-001, COS:BEA-001, COS:ZE-001, COS:BEL-001, GEO:SYS-001, GEO:WAT-001]
   audience: children
   reliability: medium
@@ -29,8 +21,6 @@ fact_box:
     - "Karodot has a faint ring and many moons."
     - "Point’s seasons are driven by axial tilt; rains are abrupt."
   canonical_links:
-    - canon/systems/cosmos/index.md
-    - canon/systems/planetology/point.md
 ---
 
 

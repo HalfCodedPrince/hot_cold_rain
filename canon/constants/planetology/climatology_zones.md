@@ -3,8 +3,7 @@ id: GEO:CLIMATE-001
 name: Climate Zones & Polar Regions
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  biomes: canon/systems/planetology/biomes_oceans.md
+
 ---
 
 ## Axial Tilt & Seasonality

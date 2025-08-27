@@ -3,13 +3,7 @@ id: COS:SYS-001
 name: Cosmos Overview
 status: Draft
 links:
-  oboe: canon/systems/cosmos/oboe.md
-  hex: canon/systems/cosmos/moon_hex.md
-  karodot: canon/systems/cosmos/karodot.md
-  bean: canon/systems/cosmos/bean.md
-  ze: canon/systems/cosmos/ze.md
-  belts: canon/systems/cosmos/belts.md
-  index: canon/systems/cosmos/index.md
+
 ---
 
 # Cosmos Overview

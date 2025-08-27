@@ -4,8 +4,7 @@ name: Hex (Point’s Moon)
 status: Draft
 aliases: [Ex]   # early-draft alias (deprecated)
 links:
-  overview: canon/systems/cosmos/overview.md
-  hydrology: canon/systems/planetology/hydrology.md
+
 tags: [tides, aerosols, religion]
 ---
 

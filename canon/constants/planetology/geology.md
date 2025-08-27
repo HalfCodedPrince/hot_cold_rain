@@ -3,7 +3,7 @@ id: GEO:TEK-001
 name: Geology & Plates
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
+
 tags: [geology, tectonics]
 ---
 

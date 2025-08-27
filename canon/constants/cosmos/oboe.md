@@ -3,9 +3,7 @@ id: COS:OBE-001
 name: Oboe (Primary Star)
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
-  hex: canon/systems/cosmos/moon_hex.md
-  point: canon/systems/planetology/point.md
+
 tags: [star, ephemerides, religion]
 ---
 

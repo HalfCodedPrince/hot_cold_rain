@@ -4,7 +4,7 @@ name: Sapir Karodot (duet songbird)
 status: Draft
 tags: [bird, duet, ritual]
 links:
-  rhythm: canon/systems/religions/good_old_rhythm.md
+
 ---
 
 ## Habitat

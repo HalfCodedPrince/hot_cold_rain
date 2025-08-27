@@ -28,14 +28,6 @@ If none apply, do not link.
 - Propose only when **LRR** passes and **Adjacency** holds.
 - If **TGT** is missing in `index_pack.md`, mark **low-confidence**.
 
-## Matrix (examples)
-- **fee-farms, stairs, rents** → `systems/diachronic/governance/procurement/*`, `systems/economy/taxation_finance_c0_1200.md` 
-- **Access Days, harbor law, watches** → `entities/factions/harbor_watches.md`, `canon\constants\anthropology\navigation_currents.md`
-- **Printed lists, forms, boards** → `systems/tech/writing_and_printing_c700_1200.md`.
-- **Seals, weights, assay slips, bags** → `systems/infrastructure/courier_circuit_assay_ring_c700_1300.md`, `systems/metrology/index.md` (or constants if moved there).
-- **Materials (pozzolan, iron-sand)** → link their pages only if used in body.
-- **Risk/pricing** → `entities/factions/convoy_insurance_office.md` only if rate/Step mechanics are active.
-
 ## Lint
 - Paths must resolve in `index_pack.md`.
 - No duplicate link keys.

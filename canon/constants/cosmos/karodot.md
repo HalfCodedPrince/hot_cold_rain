@@ -3,8 +3,7 @@ id: COS:KAR-001
 name: Karodot (Gas Giant)
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
-  belts: canon/systems/cosmos/belts.md
+
 tags: [giant, folklore, rings]
 ---
 

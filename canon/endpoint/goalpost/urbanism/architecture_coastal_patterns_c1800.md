@@ -3,9 +3,9 @@ id: URB:ARCH-COAST-1803
 name: Architecture — Coastal Patterns & Materials
 status: Draft
 links:
-  urban_form: canon/current/goalpost/urbanism/building_heights_density_c1800.md
-  infra: canon/current/goalpost/infrastructure/coastal_storms_resilience_c1800.md
-  water: canon/current/goalpost/infrastructure/water_and_sewer_c1800.md
+  urban_form: canon/endpoint/goalpost/urbanism/building_heights_density_c1800.md
+  infra: canon/endpoint/goalpost/infrastructure/coastal_storms_resilience_c1800.md
+  water: canon/endpoint/goalpost/infrastructure/water_and_sewer_c1800.md
 ---
 
 ## Materials & Siting

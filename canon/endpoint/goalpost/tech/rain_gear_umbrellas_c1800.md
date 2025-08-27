@@ -3,9 +3,7 @@ id: TECH:RAIN-GEAR-1803
 name: Rain Gear — Capes, Masks & Umbrellas (Green-Rain Culture)
 status: Draft
 links:
-  clothing: canon/current/goalpost/tech/clothing_and_textiles_c1800.md
-  health: canon/current/goalpost/health/public_health_c1800.md
-  religion: canon/systems/religions/good_old_rhythm.md
+
 ---
 
 ## Everyday Layers

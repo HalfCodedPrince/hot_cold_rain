@@ -3,8 +3,7 @@ id: COS:ZE-001
 name: Ze (Outer Dwarf)
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
-  belts: canon/systems/cosmos/belts.md
+
 tags: [outer, dwarf, eccentric]
 ---
 

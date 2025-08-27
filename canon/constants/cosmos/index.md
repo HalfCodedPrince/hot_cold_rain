@@ -3,7 +3,7 @@ id: COS:INDEX-001
 name: Cosmos Index
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
+
 ---
 
 # Cosmos Index

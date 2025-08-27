@@ -3,7 +3,7 @@ id: COS:BEL-001
 name: Belts & Small Bodies
 status: Draft
 links:
-  overview: canon/systems/cosmos/overview.md
+
 tags: [asteroids, belts]
 ---
 

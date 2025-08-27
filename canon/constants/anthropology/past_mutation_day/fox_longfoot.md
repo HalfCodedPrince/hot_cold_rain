@@ -1,0 +1,23 @@
+---
+id: CO:DIA-FOX-LONGFOOT
+name: Co-type Dialect — Longfoot (Ord–Sar)
+status: Stub
+tags: [co_type, fox, dialect, longfoot]
+links:
+
+---
+
+## Scope
+Road nets and market roads; factor courts and courier guild precincts.
+
+## Morphology & Accent
+Springy Achilles and padded forefeet; distance-gait endurance; full speech with sibilant color.
+
+## Work & Ward
+Shrine runners, factor couriers, docket messengers; famed negotiators.
+
+## Clothing Accents
+Vented crowns (ear ports + evap pads at pinna roots); open-weave half-capes, scent-safe inks.
+
+## Law & Etiquette
+Smell-binding injuries in copy rooms are fined; courier lanes carry ear-port etiquette postings.

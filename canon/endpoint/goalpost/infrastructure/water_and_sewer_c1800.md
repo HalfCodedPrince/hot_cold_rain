@@ -3,9 +3,8 @@ id: INFRA:WATER-001
 name: Urban Water & Sewers (c. 1803 AO)
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  health: canon/current/goalpost/health/public_health_c1800.md
-  economy: canon/current/goalpost/economy/currency_finance_c1800.md
+  health: canon/endpoint/goalpost/health/public_health_c1800.md
+  economy: canon/endpoint/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Supply

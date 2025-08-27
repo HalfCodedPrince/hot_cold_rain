@@ -5,11 +5,7 @@ status: Draft
 span: "700–800 AO"
 thesis: "Zambran’s circle fixes doctrine and law in print; Ord–Sar unifies by blockade, siege, and deal-making; imperial offices harden."
 signature_events: []
-institutions:
-  - canon/entities/people/nerise_zambrani.md
-  - canon/systems/religions/good_old_rhythm.md
-  - canon/entities/factions/guild_of_compositories.md
-  - canon/entities/factions/council_of_captains.md
+
 ---
 
 ## Thesis
@@ -30,5 +26,5 @@ Printed catechisms and codes, convoy/harbor standards, and managed tributaries t
 
 ## Cross-refs
 - `canon/systems/tech/writing_and_printing_c700_1200.md`
-- `canon/current/goalpost/economy/currency_finance_c1800.md`
+- `canon/endpoint/goalpost/economy/currency_finance_c1800.md`
 - `canon/systems/governance/symbols_of_office_c700_1200.md`

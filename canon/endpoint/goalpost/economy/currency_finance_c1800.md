@@ -4,10 +4,8 @@ name: Currency & Finance — Ord–Sar Sphere
 status: Draft
 era_tags: []
 links:
-  governance: canon/systems/governance/law_admin.md
-  hydrology: canon/systems/planetology/hydrology.md
-  transport: canon/current/goalpost/transport/transport_index_c1800.md
-  security: canon/current/goalpost/security/piracy_and_navies_c1800.md
+  transport: canon/endpoint/goalpost/transport/transport_index_c1800.md
+  security: canon/endpoint/goalpost/security/piracy_and_navies_c1800.md
 ---
 
 ## Thesis
@@ -32,6 +30,6 @@ Bills of lading; bottomry/respondentia; wharfage bonds; customs IOUs; **convoy i
 ## Institutions
 City mints; **Temple Notaries**; **Too-Kahet banks**; **Harbor Exchanges** post bid sheets for staples (rice, saltfish, rope, diesel).
 ## Cross-refs
-- `canon/current/goalpost/security/piracy_and_navies_c1800.md` (convoy insurance).  
-- `canon/current/goalpost/transport/transport_index_c1800.md` (canal closures → liquidity).  
+- `canon/endpoint/goalpost/security/piracy_and_navies_c1800.md` (convoy insurance).  
+- `canon/endpoint/goalpost/transport/transport_index_c1800.md` (canal closures → liquidity).  
 - `canon/systems/planetology/hydrology.md` (green-rain disruptions).

@@ -3,12 +3,7 @@ id: ANTH:ORIGINS-001
 name: Human Origins & Migrations (Out of Sar)
 status: Draft
 links:
-  krum: canon/eras/00_preord_krum.md
-  blindness: canon/notes/diegetic/pamphlet_cuzhar_krum.md
-  hydrology: canon/systems/planetology/hydrology.md
-  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
-  old_song: canon/systems/transport/navigation_currents.md
-  snapshot_c0: canon/notes/snapshots/known_world/known_world_c0.md
+
 ---
 
 ## Thesis

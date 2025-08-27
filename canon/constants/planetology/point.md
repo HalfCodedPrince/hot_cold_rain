@@ -3,8 +3,7 @@ id: GEO:SYS-001
 name: Planet Point (Basics)
 status: Draft
 links:
-  hydrology: canon/systems/planetology/hydrology.md
-  hex: canon/systems/cosmos/moon_hex.md
+
 tags: [planet, point]
 ---
 

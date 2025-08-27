@@ -3,10 +3,7 @@ id: SNAP:SPECIAL-COTYPES-TYPES-BIOMES-1503
 name: Co-Types — Lines, Dialects & Biomes (c.1503–1530 AO)
 status: Draft
 links:
-  mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
-  visual_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
-  known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
+
 tags: [snapshot, special, co_types, lines, dialects, biomes, guilds, prevalence]
 ---
 

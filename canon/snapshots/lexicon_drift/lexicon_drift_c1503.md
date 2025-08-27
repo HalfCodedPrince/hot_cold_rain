@@ -3,14 +3,7 @@ id: SNAP:LEXICON-1503
 name: Lexicon & Drift on the Morning of Green Skies (c. 1503 AO)
 status: Draft
 links:
-  lex_1200: canon/notes/snapshots/lexicon_drift/lexicon_drift_c1200.md
-  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
-  hydrology: canon/systems/planetology/hydrology.md
-  rhythm: canon/systems/religions/good_old_rhythm.md
-  metrology_calendar: canon/systems/metrology/calendar_base6.md
-  vis_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
-  world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-tags: [snapshot, lexicon, drift, pamphlets, access_days, cleanliness_tables, green_rain, refugees]
+
 ---
 
 > **Scope.** Street-and-office vocabulary in the **weeks to morning-of** the Day of Green Skies. Use to tune dialogue, signage, fines, rites, and convoy paperwork. See c.1200 for earlier drifts and baselines.

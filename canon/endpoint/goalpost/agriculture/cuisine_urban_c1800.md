@@ -3,14 +3,11 @@ id: SYS:CUISINE-URB-1800
 name: Cuisine — Urban Patterns (c.1800)
 status: Draft
 links:
-  diet: canon\current\goalpost\agriculture\agriculture_diet_c1800.md
-  logistics: canon/current/goalpost/economy/food_logistics_c1800.md
-  health: canon/current/goalpost/health/public_health_c1800.md
-  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
-  law_admin: canon/systems/governance/law_admin.md
-  charts: canon/systems/transport/navigation_currents.md
-  piracy: canon/current/goalpost/security/piracy_and_navies_c1800.md
-  currency: canon/current/goalpost/economy/currency_finance_c1800.md
+  diet: canon/endpoint/goalpost/agriculture/agriculture_diet_c1800.md
+  logistics: canon/endpoint/goalpost/economy/food_logistics_c1800.md
+  health: canon/endpoint/goalpost/health/public_health_c1800.md
+  piracy: canon/endpoint/goalpost/security/piracy_and_navies_c1800.md
+  currency: canon/endpoint/goalpost/economy/currency_finance_c1800.md
 ---
 
 ## Thesis

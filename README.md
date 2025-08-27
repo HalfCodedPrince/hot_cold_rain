@@ -5,12 +5,9 @@ This repo holds the world bible for **Point** (Ord–Sar–Widiwidi). It’s org
 **Status**: **WIP**
 
 ---
-Current baseline: **v0.14**
-## What’s new in v0.14 (highlights)
-- **Day of the Green Skies/Mutation Day/Green day content is mostly in** - see snapshots/special and snapshot/watershed_moments, along with the /biota folder
-- **Test map references** - canon/notes/maps/map_reference.yaml
-timeline.csv is canon; timeline.txt is mirror
-- **Project restructuring ongoing** - yet another one, may Oboe save our souls. It should make things more readable by LLM and save a shred of my sanity too.
+Current baseline: **v0.15**
+## What’s new in v0.15 (highlights)
+- **Project restructuring/editing ongoing** - turned into a full one, since structural issues became almost unsolvable
 - **Script cleanup ongoing** - un-blackbox them, because sometimes I need a fix and asking LLM to do it is a pain; regex, open your arms, for here I come.
 
 ---

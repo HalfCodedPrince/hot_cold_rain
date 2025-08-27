@@ -3,13 +3,8 @@ id: SEC:NAV-001
 name: Piracy, Convoys & Navies (Cadence → GP)
 status: Draft
 links:
-  finance: canon/current/goalpost/economy/currency_finance_c1800.md
-  transport_index: canon/current/goalpost/transport/transport_index_c1800.md
-  harbor_watches: canon/entities/factions/harbor_watches.md
-  insurers: canon/entities/factions/convoy_insurance_office.md
-  council: canon/entities/factions/council_of_captains.md
-  staples: canon/systems/agriculture/agriculture_diet.md
-  weather: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
+  finance: canon/endpoint/goalpost/economy/currency_finance_c1800.md
+  transport_index: canon/endpoint/goalpost/transport/transport_index_c1800.md
 ---
 
 # Piracy, Convoys & Navies
@@ -38,5 +33,5 @@ Bright-Sea commerce survives by **convoy habit**, **watch networks**, and **priz
 - Radio triangles degrade in ash storms; Q-boat misuse leads to scandal and tighter prize rules.
 
 ## Cross-refs
-- canon/current/goalpost/economy/currency_finance_c1800.md  
-- canon/current/goalpost/transport/transport_index_c1800.md
+- canon/endpoint/goalpost/economy/currency_finance_c1800.md  
+- canon/endpoint/goalpost/transport/transport_index_c1800.md

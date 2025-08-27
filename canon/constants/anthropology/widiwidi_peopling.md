@@ -3,13 +3,7 @@ id: ANTH:MIG-WID-001
 name: Peopling Widiwidi (Island Hopping)
 status: Draft
 links:
-  origins: canon/systems/anthropology/human_origins_migrations.md
-  old_song: canon/systems/transport/navigation_currents.md
-  hydrology: canon/systems/planetology/hydrology.md
-  snapshot: canon/notes/snapshots/lexicon_drift/lexicon_drift_c0950.md
-  region: canon/systems/geography/regions/widiwidi_lee_arcs.md
-  cosmos: canon/systems/cosmos/index.md
-  climate: canon/systems/climate/bright_sea_climate_old_song_green_rains.md
+
 ---
 
 ## Thesis

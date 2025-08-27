@@ -3,18 +3,7 @@ id: SNAP:SOC-CULT-1503
 name: Social & Cultural — On the Eve (c.1503 AO)
 status: Draft
 links:
-  # systems & snapshots (primary)
-  governance: canon/systems/governance/centralization_levers_principality_c1400_1550.md
-  law_admin: canon/systems/governance/law_admin.md
-  print: canon/systems/print/pamphlet_economy_c1400_1503.md
-  metrology: canon/systems/metrology/calendar_base6.md
-  insurance: canon/systems/insurance/green_years_standard.md
-  # religion/era (secondary)
-  rhythm: canon/systems/religions/good_old_rhythm.md
-  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
-  # maps & references (tertiary)
-  known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  visual_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
+
 tags: [snapshot, society, culture, rites, pamphlets, guilds, etiquette, education, festivals, law]
 ---
 

@@ -3,11 +3,7 @@ id: SNAP:LEXICON-950
 name: Lexicon & Drift at the Apex (c. 950 AO)
 status: Draft
 links:
-  apex: canon/notes/snapshots/watershed_moments/empire_at_its_peak_c0950.md
-  ling_guide: canon/systems/language/linguistic_guide_for_ord_sar.md
-  names: canon/systems/language/names_and_onomastics_for_ord_sar.md
-  suffixes: canon/systems/language/onomastic_suffixes.md
-  rhythm: canon/systems/religions/good_old_rhythm.md
+
 ---
 
 > **Scope.** This is a writer’s cheat-sheet for how things are *called* c.950 AO, plus where they’re already drifting. It assumes a Cadence-wide administrative koiné (print era), with lively coastal vernaculars at the edges. Printing and temple schools suppress wild divergence—for now. 

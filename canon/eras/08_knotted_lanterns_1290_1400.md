@@ -3,18 +3,7 @@ id: ERA-08
 name: Knotted Lanterns (1290–1400 AO)
 status: Draft
 links:
-  charter: canon/systems/law/treaties/charter_great_principality_1304.md
-  economy: canon/systems/economy/taxation_finance_c0_1200.md
-  procurement: canon/systems/governance/procurement_fee_farms_c700_1200.md
-  piracy: canon/systems/security/mangrove_piracy_compacts_c1200_1290.md
-  courier_assay: canon/systems/infrastructure/courier_circuit_assay_ring_c700_1300.md
-  warehouses: canon/systems/infrastructure/warrant_warehouses_bonded_granaries_c700_1300.md
-  iron_sand: canon/systems/industry/iron_sand_bloomery_c1200.md
-  pozzolan: canon/systems/industry/pozzolan_hydraulic_mortar_c1200.md
-  factors_row: canon/systems/commerce/morum_factors_row_c1296.md
-  gardens: canon/systems/commerce/mangrove_gardens_c1290_1400.md
-  marque: canon/systems/security/letters_of_marque_c1050_1200.md
-  known_world: canon/notes/snapshots/known_world/known_world_c1215.md
+
 tags: [era, principality, colonies, widiwidi, universities, theaters, circumnavigation, green_years, church_crisis, nepotism]
 ---
 

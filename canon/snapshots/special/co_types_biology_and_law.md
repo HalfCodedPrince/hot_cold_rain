@@ -3,12 +3,7 @@ id: SNAP:SPECIAL-COTYPES-BIO-LAW-1503
 name: Co-Types — Biology, Clinics, Clothing & Law (c.1503–1530 AO)
 status: Draft
 links:
-  mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  era_09: canon/eras/09_pamphlet_wars_1400_1503.md
-  visual_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
-  known_world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
-  metrology_calendar: canon/systems/metrology/calendar_base6.md
+
 tags: [snapshot, special, co_types, biology, clinics, fertility, switch_hours, sanctuary, mixed_court, clothing]
 ---
 

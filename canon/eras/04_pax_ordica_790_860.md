@@ -5,11 +5,7 @@ status: Draft
 span: "790–860 AO"
 thesis: "Post-Marr consolidation: legal clarity, festival unities, harbor watches; institutions routinize power-sharing across Council, Beats, and Chancery."
 signature_events: []
-institutions:
-  - canon/entities/factions/council_of_captains.md
-  - canon/entities/factions/synod_of_beats.md
-  - canon/entities/factions/public_debt_office.md
-succession: canon/entities/people/thedos_zambrani.md
+
 ---
 
 ## Thesis
@@ -25,8 +21,8 @@ Stability through procedure: presumption rules, harbor safety regimes, and festi
 
 ## Cross-refs
 - `canon/systems/culture/sar_ord_game_and_festivals.md`
-- `canon/current/goalpost/security/piracy_and_navies_c1800.md`
-- `canon/current/goalpost/economy/currency_finance_c1800.md`
+- `canon/endpoint/goalpost/security/piracy_and_navies_c1800.md`
+- `canon/endpoint/goalpost/economy/currency_finance_c1800.md`
 
 ## TODO
 - Link 792 Harbor Watches; 800 Seven Fingers trial; 827 succession.

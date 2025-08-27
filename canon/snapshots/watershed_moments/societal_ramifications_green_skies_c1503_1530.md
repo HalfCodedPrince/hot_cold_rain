@@ -3,17 +3,7 @@ id: SNAP:SOCIETY-GREEN-1503
 name: Society After the Day of Green Skies (c.1503–1530 AO)
 status: Draft
 links:
-  mechanism: canon/notes/snapshots/special/mutation_day_mechanism.md
-  bio_law: canon/notes/snapshots/special/co_types_biology_and_law.md
-  types_biomes: canon/notes/snapshots/special/co_types_types_and_biomes.md
-  visual_1503: canon/notes/snapshots/visual_life/visual_life_c1503.md
-  world_1503: canon/notes/snapshots/known_world/known_world_c1503.md
-  map_reference: canon/notes/maps/map_reference.yaml
-  map_mutation_day: canon/notes/maps/map_mutation_day.yaml
-  systems_cities: canon/current/goalpost/mapping/canon_systems_mapping_cities_c1803.md
-  insurance: canon/systems/insurance/green_years_standard.md
-  green_edicts: canon/systems/governance/green_edicts_c1503_1515.md
-  foundry_discipline_1400_1550: canon/systems/industry/foundry_discipline_1400_1550.md
+
 tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanctuary, riots, convoys]
 ---
 
@@ -93,4 +83,4 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 ### Map Hooks
 - **Base facts** → `canon/notes/maps/map_reference.yaml`  
 - **Era overlay (1503–1530)** → `canon/notes/maps/map_mutation_day.yaml`  
-- **Full system view / back-cast** → `canon/current/goalpost/mapping/canon_systems_mapping_cities_c1803.md`
+- **Full system view / back-cast** → `canon/endpoint/goalpost/mapping/canon_systems_mapping_cities_c1803.md`
