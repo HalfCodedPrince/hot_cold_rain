@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ==== Flags (env) ====
 # OUT: output Markdown path. A .txt twin is also written next to it.
-OUT="${OUT:-tools/new_index/index_pack.md}"
+OUT="${OUT:-tools/index_pack.md}"
 # OUT_BASENAME: base path used for the .txt twin (default = OUT without .md)
 OUT_BASENAME="${OUT_BASENAME:-${OUT%.md}}"
 # INCLUDE_THESIS: 1 to include a THESIS map (ID<TAB>one-line thesis); default 0.
@@ -35,7 +35,9 @@ list_files() {
     | sed 's|^\./||' \
     | tr '\\\\' '/' \
     | sort -u \
-    | grep -Ev '^(tools/upload_ready/|\.git/|node_modules/|vendor/|\.venv/)' || true \
+    | grep -Ev '^(tools/upload_ready/|\.git/|node_modules/|vendor/|\.venv/)' \
+    | grep -E  '^canon/.*\.md$' \
+    | grep -Ev '^(canon/(02_style_guide|03_LLM_.*)\.md)$' || true \
     | { if [ "$INCLUDE_RETIRED" = "1" ]; then cat; else grep -Ev '^retired/'; fi; } || true
   )
 }
