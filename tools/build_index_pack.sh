@@ -6,6 +6,8 @@ set -euo pipefail
 OUT="${OUT:-tools/index_pack.md}"
 # OUT_BASENAME: base path used for the .txt twin (default = OUT without .md)
 OUT_BASENAME="${OUT_BASENAME:-${OUT%.md}}"
+# WARN_CRLF: 0 to make it actually shut up
+WARN_CRLF="${WARN_CRLF:-1}"
 # INCLUDE_THESIS: 1 to include a THESIS map (ID<TAB>one-line thesis); default 0.
 INCLUDE_THESIS="${INCLUDE_THESIS:-0}"
 # INCLUDE_ALIASES: 1 to include an ALIASES map (ID<TAB>a|b|c from front-matter); default 0.
@@ -45,8 +47,8 @@ list_files() {
 # ---- Front-matter parser → TSV: ID<TAB>PATH<TAB>THESIS<TAB>ALIASES<TAB>LINKPATHS ----
 parse_file() {
   local rel="$1" abs="$ROOT/$rel" has_crlf=""
-  if tr -d '\n' < "$abs" | grep -q $'\r'; then has_crlf="CRLF"; fi
-  awk -v rel="$rel" -v has_crlf="$has_crlf" '
+  if awk 'sub(/\r$/,""){f=1} END{exit f?0:1}' "$abs"; then has_crlf="CRLF"; fi
+  awk -v rel="$rel" -v has_crlf="$has_crlf" -v warn_crlf="${WARN_CRLF:-1}" '
     BEGIN{ fm=0; id=""; thesis=""; aliases=""; in_alias=0; in_links=0; in_thesis=0; links=""; }
     NR==1 && $0 ~ /^---[[:space:]]*$/ { fm=1; next }
     fm==1 && $0 ~ /^---[[:space:]]*$/ { fm=2; next }
@@ -87,7 +89,6 @@ parse_file() {
     }
 
     END{
-      # sanitize thesis for pack use: no paths, cap length
       gsub(/[[:space:]]+/," ",thesis); gsub(/\t/," ",thesis);
       if (thesis ~ /\// || thesis ~ /^canon\// || thesis ~ /\.md$/) {
         if (thesis!="") printf("THESIS_PATH\t%s\n", rel) > "/dev/stderr";
@@ -96,9 +97,11 @@ parse_file() {
       if (length(thesis) > 240) thesis=substr(thesis,1,240);
 
       if (id=="") { printf("MISSING_ID\t%s\n", rel) > "/dev/stderr"; exit 0 }
+
       printf("%s\t%s\t%s\t%s\t%s\n", id, rel, thesis, aliases, links);
-      if (has_crlf!="") printf("CRLF\t%s\n", rel) > "/dev/stderr";
+      if (has_crlf!="" && warn_crlf=="1") printf("CRLF\t%s\n", rel) > "/dev/stderr";
     }
+
   ' "$abs"
 }
 
