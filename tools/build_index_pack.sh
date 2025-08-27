@@ -1,20 +1,30 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Config
-ROOT="${ROOT:-$(git rev-parse --show-toplevel 2>/dev/null || pwd)}"
+# ==== Flags (env) ====
+# OUT: output Markdown path. A .txt twin is also written next to it.
 OUT="${OUT:-tools/new_index/index_pack.md}"
+# OUT_BASENAME: base path used for the .txt twin (default = OUT without .md)
 OUT_BASENAME="${OUT_BASENAME:-${OUT%.md}}"
-INCLUDE_THESIS="${INCLUDE_THESIS:-1}"
-INCLUDE_ALIASES="${INCLUDE_ALIASES:-1}"
-INCLUDE_BACKLINKS="${INCLUDE_BACKLINKS:-1}"
+# INCLUDE_THESIS: 1 to include a THESIS map (ID<TAB>one-line thesis); default 0.
+INCLUDE_THESIS="${INCLUDE_THESIS:-0}"
+# INCLUDE_ALIASES: 1 to include an ALIASES map (ID<TAB>a|b|c from front-matter); default 0.
+INCLUDE_ALIASES="${INCLUDE_ALIASES:-0}"
+# INCLUDE_BACKLINKS: 1 to include BACKLINKS (target_path<TAB>src_id<TAB>src_path from links:); default 0.
+INCLUDE_BACKLINKS="${INCLUDE_BACKLINKS:-0}"
+# INCLUDE_RETIRED: 1 to scan files under retired/; default 0.
 INCLUDE_RETIRED="${INCLUDE_RETIRED:-0}"
+# SANITIZE_ASCII: 1 to normalize CRLF->LF, tabs->spaces, and ASCII-transliterate output; default 1.
 SANITIZE_ASCII="${SANITIZE_ASCII:-1}"
+# QUIET: 1 to suppress progress logs; default 0.
 QUIET="${QUIET:-0}"
+# ROOT: repo root override; default = `git rev-parse --show-toplevel` or $PWD.
+ROOT="${ROOT:-$(git rev-parse --show-toplevel 2>/dev/null || pwd)}"
 
 mkdir -p "$(dirname "$OUT")"
 log() { [ "$QUIET" = "1" ] || printf '%s\n' "$*" >&2; }
 
+# ---- File listing (tracked + untracked .md, normalized paths) ----
 list_files() {
   (
     cd "$ROOT" || exit 0
@@ -30,7 +40,7 @@ list_files() {
   )
 }
 
-# Parse front matter to: ID<TAB>PATH<TAB>THESIS<TAB>ALIASES<TAB>LINKPATHS
+# ---- Front-matter parser → TSV: ID<TAB>PATH<TAB>THESIS<TAB>ALIASES<TAB>LINKPATHS ----
 parse_file() {
   local rel="$1" abs="$ROOT/$rel" has_crlf=""
   if tr -d '\n' < "$abs" | grep -q $'\r'; then has_crlf="CRLF"; fi
@@ -38,7 +48,7 @@ parse_file() {
     BEGIN{ fm=0; id=""; thesis=""; aliases=""; in_alias=0; in_links=0; in_thesis=0; links=""; }
     NR==1 && $0 ~ /^---[[:space:]]*$/ { fm=1; next }
     fm==1 && $0 ~ /^---[[:space:]]*$/ { fm=2; next }
-    fm!=1 { next }  # only within first front matter
+    fm!=1 { next }  # only first front-matter
 
     { gsub(/\r/,""); }
 
@@ -48,11 +58,8 @@ parse_file() {
     $0 ~ /^thesis:[[:space:]]+/ && in_thesis!=1 { sub(/^thesis:[[:space:]]*/,""); thesis=$0; next }
     in_thesis==1 {
       if ($0 ~ /^[a-zA-Z0-9#_-]+:[[:space:]]*/) { in_thesis=0 }
-      else {
-        line=$0; gsub(/^[[:space:]]+|[[:space:]]+$/,"",line);
-        if (line!="") { if (thesis!="") thesis=thesis" "; thesis=thesis line; }
-        next
-      }
+      else { line=$0; gsub(/^[[:space:]]+|[[:space:]]+$/,"",line);
+             if (line!="") { if (thesis!="") thesis=thesis" "; thesis=thesis line; } next }
     }
 
     $0 ~ /^aliases:[[:space:]]*\[/ { s=$0; sub(/^aliases:[[:space:]]*\[/,"",s); sub(/\][[:space:]]*$/,"",s);
@@ -78,7 +85,14 @@ parse_file() {
     }
 
     END{
+      # sanitize thesis for pack use: no paths, cap length
       gsub(/[[:space:]]+/," ",thesis); gsub(/\t/," ",thesis);
+      if (thesis ~ /\// || thesis ~ /^canon\// || thesis ~ /\.md$/) {
+        if (thesis!="") printf("THESIS_PATH\t%s\n", rel) > "/dev/stderr";
+        thesis="";
+      }
+      if (length(thesis) > 240) thesis=substr(thesis,1,240);
+
       if (id=="") { printf("MISSING_ID\t%s\n", rel) > "/dev/stderr"; exit 0 }
       printf("%s\t%s\t%s\t%s\t%s\n", id, rel, thesis, aliases, links);
       if (has_crlf!="") printf("CRLF\t%s\n", rel) > "/dev/stderr";
@@ -86,6 +100,7 @@ parse_file() {
   ' "$abs"
 }
 
+# ---- Temp stores ----
 tmpdir="$(mktemp -d)"; trap 'rm -rf "$tmpdir"' EXIT
 manifest="$tmpdir/manifest.tsv"; : >"$manifest"
 thesis_map="$tmpdir/thesis.tsv"; : >"$thesis_map"
@@ -93,12 +108,12 @@ aliases_map="$tmpdir/aliases.tsv"; : >"$aliases_map"
 backlinks="$tmpdir/backlinks.tsv"; : >"$backlinks"
 warnings="$tmpdir/warn.tsv"; : >"$warnings"
 
+# ---- Scan ----
 filelist="$tmpdir/files.txt"
 list_files > "$filelist"
-count="$(wc -l < "$filelist" | tr -d '[:space:]')"
-log "Scanning markdown files... ($count found)"
+files_count="$(wc -l < "$filelist" | tr -d '[:space:]')"
+log "Scanning markdown files... ($files_count found)"
 
-# Safe loop
 while IFS= read -r rel; do
   [ -n "$rel" ] || continue
   out="$(parse_file "$rel" 2>>"$warnings" || true)"
@@ -114,6 +129,7 @@ while IFS= read -r rel; do
   done <<< "$out"
 done < "$filelist"
 
+# ---- Resolve duplicates ----
 log "Resolving duplicates..."
 resolved="$tmpdir/resolved.tsv"
 sort -u "$manifest" > "$tmpdir/manifest.sorted.tsv"
@@ -132,11 +148,16 @@ awk -F'\t' '
   }
 ' "$tmpdir/manifest.sorted.tsv" > "$resolved" 2>>"$warnings"
 
+ids_count="$(wc -l < "$resolved" | tr -d '[:space:]')"
+warn_count="$( [ -s "$warnings" ] && wc -l < "$warnings" | tr -d '[:space:]' || echo 0 )"
+
+# ---- Write pack ----
 log "Writing $OUT ..."
 {
   printf "# INDEX_PACK v1\n"
   printf "# BUILT: %s\n" "$(date -u +%FT%TZ)"
-  printf "# ROOT: %s\n\n" "$ROOT"
+  printf "# ROOT: %s\n" "$ROOT"
+  printf "# STATS: %s IDs, %s files, %s warnings\n\n" "$ids_count" "$files_count" "$warn_count"
 
   printf "# ID->PATH (MIN)\n"
   sort -k1,1 "$resolved"
@@ -167,10 +188,9 @@ log "Writing $OUT ..."
   fi
 } > "$OUT"
 
-# Sanitize and write .txt twin
+# ---- Sanitize & .txt twin ----
 if [ "$SANITIZE_ASCII" = "1" ]; then
   tmp="$OUT.tmp"
-  # CRLF->LF, tabs->2 spaces
   sed 's/\r$//' "$OUT" | expand -t 2 > "$tmp"
   if command -v iconv >/dev/null 2>&1; then
     iconv -f UTF-8 -t ASCII//TRANSLIT "$tmp" > "${tmp}.a" && mv "${tmp}.a" "$tmp"
