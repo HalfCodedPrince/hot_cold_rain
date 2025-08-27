@@ -19,7 +19,7 @@ links:
 | Insurance Steps | Insurance Steps | **Steps**, **Claim-stairs** | “Blue papers” = emergency premium notices. |
 
 ## Sea & convoy
-- **Broken Chain** (dark beacon run) replaces neutral “Leg outage.”  
+- **Eyehole Chain** (dark beacon run) replaces neutral “Leg outage.”  
 - **Ticket-men** (licensed privateers) vs **cloak-men** (unlicensed) in Sar.  
 - **Errata leaf** becomes **pilot’s mercy** in jokes (Relief by leaflet, not by ship).
 

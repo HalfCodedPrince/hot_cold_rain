@@ -21,7 +21,7 @@ links:
 
 ## Street Signals & Policing
 - **short–short–long** → lane-clear whistle/hand-sign code; taught to children as a game and respected when beadles appear.  
-- **Broken Chain** → beacon run with two legs dark/one canted; shorthand for “watch your papers.”  
+- **Eyehole Chain** → beacon run with two legs dark/one canted; shorthand for “watch your papers.”  
 - **aux leg** / **aux beacons** → rooftop cans painted moss-dark; neighborhood workarounds when main legs fail.
 
 ## Print, Stage & Dissent (pamphlet weather)

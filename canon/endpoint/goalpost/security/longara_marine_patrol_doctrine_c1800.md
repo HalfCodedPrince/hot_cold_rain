@@ -18,7 +18,7 @@ Longara’s Marine Patrol fights small-boat piracy in a shallow, storm-broken, a
 
 # Missions & Authorities
 1) **Interdict piracy/smuggling** in reef cuts, mangrove canals, ferry steps.  
-2) **Certify convoys** and shepherd stragglers onto lit legs when “broken chain” outages hit.  
+2) **Certify convoys** and shepherd stragglers onto lit legs when “Eyehole Chain” outages hit.  
 3) **Board & inspect** unlicensed privateers (“cloak-men”), contraband carriers, and false-flag fishers.  
 4) **Storm-edge security**: hold shelves, disperse looters, mark wreck sites for claims/insurers.  
 5) **Aid to Works & Watches**: move tenders, reset channel marks, tow disabled lighters.
@@ -81,7 +81,7 @@ _Small arms_: shot-carbines, riot fowling pieces, revolvers; rain skins; gutter-
 - **Wreck pickers.** First on-scene post-storm; will mob unless a shelf is held early.
 
 # Failure Modes / Risks
-- Beacon outages (“broken chain”) cascade convoy stragglers into ambush shelves.  
+- Beacon outages (“Eyehole Chain”) cascade convoy stragglers into ambush shelves.  
 - Green-rain season cuts visibility and fouls metal; misfires rise; courts later overturn rough seizures.  
 - Ward collusion (Watches × insurers × Works) can steer patrols away from “friends” unless audited.
 

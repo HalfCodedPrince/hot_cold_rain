@@ -25,7 +25,7 @@ updated: 2025-08-19
 - **Bench-docket** — printed/postable schedule of court fees and fines.  
 - **Blue paper** *(c.1300 premium notice)* — public surcharge posted on insurer benches/ports that shelter violators. *(aka “Blue Paper”)*  
 - **Bond stair** — staged maturities ladder (debt service scheduling).  
-- **Broken Chain** — colloquial for a dark or incomplete beacon leg.
+- **Eyehole Chain** — colloquial for a dark or incomplete beacon leg.
 
 ## C
 

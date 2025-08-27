@@ -19,7 +19,7 @@ _Color:_ tarred blacks, faded reed-green, salt-bitten ochre; the sudden white of
 - Watch & militia: mixed issue; shell scales over dyed civilian coats; **half-capes** signal ward authority. 
 
 ## Objects that read
-- **Broken Chain**: a line of leg housings with two dark, one canted; hand-painted **aux beacons** on rooftops.  
+- **Eyehole Chain**: a line of leg housings with two dark, one canted; hand-painted **aux beacons** on rooftops.  
 - **Claim ladders**: wooden rails beside Steps where clerks post appeals; rungs nicked by knives.  
 - **Portable shrines**: Rhythm boxes lashed to ferry roofs; coin slots choked with salt.
 

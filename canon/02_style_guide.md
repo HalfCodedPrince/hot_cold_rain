@@ -27,6 +27,7 @@
 - File name: `<family>_cYYYY[–YYYY].md`
 - Each leaf starts with a **Primer** (≤120 words). Duplicate the same Primer across the family.
 - Optional `primer_rev: <int>` in front matter to track Primer changes.
+
 - Provenance:
   ```yaml
   derived_from:
@@ -111,6 +112,43 @@ Leaves are moved to `/retired/` after one release.
 
 * Diachronic leaf: `Primer` · `Thesis` · `Changes since <prev>` · `Standards/Forms used` · `Interfaces` · `Failure Modes`
 * Snapshot: `Thesis` · `What changed` · `Institutions/Actors` · `Standards (selected)` · `Risks/Failure Modes`
+
+## Header standard (do not deviate)
+```yaml
+---
+id: <DOMAIN:CODE>                # required
+name: <Human-readable title>     # required
+status: Stable | Draft | Contested | Retired   # required
+updated: YYYY-MM-DD              # required
+
+# era-scoped pages only (diachronic leaves or snapshots)
+era: YYYY–YYYY                   # optional
+
+# diachronic leaves only
+derived_from:
+  - canon/systems/diachronic/<pillar>/<family>/<family>_cPREV.md
+primer_rev: 1                    # optional, bump if Primer text changes
+comparative: true                # optional, allow non-adjacent links (see policy)
+
+# optional helper for indices; ≤140 chars; mirror body Thesis
+thesis: >-
+  One-line gist for builders and index tools.
+
+# links (cap: ≤12 entries, ≤300 tokens total; unique keys; era-adjacent)
+links:
+  economy: canon/systems/economy/taxation_finance_c0_1200.md
+  procurement: canon/systems/diachronic/governance/procurement/procurement_c700_1200.md
+
+# tags (short, canonical)
+tags: [pillar, family, key-terms]
+
+# aliases if needed (entities or terms)
+aliases: [Alt name, Older name]
+
+# retirement pointer when status: Retired
+moved_to: canon/systems/diachronic/<pillar>/<family>/<family>_cNEXT.md
+---
+```
 
 
 
