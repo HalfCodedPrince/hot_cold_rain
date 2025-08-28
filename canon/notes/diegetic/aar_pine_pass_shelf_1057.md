@@ -2,7 +2,7 @@
 id: DOC:AAR-PINE-PASS-1057
 name: Claims Docket Extract — After-Action & Loss Account (Pine-Pass Shelf, 1057 AO)
 status: draft
-date_ao: 1057
+date_AO: 1057
 provenance: Ord City Claims Court (Insurance Steps), Bench Two
 seal: clerk’s blue; ward bell stamp (faint)
 links:
@@ -17,7 +17,7 @@ links:
 - **Joined in interest (informal):** Harbor Watches, Bell Three–Five.
 
 ### Facts found (from sworn statements & bells log)
-1) **Beacon Leg Six dark** two cycles prior; **errata leaf** warning posted but not counter-signed.  
+1) **beacon route Six dark** two cycles prior; **errata leaf** warning posted but not counter-signed.  
 2) Relief column mustered **at 61% strength**; guides hired on fee; **oath delayed** (Beat Six clerk absent).  
 3) **Fog & sleet** at third bell; column halted on **Pine-Pass Shelf**; rear carts bunched.  
 4) **Pass confederates** pressed from spruce line; javelins at first rush; mule tail cut; guide **defection** observed.  
@@ -38,4 +38,4 @@ links:
 - Captain-Reps **admonished**; next relief to **hold shelf** and wait foul-weather egress; no pursuit beyond bell three.  
 - Clerk to paste this extract to **claim-stairs** and to ring **three-three-one** upon crowding.
 
-_Notes in margin (hand of Clerk Per.):_ “Errata to pilots a day late is **no errata**. Get the bellman to sign blue next time.”
+_Notes in margin (hand of Clerk Per.):_ “Errata to navigators a day late is **no errata**. Get the bellman to sign blue next time.”

@@ -10,8 +10,8 @@ tags: [snapshot, known_world, mangrove_garrot, convoys]
 > This addendum amends the base c.1200 snapshot with developments that define 1200–1215 and set up the Mangrove Garrot era.
 
 ## Signals & Rates
-- Intermittent **beacon outages** across three rows; **Blue Papers** posted by Insurers; independents hug the coast.
-- **Bench-dockets** proliferate; convoy **tickets** become transferable scripts at core wards only.
+- Intermittent **beacon outages** across three rows; **Blue papers** posted by Insurers; independents hug the coast.
+- **Paper Discordants** proliferate; convoy **tickets** become transferable scripts at core wards only.
 
 ## Ord & Bay
 - **Ord**: Works lists skew to oil/rope; Debt Office rolls dredge/beacon stair; escorts paid by subscription.
@@ -29,8 +29,8 @@ tags: [snapshot, known_world, mangrove_garrot, convoys]
 - **Free Cities**: ritualized town fights continue; mercenary-trader bands circulate; river towns push higher on western Ord tributaries.
 
 ## Lane Rumors (setups)
-- “Plume line” stories from far east (volcanic caps over the horizon) circulate among pilots.
-- Steps trial **Rate-Holds** on smaller in-sea lanes; paperwork is ready before the Widiwidi window is truly known.
+- “Plume line” stories from far east (volcanic caps over the horizon) circulate among navigators.
+- Steps trial **Camra's Owns** on smaller in-sea lanes; paperwork is ready before the Widiwidi window is truly known.
 
 ## What To Watch (pointers into the era file)
 - 1205–1215: seasonal pirate republic in mangroves; republic attempts fail for lack of grain/assay.

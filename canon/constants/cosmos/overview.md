@@ -22,7 +22,7 @@ Yellow-dwarf primary; steady output; temple ephemerides published from c. 700 AO
 
 ## Observational notes
 - Public ephemerides: temple calendars (ERA-700+).
-- Pilot-books: sunrise/Hex tables for convoy timing.
+- navigator-books: sunrise/Hex tables for convoy timing.
 - Children’s primers exist; treat as secondary sources.
 
 ## Pointers

@@ -17,11 +17,11 @@ tags: [snapshot, visual_life, green_rain, pamphlets, access_days, watches, rites
 ## Street Signs & Paper
 - **Access Day boards**: sliding slats with festival glyphs; chalk **ratings** wiped and redrawn between patrols.  
 - **Blue papers**: stiff courier sheets sealed with plate-stamps; runners tuck them flat under oilcloth in chest-wraps.  
-- **Errata pasting**: boys with paste-pots cover last night’s lampoons with rebuttal slips while a watch beadle “doesn’t see.”
+- **Errata pasting**: boys with paste-pots cover last night’s lampoons with rebuttal slips while a watch Whip “doesn’t see.”
 
 ## Clothing Drift (work to watch)
 - **Work tunics** under **storm aprons**; hems weighted; knees patched with waxed duck.  
-- **Half-capes** for ward authority; lacquered badges to hide rust; **shell scales** strapped over dyed coats for beadles on dock duty.  
+- **Half-capes** for ward authority; lacquered badges to hide rust; **shell scales** strapped over dyed coats for Whips on dock duty.  
 - **Festival wear** muted: reed-lamé belts rolled and pocketed; stage masks carried in coarse bags rather than hung at stalls.  
 - **Headcloths** double as pollen veils; children with **tinted eye-cords** on windy lanes.
 
@@ -53,7 +53,7 @@ tags: [snapshot, visual_life, green_rain, pamphlets, access_days, watches, rites
 - **Satyr fines** stand in for brands in Free Cities; in Ord-facing wards, **sackings** leave broken mask frames in gutters.
 
 ## Rites & Policing (face of the Rhythm)
-- **Steps**: clerks chalk rate boards, then palm them clean; beadles tap **hand-counts** into soup lines at shrine yards.  
+- **Steps**: clerks chalk rate boards, then palm them clean; Whips tap **hand-counts** into soup lines at shrine yards.  
 - **Deafening** now mostly symbolic—an empty chair and folded veil set in the portico to remind, not to use.  
 - **Green advisories** read aloud by a temple singer while a cousin posts the same in neat, smaller script below.
 
@@ -63,7 +63,7 @@ tags: [snapshot, visual_life, green_rain, pamphlets, access_days, watches, rites
 - **Co-Type** rooms near southern depots: double doors with mismatched locks; **company court** notices pasted in two scripts.
 
 ## Five Quick Vignettes (ward-to-ward)
-1) **Ord, Benchside lane, dawn** — Gutter screens stacked by the shrine; a printer’s boy pastes errata over last night’s lampoon; a conservatory alto warms on a hum while beadles measure the soup line with finger taps.  
+1) **Ord, Benchside lane, dawn** — Gutter screens stacked by the shrine; a printer’s boy pastes errata over last night’s lampoon; a conservatory alto warms on a hum while Whips measure the soup line with finger taps.  
 2) **Tau-Hi delta, festival–2** — Convoy clerk rubs a chalk star off an Access board; barge troupe mouths their satyr lines in mime; a Sea-Lotus bursar quietly buys two bundles of rebuttals.  
 3) **Free City quay, midday** — Satyr fines posted like playbills; a mercenary sergeant cools his match; a stall-keeper pockets his mask ribbon as the watch strolls by.  
 4) **Knees ward, dusk** — Procession shoes leave petal smears; a reed-vision singer faces a closed playhouse door, humming the cadence alone.  
@@ -80,8 +80,8 @@ tags: [snapshot, visual_life, green_rain, pamphlets, access_days, watches, rites
 
 ## Children & Games
 - **Errata tag**: two teams paste over each other’s street chalk; points for clean edges.  
-- **Beacon legs** sketched on paving stones; hop counts map to **aux patterns**.  
-- **Hand-signs** copied in play—“short–short–long”—then straightened when a beadle rounds the corner.
+- **beacon routes** sketched on paving stones; hop counts map to **aux patterns**.  
+- **Hand-signs** copied in play—“short–short–long”—then straightened when a Whip rounds the corner.
 
 ## Visual Grammar (what’s new vs 1200)
 - **More paper, closer to the eye**; prints live on bodies (pinned leafs, belt-folds) as much as on walls.  

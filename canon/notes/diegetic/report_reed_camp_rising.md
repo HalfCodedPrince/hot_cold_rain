@@ -9,7 +9,7 @@ fact_box:
   title: "Incident Report: Reed-Camp Rising (EVT-0762-RCR)"
   doc_type: report
   author_in_universe: "Harbor Watch, Ord Iron Marshes Detachment"
-  date_ao: 762
+  date_AO: 762
   relates_to: [REG:ORD-MARSH]
   audience: elite
   reliability: high

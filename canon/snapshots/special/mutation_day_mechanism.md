@@ -19,12 +19,12 @@ tags: [snapshot, special, mechanism, green_skies, co_types, rumors, oboe, plate,
 ## The three explanations (all active, none decisive)
 1) **Bloom Theory** *(collegia majority)* — Airborne **green-bloom motes** and weather alignments; exposure windows in the womb (“**Switch Hours**”). Predicts geography and timing **well**, individual outcomes **poorly**.  
 2) **Heavenly Fire** *(Beat houses & pulpits)* — A **solar year** of too-much light; a visitation; a call to discipline. Predicts **piety**, not maps.  
-3) **Mangrove Fault** *(pilots, Factors’ Row)* — Sea made many; **packet lanes** carried it inland. Predicts **port-first** patterns, not upland pockets.
+3) **Mangrove Fault** *(navigators, Factors’ Row)* — Sea made many; **packet lanes** carried it inland. Predicts **port-first** patterns, not upland pockets.
 
 > **Bench whispers (sealed):** Some collegia note an **old Switch Complex** in samples; publication requires Plate seals. Street talk reduces this to “forbidden switches.”
 
 ## Phasing (consensus timeline)
-- **Year 0–2 (Event & Aftermath).** Green skies; rumor flood; **first Co-Type births**; spike in **nonviables** (euphemism: *greenborn*). **Health closures** of wards in hot belts; pilots’ tales of the **Endless Green** harden.  
+- **Year 0–2 (Event & Aftermath).** Green skies; rumor flood; **first Co-Type births**; spike in **nonviables** (euphemism: *greenborn*). **Health closures** of wards in hot belts; navigators’ tales of the **Endless Green** harden.  
 - **Year 3–10 (Recognition & Law).** **Sanctuary wards** chartered in ports; **Switch counseling** spreads; the first **Mixed Courts**; **pamphlet wars** rage.  
 - **Year 10–30 (Normalisation & Control).** Co-Type guild niches are embedded; **Green Edicts** consolidate packet/print/identity control; prevalence stabilizes near **5–7%** in many cities (higher in hot belts).
 
@@ -36,7 +36,7 @@ tags: [snapshot, special, mechanism, green_skies, co_types, rumors, oboe, plate,
 
 ## Sea-rumor module: Oboe & the “Crab/Fish-people”
 - **What is seen.** Kelp walls **sing** in wind and swell; tired crews hear **two tones** at night. Lost masks snag in weed; packets vanish in green years.  
-- **What is said.** Pilots claim the **Oboe speaks** through bloom; dockside cults stencil **claws** on Access Boards and whisper that Co-Types are **shore echoes** of a deeper shape.  
+- **What is said.** navigators claim the **Oboe speaks** through bloom; dockside cults stencil **claws** on Access Boards and whisper that Co-Types are **shore echoes** of a deeper shape.  
 - **What is known.** Infrasound and kelp volatiles cause **pareidolia**; drownings and delirium do the rest. **No verified “sea Co-Types.”** Plate fines the songs when riots loom.
 
 ## Geography of risk (why some wards changed more)

@@ -19,13 +19,13 @@ links:
 | Insurance Steps | Insurance Steps | **Steps**, **Claim-stairs** | “Blue papers” = emergency premium notices. |
 
 ## Sea & convoy
-- **Eyehole Chain** (dark beacon run) replaces neutral “Leg outage.”  
+- **Rot-eye Chain** (dark beacon run) replaces neutral “Leg outage.”  
 - **Ticket-men** (licensed privateers) vs **cloak-men** (unlicensed) in Sar.  
-- **Errata leaf** becomes **pilot’s mercy** in jokes (Relief by leaflet, not by ship).
+- **Errata leaf** becomes **navigator’s mercy** in jokes (Relief by leaflet, not by ship).
 
 ## Law & money
-- **War docket** keeps name; **bench-docket** appears for ward levies.  
-- **Grain note** → **meal-ticket** in poorer wards; **bond stair** survives but as **ladder** in street speech.
+- **War docket** keeps name; **Paper Discordant** appears for ward levies.  
+- **Grain note** → **meal-ticket** in poorer wards; **Debt Ladder** survives but as **ladder** in street speech.
 
 ## Place & people
 - **Kahet** yields **the Passes** (metonym for confed lands).

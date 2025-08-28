@@ -7,7 +7,7 @@ links:
 ---
 
 ## Street view — Ord City, a workday (sketch)
-**Dawn** — Fog off the bay. Beacon legs fade to amber. Harbor bells and hand-drums walk the quays; watch capes are waxed, not shiny. Ink boys shoulder bundles toward Compository Row.  
+**Dawn** — Fog off the bay. beacon routes fade to amber. Harbor bells and hand-drums walk the quays; watch capes are waxed, not shiny. Ink boys shoulder bundles toward Compository Row.  
 **Midday** — Slipways and cranes creak; lime-waxed fittings flash dull white; convoy boards chalk premiums on the Insurance Steps.  
 **Night** — Lantern rows throw mustard light; choir practice leaks from side chapels; patrol whistles trade short/long codes between piers.
 
@@ -33,7 +33,7 @@ Compact builds common; sun-dark skin tones; hair tied short against humidity. Po
 
 ## Urban fabric (objects that “read” on camera)
 - Storm galleries (arcaded refuges with first-aid and lantern racks).  
-- Beacon legs: stacked housings, service ladders, paint bands for range.  
+- beacon routes: stacked housings, service ladders, paint bands for range.  
 - Slipway quarter: ribbed hulls, reed-keel cradles, sacrificial bow fenders; piles of tinned fittings drying on lines.
 - Cistern mouths with brass plates; rain chains; canal scuppers choked with reed fluff when pollen’s up. (Hydrology tie-in.) 
 

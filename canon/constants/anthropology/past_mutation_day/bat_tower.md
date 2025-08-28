@@ -8,7 +8,7 @@ links:
 ---
 
 ## Scope
-Urban-density variant clustered at beacon legs, bell-towers, and tall wards.
+Urban-density variant clustered at beacon routes, bell-towers, and tall wards.
 
 ## Morphology & Accent
 Stronger vestibular calm at height; typical Bat forelimb/membrane pattern with steadying micro-motions.

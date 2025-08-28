@@ -15,7 +15,7 @@ After the **Great Conference at Ord (1304)**, the sea quiets only by halves. The
 ## Political Map (who holds what)
 
 ### Principality core
-- **Post-conference drift back to bickering.** The **Diet** sits, Access Days are arbitrated, but Electors fight on paper and in colonies. **War Stairs** run short and rare; most violence is contractual.
+- **Post-conference drift back to bickering.** The **Diet** sits, Water Days are arbitrated, but Electors fight on paper and in colonies. **War Stairs** run short and rare; most violence is contractual.
 - **Knees (late accession).** Last of the major Sar city-states to join, reading the room after **South Kllrian**’s collapse; rewarded with an **Elector seat** and parity at the Sar reef-cut—on paper. In practice, they muscle westward into archipelagos.
 
 ### Northlands (Ordward side)
@@ -31,17 +31,17 @@ After the **Great Conference at Ord (1304)**, the sea quiets only by halves. The
 
 - **Widiwidi elbows.** **Kllrian** houses and **Seven Fingers** crowd into Widiwidi supply contracts (sulfur, pozzolan, iron-sand, bast). Skirmishes are common but usually end in **Prize Dockets** and **rate uplifts**, not sackings.
 - **Sar inland expeditions.** Delta-rich **Tau-Hi** bankrolls river-inland probes; cordage and lacquer plantations push a day’s march inland where disease allows.
-- **North Ord coast** mapped in segments by pilot chorus houses (windward lee rules copied into the **Rate-Hold Books**).
+- **North Ord coast** mapped in segments by navigator chorus houses (windward lee rules copied into the **Camra's Own Books**).
 - **First circumnavigation (1376).** The **Reef-Back Circuit**: a compact out of **Ord–Koi-Hi–Morum** makes the long ring in four festival windows. Returns with good hulls and better stories; insurers stop calling it a myth.
 
 ---
 
 ## Governance & Economy (how the machine hums)
 
-- **Access Days Board** (Koi-Hi) sets convoy calendars; **split tallies** and dyed lanyards keep priority honest. Bribery lives in **queue jumps**, not in forged tokens (that’s minting fraud).
-- **Mangrove Ordinance** remains live: hit a **Rate-Hold** convoy, forge lantern/flag kits, or cleanse protected marks → **crab death**.
+- **Water Days Board** (Koi-Hi) sets convoy calendars; **split tallies** and dyed lanyards keep priority honest. Bribery lives in **queue jumps**, not in forged tokens (that’s minting fraud).
+- **Mangrove Ordinance** remains live: hit a **Camra's Own** convoy, forge lantern/flag kits, or cleanse protected marks → **crab death**.
 - **Cleansed goods** flow through **Factors’ Row** and licensed **Mangrove Gardens**; captains hand the paper to brokers and drink while fees and dockets settle. (The fence is the market.)
-- **Nepotism (“Kin-Maze”).** Dona kin tie every Elector; Access Days *seem* to bend for cousins. Steps post **Cleanliness Tables** (assay, grade variance, complaints) each festival to keep corruption tolerable, not total.
+- **Nepotism (“Kin-Maze”).** Dona kin tie every Elector; Water Days *seem* to bend for cousins. Steps post **Cleanliness Tables** (assay, grade variance, complaints) each festival to keep corruption tolerable, not total.
 
 ---
 
@@ -53,12 +53,12 @@ Relative stability grows **fatter wards**: more glass, tiled roofs, and theater 
 ### Collegia (universities, chartered c.1310→)
 - **Model:** Early-European *collegium* crossed with guild house. Charters from benches and compacts; **rector** elected by masters, **bursar** by merchants.
 - **Faculties:**  
-  - **Pilotry & Hydrology** (star paths, lee science, convoy discipline)  
+  - **navigatorry & Hydrology** (star paths, lee science, convoy discipline)  
   - **Works & Materials** (pozzolan, timber, iron-sand)  
   - **Assay & Account** (charge-and-discharge, metrology, fee-farms)  
   - **Song & Law** (temple music, bench-procedure, the public peace)  
   - **Arts & Stage** (choral drama, lanterncraft, pamphlet rhetoric)
-- **Notables:** **Ord Collegium (1315)**; **Tau-Hi Lyceum (1322)**; **Koi-Hi Pilot Hall (1333)**.
+- **Notables:** **Ord Collegium (1315)**; **Tau-Hi Lyceum (1322)**; **Koi-Hi navigator Hall (1333)**.
 
 ### Theaters & Gardens
 - **Rowdier playhouses** cluster beside **Mangrove Gardens** (“houses of easy dockets”). The famous tragedy **The Reef and the Hearth** plays two endings: *country* during the Last War retrospectives, *heart* after.
@@ -74,7 +74,7 @@ Relative stability grows **fatter wards**: more glass, tiled roofs, and theater 
 
 ## Environment & “Green Years”
 - **Green belts (1389–1397)** bring bumper algae, storm belts, and fish failures; reefs shift under silt and bloom.  
-- **Premium shocks** hit coastal fisheries; **Fishery Bans** by Access Days Board rotate closures; **Green-Scrip** trials pay crews to mend quays and haul weed instead of netting barren water.
+- **Premium shocks** hit coastal fisheries; **Fishery Bans** by Water Days Board rotate closures; **Green-Scrip** trials pay crews to mend quays and haul weed instead of netting barren water.
 
 ---
 
@@ -86,14 +86,14 @@ Relative stability grows **fatter wards**: more glass, tiled roofs, and theater 
 ## Failure Modes (slow trouble)
 - **Kin-capture:** Access calendars tilt; fee-farms pledged twice to cousins with bad paper.  
 - **“A little murder.”** Seasonal piracy persists under the wink—until premiums spike and the clean hands come down.  
-- **Bench wars by proxy:** Colonial skirmishes masquerade as **Prize law** and **Rate-Hold resets**.  
+- **Bench wars by proxy:** Colonial skirmishes masquerade as **Prize law** and **Camra's Own resets**.  
 - **Clerical vendettas:** Deafening scares speakers into exile; homilies grow quiet; factions embed in collegia.
 
 ---
 
 ## Outcomes by 1400
 - **Networked sea.** Koi-Hi, Vitrana, Morum, Ord, Tau-Hi sit on bonded stock, assay, and loud theaters. Moving between them no longer means dying.  
-- **Paper confidence.** CGWs, Access tallies, and Rate-Hold books make a predictable market—until storms or synods say otherwise.  
+- **Paper confidence.** CGWs, Access tallies, and Camra's Own books make a predictable market—until storms or synods say otherwise.  
 - **Hairline fractures.** Church, nepotism, and fish lay cracks under the tiled floors; the next century will pour ink into them.
 
 ---

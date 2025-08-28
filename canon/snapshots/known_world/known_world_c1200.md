@@ -23,4 +23,4 @@ links:
 - Seasonal colony attempts; mission sheds double as exchange posts; storms erase two for every one that sticks.
 
 ## Unknowns
-- **Far north shelves** — chart gaps widen; pilots trade **errata leafs** with folklore addenda.
+- **Far north shelves** — chart gaps widen; navigators trade **errata leafs** with folklore addenda.

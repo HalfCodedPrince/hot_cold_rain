@@ -28,7 +28,7 @@ Post–Green Skies cities keep their old rites and façades, but the **machinery
 ## Communications & Administration
 - **Beacons & bells** — **Common**: tower-leg **aux patterns** (closures, floods, green-rain days); bell codes standardized between Works and benches.
 - **Packet systems** — **Localized/Common**: sealed-packet lofts, signed courier chains; city factors’ lanes protected by fines-as-theatre instead of spectacle penalties.
-- **Courts & inspection** — **Common**: **Mixed Courts** for cross-rite civil peace; **Green Edicts** require posted kit norms and clinic windows; inspection grades on guild doors and beacon legs.
+- **Courts & inspection** — **Common**: **Mixed Courts** for cross-rite civil peace; **Green Edicts** require posted kit norms and clinic windows; inspection grades on guild doors and beacon routes.
 
 ## Transport & Hulls
 - **Road & river** — **Common**: paved approaches to marts; lock-tenders and dredge crews keep river spines workable; convoy insurance shapes schedules/routes.
@@ -42,13 +42,13 @@ Post–Green Skies cities keep their old rites and façades, but the **machinery
 - **Fortifications** — **Emerging**: angled earthworks and lower, thicker walls appear around rich ports; **Common**: legacy high-wall towns with expedient glacis.
 
 ## Medicine, Public Health & Co-Type Safety
-- **Clinics & sanctuaries** — **Common**: ward sanctuaries maintain **A/B drill** readiness; Switch counseling bursaries; temple bathhouses double as clinics in humid wards.  
+- **Clinics & sanctuaries** — **Common**: ward sanctuaries maintain **Ward drill** readiness; Switch counseling bursaries; temple bathhouses double as clinics in humid wards.  
 - **Ordinances** — **Common**: veils/hoods on green-rain days; named torts (membrane-pinch, smell-binding injury, cold-water negligence) recognized; fines escalate to closures.  
 - **Water & waste** — **Common**: covered drains in market cores; cesspit licensing; **Localized**: ward-scale bathhouse heating and laundry schedules.
 
 ## Finance, Insurance & State Capacity
 - **Revenue & debt** — **Common**: predictable tax farming and fee schedules; chartered benches co-sign with the Synod; levy swaps during convoy season.  
-- **Insurance** — **Common**: convoy, warehouse, and workshop premiums; **A/B drill** compliance and inspection grades lower rates.  
+- **Insurance** — **Common**: convoy, warehouse, and workshop premiums; **Ward drill** compliance and inspection grades lower rates.  
 - **Records** — **Common**: plate seals on warrants/edicts; ledgers standardized across marts; festival clocks retimed lawfully in green years.
 
 ## Agriculture & Extraction
@@ -56,7 +56,7 @@ Post–Green Skies cities keep their old rites and façades, but the **machinery
 - **Forestry & fuel** — **Common**: controlled cutting for mast timber; charcoal management by ward quotas.
 
 ## Signals, Time & Calendars
-- **Calendars** — **Common**: state calendars omit **Switch Hours**; clinics/inspections keep quiet schedules; Access Days harmonized with festivals.  
+- **Calendars** — **Common**: state calendars omit **Switch Hours**; clinics/inspections keep quiet schedules; Water Days harmonized with festivals.  
 - **Timekeeping** — **Common**: civic clocks sufficient for muster, not for fine artillery shooting; hourglasses/knotted lines standard at sea.
 
 ---
@@ -68,6 +68,6 @@ No steam power; no mass-produced interchangeable parts; no long-range precision 
 - Inspection **grade letter** on a guild door opens or blocks a heist.  
 - A **corned-powder** shipment changes a siege’s timetable.  
 - **Access Day** colliding with a festival forces retiming through a Mixed Court hearing.  
-- A ward loses its **A/B drill** rebate; insurers arrive with clipboards.  
+- A ward loses its **Ward drill** rebate; insurers arrive with clipboards.  
 - **Packet loft** sealed slips get seized; printers answer with parallel slips and satire.
 

@@ -11,7 +11,7 @@ links:
 ## Ord (north)
 - **Ord Bay & Salt River** — imperial capital belt; beacons hum; compositories thick.  
   **Matters later:** cartel scandals (insurance × watches × works).
-- **Western Littoral** — half-loyal city belts; reef trade, pilotage; “tribute when convenient.”  
+- **Western Littoral** — half-loyal city belts; reef trade, navigation; “tribute when convenient.”  
   **Matters later:** quick to defect in shocks.
 - **Southern Belts (proto–Free Cities)** — dense micro-states, guild oligarchies, festival pomp.  
   **Matters later:** HRE-like paralysis template.

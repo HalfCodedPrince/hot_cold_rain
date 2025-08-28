@@ -19,7 +19,7 @@ Ear infections; skin fungal risk if gear isn’t dried; cold/wet exposure discip
 **Reedcat** riggers in print lofts (humid wards); **Cold-otter** with snow baffles; river **quay crews** variants.
 
 ## Culture & Work
-Dock crews, lock-tenders, salvage divers, river pilots; witness crews in flood/lock incident dockets.
+Dock crews, lock-tenders, salvage divers, river navigators; witness crews in flood/lock incident dockets.
 
 ## Law & Safety
 Identity rolls variably enforced inland; **cold-water negligence** is a named tort (crew leads held). Sanctuary codes standardize **greenborn** and **overswitch** care.

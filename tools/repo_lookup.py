@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# reqs: pip install pyyaml
 import argparse, json, os, re, sys, time
 from pathlib import Path, PurePosixPath
 try:

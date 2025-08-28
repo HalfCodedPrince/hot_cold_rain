@@ -8,7 +8,7 @@ links:
 ---
 
 ## The Slow Choke
-- **Maintenance debt:** bars silt; channels narrow; beacon legs slip from “continuous” to “gappy.” Works bid prestige first; repairs later.
+- **Maintenance debt:** bars silt; channels narrow; beacon routes slip from “continuous” to “gappy.” Works bid prestige first; repairs later.
 - **Duration creep:** Debt Office rolls dredge/beacon paper beyond service life; maturities stack on festival cycles.
 - **Cartel drag:** Harbor Watches + Insurance Steps + Works collude informally; premiums rise; claims stall on paperwork.
 - **Soft-censor creep:** Beat Six warrants broaden; House Two editions slow foreign recensions; compositories learn to self-censor.

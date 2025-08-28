@@ -11,23 +11,23 @@ links:
 ## Offices & Institutions (koiné → **c.1503 street**)
 | Concept (gloss) | c.1400–koiné | **c.1503 street/common** | Notes |
 |---|---|---|---|
-| Access Days Board (convoy calendar) | Access Days Board | **Access Board**, **Ratings Board** | “Ratings” evokes **Cleanliness Tables** posted by Steps. |
+| Water Days Board (convoy calendar) | Water Days Board | **Access Board**, **Ratings Board** | “Ratings” evokes **Cleanliness Tables** posted by Steps. |
 | Censorate / Text Office | Censorate | **Plate Office**, **Plate Bench** | Titles include **Plate Registrar** (Beat II). |
-| Harbor Watches (port militia) | Harbor Watches | **Coast Wards**, **watch beadles** | Chalk slates & fines foregrounded over brands. |
+| Harbor Watches (port militia) | Harbor Watches | **Coast Wards**, **watch Whips** | Chalk slates & fines foregrounded over brands. |
 | Postal/Packet Office | Post & Packets | **Packet Room**, **Oboe-Packet** (edicts) | Oboe-Packet is the monopoly nickname expected under emergency edicts. |
 | Charity & Public Health (Beat V) | Infirmaries & soup | **Fifth bread**, **soup yard** | Beat Five’s visible face in wards. |
 | Discipline & Courts (Beat VI) | Discipline House | **Sixth whips**, **bench police** | Joint benches–Steps reach anticipated in edict talk. |
 | Free City punishments | Branding | **satyr fines** | Fines replace brands; posted like playbills. |
 
 ## Street Signals & Policing
-- **short–short–long** → lane-clear whistle/hand-sign code; taught to children as a game and respected when beadles appear.  
-- **Eyehole Chain** → beacon run with two legs dark/one canted; shorthand for “watch your papers.”  
+- **short–short–long** → lane-clear whistle/hand-sign code; taught to children as a game and respected when Whips appear.  
+- **Rot-eye Chain** → beacon run with two legs dark/one canted; shorthand for “watch your papers.”  
 - **aux leg** / **aux beacons** → rooftop cans painted moss-dark; neighborhood workarounds when main legs fail.
 
 ## Print, Stage & Dissent (pamphlet weather)
 - **lampoon cycles** → popular label for rebuttal chains; pressrooms “run hot.”  
 - **printer raids** → plate seizures by watch + Steps; fines often posted in chalk.  
-- **samizdat routes** → fog-gate marts and stern ports that quietly pass bundles and close the gate when heat rises.  
+- **samizdat routes** → Fog-Gates and stern ports that quietly pass bundles and close the gate when heat rises.  
 - **Access leverage** → boycotts and festival-calendar pressure by wards and guilds; “no Access, no custom.”
 
 ## Religion, Rites & Law (Good Old Rhythm, visibly)
@@ -36,9 +36,9 @@ links:
 - **Splendid Word** (syncretists) → **Word corners** (hymn-card stalls, mixed hands).
 
 ## Ports, Convoys & Paper
-- **blue papers** → emergency premiums/closures on Steps doors; “blue” generalizes to **blue notice**.  
+- **Blue papers** → emergency premiums/closures on Steps doors; “blue” generalizes to **blue notice**.  
 - **Prize docket** → routine end to convoy skirmishes; paperwork beats sackings.  
-- **Rate-Hold Books** → pilotry/lee rules and convoy discipline copied into ledgers.  
+- **Camra's Own Books** → navigatorry/lee rules and convoy discipline copied into ledgers.  
 - **Mangrove Ordinance** live terms: **cleanse marks**, **crab death**, **Factors’ Row**, **Mangrove Garden** (licensed fence).
 
 ## Refugees, Enclaves & Charters
@@ -64,7 +64,7 @@ Add new era-aliases to base lexicon entries as they harden:
 ```yaml
 aliases_by_era:
   1400-1475:
-    - "Access Board"            # Access Days Board
+    - "Access Board"            # Water Days Board
     - "Plate Office"            # Censorate / Beat II apparatus
     - "Blue notice"             # emergency premium/closure
   1476-1503:

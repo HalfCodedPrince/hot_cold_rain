@@ -38,7 +38,7 @@
 - `TermCheck:` new terms introduced.
 - `LinkCheck:` added/changed paths.
 - `ScopeCheck:` only requested areas changed.
-- Header: ≤12 links and ≤300 tokens.
+- Header: ≤12 links and ≤350 tokens.
 - File size: warn ≥12 KB; split or trim at 18 KB.
 
 **Modes**
@@ -56,7 +56,7 @@
 ## Priority & Precedence
 1) **Pasted snippet in chat** — authoritative.
 2) **03_LLM_editing_workflow.md** (this file).
-3) **03_LLM_linking_policy.md** (link rules and adjacency).
+3) **canon/system_index/linking_policy.md** (link rules and adjacency).
 4) **02_style_guide.md** (naming, tone, placement).
 5) **00_master_index.md** and **index_pack.md** (IDs, paths, membership).
 6) **01_glossary.md** (terms allowed).

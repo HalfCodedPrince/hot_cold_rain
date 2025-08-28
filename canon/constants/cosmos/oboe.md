@@ -13,4 +13,4 @@ tags: [star, ephemerides, religion]
 Sun-like yellow dwarf; steady output on human timescales.
 
 ## Observational / ritual
-Temple ephemerides (starting around ~700 AO) and pilot-book sunrise tables anchor ritual hours, port operations, and convoy departures. “Conductor” in Good Old Rhythm metaphor.
+Temple ephemerides (starting around ~700 AO) and navigator-book sunrise tables anchor ritual hours, port operations, and convoy departures. “Conductor” in Good Old Rhythm metaphor.

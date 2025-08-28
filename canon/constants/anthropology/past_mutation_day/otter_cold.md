@@ -14,7 +14,7 @@ Taiga marts and cold river spines; winter convoy hubs.
 Tighter underfur, cold endurance; snow-muffling ear baffles common.
 
 ## Work & Ward
-Ice-edge salvage, winter lock-tending, beacon legs in frost belts.
+Ice-edge salvage, winter lock-tending, beacon routes in frost belts.
 
 ## Clothing Accents
 Layered hydro-weave; oil/wax treatments for cold; weighted belts for under-ice work.

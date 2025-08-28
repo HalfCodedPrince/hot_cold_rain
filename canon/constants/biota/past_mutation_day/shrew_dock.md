@@ -15,7 +15,7 @@ Stone seams of storm galleries; damp warehouses and quay sheds.
 Dense underfur; long **vibrissae** tuned to canal ripple; hunts larvae & weevils.
 
 ## Use
-Natural pest control; familiar animal for Steps beadles.
+Natural pest control; familiar animal for Steps Whips.
 
 ## Risk
 Seasonal **mold-spore cough** carriage; clinics advise trapping, not hand-feeding.

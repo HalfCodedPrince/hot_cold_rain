@@ -7,10 +7,10 @@ links:
 tags: [snapshot, society, culture, rites, pamphlets, guilds, etiquette, education, festivals, law]
 ---
 
-> **Thesis.** The Bright Sea world in 1503 AO is a **pamphlet-literate, ward-governed, rite-braided** society where ports dictate fashion and calendars, benches arbitrate both **law and mood**, and long-distance convoys knit together a public that knows itself by **access days**, **assay slips**, and the **Good Old Rhythm**—even when they quarrel about its tunes.
+> **Thesis.** The Bright Sea world in 1503 AO is a **pamphlet-literate, ward-governed, rite-braided** society where ports dictate fashion and calendars, benches arbitrate both **law and mood**, and long-distance convoys knit together a public that knows itself by **Water Days**, **assay slips**, and the **Good Old Rhythm**—even when they quarrel about its tunes.
 
 ## I. Where life happens (ward → bench → convoy)
-- **Wards & benches.** City life runs on ward beads and **bench-dockets**; the **Plate** and insurers’ **Steps** post hours, holds, and rates. Ports align their weeks with **Access Days** and beacon legs; uplands still keep rain months and local fairs.  
+- **Wards & benches.** City life runs on ward beads and **Paper Discordants**; the **Plate** and insurers’ **Steps** post hours, holds, and rates. Ports align their weeks with **Water Days** and beacon routes; uplands still keep rain months and local fairs.  
 - **Household economy.** **Guild-organized crafts** (print, rigging, assay, lofts) anchor mixed households; cousins and journeymen share leases, feast-days, and sureties.  
 - **Road & sea public.** Convoy timetables and day-marks create a shared “clock”; **assay rings** and warrant houses make strangers legible.
 
@@ -30,7 +30,7 @@ tags: [snapshot, society, culture, rites, pamphlets, guilds, etiquette, educatio
 - **Etiquette tells.** Ear-ports, veil routes, and cap doffing signal status and rite; public spaces assume **ear-friendly** hoods and quiet soles in shrines and benches.
 
 ## V. Education & theatres of skill
-- **Where taught.** Apprenticeship first; collegia in estuaries (assay, pilotage, letters); drama schools do civic training by other means.  
+- **Where taught.** Apprenticeship first; collegia in estuaries (assay, navigation, letters); drama schools do civic training by other means.  
 - **What taught.** Accounts, weights, tune-law, convoy arithmetic; stage rhetoric; map-chant and reef songs. Shrine schools teach meter and obedience; Gardens teach contracts.
 
 ## VI. Family, kin-maze, and marriage

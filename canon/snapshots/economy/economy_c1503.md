@@ -20,7 +20,7 @@ The Principality’s markets look “old” on the surface (coins, carts, fairs)
 ## Credit & Risk
 - **Instruments:** short merchant loans, bottomry on hulls, crop liens, and **transport bonds** for overland caravans.  
 - **Security:** plate seals on contracts; **Mixed Courts** adjudicate defaults and seize pledged goods; riot/flood risks priced by ward inspection grade.  
-- **Post-1503 changes:** compliance with **A/B drills** and kit postings lowers rates; Access Day coordination reduces disruption risk.
+- **Post-1503 changes:** compliance with **Ward drills** and kit postings lowers rates; Access Day coordination reduces disruption risk.
 
 ## Prices & Staples (rule-of-thumb)
 - **Up:** saltpeter, fine timber, tar/pitch, clean copper plate, quality paper, corned powder (where available).  
@@ -30,7 +30,7 @@ The Principality’s markets look “old” on the surface (coins, carts, fairs)
 ## Trade Architecture
 - **Corridors:** river spines with locks and dredged bars; ridge roads between marts; blue-water convoys in set seasons.  
 - **Nodes:** beacon/port cities (customs + factor courts), inland marts (fairs + storage), estate towns (grain, timber).  
-- **Friction:** internal tolls, guild benches, and rite calendars; post-1503 **Green Edicts** align **Access Days** so clinics/inspections don’t choke festivals or convoys.
+- **Friction:** internal tolls, guild benches, and rite calendars; post-1503 **Green Edicts** align **Water Days** so clinics/inspections don’t choke festivals or convoys.
 
 ## Taxation, Fees & State Capacity
 - **Receipts:** gate/bridge/harbor dues; stall fees; salt & iron imposts; court stamps; occasional war levies.  
@@ -39,7 +39,7 @@ The Principality’s markets look “old” on the surface (coins, carts, fairs)
 
 ## Insurance & Assurance
 - **Lines:** convoy/cargo, warehouse, workshop, and public-house liability.  
-- **Pricing:** ward **inspection grade** and **A/B drill** compliance feed premium tables; Mixed Court judgments set precedents; beacon-leg postings signal risk to buyers.  
+- **Pricing:** ward **inspection grade** and **Ward drill** compliance feed premium tables; Mixed Court judgments set precedents; beacon-leg postings signal risk to buyers.  
 - **Payouts:** require plate-sealed inventories and witness slips; sanctuaries serve as intake points in green-rain weeks.
 
 ## Labor & Organization
@@ -66,4 +66,4 @@ No central banks; no paper money beyond receipts/bills among elites; no futures 
 - A **charter** for saltpeter is contested; Sea-Lotus printers flood the courts with pamphlets; Mixed Courts set a posting schedule.  
 - A seized **bill of exchange** lacks a proper plate seal; the buyer needs a forged marginalia or a court miracle.  
 - A convoy’s **Access Day** collides with a festival; retiming triggers dock riots unless the bench posts in time.  
-- A port’s **A/B drills** slip; insurers downgrade the whole harbor for a season.
+- A port’s **Ward drills** slip; insurers downgrade the whole harbor for a season.

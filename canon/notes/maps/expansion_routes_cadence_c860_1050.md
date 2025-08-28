@@ -10,10 +10,10 @@ tags: [map, routes, treaty_ports, beacon_legs, golden_cadence]
 # Expansion Routes — Golden Cadence (860–1050 AO)
 
 ## What “expansion” means at sea
-The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon legs, convoy rights — not continuous inland provinces.
+The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon routes, convoy rights — not continuous inland provinces.
 
 ### Ord (north continent)
-- **Ord Bay & Salt River** — integrated core; complete beacon legs; watches certified.  
+- **Ord Bay & Salt River** — integrated core; complete beacon routes; watches certified.  
 - **Western Ord littoral** — **loose hegemony** via convoy protection & levy tickets; local councils remain.  
 - **Southern Ord city-belts** — evolving toward later **Free Cities** micro-states; nominal fealty, strong guilds.
 
@@ -37,12 +37,12 @@ The empire grows as a **string-of-pearls**: treaty ports, watch posts, beacon le
 
 ### Widiwidi (far south-west)
 - **Probe & Post** era: pepper resins, hardwoods, saps; **seasonal factor** premiums high.  
-- **No mass colonization yet**; penal/indenture pilots begin late in the Cadence.  
+- **No mass colonization yet**; penal/indenture navigators begin late in the Cadence.  
   *Matters later:* mutation-era routes + colonial appetites point here.
 
 ## Why no further “imperial land”
 - **Logistics:** still water-first; roads rot; horse culture absent.  
-- **Cost curve:** each new bar/beacon leg adds **maintenance debt**.  
+- **Cost curve:** each new bar/beacon route adds **maintenance debt**.  
 - **Politics:** treaty compliance is cheaper than garrisoning; cartels prefer contracts.
 
 ## Edge pressures by 1050 AO

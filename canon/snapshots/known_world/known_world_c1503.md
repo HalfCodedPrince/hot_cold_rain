@@ -12,7 +12,7 @@ tags: [snapshot, known_world, green_skies, mutation_day, pamphlets, refugees, ce
 ## Signals & Rates (what’s twitching)
 - **Green-belt anomalies** persist in the warm belts; fish failures → **bread spikes** in ports; insurers post tighter convoy windows and talk surcharge.  
 - **Pamphlet velocity** is at peak: lampoons, rebuttals, apologia; Steps keep “**Cleanliness Tables**” as ratings drift toward soft bans.  
-- **Festival calendars under strain:** Access Days are being **weaponized** (boycotts, show closures, turn-back fetches).  
+- **Festival calendars under strain:** Water Days are being **weaponized** (boycotts, show closures, turn-back fetches).  
 - **Assassination rumors** and **dock fights** hover at the edge of pogrom in a few wards; Free Cities keep fines ready.
 
 ## Heat Map (where it runs hot)
@@ -32,7 +32,7 @@ tags: [snapshot, known_world, green_skies, mutation_day, pamphlets, refugees, ce
 - **Northlands / Ord-Kahet & Too-Kahet:** upland confederations are calm but cash hungry; port charters keep the peace on paper.
 
 ## Lanes & Logistics (Access & paper)
-- **Access Days Boards** keep the calendars but enforcement is now *performative* (ratings, queue shaves, hush fines).  
+- **Water Days Boards** keep the calendars but enforcement is now *performative* (ratings, queue shaves, hush fines).  
 - **Convoy paperwork** remains predictable in the core; outer lanes see **hold-and-search** justified as plate inspection.  
 - **Postal packets** are rumored for tighter control; private runners still fill gaps between ports and collegia.
 

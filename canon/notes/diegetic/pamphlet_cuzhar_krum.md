@@ -2,7 +2,7 @@
 id: DOC:KRUM-PAMPHLET-1783
 name: The Ancient, the Submerged, the Misrepresented — Cuzhar Krum
 status: Draft
-date_ao: 1783
+date_AO: 1783
 provenance: Coi-Hi University Press
 tags: [diegetic, pamphlet, krum]
 links:
@@ -10,7 +10,7 @@ fact_box:
   title: "The Ancient, the Submerged, the Misrepresented: Cuzhar Krum"
   doc_type: pamphlet
   author_in_universe: "Coi-Hi University Press"
-  date_ao: -975
+  date_AO: -975
   relates_to: [LOC:KRM-001, REG:BRI-001]
   audience: public
   reliability: medium
@@ -31,7 +31,7 @@ When we consider the distant origins of our civilizations, we must first imagine
 It is on Sar that the earliest traces of agriculture and village life are found: simple stone tools, fishhooks, woven nets, and the enigmatic shell middens that line ancient waterways. These communities gradually spread outward - some eastward by raft and canoe, others north along river corridor - giving rise to the first network of human cultures across Point.
 Roughly a thousand years before the founding of Ord, a remarkable civilization flourished among the isles of the Bright Sea. The people of Cuzhar Krum - impressed upon modern culture with the images of their titanic, half submerged labyrinthian ziggurats - dominated maritime trade, developing a unique written script and elaborate rituals that blended sun and sea worship into a system of belief still echoing today in the most unexpected of places.
 Krumian scribes recorded their laws, treaties, and transaction on the sun-baked clay, with the poetry and art relegated to the prized shells of their domesticated pack crabs - rare relics now, but once the contract and currency of high society. Krumain cities and streets, half-swallowed by the sea, can still be glimpsed as moss-covered silhouettes above and below the waterline, inhabited now by schools of fish and green photic moss.
-Yet the Krumian world was a delicate balance, dependent on regular trade for its goods and metals - especially tin, imported from the distant mountain ranges in Ord. When a sequence of volcanic eruptions darkened the skies and sent weather into chaos, Krumian cities faltered, their fleet scattered and sunk on the now raging currents of the Old Song. The lifeline snapped. Famine and migration followed; the isles emptied, leaving only the ruins we know today and the “Land People” of legend, who would become scapegoats and cultural touchstones even outside the historic literature, their image brought to life by the works of the late M. Homun-An. 
+Yet the Krumian world was a delicate balance, dependent on regular trade for its goods and metals - especially tin, imported from the distant mountain ranges in Ord. When a sequence of volcanic eruptions darkened the skies and sent weather into chAOs, Krumian cities faltered, their fleet scattered and sunk on the now raging currents of the Old Song. The lifeline snapped. Famine and migration followed; the isles emptied, leaving only the ruins we know today and the “Land People” of legend, who would become scapegoats and cultural touchstones even outside the historic literature, their image brought to life by the works of the late M. Homun-An. 
 Cuzhar Krum, however, wasn’t the only civilization to blossom. Contemporary to it, the lush river valleys and jungles of Sar saw the rise of their own cities - rich, flamboyant societies built on rice paddies and fishponds, thriving for centuries before a devastating crop disease swept the region. This sudden blight - whose exact reasons and details are contested to this day - triggered a slow, terrible unraveling. The urban centers emptied, ceremonial complexes fell silent, and dense jungle reclaimed the fields and canals.
 Archaeologists today still debate the fate of these “Moss cities” - whether their peoples were absorbed by newcomers, dispersed into the hills, or simply faded away, leaving behind intricate earthworks and enigmatic statues.
 The first Blindness

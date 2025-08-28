@@ -11,11 +11,11 @@ links:
 - **Charter cascade:** treaty models → **Contract Port** charters; hinterlands acknowledge **whoever arrives** with food and bells. 
 
 ## Finance
-- **Bond stairs** re-cut locally; Debt Office paper trades at discounts; private houses set real rates. 
+- **Debt Ladders** re-cut locally; Debt Office paper trades at discounts; private houses set real rates. 
 - Insurance premia float with rumor; whistle leafs surface then vanish. 
 
 ## Transport & Works
-- Beacon **legs gappy**; dredge cycles skipped; pilots navigate on errata and habit. Slipways repair **the same hulls** in loops. 
+- Beacon **legs gappy**; dredge cycles skipped; navigators navigate on errata and habit. Slipways repair **the same hulls** in loops. 
 
 ## Religion & Print
 - Beat Six warrants still stamped, but **censor drift** blurs scope; **Seven-Frame presses** hum in cellars (forms, almanacs, lampoons). 

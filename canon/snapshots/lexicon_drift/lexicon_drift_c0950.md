@@ -36,13 +36,13 @@ links:
 - **Oboe** (the sun) is stable; **Hex** (the moon) is the common coastal spelling; formal schools sometimes mark **Ex**—treat **Ex** as deprecated alias in new pages. (Keep both in search aliases to preserve legacy hits.) 
 
 ## Civic & naval vocabulary (scene spice)
-- **Beacon Leg(s)** (range lights) → “the **Chain**” when referring to a continuous run.  
+- **beacon route(s)** (range lights) → “the **Chain**” when referring to a continuous run.  
 - **War docket** (emergency legal mode).  
 - **Convoy premium** (posted at the Steps).  
 - **Boarder kit** (marine load-out); **watch cloak** (short, oiled). 
 
 ## Places & ethnonyms (orthography you’ll see)
-- **Ord City**; **Koi-Hi** (legacy **Coi-Hi** survives on old pilot-books); **Seven Fingers** (trade mishearing that stuck).  
+- **Ord City**; **Koi-Hi** (legacy **Coi-Hi** survives on old navigator-books); **Seven Fingers** (trade mishearing that stuck).  
 - **Kllrian** (people/arc); **Sar-North**, **Ord-Bay** (ledger hyphenation).  
 (Prefer the koiné forms in narration; keep legacy spellings in doc `aliases:`.)  
 

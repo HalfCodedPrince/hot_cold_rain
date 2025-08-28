@@ -9,7 +9,7 @@ links:
 ---
 
 ## Thesis
-**Twin rivers, canals, and marsh polders** form a crescent of ferries and levee towns; **collegia embryos** appear where river meets sea (pilot-magistrates, berths, weights).
+**Twin rivers, canals, and marsh polders** form a crescent of ferries and levee towns; **collegia embryos** appear where river meets sea (navigator-magistrates, berths, weights).
 
 ## Basemap (invariants)
 - **Hydrology.** Braided channels, levee crowns, backswamps; canal gates and ferry chains set movement.

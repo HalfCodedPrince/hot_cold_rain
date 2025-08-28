@@ -1,8 +1,8 @@
 ---
 id: DOC:WATCH-CIRC-1198
-name: Watch Circular — “Blue Papers” & Beacon Outages
+name: Watch Circular — “Blue papers” & Beacon Outages
 status: draft
-date_ao: 1198
+date_AO: 1198
 provenance: Ord Bay Harbor Watches (Salt Chamber Annex)
 seal: Ward Captain of Steps Three–Five
 links:
@@ -11,9 +11,9 @@ links:
 
 **To all ward houses and bell posts:**
 
-1) **Blue Papers** are to be posted only on the **claim-stairs** by a clerk bearing a tin badge and docket string. Anyone else pinning blue slips is to be seized and walked to Steps.
+1) **Blue papers** are to be posted only on the **claim-stairs** by a clerk bearing a tin badge and docket string. Anyone else pinning blue slips is to be seized and walked to Steps.
 
-2) In weeks of **Eyehole Chain** (two or more legs dark), **escort bargaining** shall be held at the quay rope below the bell, not in ale rooms. A Watch sergeant will hold the tally board.
+2) In weeks of **Rot-eye Chain** (two or more legs dark), **escort bargaining** shall be held at the quay rope below the bell, not in ale rooms. A Watch sergeant will hold the tally board.
 
 3) **Marque boats** are to keep their pennants visible even at night; lantern codes: short-short-long means “escorting,” long-long-short means “seeking hire.”
 

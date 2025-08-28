@@ -15,15 +15,15 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 **Years 0–5 — Panic, famine, militias.**
 - **Food & flight.** Crop failures + green haze closures → grain riots; river roads clog; temple burn orders escalate.
 - **Violence against Co-Types.** Drownings, burnings, forced “sluice trials”; sect preachers and street theatres make examples.  
-- **Power vacuum.** Guild captains, river gangs, and ward beadles rule by **noticeboard**; Plate prints are erratic or seized.  
+- **Power vacuum.** Guild captains, river gangs, and ward Whips rule by **noticeboard**; Plate prints are erratic or seized.  
 - **Adult-switchers appear.** A small, visible minority of adults metamorphose; most hide, are exploited, or are killed.  
 - **Ad hoc havens.** A handful of port wards (Free-City style) improvise **safe rooms/clinics** to protect labor they need tonight.
 
 **Years 6–15 — Charter experiments (patchy, coastal-first).**
-- **Corridor enclaves.** Along the beacon-forest spine and Lotus coast, **charter wards** pilot sanctuary rules, fines-as-theatre, and minimal kit.  
+- **Corridor enclaves.** Along the beacon-forest spine and Lotus coast, **charter wards** navigator sanctuary rules, fines-as-theatre, and minimal kit.  
 - **First Mixed Courts** A few cities open **line benches** for assault/tort injury & guardianship; most regions don’t.  
 - **Exploitation persists.** Freak shows, “miracle tonics,” press-gang salvage; sanctuaries exist **next to** abuse.  
-- **Schools refit** only in pilot wards (glare baffles, dry-grip benches, scent-safe inks); elsewhere, greenborn stay home or vanish.
+- **Schools refit** only in navigator wards (glare baffles, dry-grip benches, scent-safe inks); elsewhere, greenborn stay home or vanish.
 
 **Years 16–30 — Patchwork stabilization (first greenborn cohort works).**
 - **Workforce enters.** The first greenborn adults fill **night inspection (Bat)**, **flood/salvage (Otter)**, **clerks/runners (Fox)** in cities that chartered early.  
@@ -60,13 +60,13 @@ tags: [snapshot, society, green_skies, co_types, green_edicts, mixed_court, sanc
 
 ## V. Religion, Rumor, & Public Peace
 - **Good Old Rhythm.** Public rites retained; **Deafening → Empty Chair** symbolism; **Fifth Bread** frontages serve as ward safety nets.  
-- **Oboe at Sea.** The **Endless Green** yields pilot songs and cult stencils (claws on Access Boards). Cities respond with fines or festivals, never proof.
+- **Oboe at Sea.** The **Endless Green** yields navigator songs and cult stencils (claws on Access Boards). Cities respond with fines or festivals, never proof.
 - **Pamphlet Weather.** Lampoon cycles become **clocks** for unrest; rebuttal slips appear bundled with festival programs.
 
 ## VI. Education & Etiquette
 - **Schools.** Mixed classes are normal; sensory accommodations are basic civic competence.  
 - **Etiquette.** Ear-port & wingsleeve respect is posted like fire rules; yanking a hood/wing seam is a fined offense (satyr fines posted).
-- **Public Space.** Beacon legs carry **aux patterns** warning of volant work; shrine rails are **membrane-safe**; bathhouses keep **quiet lanes**.
+- **Public Space.** beacon routes carry **aux patterns** warning of volant work; shrine rails are **membrane-safe**; bathhouses keep **quiet lanes**.
 
 ## VII. The Beacon-Forest Spine (Principality core)
 - Corridor: **Ord City → Wur → Vitrana → Haru-ahru → Koi-Hi → Tau-Hi → Morum**; branch **Tau-Hi → Seven Fingers → Knees → Kroth → Grakk**.  

@@ -16,7 +16,7 @@ Gondolas strung ridge-to-ridge or over inlets; storm cutoffs around Beaufort ≥
 ## 3) Funiculars / Inclines
 Tie low quays to hill strongholds; manual brake backup for brownouts.
 
-## 4) Floating Platforms (Pilot)
+## 4) Floating Platforms (navigator)
 Pontoon streetcar spurs and floating foot piers in calm lagoons only; **maintenance-heavy** and limited to harbors.
 
 ## 5) Elevated Walks & Bus Lanes

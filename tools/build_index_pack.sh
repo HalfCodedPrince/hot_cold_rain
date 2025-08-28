@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ==== Flags (env) ====
 # OUT: output Markdown path. A .txt twin is also written next to it.
-OUT="${OUT:-tools/index_pack.md}"
+OUT="${OUT:-tools/new_index/index_pack.md}"
 # OUT_BASENAME: base path used for the .txt twin (default = OUT without .md)
 OUT_BASENAME="${OUT_BASENAME:-${OUT%.md}}"
 # WARN_CRLF: 0 to make it actually shut up
@@ -90,10 +90,12 @@ parse_file() {
 
     END{
       gsub(/[[:space:]]+/," ",thesis); gsub(/\t/," ",thesis);
-      if (thesis ~ /\// || thesis ~ /^canon\// || thesis ~ /\.md$/) {
-        if (thesis!="") printf("THESIS_PATH\t%s\n", rel) > "/dev/stderr";
-        thesis="";
-      }
+      # Flag only if it looks like a path: "canon/…", "*.md", or token/token with no spaces
+      if (thesis ~ /(^|[[:space:]])canon\/|\.md($|[[:space:]])|[A-Za-z0-9._-]+\/[A-Za-z0-9._-]+/) {
+      if (thesis!="") printf("THESIS_PATH\t%s\n", rel) > "/dev/stderr";
+      thesis="";
+    }
+
       if (length(thesis) > 240) thesis=substr(thesis,1,240);
 
       if (id=="") { printf("MISSING_ID\t%s\n", rel) > "/dev/stderr"; exit 0 }

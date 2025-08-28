@@ -2,7 +2,7 @@
 id: DOC:KIDS-SKY-1792
 name: Our Place in the Song: A Child’s Guide to the Sky Above
 status: Draft
-date_ao: 1792
+date_AO: 1792
 provenance: Coi-Hi Youth Press (5th Ed.)
 tags: [diegetic, schoolbook, sky, astronomy]
 links:
@@ -11,7 +11,7 @@ fact_box:
   title: "Our Place in the Song: A Child’s Guide to the Sky Above"
   doc_type: schoolbook
   author_in_universe: "Nira Ro (text), Ado Co-Tira (illustrations)"
-  date_ao: 1792
+  date_AO: 1792
   relates_to: [COS:OBE-001, COS:HEX-001, COS:KAR-001, COS:BEA-001, COS:ZE-001, COS:BEL-001, GEO:SYS-001, GEO:WAT-001]
   audience: children
   reliability: medium

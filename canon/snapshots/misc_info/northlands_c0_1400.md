@@ -69,7 +69,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 ## Trade & logistics
 - **Exports:** furs, fish/oil, hides, resin, bast, charcoal, bloom iron, slate, timber, pearls (rare).
 - **Imports:** salt, metal tools, cloth, pots, spirits, beads, later **paper leaves** and assay services.
-- **Lanes:** coastal tuck-in following fog and lee; **Access Days** matter only at season ports; inland traffic is **pack and punt**.
+- **Lanes:** coastal tuck-in following fog and lee; **Water Days** matter only at season ports; inland traffic is **pack and punt**.
 - **Law:** southern **Prize Dockets** barely reach; most disputes settled by **oath-pits** or water courts; southern benches accept oath-stones if fairs are on time.
 
 ---
@@ -85,7 +85,7 @@ From c.0–1100 they sit outside imperial administration; 1100–1400 they becom
 ## Conflict & defense
 - **Raiding:** canoe raids in mangrove chokes; hill feuds kept by ritual ceasefires; **mercenary bands** sell seasons south.  
 - **Arms:** bows, spears, shields; **handgonnes** appear late (14th c.) in market towns; swivels on charter schooners; armor is leather/wood with iron bits.  
-- **Policing:** convoy escorts hired seasonally; oath-stones keep truces; southern **Blue Papers** rarely bite unless a port shelters for real.
+- **Policing:** convoy escorts hired seasonally; oath-stones keep truces; southern **Blue papers** rarely bite unless a port shelters for real.
 
 ---
 

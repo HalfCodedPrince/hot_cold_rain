@@ -24,4 +24,4 @@ links:
 ## Widiwidi (far SW)
 - **Island chains** — horticulture, outrigger sails; exchange spheres rather than states; taboo stones and effigy hills.
 
-**Trade & movement:** Short-haul coastal sailing and oar; pass caravans under hostage-surety; pilot lore > charts. Coins are local; **shell-bonds** and weight-silver common.
+**Trade & movement:** Short-haul coastal sailing and oar; pass caravans under hostage-surety; navigator lore > charts. Coins are local; **shell-bonds** and weight-silver common.

@@ -14,22 +14,22 @@ Longara’s Marine Patrol fights small-boat piracy in a shallow, storm-broken, a
 # Operating Environment
 - **Sea & weather.** Mangroves, shoals, reef shelves, and narrow guts; typhoon corridors and pollen “green rains” that cut visibility and foul lungs/metal. After storms, wreck-picking and opportunistic raids surge (harbor courts/insurers post emergency notices).  
 - **Flow.** The Old Song sets practical lanes and lee anchorages; patrol stations sit where the set converges on reef cuts, ferry steps, and beacon chains.  
-- **Signals.** Harbor Watches (bells, flags, lantern codes) and beacon legs form the early-warning and certification mesh that patrols ride.  
+- **Signals.** Harbor Watches (bells, flags, lantern codes) and beacon routes form the early-warning and certification mesh that patrols ride.  
 
 # Missions & Authorities
 1) **Interdict piracy/smuggling** in reef cuts, mangrove canals, ferry steps.  
-2) **Certify convoys** and shepherd stragglers onto lit legs when “Eyehole Chain” outages hit.  
+2) **Certify convoys** and shepherd stragglers onto lit legs when “Rot-eye Chain” outages hit.  
 3) **Board & inspect** unlicensed privateers (“cloak-men”), contraband carriers, and false-flag fishers.  
 4) **Storm-edge security**: hold shelves, disperse looters, mark wreck sites for claims/insurers.  
 5) **Aid to Works & Watches**: move tenders, reset channel marks, tow disabled lighters.
 
-_Primary papers_: ward captain’s commission; convoy dockets; letters-of-marque registers; watch circulars (“blue papers” for premium surges); bench-dockets for fines/seizures.
+_Primary papers_: ward captain’s commission; convoy dockets; letters-of-marque registers; watch circulars (“Blue papers” for premium surges); Paper Discordants for fines/seizures.
 
 # Patterns of Presence
 - **Choke-point lattice.** Permanent posts at: (a) outer reef cuts to the deep, (b) canal mouths behind mangroves, (c) ferry stairs between island villages and market quays.  
 - **Two-bell loiter.** Patrols sit under beacons/watcher huts on storm eves and at festival tides; rotate every two bells to keep oars fresh.  
 - **Shelf-hold doctrine.** Keep the fight on fortified shelf and in foul edges: force raiders to close against current and spray; avoid blue-water chases.  
-- **Cue-driven surges.** When blue papers post or a leg goes dark, detach two cutters to likely ambush shelves; the rest shadow convoys.
+- **Cue-driven surges.** When Blue papers post or a leg goes dark, detach two cutters to likely ambush shelves; the rest shadow convoys.
 
 # Platforms & Fitouts (typical 1780–1795)
 **A. Mangrove Skiff (“mud-swim”)**  
@@ -81,7 +81,7 @@ _Small arms_: shot-carbines, riot fowling pieces, revolvers; rain skins; gutter-
 - **Wreck pickers.** First on-scene post-storm; will mob unless a shelf is held early.
 
 # Failure Modes / Risks
-- Beacon outages (“Eyehole Chain”) cascade convoy stragglers into ambush shelves.  
+- Beacon outages (“Rot-eye Chain”) cascade convoy stragglers into ambush shelves.  
 - Green-rain season cuts visibility and fouls metal; misfires rise; courts later overturn rough seizures.  
 - Ward collusion (Watches × insurers × Works) can steer patrols away from “friends” unless audited.
 

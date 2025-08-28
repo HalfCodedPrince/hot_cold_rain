@@ -35,7 +35,7 @@ Shared **chimney alleys**; patched cast-iron and enamel pans from treaty ports; 
 
 ## Supply chain & markets
 
-Convoy postings set **arrival windows**, but outages and blackouts cause chaos.
+Convoy postings set **arrival windows**, but outages and blackouts cause chAOs.
 Bonded stores issue **warrants** (sometimes counterfeited); wet markets dawn, dry markets dusk; guild rotations, franchise fights, and black market squatters all claim corners.
 
 ## Safety & inspection

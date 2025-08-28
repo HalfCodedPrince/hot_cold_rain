@@ -22,7 +22,7 @@ We list **admin line → ward dialect(s)**. Dialects are **registered as dialect
 - **Dialects (ward splits):**
   - **Reedcat** *(scansorial dialect)* — humid forests/wetlands; stronger wrist/ankle flexion, whisker prominence; favors rigging/lofts.  
   - **Cold-otter** *(taiga dialect)* — tighter underfur; snow-muffling ear baffles; cold endurance.
-- **Guild niches:** flood crews, salvage, locks, river pilots, barge canopy crews, print lofts (Reedcat).  
+- **Guild niches:** flood crews, salvage, locks, river navigators, barge canopy crews, print lofts (Reedcat).  
 - **Clothing accents:** hydro-weave layers, quick-drain hems, ear baffles; reed-edge trims that dry fast.
 
 ### B. **Fox line** (road & market majority)
@@ -36,7 +36,7 @@ We list **admin line → ward dialect(s)**. Dialects are **registered as dialect
 ### C. **Bat line** (urban density specialist)
 - **Core morphology:** elongate forearm/digits II–V with flank membrane; scapular/pectoral remodel; manipulating thumbs intact.  
 - **Dialects (ward splits):**
-  - **Tower-bat** — beacon legs, bell-towers; stronger vestibular “calm” at height.  
+  - **Tower-bat** — beacon routes, bell-towers; stronger vestibular “calm” at height.  
   - **Quay-bat** — shorter hops, wind-hoods; packet lofts & rigging familiarity.
 - **Guild niches:** night inspection, signal runners, bell-tower/beacon access, packet lofts.  
 - **Clothing accents:** wingsleeves (membrane-safe cuffs), shoulder cradles, membrane oil & patch tabs; **no armor aloft**.
@@ -68,7 +68,7 @@ Typical **temperate river capital**:
 - Otter **high** (locks/flood crews), Fox **high** (administration), Bat **medium** (beacons, inspection).
 
 Typical **taiga mart**:  
-- Cold-otter **medium**, Cold-fox **medium**, Tower-bat **low–medium**; winter convoys + beacon legs.
+- Cold-otter **medium**, Cold-fox **medium**, Tower-bat **low–medium**; winter convoys + beacon routes.
 
 ## 4) Work kits by biome (adds onto the line standards)
 **Humid tropics:** anti-mildew finishes; quick-dry hems; scent-safe soaps; fox caps carry larger evaporative pads at ear bases.  
@@ -84,7 +84,7 @@ Typical **taiga mart**:
 - **Mixed Courts**: fox scribes; otter witness crews in flood/lock incidents.
 
 ## 6) Etiquette & signage (keep the streets readable)
-- **Beacon legs**: aux patterns warn of volant activity at roof level.  
+- **beacon routes**: aux patterns warn of volant activity at roof level.  
 - **Rails & ramps**: membrane-safe rails at shrine steps; anti-slip stones at flood doors.  
 - **Caps & hoods**: ear-port etiquette—never yank a fox hood or pinch a bat wing seam; fines apply in Free Cities (satyr fines posted).
 

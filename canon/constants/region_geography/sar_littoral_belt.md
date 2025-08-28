@@ -16,7 +16,7 @@ Dye-and-salt metropolises ride stepped shrine-stairs along a monsoon coast; **pr
 - **Monsoon swing.** Strong seasonal wind/sea state changes; fair-weather outriggers and shallow barges dominate inter-city movement.
 
 ## Lanes & craft
-- **Inshore:** outriggers + barge chains stitch city belts; pilots time bars and reef cuts.
+- **Inshore:** outriggers + barge chains stitch city belts; navigators time bars and reef cuts.
 - **Inland:** rivers first, foot second; packways use levees; shell roads over dunes.
 
 ## Law & custom
@@ -25,7 +25,7 @@ Dye-and-salt metropolises ride stepped shrine-stairs along a monsoon coast; **pr
 ## Era touchpoints
 - **c.0 AO.** Processional ramps bind civic life to tides; shell-bonds circulate.
 - **Pamphlet era.** City belts tolerate presses if quiet; Sea-Lotus humanism colors festival clocks.
-- **After 1503.** Treaty-port habits and mixed-court DNA propagate into Ord–Sar practice; Access Days harmonize with shrine calendars.
+- **After 1503.** Treaty-port habits and mixed-court DNA propagate into Ord–Sar practice; Water Days harmonize with shrine calendars.
 
 ## Legend anchors
 Processional ramps; river stairs; dye-yard pans; salt flats; shell-bond houses; barge ferries at lagoon mouths.

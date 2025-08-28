@@ -18,7 +18,7 @@ tags: [snapshot, special, co_types, biology, clinics, fertility, switch_hours, s
 | Line | Salient morphology | Sensory/physio color | Common guild niches |
 |---|---|---|---|
 | **Bat** | Elongate forearm/digits II–V; flank–hip membrane; scapular/pectoral remodel; retaining manipulating thumbs | Night-tilted circadian; strong scotopic vision; 3D spatial working memory; vestibular finesse | night inspection, signal runners, bell-tower/beacon access, packet lofts |
-| **Otter** | Partial webbing; dense coat; dive reflex & thorax compliance; ear baffles common | Parasympathetic “drop” near water; cold/wet tolerance; tool fidgeting | flood crews, salvage, locks, riverine pilots |
+| **Otter** | Partial webbing; dense coat; dive reflex & thorax compliance; ear baffles common | Parasympathetic “drop” near water; cold/wet tolerance; tool fidgeting | flood crews, salvage, locks, riverine navigators |
 | **Fox** | Craniofacial length; mobile pinnae; fine pelage; tendon elasticity | Olfactory-heavy memory; heat/airflow “loud”; quick attentional shifts | factor courts, messengers, Steps clerks, copyists |
 
 > **Dialects.** Cold-adapted otter and distance-gait fox are **registered as dialects** of their parent line administratively; wards often treat them as their “own kind” anyway.

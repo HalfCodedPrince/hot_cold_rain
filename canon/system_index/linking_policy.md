@@ -16,7 +16,7 @@ If none apply, do not link.
 
 ## Adjacency rules
 - **Diachronic leaves**: link to **adjacent leaves** in the same family (prev/next), to **same-era snapshots**, and to **constants**. Cross-family links follow the LRR test and the general era window.
-- **General era window** for cross-family links: ±100 AO unless `comparative: true` in header.
+- **General era window** for cross-family links: wihthin the same era unless `comparative: true` in header.
 - **Snapshots**: link to same-era diachronic leaves and constants only.
 - **Constants**: any page may link up to `/constants/*`; constants can only link to other constants/
 
@@ -31,7 +31,7 @@ If none apply, do not link.
 ## Lint
 - Paths must resolve in `index_pack.md`.
 - No duplicate link keys.
-- Warn if header >12 links or >300 tokens.
+- Warn if header >12 links or >350 tokens.
 - Flag out-of-window or non-adjacent links.
 - **Retired guard**: no inbound links to `/retired/` except in `derived_from`.
 - **Size**: warn at 12 KB; advise split at 18 KB.

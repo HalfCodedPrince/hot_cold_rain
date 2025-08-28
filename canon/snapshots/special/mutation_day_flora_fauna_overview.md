@@ -75,7 +75,7 @@ tags: [snapshot, special, biota, flora, fauna, mutation_day, plausibility, hazar
 ### FA-8 Dock Shrew *(water shrew–like small mammal)*
 **Habitat.** Stone seams of storm galleries; damp warehouses.  
 **Traits.** Dense underfur; **vibrissae** tuned to canal ripples; eats fly larvae and weevils.  
-**Use.** Natural pest control; a favorite familiar of Steps beadles.  
+**Use.** Natural pest control; a favorite familiar of Steps Whips.  
 **Risk.** Can carry **mold-spore cough** in bad seasons; clinics advise trapping not hand-feeding.  
 **Variant of.** — (new).
 
@@ -145,7 +145,7 @@ tags: [snapshot, special, biota, flora, fauna, mutation_day, plausibility, hazar
 ---
 
 ## 4) Rumor, song, stencil (not canon facts)
-- **“Crab-people / Fish-people.”** Persistent **pilot tales** from the Endless Green (sea-bloom towers where **Oboe** “speaks” through spores). No verified encounters; cult stencils (claw marks on Access Boards) are fined or painted over.  
+- **“Crab-people / Fish-people.”** Persistent **navigator tales** from the Endless Green (sea-bloom towers where **Oboe** “speaks” through spores). No verified encounters; cult stencils (claw marks on Access Boards) are fined or painted over.  
 - **“Green-born Reefs.”** Fisher rumors of bioluminescent “cathedrals” at shelf breaks; cities treat as hazard tales that keep boats off storm water.  
 - **DM option.** You may adopt those rumors as needed.
 

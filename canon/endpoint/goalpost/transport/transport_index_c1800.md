@@ -9,7 +9,7 @@ tags: [transport, index]
 ---
 
 ## Sea & Inland Water
-- **Harbor ferries** (double‑ended), **canal barges** (shallow draft, standardized beam), **pilot boats**.
+- **Harbor ferries** (double‑ended), **canal barges** (shallow draft, standardized beam), **navigator boats**.
 - Typhoon Protocol Levels **T1–T4** dictate closures; signal masts broadcast flag sets.
 - Roll‑on barge ramps double as storm stairs for pedestrians.
 

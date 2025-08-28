@@ -23,7 +23,7 @@ links:
 **Matters later:** stacked maturities; conflict of interest between insurers, watches, works.
 
 ## Transport & Works
-- Continuous beacon legs around Ord Bay & major Sar capes.
+- Continuous beacon routes around Ord Bay & major Sar capes.
 - Harbor Watches certify hours; fog-bells add redundancy.
 - Slipways standardized; shallow-draft inland craft common.
 

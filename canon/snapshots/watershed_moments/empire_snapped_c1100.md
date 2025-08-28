@@ -13,11 +13,11 @@ links:
 - Captain-Reps act like local dukes; treaty ports argue “contract, not bondage.”
 
 ## Finance
-- **Bond stair** misses a rung; tranches dumped to private houses.  
+- **Debt Ladder** misses a rung; tranches dumped to private houses.  
 - Premiums spike on rumor, not weather; **whistle** leafs appear and vanish.
 
 ## Works & Transport
-- **Beacon Leg Six** dark three festivals in six; dredge cycles skipped.  
+- **beacon route Six** dark three festivals in six; dredge cycles skipped.  
 - Slipways stay busy repairing the same hulls; inland depots hoard spare iron.
 
 ## Religion & Print

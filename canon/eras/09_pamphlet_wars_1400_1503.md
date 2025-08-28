@@ -13,7 +13,7 @@ Cheap paper, convoy-safe travel, and a literate craft class ignite a century of 
 ## Heat map (how hot, where)
 - **Ord core (HOT):** bench/temple city; Beat II (Text) vs compositories; **student & dock riots** common; targeted murders of Beat VI clerks; deafening becomes rare but symbolic.
 - **Tau-Hi / Sar littoral (WARM):** humanist **Sea-Lotus** push; **lustration marches**, theater polemics; limited arrests; lots of print.
-- **Seven Fingers / Koi-Hi / Vitrana / Morum (WARM):** ports fight via **boycotts** and **Access Days leverage**; theater sacks, pamphlet seizures, one or two notable assassinations.
+- **Seven Fingers / Koi-Hi / Vitrana / Morum (WARM):** ports fight via **boycotts** and **Water Days leverage**; theater sacks, pamphlet seizures, one or two notable assassinations.
 - **Knees (SPORADIC, WEIRD):** **Reed visions** and silences; step-dance processions; a few ecstatic cult panics; limited bloodshed.
 - **Kllrian uplands (LOW):** public minimum; private Stone-Current intact; pamphlets circulate but violence is mostly imported.
 - **Free Cities (LOUD, CAGEY):** **satyr plays** and fines instead of brands; press is wild; fighters are mercenaries, not mobs.
@@ -22,13 +22,13 @@ Cheap paper, convoy-safe travel, and a literate craft class ignite a century of 
 ## Factions (broad strokes)
 - **Orthodox Beats**: Beat II (Text & Music) + Beat VI (Discipline), pro-monopoly on recensions; want bench-police.
 - **Splendid Word**: syncretic preachers, Free Cities printers, Sar humanists; want open plates, local calendars, mercy law.
-- **Kin-Grove**: cousins around the Oboe Seal; want control of bursaries, Access Days, and Steps.
+- **Kin-Grove**: cousins around the Oboe Seal; want control of bursaries, Water Days, and Steps.
 - **Steps & Insurers**: want peace on lanes; will fund both sides to keep premiums flat.
 - **Works & Yards**: want budgets and predictable tenders; will back the winner.
 
 ## Arc in three beats
 1. **1400–1430 (Ink & Stage):** Collegia pressrooms boom; **lampoon cycles** and **choir duels**; first **printer raids**; Steps float “Cleanliness Tables” for pamphlets (ratings, not bans).
-2. **1431–1475 (Street & Docks):** boycott waves; **Access Days weaponized**; **burning of theathers**; a handful of **assassinations** (Beat clerks, star preachers, one insurer); refugee trickle begins.
+2. **1431–1475 (Street & Docks):** boycott waves; **Water Days weaponized**; **burning of theathers**; a handful of **assassinations** (Beat clerks, star preachers, one insurer); refugee trickle begins.
 3. **1476–1503 (Storm & Fear):** Green-belt anomalies return; fish crashes; bread spikes; **dock fights to pogrom edges**; **Refugee Enclave Charters** appear; on the **Day of Green Skies (1503)** a convocation passes the **Green Edicts** (emergency centralization).
 
 ## Refugees (vectors & enclaves)

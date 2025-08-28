@@ -1,7 +1,7 @@
 # INDEX_PACK v1
-# BUILT: 2025-08-27T20:38:01Z
+# BUILT: 2025-08-28T17:23:26Z
 # ROOT: C:/Users/user/Documents/~GIT/hot_cold_rain
-# STATS: 136 IDs, 152 files, 85 warnings
+# STATS: 139 IDs, 143 files, 6 warnings
 
 # ID->PATH (MIN)
 ANTH:MIG-WID-001  canon/constants/anthropology/widiwidi_peopling.md
@@ -50,15 +50,15 @@ DOC:IWTA-EP7-BOM-0518 canon/notes/diegetic/interview_with_the_ancestors_ep7_batt
 DOC:KIDS-SKY-1792 canon/notes/diegetic/book_childrens_sky.md
 DOC:KRUM-PAMPHLET-1783  canon/notes/diegetic/pamphlet_cuzhar_krum.md
 DOC:MANUMISSION-771-ORD canon/notes/diegetic/extract_manumission.md
-DOC:PILOT-ERRATA-1203 canon/notes/diegetic/pilot_errata_leaf_annotated_1203.md
 DOC:RCR-0762  canon/notes/diegetic/report_reed_camp_rising.md
 DOC:WATCH-CIRC-1198 canon/notes/diegetic/watch_circular_blue_papers_1198.md
 DOC:ZAM-ERA-EXTRACTS-700  canon/notes/diegetic/zambran_era_extracts.md
+DOC:navigator-ERRATA-1203 canon/notes/diegetic/pilot_errata_leaf_annotated_1203.md
 ECON:FOOD-LOG-1803  canon/endpoint/goalpost/economy/food_logistics_c1800.md
 ECON:SUPPLY-001 canon/endpoint/goalpost/economy/global_supply_links_c1800.md
 ENE:GRID-1803 canon/endpoint/goalpost/energy/power_grid_c1800.md
-ERA-00  canon/eras/00_preord_krum.md
-ERA-01  canon/eras/01_early_ord_300_700.md
+ERA-00  canon/eras/00_preord_krum/00_preord_krum.md
+ERA-01  canon/eras/01_early_ord_300_700/01_early_ord_300_700.md
 ERA-02  canon/eras/02_zambranic_700_800.md
 ERA-03  canon/eras/03_marrite_747_783.md
 ERA-04  canon/eras/04_pax_ordica_790_860.md
@@ -127,8 +127,11 @@ SNAP:WORLD-950  canon/snapshots/known_world/known_world_c0950.md
 SYS:AGRO-DIET-1800  canon/endpoint/goalpost/agriculture/agriculture_diet_c1800.md
 SYS:CUISINE-URB-1800  canon/endpoint/goalpost/agriculture/cuisine_urban_c1800.md
 SYS:ECON-CUR  canon/endpoint/goalpost/economy/currency_finance_c1800.md
+SYS:INS-STEP-300-700  canon/systems_diachronic/economy/insurance_steps_c300_700.md
 SYS:MAPPING-CITIES-C1803  canon/endpoint/goalpost/mapping/canon_systems_mapping_cities_c1803.md
 SYS:MET-CAL canon/constants/civilization/metrology/calendar_base6.md
+SYSIDX:DIA-MAP-APPX canon/system_index/systems_diachronic_map_appendix.md
+SYSIDX:DIA-MAP-CORE canon/system_index/systems_diachronic_map_core.md
 TECH:CLO-000  canon/endpoint/goalpost/tech/clothing_and_textiles_c1800.md
 TECH:RAIN-GEAR-1803 canon/endpoint/goalpost/tech/rain_gear_umbrellas_c1800.md
 TECH:TV-COLOR-STD canon/endpoint/goalpost/tech/broadcast_color_standard_c1770_1810.md
@@ -142,89 +145,10 @@ URB:FORM-001  canon/endpoint/goalpost/urbanism/building_heights_density_c1800.md
 WEL:PENSIONS-1803 canon/endpoint/goalpost/welfare/pensions_mutual_aid_c1800.md
 
 # WARNINGS (OPTIONAL)
-CRLF  canon/constants/anthropology/human_origins_migrations.md
-CRLF  canon/constants/anthropology/past_mutation_day/bat_quay.md
-CRLF  canon/constants/anthropology/past_mutation_day/bat_tower.md
-CRLF  canon/constants/anthropology/past_mutation_day/fox_cold.md
-CRLF  canon/constants/anthropology/past_mutation_day/fox_longfoot.md
-CRLF  canon/constants/anthropology/past_mutation_day/index.md
-CRLF  canon/constants/anthropology/past_mutation_day/otter_cold.md
-CRLF  canon/constants/anthropology/past_mutation_day/otter_reedcat.md
-CRLF  canon/constants/anthropology/widiwidi_peopling.md
-CRLF  canon/constants/biota/boru_boru.md
-CRLF  canon/constants/biota/mudsnake.md
-CRLF  canon/constants/biota/past_mutation_day/crab_bellback_drum.md
-CRLF  canon/constants/biota/past_mutation_day/fduet_songbird_mist_line.md
-CRLF  canon/constants/biota/past_mutation_day/glide_rodent_rain_sailer.md
-CRLF  canon/constants/biota/past_mutation_day/goby_sprat_hopper.md
-CRLF  canon/constants/biota/past_mutation_day/mangrove_eel_steppers.md
-CRLF  canon/constants/biota/past_mutation_day/mantid_reed.md
-CRLF  canon/constants/biota/past_mutation_day/roof_goose_bell_flock.md
-CRLF  canon/constants/biota/past_mutation_day/shrew_dock.md
-CRLF  canon/constants/biota/photic_moss.md
-CRLF  canon/constants/biota/sapir_karodot.md
-CRLF  canon/constants/civilization/navigation_currents.md
-CRLF  canon/constants/planetology/biomes_oceans.md
-CRLF  canon/constants/planetology/climatology_zones.md
-CRLF  canon/constants/region_geography/bright_sea.md
-CRLF  canon/constants/region_geography/kahet_uplands_pass_country.md
-CRLF  canon/constants/region_geography/kllrian_arc.md
-CRLF  canon/constants/region_geography/ord_bay.md
-CRLF  canon/constants/region_geography/ord_iron_marshes.md
-CRLF  canon/constants/region_geography/ord_north_shelf.md
-CRLF  canon/constants/region_geography/ord_south_riverine_belt.md
-CRLF  canon/constants/region_geography/ord_west_peninsulas.md
-CRLF  canon/constants/region_geography/sar_littoral_belt.md
-CRLF  canon/constants/region_geography/widiwidi_lee_arcs.md
-CRLF  canon/endpoint/goalpost/agriculture/agriculture_diet_c1800.md
-CRLF  canon/endpoint/goalpost/agriculture/cuisine_urban_c1800.md
-CRLF  canon/endpoint/goalpost/security/longara_marine_patrol_doctrine_c1800.md
-CRLF  canon/endpoint/goalpost/tech/broadcast_color_standard_c1770_1810.md
-CRLF  canon/eras/06_middle_cadence_disjunction_1050_1200.md
-CRLF  canon/eras/07_mangrove_garrot_1200_1290.md
-CRLF  canon/eras/08_knotted_lanterns_1290_1400.md
-CRLF  canon/eras/09_pamphlet_wars_1400_1503.md
-CRLF  canon/notes/diegetic/book_childrens_sky.md
-CRLF  canon/notes/diegetic/interview_with_the_ancestors_ep7_battle_of_mistakes.md
-CRLF  canon/notes/diegetic/pamphlet_cuzhar_krum.md
-CRLF  canon/notes/diegetic/pilot_errata_leaf_annotated_1203.md
-CRLF  canon/notes/diegetic/watch_circular_blue_papers_1198.md
-CRLF  canon/notes/diegetic/zambran_era_extracts.md
-CRLF  canon/notes/maps/expansion_routes_cadence_c860_1050.md
-CRLF  canon/notes/scratchpad/world_themes.md
-CRLF  canon/snapshots/economy/economy_c1503.md
-CRLF  canon/snapshots/known_world/known_world_c0.md
-CRLF  canon/snapshots/known_world/known_world_c0950.md
-CRLF  canon/snapshots/known_world/known_world_c1200.md
-CRLF  canon/snapshots/known_world/known_world_c1215.md
-CRLF  canon/snapshots/known_world/known_world_c1503.md
-CRLF  canon/snapshots/lexicon_drift/lexicon_drift_c1503.md
-CRLF  canon/snapshots/misc_info/northlands_c0_1400.md
-CRLF  canon/snapshots/social_and_cultural/social_and_cultural_c1503.md
-CRLF  canon/snapshots/special/co_types_biology_and_law.md
-CRLF  canon/snapshots/special/co_types_types_and_biomes.md
-CRLF  canon/snapshots/special/mutation_day_flora_fauna_overview.md
-CRLF  canon/snapshots/special/mutation_day_mechanism.md
-CRLF  canon/snapshots/tech/tech_level_c1503.md
-CRLF  canon/snapshots/visual_life/visual_life_c1503.md
-CRLF  canon/snapshots/watershed_moments/empire_at_its_peak_c0950.md
-CRLF  canon/snapshots/watershed_moments/pre_empire_c0.md
-CRLF  canon/snapshots/watershed_moments/societal_ramifications_green_skies_c1503_1530.md
-MISSING_ID  README.md
-MISSING_ID  canon/02_style_guide.md
-MISSING_ID  canon/03_LLM_editing_workflow.md
-MISSING_ID  canon/03_LLM_linking_policy.md
-MISSING_ID  canon/notes/diegetic/amnesty_leaf_kllrian_1301.md
-MISSING_ID  canon/notes/diegetic/morum_exchange_ordinance_1296.md
-MISSING_ID  tools/_systems_index.md
-MISSING_ID  tools/current_prompt.md
-MISSING_ID  tools/index_pack.md
-MISSING_ID  tools/new_index/index_pack.md
-MISSING_ID  tools/rename_and_fix_script/readme.md
-MISSING_ID  tools/reports/link_summary_2025-08-27-235213.md
-MISSING_ID  tools/reports/link_summary_2025-08-27-235316.md
-MISSING_ID  tools/reports/link_summary_2025-08-27-235607.md
-MISSING_ID  tools/reports/link_summary_2025-08-28-004841.md
-MISSING_ID  tools/template.md
-THESIS_PATH canon/eras/00_preord_krum.md
+MISSING_ID  canon/system_index/editing_workflow.md
+MISSING_ID  canon/system_index/linking_policy.md
+awk: cmd. line:2: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/00_preord_krum.md' for reading (No such file or directory)
+awk: cmd. line:2: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/01_early_ord_300_700.md' for reading (No such file or directory)
+awk: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/00_preord_krum.md' for reading (No such file or directory)
+awk: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/01_early_ord_300_700.md' for reading (No such file or directory)
 

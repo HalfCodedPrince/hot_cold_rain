@@ -2,7 +2,7 @@
 id: DOC:ZAM-ERA-EXTRACTS-700
 name: Zambran-Era Leaf Extracts (c. 699–705 AO)
 status: Draft
-date_ao: 699–705
+date_AO: 699–705
 provenance: Mixed leaf copies (licensed and private)
 tags: [diegetic, extracts, zambranic]
 links:
