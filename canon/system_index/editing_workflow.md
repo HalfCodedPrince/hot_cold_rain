@@ -1,3 +1,10 @@
+---
+id: SYSIDX:EDITING_WORKFLOW
+name: Editing Workflow (LLM-facing)
+status: Stable
+updated: 2025-08-29
+---
+
 # Editing Workflow (LLM-facing) — v1.2
 
 **Overarching directives**
@@ -55,7 +62,7 @@
 
 ## Priority & Precedence
 1) **Pasted snippet in chat** — authoritative.
-2) **03_LLM_editing_workflow.md** (this file).
+2) **editing_workflow.md** (this file).
 3) **canon/system_index/linking_policy.md** (link rules and adjacency).
 4) **02_style_guide.md** (naming, tone, placement).
 5) **00_master_index.md** and **index_pack.md** (IDs, paths, membership).

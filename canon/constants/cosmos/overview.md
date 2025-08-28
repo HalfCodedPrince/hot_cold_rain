@@ -25,5 +25,3 @@ Yellow-dwarf primary; steady output; temple ephemerides published from c. 700 AO
 - navigator-books: sunrise/Hex tables for convoy timing.
 - Children’s primers exist; treat as secondary sources.
 
-## Pointers
-See `canon/systems/cosmos/index.md` for IDs; pages linked above for details.

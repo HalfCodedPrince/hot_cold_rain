@@ -1,3 +1,11 @@
+---
+id: SYSIDX:LINKING_POLICY
+name: Linking Policy
+status: Stable
+updated: 2025-08-29
+---
+
+
 ## Goals
 Minimize headers, prevent stale links, keep backlinks deterministic, enforce era coherence.
 
@@ -16,7 +24,7 @@ If none apply, do not link.
 
 ## Adjacency rules
 - **Diachronic leaves**: link to **adjacent leaves** in the same family (prev/next), to **same-era snapshots**, and to **constants**. Cross-family links follow the LRR test and the general era window.
-- **General era window** for cross-family links: wihthin the same era unless `comparative: true` in header.
+- **General era window** for cross-family links: within the same era unless `comparative: true` in header.
 - **Snapshots**: link to same-era diachronic leaves and constants only.
 - **Constants**: any page may link up to `/constants/*`; constants can only link to other constants/
 

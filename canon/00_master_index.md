@@ -4,7 +4,7 @@ name: Master Index (hand-curated entry point)
 status: Stable
 updated: 2025-08-28
 meta:
-  style_style: canon/02_style_guide.md
+  style_guide: canon/02_style_guide.md
   eiditing_workflow: canon/system_index/editing_workflow.md
   linking_policy: canon/system_index/linking_policy.md
   systems_diachronic_map_core: canon/system_index/systems_diachronic_map_core.md
@@ -27,14 +27,6 @@ Working map for canon and tools. Use **Index Pack** for LLM uploads, **Systems D
 - `canon/timeline/point_timeline.csv` — events table. 
 - `canon/endpoint/goalpost` — current snippets of what it will look like; currently in flux
 - `canon/endpoint/final` — final outline.
----
-
-## Meta docs
-- [Style Guide](canon/02_style_guide.md)
-- [Editing Workflow](canon/system_index/editing_workflow.md)
-- [Linking Policy](canon/system_index/linking_policy.md)
-- [Systems Diachronic Map — Core](canon/system_index/systems_diachronic_map_core.md)
-- [Systems Diachronic Map — Appendix](canon/system_index/systems_diachronic_map_appendix.md)
 
 ---
 

@@ -9,4 +9,4 @@ tags: [outer, dwarf, eccentric]
 
 # Ze (Outer Dwarf)
 
-Cold and distant; high eccentricity; very long year. Cultural presence minimal, aside from occasional almanac notes near opposition windows.
+Cold and distant; high eccentricity; very long year. Cultural presence minimal, aside from occasional almanac notes near opposition windows.    

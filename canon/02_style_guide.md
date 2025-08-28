@@ -8,7 +8,7 @@ canon/system_index/systems_diachronic_map_core.md
 ---
 
 ## IDs & Filenames
-- IDs in front matter: `PERS:*`, `FAC:*`, `LOC:*`, `REG:*`, `BIO:*`, `CO:*`, `CO:DIA-*`, `SYS:*`, `IND:*`, `INFRA:*`, `TECH:*`, `LAW:*`, `REL:*`, `SNAP:*`, `ERA-*`, `EVT-*`
+- IDs in front matter: `PERS:*`, `FAC:*`, `LOC:*`, `REG:*`, `BIO:*`, `CO:*`, `CO:DIA-*`, `SYS:*`, `IND:*`, `INFRA:*`, `TECH:*`, `LAW:*`, `REL:*`, `SNAP:*`, `ERA-*`, `EVT-*`, `SYSIDX:*`, `INDEX:*`
 - Filenames: lowercase `snake_case.md`.
 - Prefer one subfolder level (two for subtypes like Beats houses).
 - File format: markdown.
@@ -30,7 +30,7 @@ canon/system_index/systems_diachronic_map_core.md
 
 ### Diachronic systems (default)
 - Root: `canon/systems_diachronic/<family>/<pillar>/`
-- Families (≤10 total): `economy/`, `governance/`, `technology/`, `warfare/`, `culture_and_religion/`, `social_fabric/`
+- Families (≤10 total): `economy/`, `governance/`, `technology/`, `culture_and_religion/`, `social_fabric/`
 - Pillars (examples):
   - `economy/` → `industrial_capacity/`, `agriculture/`, `insurance_steps/`, `taxation_commerce/`, `supply_system/`
   - `governance/` → `legal_policy/`, `state_policy/`, `warfare/`, `polity_order/`, `religion_and_state/`

@@ -1,7 +1,7 @@
 # INDEX_PACK v1
-# BUILT: 2025-08-28T17:23:26Z
+# BUILT: 2025-08-28T18:33:08Z
 # ROOT: C:/Users/user/Documents/~GIT/hot_cold_rain
-# STATS: 139 IDs, 143 files, 6 warnings
+# STATS: 139 IDs, 141 files, 2 warnings
 
 # ID->PATH (MIN)
 ANTH:MIG-WID-001  canon/constants/anthropology/widiwidi_peopling.md
@@ -127,7 +127,7 @@ SNAP:WORLD-950  canon/snapshots/known_world/known_world_c0950.md
 SYS:AGRO-DIET-1800  canon/endpoint/goalpost/agriculture/agriculture_diet_c1800.md
 SYS:CUISINE-URB-1800  canon/endpoint/goalpost/agriculture/cuisine_urban_c1800.md
 SYS:ECON-CUR  canon/endpoint/goalpost/economy/currency_finance_c1800.md
-SYS:INS-STEP-300-700  canon/systems_diachronic/economy/insurance_steps_c300_700.md
+SYS:INS-STEP-300-700  canon/systems_diachronic/economy/insurance_steps/insurance_steps_c300_700.md
 SYS:MAPPING-CITIES-C1803  canon/endpoint/goalpost/mapping/canon_systems_mapping_cities_c1803.md
 SYS:MET-CAL canon/constants/civilization/metrology/calendar_base6.md
 SYSIDX:DIA-MAP-APPX canon/system_index/systems_diachronic_map_appendix.md
@@ -147,8 +147,4 @@ WEL:PENSIONS-1803 canon/endpoint/goalpost/welfare/pensions_mutual_aid_c1800.md
 # WARNINGS (OPTIONAL)
 MISSING_ID  canon/system_index/editing_workflow.md
 MISSING_ID  canon/system_index/linking_policy.md
-awk: cmd. line:2: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/00_preord_krum.md' for reading (No such file or directory)
-awk: cmd. line:2: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/01_early_ord_300_700.md' for reading (No such file or directory)
-awk: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/00_preord_krum.md' for reading (No such file or directory)
-awk: fatal: cannot open file `C:/Users/user/Documents/~GIT/hot_cold_rain/canon/eras/01_early_ord_300_700.md' for reading (No such file or directory)
 
