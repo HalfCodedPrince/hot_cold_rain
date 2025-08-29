@@ -3,8 +3,10 @@ id: COS:HEX-001
 name: Hex (Point’s Moon)
 status: Draft
 aliases: [Ex]   # early-draft alias (deprecated)
+thesis: >- Large-apparent moon driving semi-diurnal tides; aerosol loads yield episodic “green nights.”
 links:
-
+  - canon/constants/cosmos/oboe.md
+  - canon/constants/cosmos/overview.md
 tags: [tides, aerosols, religion]
 ---
 

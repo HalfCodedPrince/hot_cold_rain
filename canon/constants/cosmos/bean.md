@@ -2,8 +2,10 @@
 id: COS:BEA-001
 name: Bean (Inner Dwarf)
 status: Draft
+thesis: >- Small inner dwarf best at dawn/dusk elongations; teaching case for inner-orbit geometry.
 links:
-
+  - canon/constants/cosmos/oboe.md
+  - canon/constants/cosmos/overview.md
 tags: [inner, dwarf]
 ---
 
@@ -17,4 +19,4 @@ tags: [inner, dwarf]
 Short elongation windows; low altitude and glare near Oboe complicate naked-eye tracking. Almanacs list first/last visibility by season.
 
 ## Lore
-Minor role in calendars and omen lists compared to Hex and Karodot; chiefly a teaching example for inner-orbit geometry.
+Chiefly used as a teaching example for inner-orbit geometry.

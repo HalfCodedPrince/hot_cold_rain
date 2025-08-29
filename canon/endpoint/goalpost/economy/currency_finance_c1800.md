@@ -17,7 +17,7 @@ A base-6 legacy meets maritime finance: coin + warrants + insurance keep convoys
 
 ## Current units & media
 - **Lira (₤)** standard across Longara/Ord sphere; **1 lira = 36 soldi = 216 deni**. 
-- Coin baseline: bronze **deni**, nickel **soldi**, cupronickel **lira**; limited silver commemoratives (ERA-700). Notes: cotton/bast, intaglio + temple watermarks.
+- Coin baseline: bronze **deni**, nickel **soldi**, cupronickel **lira**; limited silver commemoratives (~700 AO). Notes: cotton/bast, intaglio + temple watermarks.
 - Parallel scrip: **Temple Song-Notes** (festival/relief); **Port Warrants** (goods-backed, short term).
 
 ## Standards & shocks (modern era)

@@ -5,7 +5,7 @@ status: Stable
 updated: 2025-08-28
 meta:
   style_guide: canon/02_style_guide.md
-  eiditing_workflow: canon/system_index/editing_workflow.md
+  editing_workflow: canon/system_index/editing_workflow.md
   linking_policy: canon/system_index/linking_policy.md
   systems_diachronic_map_core: canon/system_index/systems_diachronic_map_core.md
   systems_diachronic_map_appendix: canon/system_index/systems_diachronic_map_appendix.md

@@ -26,7 +26,7 @@ If none apply, do not link.
 - **Diachronic leaves**: link to **adjacent leaves** in the same family (prev/next), to **same-era snapshots**, and to **constants**. Cross-family links follow the LRR test and the general era window.
 - **General era window** for cross-family links: within the same era unless `comparative: true` in header.
 - **Snapshots**: link to same-era diachronic leaves and constants only.
-- **Constants**: any page may link up to `/constants/*`; constants can only link to other constants/
+- **Constants**: any page may link up to `/constants/*`; constants can only link to other constants.
 
 ## BacklinkGuard
 - Before proposing **TGT → SRC**:

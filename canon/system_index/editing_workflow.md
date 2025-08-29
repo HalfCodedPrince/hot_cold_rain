@@ -63,7 +63,7 @@ updated: 2025-08-29
 ## Priority & Precedence
 1) **Pasted snippet in chat** — authoritative.
 2) **editing_workflow.md** (this file).
-3) **canon/system_index/linking_policy.md** (link rules and adjacency).
+3) **linking_policy.md** (link rules and adjacency).
 4) **02_style_guide.md** (naming, tone, placement).
 5) **00_master_index.md** and **index_pack.md** (IDs, paths, membership).
 6) **01_glossary.md** (terms allowed).

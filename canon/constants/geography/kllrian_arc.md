@@ -3,7 +3,6 @@ id: REG:KLR-ARC
 name: Kllrian Arc (physiography)
 status: Draft
 tags: [geography, region, terraces, causeways, choir_diplomacy, calendar_prestige]
-lat_band: 8–22° N (archipelago & peninsula rims)
 links:
 
 ---

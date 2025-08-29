@@ -2,8 +2,9 @@
 id: COS:OBE-001
 name: Oboe (Primary Star)
 status: Draft
+thesis: >- Sun-like primary with stable output; temple ephemerides anchor ritual time and port operations
 links:
-
+  - canon/constants/cosmos/overview.md
 tags: [star, ephemerides, religion]
 ---
 

@@ -18,7 +18,7 @@ canon/system_index/systems_diachronic_map_core.md
 
 ## Overall tone by Document Type
 - **Systems / Snapshots / Eras / Current:** cool, concrete; show harm via ledgers, rates, statutes.
-- **Diegetic leafs:** in-world voice; 1 page; add plausible seal/signature line; include header.
+- **Diegetic leaves:** in-world voice; 1 page; add plausible seal/signature line; include header.
 - **Entity pages:** thesis line + links; avoid purple prose.
 
 ---

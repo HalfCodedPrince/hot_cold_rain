@@ -106,7 +106,7 @@ links:
 - Same-era snapshot:  
   `canon/eras/01_early_ord_300_700.md`
 - Constants hub:  
-  `canon/constants/region_geography/<region>.md`
+  `canon/constants/geography/<region>.md`
 - Optional parent overview (if exists):  
   `canon/systems_diachronic/economy/_overview.md`
 

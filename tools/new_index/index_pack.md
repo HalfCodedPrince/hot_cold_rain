@@ -1,7 +1,7 @@
 # INDEX_PACK v1
-# BUILT: 2025-08-28T18:33:08Z
+# BUILT: 2025-08-28T22:36:07Z
 # ROOT: C:/Users/user/Documents/~GIT/hot_cold_rain
-# STATS: 139 IDs, 141 files, 2 warnings
+# STATS: 141 IDs, 141 files, 0 warnings
 
 # ID->PATH (MIN)
 ANTH:MIG-WID-001  canon/constants/anthropology/widiwidi_peopling.md
@@ -132,6 +132,8 @@ SYS:MAPPING-CITIES-C1803  canon/endpoint/goalpost/mapping/canon_systems_mapping_
 SYS:MET-CAL canon/constants/civilization/metrology/calendar_base6.md
 SYSIDX:DIA-MAP-APPX canon/system_index/systems_diachronic_map_appendix.md
 SYSIDX:DIA-MAP-CORE canon/system_index/systems_diachronic_map_core.md
+SYSIDX:EDITING_WORKFLOW canon/system_index/editing_workflow.md
+SYSIDX:LINKING_POLICY canon/system_index/linking_policy.md
 TECH:CLO-000  canon/endpoint/goalpost/tech/clothing_and_textiles_c1800.md
 TECH:RAIN-GEAR-1803 canon/endpoint/goalpost/tech/rain_gear_umbrellas_c1800.md
 TECH:TV-COLOR-STD canon/endpoint/goalpost/tech/broadcast_color_standard_c1770_1810.md
@@ -143,8 +145,4 @@ TRANS:URBAN-VEHICLES-1803 canon/endpoint/goalpost/transport/urban_vehicles_logis
 URB:ARCH-COAST-1803 canon/endpoint/goalpost/urbanism/architecture_coastal_patterns_c1800.md
 URB:FORM-001  canon/endpoint/goalpost/urbanism/building_heights_density_c1800.md
 WEL:PENSIONS-1803 canon/endpoint/goalpost/welfare/pensions_mutual_aid_c1800.md
-
-# WARNINGS (OPTIONAL)
-MISSING_ID  canon/system_index/editing_workflow.md
-MISSING_ID  canon/system_index/linking_policy.md
 

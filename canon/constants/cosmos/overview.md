@@ -2,8 +2,15 @@
 id: COS:SYS-001
 name: Cosmos Overview
 status: Draft
+thesis: >- One-page system sketch: Oboe, Hex, Bean, Karodot, Ze, and belts with notes on visibility and lore weight.
 links:
-
+  - canon/constants/cosmos/oboe.md
+  - canon/constants/cosmos/hex.md
+  - canon/constants/cosmos/karodot.md
+  - canon/constants/cosmos/bean.md
+  - canon/constants/cosmos/ze.md
+  - canon/constants/cosmos/belts.md
+tags: [system_overview]
 ---
 
 # Cosmos Overview
@@ -21,7 +28,5 @@ Yellow-dwarf primary; steady output; temple ephemerides published from c. 700 AO
 - **Trailing Belt** — distant icy bodies beyond Ze (low certainty historically).
 
 ## Observational notes
-- Public ephemerides: temple calendars (ERA-700+).
-- navigator-books: sunrise/Hex tables for convoy timing.
-- Children’s primers exist; treat as secondary sources.
-
+- Public ephemerides: temple calendars (starting ~700 AO).
+- Navigator-books: sunrise/Hex tables for convoy timing.

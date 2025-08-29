@@ -2,8 +2,13 @@
 id: GEO:CLIMATE-001
 name: Climate Zones & Polar Regions
 status: Draft
+thesis: >- Latitude belts and polar notes; sharper seasons from higher tilt; Hex modulates clouds and downpours.
 links:
-
+  - canon/constants/planetology/point_basics.md
+  - canon/constants/planetology/hydrology_green_rain.md
+  - canon/constants/planetology/bright_sea_climate_old_song_green_rains.md
+  - canon/constants/cosmos/hex.md
+  - canon/constants/cosmos/oboe.md
 ---
 
 ## Axial Tilt & Seasonality
@@ -11,7 +16,7 @@ Point’s axial tilt is **moderately greater than Earth’s**. Seasonal swings a
 
 ## Latitudinal Belts (broad)
 - **Equatorial–Tropical (±0–30°):** hot, humid belts; rainforest, mangrove, reef coasts; violent convection on “green rain” days.
-- **Subtropical–Temperate (30–60°):** seasonal forests, savannas, grasslands; wet coasts from monsoon-style rains.
+- **Subtropical–Temperate (30–60°):** seasonal forests and grasslands; **limited savanna pockets** where rainshadow allows.
 - **Polar–Subpolar (≥60°):** tundra margins; seasonal melt windows; interior icefields on high plateaus.
 
 ## Polar Notes
